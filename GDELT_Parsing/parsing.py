@@ -5,6 +5,15 @@ import urllib.request
 import shutil
 
 parsedDirectory = "workingDir"
+linksFileName = "allzips.txt"
+fileLength = sum(1 for line in open(linksFileName))
+wantedColumns = [0,1,6,16,26,30,31,32,33,34]
+
+print("Welcome to the ultimate GDELT file downloader !")
+print("This program will now make a new DB based on GDELT but only with events who's code start with 2 or 7")
+print("Let's get started !")
+
+#create Working Directory if doesn't exists
 if not os.path.exists(parsedDirectory):
     os.makedirs(parsedDirectory)
     
@@ -28,19 +37,25 @@ def parseZipFolder(fileName) :
             for line in f:
                 code = line.split("\t")[28]
                 if code == "02" or code == "07":
-                    newFile.write(line)
+                    #Filter the results to have only interesting columns
+                    columnsTable = line.split('\t')
+                    newLineTable = [0] * len(wantedColumns)
+                    tmp = 0
+                    for col in wantedColumns :
+                        #Copy the wanted column at in the new table
+                        newLineTable[tmp] = str(columnsTable[col])
+                        tmp += 1
+                    #Make up a new string from the newLineTable separated by tabs
+                    result = "\t".join(newLineTable)
+                    newFile.write(result+"\n")
 
     print("New file successfully created !")
     newFile.close()
 
 #end of parseZipFolder
 
-print("Welcome to the ultimate GDELT file downloader !")
-print("This program will now make a new DB based on GDELT but only with events who's code start with 2 or 7")
-print("Let's get started !")
-linksFileName = "allzips.txt"
-fileLength = sum(1 for line in open(linksFileName))
-count = 0
+
+count = 1
 with open(linksFileName, "r", encoding="utf8") as f:
     for link in f:
         #Remove the escape character
@@ -51,7 +66,7 @@ with open(linksFileName, "r", encoding="utf8") as f:
         urllib.request.urlretrieve(front+link, link)
         print("File Downloaded !")
         #Unzip and parse the retrieved file
-        fileName = link.split(".")[0]
+        fileName = link[:len(link)-4]
         parseZipFolder(fileName)
         #Delete the now unnecessary zip file
         print("Removing temporary files")
@@ -59,5 +74,7 @@ with open(linksFileName, "r", encoding="utf8") as f:
         shutil.rmtree(fileName)
         count = count + 1
         print("Progression : "+str(count)+" / "+str(fileLength))
+#end of with
+
 
 print("Program successfully terminated ! Congratulations !")
