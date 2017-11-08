@@ -13,7 +13,6 @@ def parseZipFolder(fileName) :
     print("The program will now parse the file \""+fileName+"\"")
 
     print("Zip file extraction...")
-    print(os.getcwd())
     zip_ref = zipfile.ZipFile("./"+fileName + ".zip", "r")
     zip_ref.extractall('./' + fileName + '/')
     zip_ref.close()
@@ -21,11 +20,11 @@ def parseZipFolder(fileName) :
 
     print("Parsing csv file...")
 
-    newFile = open("./" + parsedDirectory +"/" + fileName + ".csv", "w")
+    newFile = open("./" + parsedDirectory +"/" + fileName + ".csv", "w", encoding="utf8")
 
     #For each csv file that has been extracted from the zip :
     for filename in glob.glob(os.path.join(fileName, '*.csv')):
-        with open(filename) as f:
+        with open(filename, encoding="utf8") as f:
             for line in f:
                 code = line.split("\t")[28]
                 if code == "02" or code == "07":
@@ -39,7 +38,7 @@ def parseZipFolder(fileName) :
 print("Welcome to the ultimate GDELT file downloader !")
 print("This program will now make a new DB based on GDELT but only with events who's code start with 2 or 7")
 print("Let's get started !")
-with open("allzips.txt", "r") as f:
+with open("allzips.txt", "r", encoding="utf8") as f:
     for link in f:
         #Remove the escape character
         link = link[:len(link)-1]
