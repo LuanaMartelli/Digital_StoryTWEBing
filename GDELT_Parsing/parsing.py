@@ -7,7 +7,7 @@ import shutil
 parsedDirectory = "workingDir"
 if not os.path.exists(parsedDirectory):
     os.makedirs(parsedDirectory)
-
+    
 def parseZipFolder(fileName) :
 
     print("The program will now parse the file \""+fileName+"\"")
@@ -38,7 +38,10 @@ def parseZipFolder(fileName) :
 print("Welcome to the ultimate GDELT file downloader !")
 print("This program will now make a new DB based on GDELT but only with events who's code start with 2 or 7")
 print("Let's get started !")
-with open("allzips.txt", "r", encoding="utf8") as f:
+linksFileName = "allzips.txt"
+fileLength = sum(1 for line in open(linksFileName))
+count = 0
+with open(linksFileName, "r", encoding="utf8") as f:
     for link in f:
         #Remove the escape character
         link = link[:len(link)-1]
@@ -54,5 +57,7 @@ with open("allzips.txt", "r", encoding="utf8") as f:
         print("Removing temporary files")
         os.remove(link)
         shutil.rmtree(fileName)
+        count = count + 1
+        print("Progression : "+str(count)+" / "+str(fileLength))
 
 print("Program successfully terminated ! Congratulations !")
