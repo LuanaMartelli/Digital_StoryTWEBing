@@ -7,7 +7,7 @@ import shutil
 parsedDirectory = "workingDir"
 linksFileName = "allzips.txt"
 fileLength = sum(1 for line in open(linksFileName))
-wantedColumns = [0,1,6,16,26,30,31,32,33,34]
+wantedColumns = [0,1,6,16,26,30,31,32,33,34, 57]
 
 print("Welcome to the ultimate GDELT file downloader !")
 print("This program will now make a new DB based on GDELT but only with events who's code start with 2 or 7")
@@ -38,8 +38,9 @@ def parseZipFolder(fileName) :
                 code = line.split("\t")[28]
                 actor1 = line.split("\t")[6]
                 actor2 = line.split("\t")[16]
+                url = line.split("\t")[57]
                 if code == "02" or code == "07":
-                	if actor1 and actor2:
+                	if actor1 and actor2 and url:
 	                    #Filter the results to have only interesting columns
 	                    columnsTable = line.split('\t')
 	                    newLineTable = [0] * len(wantedColumns)
