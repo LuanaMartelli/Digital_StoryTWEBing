@@ -35,23 +35,23 @@ def parseZipFolder(fileName) :
     for filename in glob.glob(os.path.join(fileName, '*.csv')):
         with open(filename, encoding="utf8") as f:
             for line in f:
-		split = line.split("\t")
+                split = line.split("\t")
                 code = split[28]
                 actor1 = split[7]
                 actor2 = split[17]
                 if code == "02" or code == "07":
-                	if actor1 and actor2:
-	                    #Filter the results to have only interesting columns
-	                    columnsTable = line.split('\t')
-	                    newLineTable = [0] * len(wantedColumns)
-	                    tmp = 0
-	                    for col in wantedColumns :
-	                        #Copy the wanted column at in the new table
-	                        newLineTable[tmp] = str(columnsTable[col])
-	                        tmp += 1
-	                    #Make up a new string from the newLineTable separated by tabs
-	                    result = "\t".join(newLineTable)
-	                    newFile.write(result+"\n")
+                    if actor1 and actor2:
+                        #Filter the results to have only interesting columns
+                        columnsTable = line.split('\t')
+                        newLineTable = [0] * len(wantedColumns)
+                        tmp = 0
+                        for col in wantedColumns :
+                            #Copy the wanted column at in the new table
+                            newLineTable[tmp] = str(columnsTable[col])
+                            tmp += 1
+                        #Make up a new string from the newLineTable separated by tabs
+                        result = "\t".join(newLineTable)
+                        newFile.write(result+"\n")
 
     print("New file successfully created !")
     newFile.close()
