@@ -1,0 +1,98 @@
+### Introduction ###
+
+Parler du projet, de la base de donnée.
+Parler de la nature de la DB
+
+### Première Analyse ###
+
+Quels sont les jounaux qui parle le plus de relations positives ?
+
+ ___________________________________
+|                                   |
+|________________________           |
+|                        | Frobes   |
+|-------------------------          |
+|                                   |
+|_____________________              |
+|                     | BBC         |
+|----------------------             |
+|                                   |
+|                                   |
+|   [...]                           |
+|                                   |                  
+-------------------------------------
+
+Analyse du graphe
+
+### Première vue de la carte du monde avec les liens. ###
+
+Les graphes suivant parlent de la couverture médiatique de chaque relation d'aide. Les data sont basé sur les trucs qui n'ont pas "IsRootEvent" du coup il y a des duplicatas
+
+Un lien est un article qui relate une relation entre les deux
+La couleur de chaque lien correspond à la pair de pays (tous les CH-FR sont bleus par exemple)
+
+http://internetlab.cchs.csic.es/cv/11/world_map/image001.png
+
+Faire un histogramme des pays dont l'entraide est la plus couverte
+
+ ___________________________________
+|                                   |
+|________________________           |
+|                        | USA-CH   |
+|-------------------------          |
+|                                   |
+|_____________________              |
+|                     | CH-JPN      |
+|----------------------             |
+|                                   |
+|                                   |
+|   [...]                           |
+|                                   |                  
+-------------------------------------
+
+Faire une seconde carte du monde mais cette fois-ci les couleurs correspondent à un type d'aide (Event Code)
+
+Faire un histogramme sur les Event codes les plus communs
+ ___________________________________
+|                                   |
+|________________________           |
+|                        | 220      |
+|-------------------------          |
+|                                   |
+|_____________________              |
+|                     | 730         |
+|----------------------             |
+|                                   |
+|                                   |
+|   [...]                           |
+|                                   |                  
+-------------------------------------
+
+Puis dans un tableau afficher le top 10 des pays qui s'aident le plus avec le code de l'aide qui est la plus populaire
+
+1. IRL-UK 
+
+Dans un autre afficher le top 10 de types d'aide et afficher la pair de pays le plus avide de ce code
+
+
+### Comparaison ###
+
+A présent refaire toute la section précédente mais cette fois-ci avec que les Root Events ! Montrer quels sont les aide effectives contre les aide très médiatisées ?
+Est-ce que le plus médiatisé est forcément le code qu'on retrouve le plus ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
