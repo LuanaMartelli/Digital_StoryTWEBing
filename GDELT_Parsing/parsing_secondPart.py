@@ -5,7 +5,7 @@ import urllib.request
 import shutil
 
 parsedDirectory = "workingDir"
-linksFileName = "allzips.txt"
+linksFileName = "allzips_with_url.txt"
 fileLength = sum(1 for line in open(linksFileName))
 wantedColumns = [0,1,6,16,26,30,31,32,33,34, 57]
 
