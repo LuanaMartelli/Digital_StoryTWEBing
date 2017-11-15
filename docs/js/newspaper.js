@@ -1,4 +1,4 @@
-$.get('../data/DB_2/20130401.csv', 'utf8', function (data) {
+$.get('./data/DB_2/20130401.csv', 'utf8', function (data) {
 	var dsv = d3.dsvFormat(';');
 	var allData = dsv.parse(data, (d) => {	
 		var crossfilter = crossfilter(allData);
