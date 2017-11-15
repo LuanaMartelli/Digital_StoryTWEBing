@@ -1,0 +1,25 @@
+{
+  "name": "digital_storytwebing",
+  "version": "1.0.0",
+  "description": "Second Project of TWEB",
+  "main": "index.js",
+  "dependencies": {
+    "crossfilter": "^1.3.12",
+    "d3": "^4.11.0",
+    "d3-dsv": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuanaMartelli/Digital_StoryTWEBing.git"
+  },
+  "author": "Mika Pagani & Luana Martelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuanaMartelli/Digital_StoryTWEBing/issues"
+  },
+  "homepage": "https://github.com/LuanaMartelli/Digital_StoryTWEBing#readme"
+}
