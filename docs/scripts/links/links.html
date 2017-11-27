@@ -76,38 +76,36 @@ function ready(error, world, airports, flights) {
   airports = airports
       .filter(function(d) { return d.arcs.coordinates.length; });
 
-  console.log(world)
-  svg.append("path")
+  svg.insert("path", ".graticule")
       .datum(topojson.feature(world, world.objects.land))
       .attr("class", "land")
       .attr("d", path);
 
-  svg.append("path")
+  svg.insert("path", ".graticule")
       .datum(topojson.mesh(world, world.objects.countries, function(a, b) { return a !== b; }))
-      .attr("class", "state-borders")
+      .attr("class", "boundary")
       .attr("d", path);
 
   svg.append("path")
-      .datum({type: "MultiPoint", coordinates: airports})
       .attr("class", "airport-dots")
-      .attr("d", path);
+      .attr("d", path({type: "MultiPoint", coordinates: airports}));
 
   var airport = svg.selectAll(".airport")
     .data(airports)
     .enter().append("g")
-      .attr("class", "airport");
+    .attr("class", "airport");
 
   airport.append("title")
-      .text(function(d) { return d.country + "\n" + d.arcs.coordinates.length + " flights"; });
+      .text(function(d) { return d.country + "\n" + d.arcs.coordinates.length + " links"; });
 
+      console.log(airport)
   airport.append("path")
       .attr("class", "airport-arc")
-      .attr("d", function(d) { return path(d.arcs); });
+      .attr("d", function(d) { return path(d.arcs);});
 
-  airport.append("path")
       .data(voronoi.polygons(airports.map(projection)))
       .attr("class", "airport-cell")
-      .attr("d", function(d) { return d ? "M" + d.join("L") + "Z" : null; });
+     .attr("d", function(d) { return d ? "M" + d.join("L") + "Z" : null; });
 }
 
 function typeAirport(d) {
