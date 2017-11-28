@@ -7,7 +7,7 @@ import shutil
   
 
 newFile = open("./links.csv", "w", encoding="utf8")
-newFile.write("actor1\tactor2\n")
+newFile.write("actor1,actor2\n")
 
 #For each csv file :
 for filename in glob.glob(os.path.join(".", '*.csv')):
@@ -18,7 +18,7 @@ for filename in glob.glob(os.path.join(".", '*.csv')):
             actor1 = split[2]
             actor2 = split[3]
 
-            newFile.write(actor1 + "\t" + actor2 + "\n")
+            newFile.write(actor1 + "," + actor2 + "\n")
 
 print("New file successfully created !")
 newFile.close()

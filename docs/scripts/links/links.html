@@ -102,7 +102,7 @@ function ready(error, world, airports, flights) {
   airport.append("path")
       .attr("class", "airport-arc")
       .attr("d", function(d) { return path(d.arcs);});
-
+  airport.append("path")
       .data(voronoi.polygons(airports.map(projection)))
       .attr("class", "airport-cell")
      .attr("d", function(d) { return d ? "M" + d.join("L") + "Z" : null; });
