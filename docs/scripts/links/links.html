@@ -1,122 +1,119 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
 <style>
+    .land {
+        fill: #ddd;
+    }
 
-	.land {
-	  fill: #ddd;
-	}
+    .boundary {
+        fill: none;
+        stroke: #fff;
+    }
 
-	.state-borders {
-	  fill: none;
-	  stroke: #fff;
-	}
+    .airport-arc {
+        fill: none; /*L'arc par defaut est none*/
+    }
 
-	.airport-arc {
-	  fill: none;
-	}
+    .airport:hover .airport-arc {
+        stroke: #f00; /*Quand la souris passe au dessus, redefini .airport-arc*/
+    }
 
-	.airport:hover .airport-arc {
-	  stroke: #f00;
-	}
-
-	.airport-cell {
-	  fill: none;
-	  stroke: #000;
-	  stroke-opacity: 0.1;
-	  pointer-events: all;
-	}
-
+    .airport-cell {
+        fill: none;
+        stroke: #000;
+        stroke-opacity: 0.1;
+        pointer-events: all;
+    }
 </style>
 <svg width="2040" height="1000"></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://d3js.org/topojson.v1.min.js"></script>
 <script>
+    var svg = d3.select("svg"),
+        width = +svg.attr("width"),
+        height = +svg.attr("height");
 
-	var svg = d3.select("svg"),
-	    width = +svg.attr("width"),
-	    height = +svg.attr("height");
+    var projection = d3.geoNaturalEarth1() //Choisi le type de projection du globe
+        .scale(250)
+        .translate([width / 2, height / 2]); //Centre l'image
 
-	var projection = d3.geoMercator()
-	                   .scale(250)
-	                   .translate([width / 2, height / 2]);
+    var path = d3.geoPath()
+        .pointRadius(2) //La taille des points des chaque pays
+        .projection(projection);
 
-	var path = d3.geoPath()
-	             .pointRadius(2)
-	             .projection(projection);
+    var voronoi = d3.voronoi()
+        .extent([[-1, -1], [width + 1, height + 1]]); // Défini la zone ou sera généré la grille de voronoi
+    //Ici elle est générée de façon à être 1 plus grand sur touts les côtés
 
+    d3.queue()
+        .defer(d3.json, "world.json") //Lire le fichier
+        .defer(d3.csv, "countries.csv", typeAirport) //Lire le fichier et passer par fonction
+        .defer(d3.csv, "links.csv", typeFlight)
+        .await(ready);
 
-	var radius = d3.scaleSqrt()
-	    .domain([0, 0])
-	    .range([0, 0]);
+    //La fonction ready est lancée quand les 3 defers sont prêts
+    function ready(error, world, countries, links) {
+        if (error) throw error;
 
+        var airportByIata = d3.map(countries, function (d) { return d.country; });
 
-	var voronoi = d3.voronoi()
-	    .extent([[-1, -1], [width + 1, height + 1]]);
+        links.forEach(function (link) {
+            var source = airportByIata.get(link.actorA),
+                target = airportByIata.get(link.actorB);
+            if (source != null && target != null) {
+                source.arcs.coordinates.push([source, target]); //TODO Ici on a les allez et retours, on devrait changer couleurs
+                target.arcs.coordinates.push([target, source]); //TODO ajouter cecle avec proportion in/out
+            }
+        });
 
-	d3.queue()
-	    .defer(d3.json, "world.json")
-	    .defer(d3.csv, "countries.csv", typeAirport)
-	    .defer(d3.csv, "links.csv", typeFlight)
-	    .await(ready);
+        //Dessine la carte
+        svg.insert("path", ".graticule")
+            .datum(topojson.feature(world, world.objects.land))
+            .attr("class", "land")
+            .attr("d", path);
 
-	function ready(error, world, airports, flights) {
-	  if (error) throw error;
+        //Dessine les frontières
+        svg.insert("path", ".graticule")
+            .datum(topojson.mesh(world, world.objects.countries, function (a, b) { return a !== b; }))
+            .attr("class", "boundary")
+            .attr("d", path);
 
-	  var airportByIata = d3.map(airports, function(d) { return d.country; });
+        //Dessine les points des pays
+        svg.append("path")
+            .attr("class", "airport-dots")
+            .attr("d", path({ type: "MultiPoint", coordinates: countries }));
+        
+        var airport = svg.selectAll(".airport")
+            .data(countries)
+            .enter().append("g")
+            .attr("class", "airport"); //Cette ligne fait apparaître les lignes rouges
+            //Les lignes sont toujours là mais c'est le CSS qui gère si il les affiche ou pas grâce à "hover"
 
-	  flights.forEach(function(flight) {
-	    var source = airportByIata.get(flight.actorA),
-	        target = airportByIata.get(flight.actorB);
-	    if (source != null && target != null) {
-	      source.arcs.coordinates.push([source, target]);
-	      target.arcs.coordinates.push([target, source]);
-	    }
-	  });
+        //Tooltip de chaque pays
+        airport.append("title")
+            .text(function (d) { return d.country + "\n" + d.arcs.coordinates.length + " links"; });
 
-	  airports = airports
-	      .filter(function(d) { return d.arcs.coordinates.length; });
+        console.log(airport)
+        airport.append("path")
+            .attr("class", "airport-arc")
+            .attr("d", function (d) { return path(d.arcs); });
+        airport.append("path")
+            .data(voronoi.polygons(countries.map(projection)))
+            .attr("class", "airport-cell")
+            .attr("d", function (d) { return d ? "M" + d.join("L") + "Z" : null; });
+    }
 
-	  svg.insert("path", ".graticule")
-	      .datum(topojson.feature(world, world.objects.land))
-	      .attr("class", "land")
-	      .attr("d", path);
+    function typeAirport(d) {
+        d[0] = +d.longitude;
+        d[1] = +d.latitude;
+        d.arcs = { type: "MultiLineString", coordinates: [] };
+        return d;
+    }
 
-	  svg.insert("path", ".graticule")
-	      .datum(topojson.mesh(world, world.objects.countries, function(a, b) { return a !== b; }))
-	      .attr("class", "boundary")
-	      .attr("d", path);
-
-	  svg.append("path")
-	      .attr("class", "airport-dots")
-	      .attr("d", path({type: "MultiPoint", coordinates: airports}));
-
-	  var airport = svg.selectAll(".airport")
-	    .data(airports)
-	    .enter().append("g")
-	    .attr("class", "airport");
-
-	  airport.append("title")
-	      .text(function(d) { return d.country + "\n" + d.arcs.coordinates.length + " links"; });
-
-	  airport.append("path")
-	      .attr("class", "airport-arc")
-	      .attr("d", function(d) { return path(d.arcs);});
-	  airport.append("path")
-	      .data(voronoi.polygons(airports.map(projection)))
-	      .attr("class", "airport-cell")
-	     .attr("d", function(d) { return d ? "M" + d.join("L") + "Z" : null; });
-	}
-
-	function typeAirport(d) {
-	  d[0] = +d.longitude;
-	  d[1] = +d.latitude;
-	  d.arcs = {type: "MultiLineString", coordinates: []};
-	  return d;
-	}
-
-	function typeFlight(d) {
-	  d.count = +d.count;
-	  return d;
-	}
+    function typeFlight(d) {
+        d.count = +d.count;
+        return d;
+    }
+    
 
 </script>
