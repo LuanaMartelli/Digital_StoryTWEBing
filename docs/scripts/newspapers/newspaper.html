@@ -1,149 +1,136 @@
+Using d3-tip to add tooltips to a d3 bar chart.
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>Trust and Business</title>
-    <script type="text/javascript" src="http://d3js.org/d3.v3.min.js"></script>
-    <script src="http://code.jquery.com/jquery-1.8.3.min.js" type="text/javascript" charset="utf-8"></script>
-    <script src="jquery.tipsy.js" type="text/javascript" charset="utf-8"></script>
-    <link rel="stylesheet" href="tipsy.css" type="text/css" title="no title" charset="utf-8"/>
-    <style type="text/css">
-        .axis path,
-        .axis line {
-          fill: none;
-          stroke: #000;
-          shape-rendering: crispEdges;
-          opacity: 1;
-        }
+<meta charset="utf-8">
+<style>
 
-        .axis text { font-size:10px; }
+body {
+  font: 10px sans-serif;
+}
 
-        body { font: 12px sans-serif; }
-        .circles { opacity: .5; }
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
 
-        .tipsy { font-size:11px; margin-top:-10px;}
+.bar {
+  fill: orange;
+}
 
-        .guide line {
-          fill: none;
-          stroke: #000;
-          shape-rendering: crispEdges;
-          opacity: 0;
-        }
-    </style>
-</head>
-    <body>
-        <div id="chart">
-            <script type="text/javascript">
-                // TODO : Known bug : when you scoll fast on a circle, it becomes smaller...
-                // TODO : Put this in a separated file 
-                // set the stage
-                var margin = {t:100, r:20, b:50, l:150 },
-                    w = 1400 - margin.l - margin.r,
-                    h = 700 - margin.t - margin.b,
-                    x = d3.scale.linear().range([0, w]),
-                    y = d3.scale.linear().range([h - 600, h]),
-                    //colors that will reflect geographical regions
-                    color = d3.scale.category10();
+.bar:hover {
+  fill: orangered ;
+}
 
-                var svg = d3.select("#chart").append("svg")
-                    .attr("width", w + margin.l + margin.r)
-                    .attr("height", h + margin.t + margin.b);
+.x.axis path {
+  display: none;
+}
 
-                // set axes, as well as details on their ticks
-                var xAxis = d3.svg.axis()
-                    .scale(x)
-                    .ticks(20)
-                    .tickSubdivide(true)
-                    .tickSize(6, 3, 0)
-                    .orient("bottom");
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 12px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 2px;
+}
 
-                var yAxis = d3.svg.axis()
-                    .scale(y)
-                    .ticks(20)
-                    .tickSubdivide(true)
-                    .tickSize(6, 3, 0)
-                    .orient("left");
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center;
+}
 
-                // group that will contain all of the plots
-                var groups = svg.append("g").attr("transform", "translate(" + margin.l + "," + margin.t + ")");
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+<script>
 
+var margin = {top: 40, right: 20, bottom: 30, left: 40},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
 
-                // bring in the data, and do everything that is data-driven
-                var dsv = d3.dsv("\t", "text/plain");
-                dsv("./newspapers.csv", function(data) {
+var formatPercent = d3.format(".0%");
 
-                    var countData = d3.nest()
-                        .key(function(d) { return d.url;})
-                        .rollup(function(g) { 
-                        return g.length }).entries(data);
+var x = d3.scale.ordinal()
+    .rangeRoundBands([0, width], .1);
 
+var y = d3.scale.linear()
+    .range([height, 0]);
 
-                    var selection = countData.sort(function(x,y) {return d3.descending(x.values, y.values)})
-                        selection = selection.slice(0,100)
+var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
 
-                    var x0 = 6000;//d3.min(selection, function(d) { return d.values; });
-                    var x1 = 42000;//d3.max(selection, function(d) { return d.values; });
+var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("left")
+    .tickFormat(formatPercent);
 
-                    x.domain([x0, x1]);
+var tip = d3.tip()
+  .attr('class', 'd3-tip')
+  .offset([-10, 0])
+  .html(function(d) {
+    return "<strong>Frequency:</strong> <span style='color:red'>" + d.frequency + "</span>";
+  })
 
-                    // style the circles, set their locations based on data
-                    var circles =
-                        groups.selectAll("circle")
-                        .data(selection)
-                        .enter().append("circle")
-                        .attr("class", "circles")
-                        .attr("cx", function (d) {return x(+d.values);})
-                        .attr("cy", function (d) {return Math.random() * h})
-                        .attr("id", function (d) {return d.key;})
-                        .attr("r", function (d) {return d.values/550;})
-                        .attr("value", function (d) {return d.values;})
-                        .style("fill", function(d) { return color(d.key); });
-                     
-                    // run the mouseon/out functions
-                    circles.on("mouseover", function(d) {
-                        var circle = d3.select(this);
-                        const rayon = circle.attr("r");
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-                    // transition to increase size/opacity of bubble
-                    circle.transition()
-                        .duration(800).style("opacity", 1)
-                        .attr("r", rayon * 2)
-                        .ease("elastic");
+svg.call(tip);
 
-                    // function to move mouseover item to front of SVG stage, in case
-                    // another bubble overlaps it
-                    d3.selection.prototype.moveToFront = function() { 
-                        return this.each(function() { 
-                        this.parentNode.appendChild(this); 
-                    }); 
-                };
+d3.tsv("data.tsv", type, function(error, data) {
+  x.domain(data.map(function(d) { return d.letter; }));
+  y.domain([0, d3.max(data, function(d) { return d.frequency; })]);
 
-                    // skip this functionality for IE9, which doesn't like it
-                if (!$.browser.msie) {
-                        circle.moveToFront();   
-                    }
-                });
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis);
 
-                circles.on("mouseout", function(d) {
-                    var circle = d3.select(this);
-                    const rayon = circle.attr("r");
+  svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxis)
+    .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 6)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .text("Frequency");
 
-                // go back to original size and opacity
-                circle.transition()
-                    .duration(800).style("opacity", .5)
-                    .attr("r", rayon / 2)
-                    .ease("elastic");
-                });
+  svg.selectAll(".bar")
+      .data(data)
+    .enter().append("rect")
+      .attr("class", "bar")
+      .attr("x", function(d) { return x(d.letter); })
+      .attr("width", x.rangeBand())
+      .attr("y", function(d) { return y(d.frequency); })
+      .attr("height", function(d) { return height - y(d.frequency); })
+      .on('mouseover', tip.show)
+      .on('mouseout', tip.hide)
 
-                    // tooltips (using jQuery plugin tipsy)
-                circles.append("title")
-                    .attr("dx", function(d) {return d.values;})
-                    .attr("dy", 100 + w/2)
-                    .text(function(d) {return d.key;})
+});
 
-                    $(".circles").tipsy({gravity: 's', fade: true, html: true, title: function() { return this.getAttribute('id') + " " + this.getAttribute('value') + " articles";}});
-                });
+function type(d) {
+  d.frequency = +d.frequency;
+  return d;
+}
 
-            </script>
-        </div>
-    </body>
-</html>
+</script>
