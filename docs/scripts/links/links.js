@@ -1,9 +1,11 @@
-var svg = d3.select("svg"),
+var svg = d3.select("svg")
+            .attr("viewBox", "0 0 900 600")
+            .attr("preserveAspectRatio", "xMidYMid meet"),
         width = +svg.attr("width"),
         height = +svg.attr("height");
 
     var projection = d3.geoNaturalEarth1() //Choisi le type de projection du globe
-        .scale(250)
+        .scale(170)
         .translate([width / 2, height / 2]); //Centre l'image
 
     var path = d3.geoPath() //Gesstionnaire de points et d'arcs
@@ -15,9 +17,9 @@ var svg = d3.select("svg"),
     //Ici elle est générée de façon à être 1 plus grand sur touts les côtés
 
     d3.queue()
-        .defer(d3.json, "world.json") //Lire le fichier
-        .defer(d3.csv, "countries.csv", typeAirport) //Lire le fichier et passer par fonction
-        .defer(d3.csv, "links.csv", typeFlight)
+        .defer(d3.json, "scripts/links/world.json") //Lire le fichier
+        .defer(d3.csv, "scripts/links/countries.csv", typeAirport) //Lire le fichier et passer par fonction
+        .defer(d3.csv, "scripts/links/links.csv", typeFlight)
         .await(ready);
 
     //La fonction ready est lancée quand les 3 defers sont prêts
@@ -64,7 +66,6 @@ var svg = d3.select("svg"),
         airport.append("title")
             .text(function (d) { return d.country + "\n" + d.arcs.coordinates.length + " links"; });
 
-        console.log(airport)
         airport.append("path")
             .attr("class", "airport-arc-out")
             //Les lignes sont toujours là mais c'est le CSS qui gère si il les affiche ou pas grâce à "hover"
