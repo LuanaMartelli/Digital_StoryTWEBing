@@ -24,11 +24,13 @@ var svg = d3.select("svg"),
     function ready(error, world, countries, links) {
         if (error) throw error;
 
-        var airportByIata = d3.map(countries, function (d) { return d.country; });
+        var countryByCode = d3.map(countries, function (d) { return d.country; });
+
+        console.log(countryByCode.entries())
 
         links.forEach(function (link) {
-            var source = airportByIata.get(link.actorA),
-                target = airportByIata.get(link.actorB);
+            var source = countryByCode.get(link.actorA),
+                target = countryByCode.get(link.actorB);
             if (source != null && target != null) {
                 source.arcs.coordinates.push([source, target]);
                 target.arcs.coordinates.push([target, source]);
@@ -67,6 +69,10 @@ var svg = d3.select("svg"),
             .attr("class", "airport-arc-out")
             //Les lignes sont toujours là mais c'est le CSS qui gère si il les affiche ou pas grâce à "hover"
             .attr("d", function (d) { return path(d.arcs); });
+        /* airport.append("path")
+            .attr("class", "airport-arc-in")
+            //Les lignes sont toujours là mais c'est le CSS qui gère si il les affiche ou pas grâce à "hover"
+            .attr("d", function (d) { return path(d.arcs); }); */
         airport.append("path")
             .data(voronoi.polygons(countries.map(projection)))
             .attr("class", "airport-cell")
