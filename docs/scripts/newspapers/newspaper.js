@@ -1,6 +1,6 @@
 
 //Defini la taille du canvas
-var svg = d3.select("svg"),
+var svg = d3.select("#svgnewspapers"),
     margin = { top: 20, right: 20, bottom: 30, left: 100 },
     width = +svg.attr("width") - margin.left - margin.right,
     height = +svg.attr("height") - margin.top - margin.bottom;
@@ -23,7 +23,7 @@ var g = svg.append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 //Lis les données du csv et les traites (génération du graphe)
-d3.tsv("nbNewspapers.tsv", function (d) { return d }, function (error, data) {
+d3.tsv("scripts/newspapers/nbNewspapers.tsv", function (d) { return d }, function (error, data) {
     if (error) throw error;
 
     data.sort(function (a, b) { return a.number - b.number });
@@ -41,8 +41,6 @@ d3.tsv("nbNewspapers.tsv", function (d) { return d }, function (error, data) {
     g.append("g")
         .attr("class", "y axis")
         .call(d3.axisLeft(y));
-
-
 
     g.selectAll(".bar")
         .data(data)

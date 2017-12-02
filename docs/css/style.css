@@ -198,8 +198,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #3ab3e8;
-  border: 2px solid #3ab3e8;
+  background: #3189ed;
+  border: 2px solid #3189ed;
 }
 
 /*--------------------------------------------------------------
@@ -676,8 +676,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #call-to-action .cta-btn:hover {
-  background: #2dc997;
-  border: 2px solid #2dc997;
+  background: #3189ed;
+  border: 2px solid #3189ed;
 }
 
 /* Portfolio Section
@@ -947,4 +947,68 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-align: center;
   font-size: 13px;
   color: #ccc;
+}
+
+.land {
+    fill: #ddd;
+}
+
+.boundary {
+    fill: none;
+    stroke: #fff;
+}
+
+.airport-arc-in,  .airport-arc-out{
+    fill: none; /*L'arc par defaut est none*/
+}
+
+.airport:hover .airport-arc-in {
+    stroke: skyblue; /*Quand la souris passe au dessus, redefini .airport-arc*/
+}
+
+.airport:hover .airport-arc-out {
+    stroke: #f00; /*Quand la souris passe au dessus, redefini .airport-arc*/
+}
+
+.airport-cell {
+    fill: none;
+    stroke: #000;
+    stroke-opacity: 0.1;
+    pointer-events: all;
+}
+svg{
+    display: block;
+    margin: auto;
+}
+
+.bar {
+    fill: #65B1FC;
+}
+
+.bar:hover {
+    fill: #2D92FB;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #D4D8DA;
+    stroke-width: 1px;
+    shape-rendering: crispEdges;
+}
+
+.y path {
+    display: none;
+}
+
+.toolTip {
+    font: 10px sans-serif;
+    font-weight: bold;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    padding: 12px;
+    text-align: center;
+    border-radius: 8px 12px;
+    display: none;
 }

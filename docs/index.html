@@ -1,40 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- Style -->
-<style>
-    .land {
-        fill: #ddd;
-    }
-
-    .boundary {
-        fill: none;
-        stroke: #fff;
-    }
-
-    .airport-arc-in,  .airport-arc-out{
-        fill: none; /*L'arc par defaut est none*/
-    }
-
-    .airport:hover .airport-arc-in {
-        stroke: skyblue; /*Quand la souris passe au dessus, redefini .airport-arc*/
-    }
-
-    .airport:hover .airport-arc-out {
-        stroke: #f00; /*Quand la souris passe au dessus, redefini .airport-arc*/
-    }
-
-    .airport-cell {
-        fill: none;
-        stroke: #000;
-        stroke-opacity: 0.1;
-        pointer-events: all;
-    }
-    svg{
-        display: block;
-        margin: auto;
-    }
-
-</style>
 <head>
   <meta charset="utf-8">
   <title>Digital StoryTWEBing</title>
@@ -63,6 +28,7 @@
   <script src="https://d3js.org/d3.v4.min.js"></script>
   <script src="https://d3js.org/topojson.v1.min.js"></script>
   <script src="https://d3js.org/d3-format.v1.min.js"></script>
+
 </head>
 
 <body>
@@ -94,6 +60,10 @@
             </p>
 
             <div class="icon-box wow fadeInUp">
+              <meta charset="utf-8">
+              <svg id="svgnewspapers" width="900" height="600"></svg>
+              <script src="scripts/newspapers/newspaper.js" type="text/javascript"></script>
+
               <div class="icon"><i class="fa fa-shopping-bag"></i></div>
               <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
               <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
@@ -129,11 +99,9 @@
           <p class="section-description">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
         </div>
         <div class="row counters">
-          <div class="icon-box wow fadeInUp" data-wow-delay="1.4s">
           <meta charset="utf-8">
-            <svg width="900" height="600"></svg>
+            <svg id="svglinks" width="900" height="600"></svg>
             <script src="scripts/links/links.js" type="text/javascript"></script>
-          </div>
           <div class="col-lg-3 col-6 text-center">
             <span data-toggle="counter-up">232</span>
             <p>Clients</p>
@@ -393,7 +361,8 @@
           <p class="section-description">We had a nice weekend</p>
         </div>
         <div class="row">
-          <div class="col-lg-6 col-md-3">
+          <div class="col-lg-2"></div>
+          <div class="col-lg-4 col-md-6">
             <div class="member">
               <div class="pic"><img src="img/team-1.jpg" alt=""></div>
               <h4>Mika Pagani</h4>
@@ -404,7 +373,7 @@
             </div>
           </div>
 
-          <div class="col-lg-6 col-md-3">
+          <div class="col-lg-4 col-md-6">
             <div class="member">
               <div class="pic"><img src="img/team-2.jpg" alt=""></div>
               <h4>Luana Martelli</h4>

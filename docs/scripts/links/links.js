@@ -1,4 +1,4 @@
-var svg = d3.select("svg")
+var svg = d3.select("#svglinks")
             .attr("viewBox", "0 0 900 600")
             .attr("preserveAspectRatio", "xMidYMid meet"),
         width = +svg.attr("width"),
