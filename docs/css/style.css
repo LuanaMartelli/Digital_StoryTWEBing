@@ -949,6 +949,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #ccc;
 }
 
+/*--------------------------------------------------------------
+# Personal Needs
+--------------------------------------------------------------*/
+
 .land {
     fill: #ddd;
 }
@@ -958,25 +962,26 @@ body.mobile-nav-active #mobile-nav-toggle {
     stroke: #fff;
 }
 
-.airport-arc-in,  .airport-arc-out{
+.country-arc-in,  .country-arc-out{
     fill: none; /*L'arc par defaut est none*/
 }
 
-.airport:hover .airport-arc-in {
-    stroke: skyblue; /*Quand la souris passe au dessus, redefini .airport-arc*/
+.country:hover .country-arc-in {
+    stroke: skyblue; /*Quand la souris passe au dessus, redefini .country
+  -arc*/
 }
 
-.airport:hover .airport-arc-out {
-    stroke: #f00; /*Quand la souris passe au dessus, redefini .airport-arc*/
+.country:hover .country-arc-out {
+    stroke: #f00; /*Quand la souris passe au dessus, redefini .country
+  -arc*/
 }
 
-.airport-cell {
+.country-cell {
     fill: none;
-    stroke: #000;
-    stroke-opacity: 0.1;
     pointer-events: all;
 }
-svg{
+
+svg {
     display: block;
     margin: auto;
 }

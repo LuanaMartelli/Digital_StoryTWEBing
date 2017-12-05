@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+    svg {
+        display: block;
+        margin: auto;
+        border: 1px solid #000;
+    }
+
+    .land {
+        fill: #ddd;
+    }
+
+    .boundary {
+        fill: none;
+        stroke: #fff;
+    }
+
+    .country-arc-in,
+    .country-arc-out {
+        fill: none;
+        /*L'arc par defaut est none*/
+    }
+
+    .country:hover .country-arc-in {
+        stroke: skyblue;
+        /*Quand la souris passe au dessus, redefini .country-arc*/
+    }
+
+    .country:hover .country-arc-out {
+        stroke: #f00;
+        /*Quand la souris passe au dessus, redefini .country-arc*/
+    }
+
+    .country-cell {
+        fill: none;
+        pointer-events: all;
+    }
+</style>
+<svg id="svglinks" width="1400" height="800" style="border: 1px solid #000;"></svg>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://d3js.org/topojson.v1.min.js"></script>
+<script src="scripts/links/links.js"></script>
