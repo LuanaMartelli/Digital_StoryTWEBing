@@ -1,21 +1,21 @@
-var svg = d3
+let svg1 = d3
     .select("#svglinks")
     .attr("viewBox", "0 0 1400 800")
     .attr("preserveAspectRatio", "xMidYMid slice"),
-  width = +svg.attr("width"),
-  height = +svg.attr("height");
+  width1 = +svg1.attr("width"),
+  height1 = +svg1.attr("height");
 
-var projection = d3
+let projection = d3
   .geoNaturalEarth1() //Choisi le type de projection du globe
   .scale(250)
-  .translate([width / 2, height / 2]); //Centre l'image
+  .translate([width1 / 2, height1 / 2]); //Centre l'image
 
-var path = d3
+let path = d3
   .geoPath() //Gesstionnaire de points et d'arcs
   .pointRadius(2) //La taille des points des chaque pays
   .projection(projection);
 
-var voronoi = d3.voronoi().extent([[-1, -1], [width + 1, height + 1]]); // Défini la zone ou sera généré la grille de voronoi
+let voronoi = d3.voronoi().extent([[-1, -1], [width1 + 1, height1 + 1]]); // Défini la zone ou sera généré la grille de voronoi
 //Ici elle est générée de façon à être 1 plus grand sur touts les côtés
 
 d3
@@ -29,12 +29,12 @@ d3
 function ready(error, world, countries, links) {
   if (error) throw error;
 
-  var countryByCode = d3.map(countries, function(d) {
+  let countryByCode = d3.map(countries, function(d) {
     return d.country;
   });
 
   links.forEach(function(link) {
-    var source = countryByCode.get(link.actorA),
+    let source = countryByCode.get(link.actorA),
       target = countryByCode.get(link.actorB);
     if (source != null && target != null) {
       source.arcs.coordinates.push([source, target]);
@@ -43,14 +43,14 @@ function ready(error, world, countries, links) {
   });
 
   //Dessine la carte
-  svg
+  svg1
     .insert("path", ".graticule")
     .datum(topojson.feature(world, world.objects.land))
     .attr("class", "land")
     .attr("d", path);
 
   //Dessine les frontières
-  svg
+  svg1
     .insert("path", ".graticule")
     .datum(
       topojson.mesh(world, world.objects.countries, function(a, b) {
@@ -61,13 +61,13 @@ function ready(error, world, countries, links) {
     .attr("d", path);
 
   //Dessine les points des pays
-  svg
+  svg1
     .append("path")
     .attr("class", "country-dots")
     .attr("d", path({ type: "MultiPoint", coordinates: countries }));
 
   //Rerpésente le tout
-  var country = svg
+  let country = svg1
     .selectAll(".country")
     .data(countries)
     .enter()

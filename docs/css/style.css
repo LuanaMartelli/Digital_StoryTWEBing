@@ -791,7 +791,7 @@ svg {
 
 .y path {
     display: none;
-}
+} 
 
 .toolTip {
     font: 10px sans-serif;
@@ -803,4 +803,8 @@ svg {
     text-align: center;
     border-radius: 8px 12px;
     display: none;
+}
+
+.axis .domain {
+  display: none;
 }

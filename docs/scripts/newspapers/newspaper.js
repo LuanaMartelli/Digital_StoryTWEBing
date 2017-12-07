@@ -1,25 +1,25 @@
 
 //Defini la taille du canvas
-var svg = d3.select("#svgnewspapers"),
+let svg = d3.select("#svgnewspapers"),
     margin = { top: 20, right: 20, bottom: 30, left: 100 },
     width = +svg.attr("width") - margin.left - margin.right,
     height = +svg.attr("height") - margin.top - margin.bottom;
 
-var tooltip = d3.select("body")
+let tooltip = d3.select("body")
     .append("div")
     .attr("class", "toolTip");
 
 //Defini le type d'axes
-var x = d3.scaleLinear().rangeRound([0, width]);
+let x = d3.scaleLinear().rangeRound([0, width]);
 //Axe des valeures, est linéaire
 //L'axe est posé à l'endroit donné (0,0 est en haut à gauche)
-var y = d3.scaleBand().rangeRound([height, 20]).padding(0.1);
+let y = d3.scaleBand().rangeRound([height, 20]).padding(0.1);
 //Axe des noms, est ordinal et discret.
 //L'axe est de la même largeur que le canvas
 //Le padding défini l'espaces entre les barres (mais les déplaces pas, change épaisseur)
 
 //Ajoute les marges
-var g = svg.append("g")
+let g = svg.append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 //Lis les données du csv et les traites (génération du graphe)
