@@ -1,0 +1,11 @@
+Digital StoryTWEBing
+A stroy about help beween countries
+What you will be told about...
+If you check today's news, you will probably see things like "Trump did something stupid again" or "a war as been declared". Generally, there are not a lof of good news in the actuality. So we thought it'd be nice, for once, to talk about not countires making war, but helping each other. Help is a big word. It could be an economic help, it could be help during a war and so on... To make our work, we use a database that count all articles that talked about a country helping another one from 1979 to 2016. 
+
+Newspaper
+Who talks the more about help ?
+- most of the top here is english-speaking 
+- first one is a web provider -> internet is the king (USA)
+- USA / UK / Africa
+- probably, over representation of Americ, english-speaking news 
