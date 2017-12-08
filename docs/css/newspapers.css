@@ -1,0 +1,40 @@
+svg {
+  display: block;
+  margin: auto;
+}
+
+.bar {
+  fill: #65b1fc;
+}
+
+.bar:hover {
+  fill: #2d92fb;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #d4d8da;
+  stroke-width: 1px;
+  shape-rendering: crispEdges;
+}
+
+.y path {
+  display: none;
+}
+
+.toolTip {
+  font: 10px sans-serif;
+  font-weight: bold;
+  position: absolute;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  padding: 12px;
+  text-align: center;
+  border-radius: 8px 12px;
+  display: none;
+}
+
+.axis .domain {
+  display: none;
+}

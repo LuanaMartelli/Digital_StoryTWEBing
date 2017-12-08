@@ -1,0 +1,70 @@
+.land {
+  fill: #ddd;
+}
+
+.boundary {
+  fill: none;
+  stroke: #fff;
+}
+
+.country-arc-in,
+.country-arc-out {
+  fill: none;
+  /*L'arc par defaut est none*/
+}
+
+.country:hover .country-arc-in {
+  stroke: orangered;
+  display: none;
+  /*Quand la souris passe au dessus, redefini .country-arc*/
+}
+
+.country:hover .country-arc-out {
+  stroke: steelblue;
+  /*Quand la souris passe au dessus, redefini .country-arc*/
+}
+
+.country-cell {
+  fill: none;
+  stroke: #000;
+  stroke-opacity: 0.1;
+  pointer-events: all;
+}
+
+.links-button-in {
+  font-size: 1.2em;
+  padding: 10px 24px;
+  border-radius: 4px;
+  background-color: steelblue;
+  color: white;
+  border: 2px solid;
+}
+
+.links-button-in:hover {
+  color: black;
+  background-color: #ffe6dd;
+  border: 2px solid orangered;
+}
+
+.links-button-in:focus {
+    outline: none;
+}
+
+.links-button-out {
+  font-size: 1.2em;
+  padding: 10px 24px;
+  border-radius: 4px;
+  background-color: orangered;
+  color: white;
+  border: 2px solid;
+}
+
+.links-button-out:hover {
+  color: black;
+  background-color: #b4d0e7;
+  border: 2px solid steelblue;
+}
+
+.links-button-out:focus {
+    outline: none;
+}
