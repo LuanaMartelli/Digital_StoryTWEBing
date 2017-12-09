@@ -1,7 +1,7 @@
 
 /* Defini la taille du canvas */
 let svg = d3.select('#svgnewspapers')
-let margin = { top: 20, right: 20, bottom: 30, left: 100 }
+let margin = { top: 10, right: 30, bottom: 20, left: 90 }
 let width = +svg.attr('width') - margin.left - margin.right
 let height = +svg.attr('height') - margin.top - margin.bottom
 
@@ -38,14 +38,14 @@ d3.tsv('scripts/newspapers/nbNewspapers.tsv', function (d) { return d }, functio
   data.sort(function (a, b) { return a.number - b.number })
 
   /* Défini les domaines (les extrèmes pour le linéaire et toutes les valeures pour le band) */
-  x.domain([0, d3.max(data, function (d) { return d.number })])
+  x.domain([0, 26000])
   y.domain(data.map(function (d) { return d.newspaper }))
 
   /* On ajoute l'axe des x au svg */
   g
     .append('g')
     .attr('class', 'x axis')
-    .call(d3.axisBottom(x).ticks(10))
+    .call(d3.axisBottom(x).ticks(5))
 
   /* On ajoute l'axe des y au svg */
   g
