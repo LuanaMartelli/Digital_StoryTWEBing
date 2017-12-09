@@ -99,7 +99,7 @@ function ready (error, world, countries, links) {
 
   // Tooltip de chaque pays
   country.append('title').attr('id', 'description').text(function (d) {
-    return d.country + '\n' + d.arcs_in.coordinates.length + ' links';
+    return d.country + '\n' + d.arcs_out.coordinates.length + ' links';
   })
 
   country
@@ -147,10 +147,12 @@ function toggleView () {
     d3.selectAll('.country-arc-out').style('display', 'inline')
     d3.select('#links_lbl').text('Selected country helps ...')
     d3.select('#links_bttn').attr('class', 'links-button-in')
+    d3.selectAll('#description').text(function (d) {return d.country + '\n' +d.arcs_out.coordinates.length + ' links'})
   } else {
     d3.selectAll('.country-arc-in').style('display', 'inline')
     d3.selectAll('.country-arc-out').style('display', 'none')
     d3.select('#links_lbl').text('Selected country is helped by ...')
     d3.select('#links_bttn').attr('class', 'links-button-out')
+    d3.selectAll('#description').text(function (d) {return d.country + '\n' +d.arcs_in.coordinates.length + ' links'})
   }
 }
