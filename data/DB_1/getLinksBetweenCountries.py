@@ -15,8 +15,8 @@ for filename in glob.glob(os.path.join(".", '*.csv')):
     with open(filename, encoding="utf8") as f:
         for line in f:
             split = line.split("\t")
-            actor1 = split[2]
-            actor2 = split[3]
+            actor1 = split[1]
+            actor2 = split[2]
 
             newFile.write(actor1 + "," + actor2 + "\n")
 
