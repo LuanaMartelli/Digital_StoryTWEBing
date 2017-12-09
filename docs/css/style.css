@@ -10,7 +10,8 @@
 body {
   background: #fff;
   color: #666666;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Droid Sans', serif; 
+  font-weight: bold
 }
 
 a {
@@ -253,6 +254,9 @@ h1, h2, h3, h4, h5, h6 {
 
 #introduction .introduction-container p {
   line-height: 26px;
+  font-size: 18px;
+  font-family: 'Droid Sans', serif; 
+  color: black;
 }
 
 #introduction .introduction-container p:last-child {

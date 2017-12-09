@@ -1,8 +1,13 @@
-let svg2 = d3.select('#svgcouples')
+let svgCouples = d3.select('#svgcouples')
 let margin2 = { top: 20, right: 20, bottom: 30, left: 100 }
-let width2 = +svg2.attr('width') - margin2.left - margin2.right
-let height2 = +svg2.attr('height') - margin2.top - margin2.bottom
-let g2 = svg2.append('g').attr('transform', 'translate(' + margin2.left + ',' + margin2.top + ')')
+let width2 = +svgCouples.attr('width') - margin2.left - margin2.right
+let height2 = +svgCouples.attr('height') - margin2.top - margin2.bottom
+let g2 = svgCouples.append('g').attr('transform', 'translate(' + margin2.left + ',' + margin2.top + ')')
+
+let tooltip2 = d3
+  .select('body')
+  .append('div')
+  .attr('class', 'toolTip')
 
 let x2 = d3
   .scaleBand()
@@ -44,8 +49,8 @@ d3.csv('scripts/couples/couples.csv', function (d, i, columns) {
     .enter().append('rect')
     .attr('x', function (d) { return x2(d.data.Countries) })
     .attr('y', function (d) { return y2(d[1]) })
-    .attr('height2', function (d) { return y2(d[0]) - y2(d[1]) })
-    .attr('width2', x2.bandwidth())
+    .attr('height', function (d) { return y2(d[0]) - y2(d[1]) })
+    .attr('width', x2.bandwidth())
 
   g2
     .append('g')
@@ -76,11 +81,31 @@ d3.csv('scripts/couples/couples.csv', function (d, i, columns) {
     .enter().append('g')
     .attr('transform', function (d, i) { return 'translate(0,' + i * 20 + ')' })
 
+  g2
+    .selectAll('.bar')
+    .data(data)
+    .enter().append('rect')
+    .attr('class', 'bar')
+    .attr('x', 0)
+    //.attr('height', y2.bandwidth())
+    .attr('y', function (d) { return y2(d.Countries) })
+    //.attr('width', function (d) { return x(d.Country1-Country2) })
+    .on('mousemove', function (d) {
+      tooltip2
+        .style('left', d3.event.pageX + 10 + 'px')
+        .style('top', d3.event.pageY + 10 + 'px')
+        .style('display', 'inline-block') 
+        .style('visibility', 'visible')
+        .html((d3.format(',')(d.Countries) + ' news'))
+    })
+    .on('mouseout', function (d) { tooltip2.style('visibility', 'hidden') })
+
+
   legend
     .append('rect')
     .attr('x', width2 - 19)
-    .attr('width2', 19)
-    .attr('height2', 19)
+    .attr('width', 19)
+    .attr('height', 19)
     .attr('fill', z2)
 
   legend
