@@ -147,12 +147,10 @@ function toggleView () {
     d3.selectAll('.country-arc-out').style('display', 'inline')
     d3.select('#links_lbl').text('Selected country helps ...')
     d3.select('#links_bttn').attr('class', 'links-button-in')
-    d3.select('#description').text('test')
   } else {
     d3.selectAll('.country-arc-in').style('display', 'inline')
     d3.selectAll('.country-arc-out').style('display', 'none')
     d3.select('#links_lbl').text('Selected country is helped by ...')
     d3.select('#links_bttn').attr('class', 'links-button-out')
-    d3.select('#description').text(d3.select('.country-arc-in').length + ' links')
   }
 }
