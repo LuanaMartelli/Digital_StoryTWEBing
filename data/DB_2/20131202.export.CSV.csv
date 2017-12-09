@@ -1,762 +1,179 @@
-278281035	20131202	AFG	AFG	020	3.0	9	2	9	1.09800076710264	http://www.rferl.org/content/afghanistan-election-postponement/25187081.html
-278281036	20131202	AFG	AFG	020	3.0	4	1	4	0.4739336492891	http://www.globalsecurity.org/military/library/news/2013/12/mil-131201-presstv01.htm
-278281037	20131202	AFG	AFG	025	-0.3	4	1	4	0.4739336492891	http://www.globalsecurity.org/military/library/news/2013/12/mil-131201-presstv01.htm
-278281212	20131202	AFG	PHL	020	3.0	2	1	2	0	http://www.philippinetimes.com/index.php/sid/218799943/scat/2411cd3571b4f088
-278281223	20131202	AFG	USA	020	3.0	8	1	8	3.40557275541796	http://www.kabulpress.org/my/spip.php?article182748
-278281248	20131202	AFG	USA	072	8.3	4	2	4	2.98900845810547	http://www.airforcetimes.com/article/20131202/NEWS08/312020017
-278281249	20131202	AFG	USA	072	8.3	2	1	2	3.06122448979592	http://news.yahoo.com/iraq-fm-talks-afghans-security-130643712.html
-278281265	20131202	AFG	USA	020	3.0	8	1	8	1.31578947368421	http://www.reuters.com/article/2013/12/02/us-afghanistan-election-karzai-idUSBRE9B10NK20131202?feedType=RSS&feedName=worldNews
-278281266	20131202	AFG	USA	072	8.3	2	1	2	1.33136094674556	http://www.cbsnews.com/news/afghanistans-base-bonanza/
-278281308	20131202	AFG	EUR	020	3.0	10	1	10	0.464396284829721	Tolo News, Kabul/BBC Monitoring/(c) BBC
-278281321	20131202	AFG	PHL	020	3.0	6	1	6	0	http://www.philippinetimes.com/index.php/sid/218799943/scat/2411cd3571b4f088
-278281329	20131202	AFG	USA	020	3.0	24	1	24	1.31578947368421	http://www.reuters.com/article/2013/12/02/us-afghanistan-election-karzai-idUSBRE9B10NK20131202?feedType=RSS&feedName=worldNews
-278281334	20131202	AFG	AFG	020	3.0	4	1	4	2.17654171704958	http://www.theguardian.com/world/2013/dec/02/taliban-hamid-karzai-us-security-deal
-278281341	20131202	AFG	AFG	020	3.0	6	1	6	2.17654171704958	http://www.theguardian.com/world/2013/dec/02/taliban-hamid-karzai-us-security-deal
-278281468	20131202	AFR	AFR	026	4.0	2	1	2	0.956022944550669	http://www.newsday.com/33-dead-in-mozambican-plane-crash-in-namibia-1.6518089
-278281469	20131202	AFR	AFR	026	4.0	2	1	2	0.956022944550669	http://www.newsday.com/33-dead-in-mozambican-plane-crash-in-namibia-1.6518089
-278281470	20131202	AFR	AFR	026	4.0	6	1	6	0.956022944550669	http://www.newsday.com/33-dead-in-mozambican-plane-crash-in-namibia-1.6518089
-278281473	20131202	AFR	AFR	020	3.0	4	1	4	1.65912518853695	http://www.iol.co.za/news/crime-courts/man-barking-mad-at-breeding-kennel-s-noise-1.1615396
-278281497	20131202	AFR	CIV	0233	3.4	51	5	51	1.33149140722247	http://www.news24.com/Africa/News/Ghana-says-Ivory-Coast-sent-agents-20131202
-278281498	20131202	AFR	CIV	0233	3.4	5	3	5	1.32233422375071	http://www.reuters.com/article/2013/12/02/us-ivorycoast-ghana-un-idUSBRE9B10NB20131202?feedType=RSS&feedName=worldNews
-278281499	20131202	AFR	CIV	0233	3.4	8	1	8	1.25448028673835	http://www.trust.org/item/20131202162802-npkl9
-278281560	20131202	AFR	KEN	020	3.0	30	1	30	2.54924681344148	http://www.thisismoney.co.uk/money/markets/article-2517021/MARKET-REPORT-City-analysts-believe-fall-Tullow-Oil-overdone.html?ICO=most_read_module
-278281573	20131202	AFR	SDN	026	4.0	2	1	2	1.52091254752852	http://reliefweb.int/report/sudan/african-mediation-call-meeting-s-kordofan-b-nile-conflict-splm-n
-278281574	20131202	AFR	SDN	026	4.0	8	1	8	1.52091254752852	http://reliefweb.int/report/sudan/african-mediation-call-meeting-s-kordofan-b-nile-conflict-splm-n
-278281589	20131202	AFR	ZAF	020	3.0	2	1	2	1.65912518853695	http://www.iol.co.za/news/crime-courts/man-barking-mad-at-breeding-kennel-s-noise-1.1615396
-278281750	20131202	ARE	IRN	026	4.0	6	1	6	2.46913580246914	http://en.trend.az/regions/iran/2217623.html
-278281770	20131202	ARE	JOR	025	-0.3	3	1	3	2.20883534136546	http://www.prnewswire.com/news-releases/al-arabiya-news-global-discussion-princess-rym-of-jordan-calls-on-arab-world-to-fight-discrimination-234028911.html
-278281771	20131202	ARE	JOR	025	-0.3	2	1	2	2.20883534136546	http://www.prnewswire.com/news-releases/al-arabiya-news-global-discussion-princess-rym-of-jordan-calls-on-arab-world-to-fight-discrimination-234028911.html
-278281772	20131202	ARE	JOR	025	-0.3	2	1	2	2.20883534136546	http://www.prnewswire.com/news-releases/al-arabiya-news-global-discussion-princess-rym-of-jordan-calls-on-arab-world-to-fight-discrimination-234028911.html
-278281807	20131202	ARE	ARE	020	3.0	3	1	3	2.46913580246914	http://en.trend.az/regions/iran/2217623.html
-278281808	20131202	ARE	ARE	020	3.0	2	1	2	2.46913580246914	http://en.trend.az/regions/iran/2217623.html
-278281811	20131202	ARE	IRN	020	3.0	5	1	5	2.46913580246914	http://en.trend.az/regions/iran/2217623.html
-278281818	20131202	ARE	PGS	020	3.0	6	1	6	3.16981132075472	Multiple Sources/BBC Monitoring/(c) BBC
-278281916	20131202	ARM	CHE	020	3.0	6	1	6	1.59574468085106	http://armenpress.am/eng/news/742270/
-278281917	20131202	ARM	CHE	020	3.0	2	1	2	1.59574468085106	http://armenpress.am/eng/news/742270/
-278281918	20131202	ARM	CHE	020	3.0	2	1	2	1.59574468085106	http://armenpress.am/eng/news/742270/
-278282084	20131202	ARM	RUS	071	7.4	3	1	3	2.21130221130221	RIA Novosti news agency, Moscow/BBC Monitoring/(c) BBC
-278282085	20131202	ARM	RUS	071	7.4	2	1	2	2.21130221130221	RIA Novosti news agency, Moscow/BBC Monitoring/(c) BBC
-278282132	20131202	ARM	SYR	071	7.4	1	1	1	2.34113712374582	http://armenpress.am/eng/news/742226/
-278282316	20131202	AUS	AUS	020	3.0	12	6	12	2.74390347958157	http://www.theland.com.au/news/agriculture/agribusiness/general-news/adm-call-threatens-asian-markets/2680346.aspx
-278282320	20131202	AUS	AUS	0214	3.4	4	1	4	1.45228215767635	http://www.forbesadvocate.com.au/story/1947564/police-call-arson-after-three-fires-in-24-hours-in-murray-mallee/?cs=12
-278282325	20131202	AUS	AUS	020	3.0	4	1	4	1.16959064327485	http://www.globalpost.com/dispatch/news/regions/americas/united-states/131202/biden-defuse-regional-tensions-china-japan-asia
-278282329	20131202	AUS	AUS	070	7.0	10	5	10	3.86336583305657	http://www.queenslandcountrylife.com.au/news/agriculture/livestock/cattle-beef/cca-restructure-approved/2680439.aspx
-278282330	20131202	AUS	AUS	071	7.4	2	1	2	1.84331797235023	http://www.news.com.au/national/breaking-news/car-funding-must-stay-intact-ai-group/story-e6frfku9-1226773677825?from=public_rss
-278282332	20131202	AUS	AUS	020	3.0	2	1	2	1.70212765957447	http://www.news.com.au/national/breaking-news/bali-punch-victim-wakes-from-coma/story-e6frfku9-1226774245658?from=public_rss
-278282435	20131202	AUS	IRL	020	3.0	2	1	2	3.17460317460317	http://www.thejournal.ie/john-murray-missing-1201803-Dec2013/
-278282503	20131202	AUS	PHL	073	7.4	4	1	4	4.34782608695652	http://reliefweb.int/report/philippines/more-tents-airlifted-e-visayas
-278282567	20131202	AUS	AUS	020	3.0	2	1	2	2.20883534136546	http://www.news.com.au/national/south-australia/focus-on-holdens-shortterm-future-not-sustaining-it-for-long-term-says-sa-premier-jay-weatherill/story-fnii5yv4-1226773368524?from=public_rss
-278282574	20131202	AUS	AUS	020	3.0	10	1	10	2.77777777777778	http://topnews.us/content/259302-8-year-high-vic-drowning-toll
-278282605	20131202	AUS	USA	070	7.0	4	1	4	2.45398773006135	http://edition.cnn.com/2013/12/02/world/europe/ukraine-protests/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fedition_europe+%28RSS%3A+Europe%29
-278282606	20131202	AUS	PHL	073	7.4	6	1	6	4.34782608695652	http://reliefweb.int/report/philippines/more-tents-airlifted-e-visayas
-278282639	20131202	AUT	ITA	020	3.0	2	1	2	1.22574055158325	http://www.dw.de/eu-exports-its-crisis-to-the-balkans/a-17266626
-278282640	20131202	AUT	ITA	020	3.0	6	1	6	1.22574055158325	http://www.dw.de/eu-exports-its-crisis-to-the-balkans/a-17266626
-278282641	20131202	AUT	ITA	020	3.0	1	1	1	1.22574055158325	http://www.dw.de/eu-exports-its-crisis-to-the-balkans/a-17266626
-278282642	20131202	AUT	ITA	020	3.0	1	1	1	1.22574055158325	http://www.dw.de/eu-exports-its-crisis-to-the-balkans/a-17266626
-278282781	20131202	BEL	EUR	020	3.0	2	1	2	2.56410256410256	Rossiyskaya Gazeta website, Moscow/BBC Monitoring/(c) BBC
-278282782	20131202	BEL	EUR	020	3.0	8	1	8	2.56410256410256	Rossiyskaya Gazeta website, Moscow/BBC Monitoring/(c) BBC
-278282783	20131202	BEL	EUR	020	3.0	10	1	10	2.6615969581749	http://topnews.us/content/259309-e-cigarette-risks-cause-concern-among-experts
-278282816	20131202	BEL	UKR	020	3.0	2	1	2	3.47826086956522	http://www.channelnewsasia.com/news/world/eu-calls-for-calm/907194.html
-278282965	20131202	BGR	UKR	020	3.0	2	1	2	4.16666666666667	Multiple Sources/BBC Monitoring/(c) BBC
-278282976	20131202	BGR	BGR	020	3.0	10	1	10	4.12979351032448	http://www.novinite.com/view_news.php?id=156062
-278282993	20131202	BGR	UKR	020	3.0	6	1	6	4.16666666666667	Multiple Sources/BBC Monitoring/(c) BBC
-278283032	20131202	BHR	IDN	020	3.0	2	1	2	0.833333333333333	http://www.upi.com/Top_News/World-News/2013/12/02/WTO-asked-to-add-Arabic-as-groups-official-language/UPI-52991385999582/
-278283033	20131202	BHR	IDN	020	3.0	2	1	2	0.833333333333333	http://www.upi.com/Top_News/World-News/2013/12/02/WTO-asked-to-add-Arabic-as-groups-official-language/UPI-52991385999582/
-278283076	20131202	BHR	IDN	020	3.0	3	1	3	0.833333333333333	http://www.upi.com/Top_News/World-News/2013/12/02/WTO-asked-to-add-Arabic-as-groups-official-language/UPI-52991385999582/
-278283121	20131202	BHS	HTI	026	4.0	2	1	2	2.275600505689	http://www.miamiherald.com/2013/12/02/3793221/bahamas-returns-haitian-migrants.html
-278283147	20131202	BMU	CYM	020	3.0	2	1	2	2.15384615384615	http://www.compasscayman.com/story.aspx?id=132789
-278284345	20131202	CAF	AFR	072	8.3	6	1	6	2.87769784172662	http://www.upi.com/Top_News/Special/2013/12/02/French-army-buildup-in-CAR-unlikely-to-quell-bloodshed/UPI-28501385972520/?spt=rln&or=1
-278284354	20131202	CAF	FRA	072	8.3	8	1	8	1.52838427947598	http://www.bbc.co.uk/news/world-africa-25182454
-278284355	20131202	CAF	FRA	072	8.3	8	1	8	1.78571428571429	http://www.panarmenian.net/eng/news/173417/
-278284577	20131202	CAN	CAN	075	7.0	5	1	5	0.904159132007233	http://news.nationalpost.com/2013/12/02/totally-groundless-china-dismisses-canadas-spying-accusation-in-terse-one-line-statement-on-arrest/
-278284578	20131202	CAN	CAN	075	7.0	3	1	3	0.904159132007233	http://news.nationalpost.com/2013/12/02/totally-groundless-china-dismisses-canadas-spying-accusation-in-terse-one-line-statement-on-arrest/
-278284583	20131202	CAN	CAN	020	3.0	2	1	2	2.09424083769634	http://www.cbc.ca/news/canada/nova-scotia/sable-island-opens-as-national-park-reserve-1.2447857
-278284584	20131202	CAN	CAN	020	3.0	2	1	2	1.9047619047619	http://www.cbc.ca/news/politics/cellphone-industry-targeted-in-ottawa-s-9m-ad-campaign-1.2447812
-278284595	20131202	CAN	CAN	072	8.3	2	1	2	3.6773428232503	http://www.cbc.ca/news/politics/nsa-document-raises-questions-about-canada-in-g8-spying-1.2447398
-278284596	20131202	CAN	CAN	072	8.3	2	1	2	3.6773428232503	http://www.cbc.ca/news/politics/nsa-document-raises-questions-about-canada-in-g8-spying-1.2447398
-278284661	20131202	CAN	FRA	020	3.0	4	1	4	1.48809523809524	http://www.cbc.ca/news/canada/ottawa/fake-real-estate-ads-prey-on-buyer-desire-for-home-deal-1.2445689
-278284662	20131202	CAN	FRA	020	3.0	3	1	3	1.42140468227425	http://www.ctvnews.ca/politics/mulcair-how-could-ex-pmo-lawyer-s-emails-have-disappeared-for-3-months-1.1570524
-278284663	20131202	CAN	FRA	020	3.0	6	1	6	1.48809523809524	http://www.cbc.ca/news/canada/ottawa/fake-real-estate-ads-prey-on-buyer-desire-for-home-deal-1.2445689
-278284721	20131202	CAN	ISR	071	7.4	7	1	7	0	http://www.ynetnews.com/articles/0,7340,L-4460162,00.html
-278284778	20131202	CAN	PHL	071	7.4	2	1	2	3.01507537688442	http://www.philippinetimes.com/index.php/sid/218803773/scat/2411cd3571b4f088
-278284779	20131202	CAN	PHL	071	7.4	2	1	2	3.01507537688442	http://www.philippinetimes.com/index.php/sid/218803773/scat/2411cd3571b4f088
-278284794	20131202	CAN	USA	020	3.0	10	1	10	1.58311345646438	http://www.cbc.ca/news/canada/north/yukon-chief-says-get-tough-with-americans-on-salmon-1.2448105
-278284863	20131202	CAN	CAN	020	3.0	3	3	3	2.94253846083863	http://news.yahoo.com/duceppe-says-hes-ok-doctors-teachers-wearing-religious-234257515.html
-278284881	20131202	CAN	CAN	020	3.0	10	1	10	1.41158989598811	http://www.cbc.ca/news/canada/newfoundland-labrador/baker-fisheries-issues-and-stories-rolling-like-caplin-1.2447118
-278284923	20131202	CAN	CAN	020	3.0	1	1	1	3.01507537688442	http://www.philippinetimes.com/index.php/sid/218803773/scat/2411cd3571b4f088
-278284969	20131202	CHE	EUR	071	7.4	2	1	2	0.938967136150235	http://www.bloomberg.com/news/2013-12-02/brevan-howard-former-partner-klaus-oestergaard-returns-to-firm.html
-278284970	20131202	CHE	EUR	071	7.4	2	1	2	0.938967136150235	http://www.bloomberg.com/news/2013-12-02/brevan-howard-former-partner-klaus-oestergaard-returns-to-firm.html
-278284991	20131202	CHE	IRN	020	3.0	8	1	8	2.26415094339623	http://en.trend.az/news/politics/2217370.html
-278284997	20131202	CHE	IRN	070	7.0	2	1	2	4.73684210526316	http://news.am/eng/news/183569.html
-278285005	20131202	CHE	KGZ	071	7.4	10	1	10	5.09090909090909	http://reliefweb.int/report/kyrgyzstan/world-bank-and-government-switzerland-join-efforts-support-effective-water
-278285014	20131202	CHE	NLD	070	7.0	8	4	8	1.53631733806723	http://www.seattlepi.com/news/crime/article/Lebanese-army-taking-over-in-second-largest-city-5028535.php
-278285019	20131202	CHE	SYR	027	4.0	1	1	1	3.3096926713948	http://www.jpost.com/Middle-East/Analysis-Coming-peace-talks-on-Syria-are-likely-doomed-before-they-start-333794
-278285020	20131202	CHE	SYR	027	4.0	1	1	1	3.3096926713948	http://www.jpost.com/Middle-East/Analysis-Coming-peace-talks-on-Syria-are-likely-doomed-before-they-start-333794
-278285367	20131202	CHN	CHN	020	3.0	1	1	1	3.58490566037736	http://www.gmanetwork.com/news/story/337920/news/nation/us-concerned-over-china-s-air-defense-zone-says-it-may-create-tension
-278285368	20131202	CHN	CHN	020	3.0	1	1	1	3.58490566037736	http://www.gmanetwork.com/news/story/337920/news/nation/us-concerned-over-china-s-air-defense-zone-says-it-may-create-tension
-278285369	20131202	CHN	CHN	023	3.4	3	1	3	2.56410256410256	http://www.telegraph.co.uk/news/politics/david-cameron/10487669/Chinese-premier-Li-Leqiang-wants-to-help-build-HS2.html
-278285446	20131202	CHN	EUR	020	3.0	8	1	8	3.15581854043393	http://www.ibtimes.co.in//articles/526794/20131202/sovereign-rating-downgrade-dagong-guan-jianzhong.htm
-278285447	20131202	CHN	EUR	020	3.0	2	1	2	0.72463768115942	http://uk.reuters.com/article/2013/12/02/uk-china-offshore-ccb-london-idUKBRE9B106Z20131202?feedType=RSS&feedName=businessNews
-278285449	20131202	CHN	EUR	071	7.4	10	1	10	2.16450216450216	http://www.abhaber.com/index.php?option=com_content&view=article&id=53920:ab-den-%C3%A7in-panel-%C3%BCreticilerine-ceza&catid=218:haberler&Itemid=836
-278285470	20131202	CHN	GBR	020	3.0	1	1	1	5.77663671373556	http://news.xinhuanet.com/english/china/2013-12/02/c_132935836.htm
-278285471	20131202	CHN	GBR	020	3.0	5	1	5	1.53321976149915	http://www.bloomberg.com/news/2013-12-02/cameron-pushes-for-eu-china-trade-agreement-in-beijing.html
-278285472	20131202	CHN	GBR	020	3.0	1	1	1	5.77663671373556	http://news.xinhuanet.com/english/china/2013-12/02/c_132935836.htm
-278285509	20131202	CHN	GBR	070	7.0	10	1	10	2.14592274678112	http://www.heraldonline.com/2013/12/02/5461444/research-and-markets-china-us.html
-278285510	20131202	CHN	GBR	071	7.4	6	2	6	1.85683091550491	http://uk.reuters.com/article/2013/12/02/uk-china-offshore-yuan-idUKBRE9B105X20131202?feedType=RSS&feedName=businessNews
-278285511	20131202	CHN	GBR	071	7.4	12	2	12	1.85683091550491	http://uk.reuters.com/article/2013/12/02/uk-china-offshore-yuan-idUKBRE9B105X20131202?feedType=RSS&feedName=businessNews
-278285512	20131202	CHN	GBR	071	7.4	12	2	12	1.85683091550491	http://uk.reuters.com/article/2013/12/02/uk-china-offshore-yuan-idUKBRE9B105X20131202?feedType=RSS&feedName=businessNews
-278285616	20131202	CHN	IND	020	3.0	10	1	10	3.47003154574132	http://www.globalsecurity.org/military/library/news/2013/12/mil-131201-pdo01.htm
-278285659	20131202	CHN	JPN	020	3.0	8	2	8	0.768597515342014	Xinhua news agency, Beijing/BBC Monitoring/(c) BBC
-278285784	20131202	CHN	CHN	020	3.0	5	1	5	2.05128205128205	http://www.upi.com/Business_News/Energy-Resources/2013/12/02/PetroChina-facing-environmental-securities-lawsuits/UPI-10451385986585/
-278285851	20131202	CHN	THA	020	3.0	10	1	10	1.93548387096774	Xinhua news agency, Beijing/BBC Monitoring/(c) BBC
-278285852	20131202	CHN	THA	025	-0.3	10	1	10	2.13675213675214	http://news.xinhuanet.com/english/china/2013-12/02/c_132935562.htm
-278285934	20131202	CHN	USA	071	7.4	3	1	3	4.98753117206983	http://www.cbsnews.com/news/panda-diplomacy-cubs-are-a-sign-of-cooperation-between-china-us/
-278285954	20131202	CHN	USA	020	3.0	3	2	3	3.19401915996927	http://www.theguardian.com/commentisfree/2013/dec/02/china-air-defence-zone-asian-crisis
-278285955	20131202	CHN	USA	020	3.0	1	1	1	3.26864147088866	http://www.laht.com/article.asp?ArticleId=1253774&CategoryId=13303
-278285956	20131202	CHN	USA	020	3.0	1	1	1	2.98913043478261	http://www.politico.com/story/2013/12/activists-conservatives-green-effort-100509.html
-278285957	20131202	CHN	USA	020	3.0	1	1	1	2.98913043478261	http://www.politico.com/story/2013/12/activists-conservatives-green-effort-100509.html
-278285990	20131202	CHN	CHN	020	3.0	2	1	2	0.72463768115942	http://uk.reuters.com/article/2013/12/02/uk-china-offshore-ccb-london-idUKBRE9B106Z20131202?feedType=RSS&feedName=businessNews
-278285991	20131202	CHN	CHN	020	3.0	5	2	5	0.434782608695652	http://uk.reuters.com/article/2013/12/02/uk-china-offshore-ccb-london-idUKBRE9B106Z20131202?feedType=RSS&feedName=businessNews
-278286001	20131202	CHN	USA	020	3.0	6	1	6	0	http://seekingalpha.com/currents/post/1440621
-278286039	20131202	CHN	CHN	020	3.0	6	3	6	1.72406771259598	http://www.smh.com.au/world/police-hunt-italian-fire-factory-owner-20131203-hv417.html
-278286094	20131202	CHN	IRN	020	3.0	10	1	10	0.934579439252336	http://www.irna.ir/en/News/80932806/Politic/China%E2%80%99s_state_councillor_due_in_Tehran_soon
-278286104	20131202	CHN	JPN	020	3.0	3	1	3	1.53846153846154	http://www.usnews.com/news/articles/2013/12/02/no-end-in-sight-for-chinese-air-restriction-zone
-278286405	20131202	COL	USA	026	4.0	2	1	2	4.26829268292683	http://news.yahoo.com/colombias-president-santos-starts-us-visit-231228110.html
-278286415	20131202	COL	USA	026	4.0	3	1	3	4.26829268292683	http://news.yahoo.com/colombias-president-santos-starts-us-visit-231228110.html
-278286416	20131202	COL	USA	026	4.0	5	1	5	4.16666666666667	http://www.google.com/hostednews/afp/article/ALeqM5jcTmQN7dePWHrDOI-rQjDVzUDoVw?docId=42d51350-a94e-4994-beac-fa86140c6e50&hl=en
-278286417	20131202	COL	USA	026	4.0	5	1	5	4.09356725146199	http://www.google.com/hostednews/afp/article/ALeqM5iK50yVPdkHdnUt6juHbZSgbCbXeA?docId=43863e21-a38f-48f1-b6cb-0fb5027c9f04&hl=en
-278286421	20131202	COL	USA	020	3.0	12	2	12	4.17617553368516	http://www.google.com/hostednews/afp/article/ALeqM5jcTmQN7dePWHrDOI-rQjDVzUDoVw?docId=42d51350-a94e-4994-beac-fa86140c6e50&hl=en
-278286430	20131202	COL	USA	020	3.0	18	2	18	4.17617553368516	http://www.google.com/hostednews/afp/article/ALeqM5jcTmQN7dePWHrDOI-rQjDVzUDoVw?docId=42d51350-a94e-4994-beac-fa86140c6e50&hl=en
-278288420	20131202	DEU	DEU	020	3.0	2	1	2	1.9434628975265	http://www.smh.com.au/national/thalidomide-victims-to-share-massive-settlement-after-successful-class-action-20131202-2ykg8.html
-278288421	20131202	DEU	DEU	020	3.0	4	1	4	1.64293537787514	http://www.dw.de/germany-makes-headway-integrating-disabled-people/a-17267162
-278288449	20131202	DEU	FIN	020	3.0	2	1	2	0	http://www.bbc.co.uk/news/world-europe-25185811
-278288477	20131202	DEU	EUR	020	3.0	6	1	6	2.29885308479136	http://www.independent.co.uk/voices/commentators/sixty-years-after-yalta-europes-borders-and-alliances-are-still-bitterly-contested-8978559.html
-278288478	20131202	DEU	EUR	020	3.0	4	1	4	2.29885308479136	http://www.independent.co.uk/voices/commentators/sixty-years-after-yalta-europes-borders-and-alliances-are-still-bitterly-contested-8978559.html
-278288505	20131202	DEU	NLD	0213	3.4	8	4	8	1.34073549115373	http://www.jpost.com/International/Dutch-member-of-Nazi-death-squad-who-killed-resistance-fighters-dies-in-jail-at-92-333735
-278288506	20131202	DEU	NLD	0213	3.4	10	5	10	1.28764215636384	http://worldnews.nbcnews.com/_news/2013/12/02/21722771-dutch-killer-of-anti-nazi-resistance-fighters-dies-in-jail-at-92?lite
-278288507	20131202	DEU	NLD	0213	3.4	32	5	32	1.27436882266637	http://worldnews.nbcnews.com/_news/2013/12/02/21722771-dutch-killer-of-anti-nazi-resistance-fighters-dies-in-jail-at-92?lite
-278288553	20131202	DEU	USA	020	3.0	2	1	2	1.63727959697733	http://www.politico.com/story/2013/12/big-food-anxious-for-new-rules-in-fda-pipeline-100510.html
-278288554	20131202	DEU	USA	020	3.0	5	1	5	1.63727959697733	http://www.politico.com/story/2013/12/big-food-anxious-for-new-rules-in-fda-pipeline-100510.html
-278288555	20131202	DEU	USA	020	3.0	2	1	2	3.36458907887479	http://www.jpost.com/Opinion/Op-Ed-Contributors/Roosevelt-and-Obama-333763
-278288556	20131202	DEU	USA	020	3.0	4	1	4	2.04081632653061	http://topnews.us/content/259296-german-scientists-suggest-use-cars-calculate-rainfall
-278288564	20131202	DEU	USA	070	7.0	10	1	10	2.63157894736842	http://phys.org/news/2013-12-moon-europa-chaotic-terrain.html
-278288567	20131202	DEU	DEU	020	3.0	6	1	6	1.64293537787514	http://www.dw.de/germany-makes-headway-integrating-disabled-people/a-17267162
-278288571	20131202	DEU	USA	020	3.0	6	1	6	2.04081632653061	http://topnews.us/content/259296-german-scientists-suggest-use-cars-calculate-rainfall
-278289281	20131202	EGY	EGY	020	3.0	4	2	4	2.96629273400687	http://www.news24.com/Africa/News/Egypt-police-teargas-protesters-20131202-2
-278289282	20131202	EGY	EGY	020	3.0	10	1	10	4.11483253588517	http://www.asianews.it/news-en/Egypt's-new-constitution-protects-religious-freedom,-but-gives-too-much-power-to-the-military-29697.html
-278289330	20131202	EGY	IRQ	020	3.0	2	1	2	3.70967741935484	MENA news agency, Cairo/BBC Monitoring/(c) BBC
-278289370	20131202	EGY	USA	020	3.0	3	1	3	2.875	http://www.dailymail.co.uk/debate/article-2517235/CRAIG-BROWN-The-Coalition-isnt-twerking-says-Red-Ed-Next-years-news-today.html?ITO=1490&ns_campaign=1490
-278289520	20131202	ESP	EUR	020	3.0	10	1	10	2.98804780876494	http://www.reuters.com/article/2013/12/02/markets-europe-stocks-idUSL5N0JH29620131202?type=companyNews&feedType=RSS&feedName=companyNews
-278289521	20131202	ESP	EUR	020	3.0	2	1	2	1.94489465153971	http://www.sltrib.com/sltrib/news/57209899-78/europe-utah-coal-kirkland.html.csp
-278289522	20131202	ESP	EUR	020	3.0	8	1	8	1.94489465153971	http://www.sltrib.com/sltrib/news/57209899-78/europe-utah-coal-kirkland.html.csp
-278289555	20131202	ESP	NMR	020	3.0	6	1	6	1.94489465153971	http://www.sltrib.com/sltrib/news/57209899-78/europe-utah-coal-kirkland.html.csp
-278289562	20131202	ESP	USA	020	3.0	4	1	4	1.94489465153971	http://www.sltrib.com/sltrib/news/57209899-78/europe-utah-coal-kirkland.html.csp
-278289563	20131202	ESP	USA	020	3.0	4	1	4	1.94489465153971	http://www.sltrib.com/sltrib/news/57209899-78/europe-utah-coal-kirkland.html.csp
-278289707	20131202	EUR	CAN	020	3.0	3	1	3	1.7151379567487	http://www.theglobeandmail.com/report-on-business/industry-news/property-report/tenant-shakeup-makes-bloor-street-more-lux/article15721512/?cmpid=rss1
-278289708	20131202	EUR	CAN	020	3.0	1	1	1	1.7151379567487	http://www.theglobeandmail.com/report-on-business/industry-news/property-report/tenant-shakeup-makes-bloor-street-more-lux/article15721512/?cmpid=rss1
-278289714	20131202	EUR	CHN	020	3.0	10	1	10	0.651465798045603	http://www.neurope.eu/article/eu-imposes-duties-chinese-solar-panels
-278289763	20131202	EUR	IRL	020	3.0	7	1	7	3.82436260623229	http://www.bloomberg.com/news/2013-12-02/constancio-says-ecb-supervision-may-prompt-eu-bank-restructuring.html
-278289849	20131202	FIN	AFR	075	7.0	8	1	8	0.997506234413965	http://reliefweb.int/report/world/invisible-climate-refugees
-278289918	20131202	FRA	AFR	020	3.0	2	1	2	2.97427652733119	http://www.bbc.co.uk/news/world-africa-25183377
-278289947	20131202	FRA	CAF	072	8.3	10	1	10	1.78571428571429	http://www.panarmenian.net/eng/news/173417/
-278289948	20131202	FRA	CAF	072	8.3	2	1	2	1.88679245283019	http://www.voanews.com/content/car-pm-calls-for-aid-foreign-troops/1802279.html
-278289949	20131202	FRA	CAF	072	8.3	2	1	2	2.87769784172662	http://www.upi.com/Top_News/Special/2013/12/02/French-army-buildup-in-CAR-unlikely-to-quell-bloodshed/UPI-28501385972520/?spt=rln&or=1
-278289950	20131202	FRA	CAF	072	8.3	6	1	6	2.87769784172662	http://www.upi.com/Top_News/Special/2013/12/02/French-army-buildup-in-CAR-unlikely-to-quell-bloodshed/UPI-28501385972520/?spt=rln&or=1
-278289951	20131202	FRA	CAF	072	8.3	14	1	14	2.87769784172662	http://www.upi.com/Top_News/Special/2013/12/02/French-army-buildup-in-CAR-unlikely-to-quell-bloodshed/UPI-28501385972520/?spt=rln&or=1
-278289952	20131202	FRA	CAF	072	8.3	4	1	4	2.87769784172662	http://www.upi.com/Top_News/Special/2013/12/02/French-army-buildup-in-CAR-unlikely-to-quell-bloodshed/UPI-28501385972520/?spt=rln&or=1
-278289953	20131202	FRA	CAF	072	8.3	2	1	2	2.87769784172662	http://www.upi.com/Top_News/Special/2013/12/02/French-army-buildup-in-CAR-unlikely-to-quell-bloodshed/UPI-28501385972520/?spt=rln&or=1
-278290014	20131202	FRA	EUR	020	3.0	10	1	10	0.732600732600733	http://www.globalsecurity.org/military/library/news/2013/12/mil-131202-presstv02.htm
-278290016	20131202	FRA	FRA	020	3.0	2	1	2	0.732600732600733	http://www.globalsecurity.org/military/library/news/2013/12/mil-131202-presstv02.htm
-278290168	20131202	FRA	USA	020	3.0	10	1	10	4.23076923076923	http://uk.reuters.com/article/2013/12/02/uk-france-reform-shopping-idUKBRE9B107120131202?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29
-278290477	20131202	GBR	AUS	020	3.0	4	1	4	1.55642023346304	http://www.upi.com/Science_News/2013/12/02/Secrets-of-big-voices-in-little-koalas-discovered/UPI-47301386024359/?spt=rln&or=1
-278290578	20131202	GBR	CHN	071	7.4	16	1	16	3.40264650283554	http://www.dailymail.co.uk/news/article-2517233/Could-Chinese-cash-rescue-50bn-HS2-Countrys-premier-says-wants-slice-scheme-calls-operation-nuclear-power.html?ITO=1490&ns_campaign=1490
-278290579	20131202	GBR	CHN	071	7.4	4	1	4	3.40264650283554	http://www.dailymail.co.uk/news/article-2517233/Could-Chinese-cash-rescue-50bn-HS2-Countrys-premier-says-wants-slice-scheme-calls-operation-nuclear-power.html?ITO=1490&ns_campaign=1490
-278290580	20131202	GBR	CHN	071	7.4	1	1	1	3.73831775700935	http://www.dailymail.co.uk/news/article-2517005/Ski-chalet-rep-Jamie-Rolfe-fell-death-ravine-Les-Deux-Alpes.html?ITO=1490&ns_campaign=1490
-278290581	20131202	GBR	CHN	071	7.4	1	1	1	3.73831775700935	http://www.dailymail.co.uk/news/article-2517005/Ski-chalet-rep-Jamie-Rolfe-fell-death-ravine-Les-Deux-Alpes.html?ITO=1490&ns_campaign=1490
-278290594	20131202	GBR	CHN	020	3.0	1	1	1	5.77663671373556	http://news.xinhuanet.com/english/china/2013-12/02/c_132935836.htm
-278290717	20131202	GBR	GBR	020	3.0	2	1	2	4.28211586901763	http://www.bbc.co.uk/news/uk-wales-25178650
-278290718	20131202	GBR	GBR	020	3.0	8	1	8	1.41129032258065	http://www.dailymail.co.uk/news/article-2516610/Energy-giant-plans-price-freeze-EDF-says-halt-rises-Osborne-revealed-plans-reduce-green-levies.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490
-278290743	20131202	GBR	GBR	071	7.4	2	1	2	1.85909980430528	http://www.cambridge-news.co.uk/National-News/Osborne-vows-responsible-recovery-2-8032826.xnf
-278290779	20131202	GBR	EUR	020	3.0	10	1	10	2.29885308479136	http://www.independent.co.uk/voices/commentators/sixty-years-after-yalta-europes-borders-and-alliances-are-still-bitterly-contested-8978559.html
-278290789	20131202	GBR	IRL	020	3.0	2	1	2	2.0910209102091	http://www.bbc.co.uk/news/uk-northern-ireland-25176220
-278290790	20131202	GBR	IRL	020	3.0	2	1	2	2.0910209102091	http://www.bbc.co.uk/news/uk-northern-ireland-25176220
-278290828	20131202	GBR	ITA	020	3.0	4	1	4	1.34247779956175	http://www.telegraph.co.uk/news/uknews/law-and-order/10486452/Child-taken-from-womb-by-social-services.html
-278290829	20131202	GBR	ITA	020	3.0	2	1	2	1.77664974619289	http://www.bbc.co.uk/news/in-pictures-25101956
-278290830	20131202	GBR	ITA	020	3.0	16	1	16	1.34247779956176	http://www.telegraph.co.uk/news/uknews/law-and-order/10486452/Child-taken-from-womb-by-social-services.html
-278290831	20131202	GBR	ITA	020	3.0	2	1	2	1.77664974619289	http://www.bbc.co.uk/news/in-pictures-25101956
-278290832	20131202	GBR	ITA	020	3.0	4	1	4	1.77664974619289	http://www.bbc.co.uk/news/in-pictures-25101956
-278290945	20131202	GBR	POL	020	3.0	2	1	2	4.52961672473868	http://www.dailymail.co.uk/news/article-2516449/Downton-Abbeys-Jim-Carter-dresses-Father-Christmas-global-warming-advert.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490
-278290980	20131202	GBR	USA	020	3.0	1	1	1	3.36458907887479	http://www.jpost.com/Opinion/Op-Ed-Contributors/Roosevelt-and-Obama-333763
-278290981	20131202	GBR	USA	020	3.0	1	1	1	3.36458907887479	http://www.jpost.com/Opinion/Op-Ed-Contributors/Roosevelt-and-Obama-333763
-278291003	20131202	GBR	USA	070	7.0	2	1	2	2.75707898658718	http://www.cnn.com/2013/12/02/world/europe/ukraine-protests/
-278291037	20131202	GBR	GBR	070	7.0	5	1	5	9.07534246575342	http://www.thebahamasweekly.com/publish/service-clubs/Call_For_Nominations_For_The_Lady_Sassoon_Golden_Heart_Award31951.shtml
-278291067	20131202	GBR	GBR	020	3.0	1	1	1	1.73267326732673	http://www.bbc.co.uk/news/uk-wales-25190533
-278291097	20131202	GBR	CHN	020	3.0	3	1	3	1.60142348754448	http://www.livecharts.co.uk/share_prices/Europe-open--Stocks-decline-before-batch-of-e-news21330154.html
-278291098	20131202	GBR	CHN	020	3.0	7	1	7	1.60142348754448	http://www.livecharts.co.uk/share_prices/Europe-open--Stocks-decline-before-batch-of-e-news21330154.html
-278291150	20131202	GBR	GBR	020	3.0	10	2	10	4.99350603938337	http://www.state.gov/r/pa/prs/dpb/2013/12/218178.htm
-278291151	20131202	GBR	GBR	020	3.0	7	2	7	2.84591515135155	http://news.xinhuanet.com/english/china/2013-12/02/c_132935836.htm
-278291161	20131202	GBR	GBR	020	3.0	10	1	10	3.3195020746888	http://www.theguardian.com/business/2013/dec/02/lloyds-group-chairman-downing-adviser
-278291162	20131202	GBR	GBR	020	3.0	6	1	6	2.35746155762088	http://www.dailymail.co.uk/news/article-2516719/Energy-firms-WILL-pass-50-cut-green-levies-promise-bills-rise-2015.html
-278291177	20131202	GBR	EUR	020	3.0	10	1	10	1.60142348754448	http://www.livecharts.co.uk/share_prices/Europe-open--Stocks-decline-before-batch-of-e-news21330154.html
-278291190	20131202	GBR	USA	020	3.0	2	1	2	3.36458907887479	http://www.jpost.com/Opinion/Op-Ed-Contributors/Roosevelt-and-Obama-333763
-278291208	20131202	GBR	GBR	020	3.0	4	1	4	0.154083204930663	http://web.orange.co.uk/article/news/woolwich_murder_court_hears_graphic_testimony
-278291220	20131202	GBR	FRA	070	7.0	1	1	1	2.30483271375465	http://seattletimes.com/html/personaltechnology/2022379327_apxgeekwars.html
-278294546	20131202	HRV	HRV	071	7.4	1	1	1	2.06561360874848	Multiple Sources/BBC Monitoring/(c) BBC
-278294547	20131202	HRV	HRV	071	7.4	1	1	1	2.06561360874848	Multiple Sources/BBC Monitoring/(c) BBC
-278294647	20131202	IDN	IDN	020	3.0	4	1	4	0.357142857142857	http://www.thejakartapost.com/news/2013/12/02/ri-ready-face-fed-s-tapering-policy.html
-278294692	20131202	IDN	IDN	073	7.4	2	1	2	3.32225913621263	http://www.thehindu.com/news/national/on-ministerial-eve-india-stands-alone-in-bali/article5415158.ece
-278294709	20131202	AFR	FRA	070	7.0	4	1	4	4.77707006369427	http://allafrica.com/stories/201312021246.html
-278294715	20131202	AFR	USA	071	7.4	10	1	10	3.07692307692308	http://www.khl.com/magazines/international-construction/detail/item90490/Funding-approved-for-African-hydropower-project
-278294821	20131202	EUR	BGD	0243	-0.3	10	1	10	2.62869660460022	The Daily Star website, Dhaka/BBC Monitoring/(c) BBC
-278294845	20131202	EUR	DZA	071	7.4	5	1	5	4.28571428571429	http://www.aps.dz/Environment-Algeria-EU-new,133893.html
-278294898	20131202	EUR	UKR	020	3.0	10	1	10	4.11471321695761	http://www.dw.de/247-articles-for-egypts-future/a-17266292
-278294899	20131202	EUR	UKR	020	3.0	5	1	5	4.58333333333333	http://www.businessweek.com/articles/2013-12-02/ukrainians-are-caught-between-east-and-west
-278294923	20131202	EUR	USA	020	3.0	2	1	2	3.26864147088866	http://www.laht.com/article.asp?ArticleId=1253774&CategoryId=13303
-278294924	20131202	EUR	USA	020	3.0	18	2	18	3.20645621178917	http://www.laht.com/article.asp?ArticleId=1253774&CategoryId=13303
-278294933	20131202	EUR	CAN	026	4.0	10	1	10	1.81818181818182	Interfax-Ukraine news agency, Kiev/BBC Monitoring/(c) BBC
-278294942	20131202	EUR	RUS	025	-0.3	6	1	6	1.80830692331903	http://www.voanews.com/content/ukrainian-protesters-block-government-buildings/1802206.html
-278294943	20131202	EUR	RUS	025	-0.3	6	1	6	1.80830692331903	http://www.voanews.com/content/ukrainian-protesters-block-government-buildings/1802206.html
-278294945	20131202	EUR	UKR	025	-0.3	1	1	1	2.30179028132992	http://www.voanews.com/content/ukrainian-protesters-block-government-buildings/1801754.html
-278294946	20131202	EUR	UKR	025	-0.3	1	1	1	2.30179028132992	http://www.voanews.com/content/ukrainian-protesters-block-government-buildings/1801754.html
-278294948	20131202	EUR	UKR	025	-0.3	1	1	1	2.30179028132992	http://www.voanews.com/content/ukrainian-protesters-block-government-buildings/1801754.html
-278294949	20131202	EUR	UKR	025	-0.3	1	1	1	2.30179028132992	http://www.voanews.com/content/ukrainian-protesters-block-government-buildings/1801754.html
-278294961	20131202	EUR	CAN	020	3.0	10	1	10	2.75330396475771	http://www.theglobeandmail.com/news/national/canadian-torture-policy-irks-european-security-alliance-records-reveal/article15714816/?cmpid=rss1
-278294974	20131202	EUR	UKR	020	3.0	8	1	8	2.54777070063694	http://www.euractiv.com/europes-east/ukraine-fire-yanukovich-turn-eu-news-532060
-278294975	20131202	EUR	UKR	020	3.0	2	1	2	2.54777070063694	http://www.euractiv.com/europes-east/ukraine-fire-yanukovich-turn-eu-news-532060
-278295217	20131202	WST	AFG	020	3.0	6	3	6	3.10771556258368	http://www.google.com/hostednews/afp/article/ALeqM5iOHo-ik6taajs0RH4CBXRMRlb-bw?docId=0b13ba05-801e-43a4-9728-b1fcd50f092f&hl=en
-278295232	20131202	WST	UKR	020	3.0	10	1	10	6.13496932515337	http://en.for-ua.com/news/2013/12/02/154019.html
-278295413	20131202	IND	IND	020	3.0	4	1	4	1.9672131147541	http://zeenews.india.com/news/andhra-pradesh/congress-plays-down-rayala-telangana-issue_893898.html
-278295414	20131202	IND	IND	020	3.0	6	1	6	3.52422907488987	http://timesofindia.indiatimes.com/india/No-need-to-debate-Article-370-Nitish-Kumar/articleshow/26756794.cms
-278295428	20131202	IND	JPN	071	7.4	4	1	4	3.76016260162602	http://www.rediff.com/news/column/india-japan-relations-economic-content-combined-with-strategic-intent/20131202.htm
-278295429	20131202	IND	JPN	071	7.4	2	1	2	3.76016260162602	http://www.rediff.com/news/column/india-japan-relations-economic-content-combined-with-strategic-intent/20131202.htm
-278295489	20131202	IND	IND	0214	3.4	1	1	1	2.22222222222222	http://www.thehindu.com/news/karat-demands-central-act-against-superstition-black-magic/article5415144.ece
-278295533	20131202	IND	IND	020	3.0	8	2	8	0.943014408288812	http://zeenews.india.com/news/nation/cwg-scam-pmo-refuses-info-on-shunglu-recommendations-on-cag_893859.html
-278295534	20131202	IND	IND	020	3.0	2	1	2	1.53256704980843	http://www.thehindu.com/news/national/modis-call-for-debate-on-article-370-sparks-row/article5414444.ece
-278295538	20131202	IND	IND	020	3.0	4	2	4	0.943014408288813	http://zeenews.india.com/news/nation/cwg-scam-pmo-refuses-info-on-shunglu-recommendations-on-cag_893859.html
-278295554	20131202	IND	TJK	020	3.0	2	1	2	1.19760479041916	http://zeenews.india.com/news/north-east/aruanchal-cm-asks-panchayat-leaders-to-work-hard_893775.html
-278295555	20131202	IND	TJK	020	3.0	2	1	2	1.19760479041916	http://zeenews.india.com/news/north-east/aruanchal-cm-asks-panchayat-leaders-to-work-hard_893775.html
-278295560	20131202	IND	IND	025	-0.3	15	2	15	2.77897166830207	http://timesofindia.indiatimes.com/india/India-not-to-compromise-on-food-security-at-WTO-ministerial-meeting-Anand-Sharma/articleshow/26748979.cms
-278295577	20131202	IND	IND	020	3.0	10	1	10	1.73745173745174	http://www.moneycontrol.com/news/stocks-views/heres-how-quantum-is-reading-ongcs-royalty-headwinds_1000455.html
-278295619	20131202	IRL	AUS	070	7.0	8	1	8	2.56410256410256	http://www.breakingnews.ie/ireland/gardai-appeal-for-information-on-man-missing-from-dublin-615949.html
-278295655	20131202	IRL	JPN	070	7.0	10	1	10	2.78969957081545	Kyodo News Service, Tokyo/BBC Monitoring/(c) BBC
-278295856	20131202	IRN	ARE	026	4.0	4	1	4	2.46913580246914	http://en.trend.az/regions/iran/2217623.html
-278295883	20131202	IRN	CHE	020	3.0	10	1	10	2.55754475703325	http://www.israelnationalnews.com/News/News.aspx/174711
-278295903	20131202	IRN	CHN	020	3.0	10	1	10	0.934579439252336	http://www.irna.ir/en/News/80932806/Politic/China%E2%80%99s_state_councillor_due_in_Tehran_soon
-278295973	20131202	IRN	PGS	020	3.0	5	1	5	2.90909090909091	E'temad website, Tehran/BBC Monitoring/(c) BBC
-278295989	20131202	IRN	IRN	020	3.0	20	2	20	3.81309791134763	http://in.reuters.com/article/2013/12/02/iran-deal-saudi-idINDEE9B107320131202?feedType=RSS&feedName=worldNews
-278296006	20131202	IRN	IRN	020	3.0	2	1	2	2.11267605633803	http://www.payvand.com/news/13/dec/1002.html
-278296013	20131202	IRN	IRQ	020	3.0	1	1	1	3.52839931153184	Zaman website, Istanbul/BBC Monitoring/(c) BBC
-278296029	20131202	IRN	IRQ	070	7.0	1	1	1	1.0752688172043	http://www.presstv.ir/detail/2013/12/02/337824/iraqi-kurdistan-seals-turkey-deal/
-278296030	20131202	IRN	IRQ	070	7.0	4	1	4	1.0752688172043	http://www.presstv.ir/detail/2013/12/02/337824/iraqi-kurdistan-seals-turkey-deal/
-278296065	20131202	IRN	KWT	020	3.0	6	3	6	3.42166329815106	http://www.thenews.com.pk/Todays-News-1-217852-Zarif-urges-S-Arabia-to-work-jointly-for-stability
-278296066	20131202	IRN	KWT	020	3.0	24	6	24	3.31610822457173	http://www.thenews.com.pk/Todays-News-1-217852-Zarif-urges-S-Arabia-to-work-jointly-for-stability
-278296067	20131202	IRN	KWT	020	3.0	10	3	10	3.45025825286324	http://www.thenews.com.pk/Todays-News-1-217852-Zarif-urges-S-Arabia-to-work-jointly-for-stability
-278296068	20131202	IRN	KWT	020	3.0	2	1	2	3.27868852459016	http://www.google.com/hostednews/afp/article/ALeqM5hbN6sYJ4c3HOzWbO8gxvZ56NU5gw?docId=7b80e91c-95a5-4258-9c2f-4809730012a5&hl=en
-278296136	20131202	IRN	OMN	020	3.0	1	1	1	2.06185567010309	http://www.ettelaat.com/index2.asp?code=endisplay&fname=/ettelaat/etbupload/data/2013/12/12-02/9.htm&title=Iran%20calls%20for%20expansion%20of%20Oman%20ties
-278296137	20131202	IRN	OMN	020	3.0	1	1	1	2.06185567010309	http://www.ettelaat.com/index2.asp?code=endisplay&fname=/ettelaat/etbupload/data/2013/12/12-02/9.htm&title=Iran%20calls%20for%20expansion%20of%20Oman%20ties
-278296138	20131202	IRN	OMN	022	3.2	3	2	3	2.3362840455114	Press TV website, Tehran/BBC Monitoring/(c) BBC
-278296139	20131202	IRN	OMN	022	3.2	3	2	3	2.3362840455114	Press TV website, Tehran/BBC Monitoring/(c) BBC
-278296168	20131202	IRN	PGS	020	3.0	2	1	2	3.16981132075472	Multiple Sources/BBC Monitoring/(c) BBC
-278296182	20131202	IRN	QAT	020	3.0	20	2	20	0.305205331412104	Islamic Republic News Agency website, Tehran/BBC Monitoring/(c) BBC
-278296183	20131202	IRN	QAT	023	3.4	2	1	2	2.45098039215686	http://www.aljazeera.com/news/middleeast/2013/12/iran-seeks-arab-help-regional-stability-2013122184535505699.html
-278296184	20131202	IRN	QAT	023	3.4	2	1	2	2.45098039215686	http://www.aljazeera.com/news/middleeast/2013/12/iran-seeks-arab-help-regional-stability-2013122184535505699.html
-278296201	20131202	IRN	QAT	023	3.4	6	1	6	2.45098039215686	http://www.aljazeera.com/news/middleeast/2013/12/iran-seeks-arab-help-regional-stability-2013122184535505699.html
-278296223	20131202	IRN	SAU	020	3.0	3	1	3	3.27868852459016	http://www.google.com/hostednews/afp/article/ALeqM5hbN6sYJ4c3HOzWbO8gxvZ56NU5gw?docId=7b80e91c-95a5-4258-9c2f-4809730012a5&hl=en
-278296224	20131202	IRN	SAU	020	3.0	1	1	1	4.21348314606742	http://www.telegraph.co.uk/news/worldnews/middleeast/iran/10489866/Iran-reaches-out-to-rivals-in-Gulf-monarchies.html
-278296225	20131202	IRN	SAU	020	3.0	2	1	2	2.97520661157025	http://timesofindia.indiatimes.com/world/middle-east/Iran-reaches-out-to-old-foe-Saudi/articleshow/26749751.cms
-278296226	20131202	IRN	SAU	020	3.0	9	3	9	3.33816476335361	http://www.dailystar.com.lb/News/Middle-East/2013/Dec-03/239722-irans-zarif-reaches-out-to-old-foe-saudi-arabia.ashx
-278296227	20131202	IRN	SAU	020	3.0	2	1	2	3.51201478743068	http://www.aljazeera.com/news/middleeast/2013/12/zarif-asks-saudi-arabia-work-with-iran-2013122154323461970.html
-278296228	20131202	IRN	SAU	020	3.0	2	1	2	3.51201478743068	http://www.aljazeera.com/news/middleeast/2013/12/zarif-asks-saudi-arabia-work-with-iran-2013122154323461970.html
-278296229	20131202	IRN	SAU	020	3.0	2	1	2	3.51201478743068	http://www.aljazeera.com/news/middleeast/2013/12/zarif-asks-saudi-arabia-work-with-iran-2013122154323461970.html
-278296230	20131202	IRN	SAU	020	3.0	14	2	14	3.20526725836758	http://www.aljazeera.com/news/middleeast/2013/12/zarif-asks-saudi-arabia-work-with-iran-2013122154323461970.html
-278296231	20131202	IRN	SAU	020	3.0	1	1	1	3.27868852459016	http://www.google.com/hostednews/afp/article/ALeqM5hbN6sYJ4c3HOzWbO8gxvZ56NU5gw?docId=7b80e91c-95a5-4258-9c2f-4809730012a5&hl=en
-278296232	20131202	IRN	SAU	020	3.0	3	2	3	2.90256036888727	http://www.dailystar.com.lb/News/Middle-East/2013/Dec-03/239722-irans-zarif-reaches-out-to-old-foe-saudi-arabia.ashx
-278296233	20131202	IRN	SAU	020	3.0	1	1	1	2.4390243902439	http://www.thehindu.com/news/international/world/deal-with-west-not-a-zerosum-game-iran-reassures-saudi-arabia/article5414804.ece
-278296234	20131202	IRN	SAU	022	3.2	2	1	2	3.07414104882459	http://news.yahoo.com/iran-fm-gulf-tour-urges-saudi-cooperation-stability-134102851.html
-278296235	20131202	IRN	SAU	022	3.2	8	1	8	3.07414104882459	http://news.yahoo.com/iran-fm-gulf-tour-urges-saudi-cooperation-stability-134102851.html
-278296256	20131202	IRN	SYR	020	3.0	8	1	8	4.95867768595041	SANA news agency website, Damascus/BBC Monitoring/(c) BBC
-278296257	20131202	IRN	SYR	020	3.0	2	1	2	4.95867768595041	SANA news agency website, Damascus/BBC Monitoring/(c) BBC
-278296415	20131202	IRN	DEU	020	3.0	10	1	10	1.2987012987013	http://www.irna.ir/en/News/80933082/Politic/Iran%E2%80%99s_envoy_calls_for_annihilation_of_chemical_weapons
-278296426	20131202	IRN	IRN	022	3.2	4	1	4	2.47349823321555	Press TV website, Tehran/BBC Monitoring/(c) BBC
-278296427	20131202	IRN	IRN	022	3.2	2	1	2	2.47349823321555	Press TV website, Tehran/BBC Monitoring/(c) BBC
-278296452	20131202	IRN	OMN	022	3.2	4	1	4	2.47349823321555	Press TV website, Tehran/BBC Monitoring/(c) BBC
-278296453	20131202	IRN	OMN	022	3.2	2	1	2	2.47349823321555	Press TV website, Tehran/BBC Monitoring/(c) BBC
-278296474	20131202	IRN	SAU	020	3.0	8	1	8	3.65853658536585	http://www.naharnet.com/stories/en/108095-iran-fm-on-gulf-tour-urges-saudi-cooperation-for-stability
-278296475	20131202	IRN	SAU	020	3.0	6	1	6	4.21348314606742	http://www.telegraph.co.uk/news/worldnews/middleeast/iran/10489866/Iran-reaches-out-to-rivals-in-Gulf-monarchies.html
-278296476	20131202	IRN	SAU	020	3.0	6	1	6	3.51201478743068	http://www.aljazeera.com/news/middleeast/2013/12/zarif-asks-saudi-arabia-work-with-iran-2013122154323461970.html
-278296477	20131202	IRN	SAU	020	3.0	2	1	2	3.65853658536585	http://www.naharnet.com/stories/en/108095-iran-fm-on-gulf-tour-urges-saudi-cooperation-for-stability
-278296564	20131202	IRQ	AFG	020	3.0	2	1	2	2.28471001757469	Al-Alam TV, Tehran/BBC Monitoring/(c) BBC
-278296565	20131202	IRQ	AFG	027	4.0	2	1	2	2.76243093922652	Tolo News, Kabul/BBC Monitoring/(c) BBC
-278296580	20131202	IRQ	EGY	020	3.0	2	1	2	3.70967741935484	MENA news agency, Cairo/BBC Monitoring/(c) BBC
-278296581	20131202	IRQ	EGY	020	3.0	6	1	6	3.70967741935484	MENA news agency, Cairo/BBC Monitoring/(c) BBC
-278296607	20131202	IRQ	IRN	020	3.0	10	1	10	3.02821748107364	Radikal website, Istanbul/BBC Monitoring/(c) BBC
-278296635	20131202	IRQ	IRQ	026	4.0	2	1	2	4.05405405405405	Shafaq News website, Baghdad/BBC Monitoring/(c) BBC
-278296636	20131202	IRQ	IRQ	026	4.0	2	1	2	4.05405405405405	Shafaq News website, Baghdad/BBC Monitoring/(c) BBC
-278296637	20131202	IRQ	IRQ	026	4.0	4	1	4	2.73556231003039	http://www.aina.org/news/20131202220823.htm
-278296648	20131202	IRQ	KWT	020	3.0	35	4	35	2.6773210122901	http://profit.ndtv.com/news/industries/article-gulf-oil-exporters-rivalry-grows-in-battle-for-asian-buyers-373870
-278296649	20131202	IRQ	KWT	020	3.0	4	2	4	2.60498538984795	http://www.voanews.com/content/reu-gulf-oil-exporters-rivalry-asian-buyers/1802292.html
-278296650	20131202	IRQ	KWT	020	3.0	10	2	10	2.60498538984795	http://www.voanews.com/content/reu-gulf-oil-exporters-rivalry-asian-buyers/1802292.html
-278296651	20131202	IRQ	KWT	020	3.0	14	4	14	2.6773210122901	http://profit.ndtv.com/news/industries/article-gulf-oil-exporters-rivalry-grows-in-battle-for-asian-buyers-373870
-278296675	20131202	IRQ	TKM	020	3.0	2	1	2	0	Anadolu (also known as Anatolia) news agency website, Ankara/BBC Monitoring/(c) BBC
-278296676	20131202	IRQ	TKM	020	3.0	4	1	4	0	Anadolu (also known as Anatolia) news agency website, Ankara/BBC Monitoring/(c) BBC
-278296688	20131202	IRQ	TUR	020	3.0	6	6	6	1.05764853304909	http://www.omantribune.com/index.php?page=news&&id=156698&heading=Middle%20East
-278296689	20131202	IRQ	TUR	020	3.0	1	1	1	1.33079847908745	http://www.omantribune.com/index.php?page=news&&id=156698&heading=Middle%20East
-278296690	20131202	IRQ	TUR	020	3.0	5	5	5	1.00301854384142	http://news.yahoo.com/turkey-moots-three-party-talks-over-iraq-kurd-164550016.html
-278296691	20131202	IRQ	TUR	026	4.0	1	1	1	2.73556231003039	http://www.aina.org/news/20131202220823.htm
-278296692	20131202	IRQ	TUR	026	4.0	1	1	1	2.73556231003039	http://www.aina.org/news/20131202220823.htm
-278296814	20131202	IRQ	AFG	027	4.0	6	1	6	2.76243093922652	Tolo News, Kabul/BBC Monitoring/(c) BBC
-278296833	20131202	IRQ	IRQ	020	3.0	8	1	8	3.71876815804765	Al-Iraqiyah TV, Baghdad/BBC Monitoring/(c) BBC
-278296834	20131202	IRQ	IRQ	020	3.0	2	1	2	3.71876815804765	Al-Iraqiyah TV, Baghdad/BBC Monitoring/(c) BBC
-278296843	20131202	IRQ	IRQ	026	4.0	6	1	6	2.73556231003039	http://www.aina.org/news/20131202220823.htm
-278296844	20131202	IRQ	IRQ	026	4.0	6	1	6	4.05405405405405	Shafaq News website, Baghdad/BBC Monitoring/(c) BBC
-278296990	20131202	ISR	AUS	075	7.0	2	1	2	2.66393442622951	http://www.ynetnews.com/articles/0,7340,L-4438190,00.html
-278296991	20131202	ISR	AUS	075	7.0	6	1	6	2.66393442622951	http://www.ynetnews.com/articles/0,7340,L-4438190,00.html
-278296992	20131202	ISR	AUS	075	7.0	2	1	2	2.66393442622951	http://www.ynetnews.com/articles/0,7340,L-4438190,00.html
-278297059	20131202	ISR	IRN	020	3.0	4	1	4	3.78787878787879	http://www.jpost.com/Breaking-News/Report-Palestinian-enovy-to-calls-for-strengthened-cultural-ties-with-Iran-333688
-278297060	20131202	ISR	IRN	022	3.2	4	1	4	1.97368421052632	http://www.upi.com/blog/2013/12/02/Pope-expresses-hope-for-Middle-East-peace-during-meeting-with-Israeli-PM/9031386017136/
-278297080	20131202	ISR	ISR	020	3.0	2	1	2	2.23613595706619	http://www.latimes.com/world/la-fg-iraq-artifacts-20131202,0,616163.story?track=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+latimes%2Fnews%2Fnationworld%2Fworld+%28L.A.+Times+-+World+News%29
-278297174	20131202	ISR	PSE	071	7.4	5	1	5	0.961538461538462	http://www.israelnationalnews.com/News/News.aspx/174708
-278297208	20131202	ISR	SYR	020	3.0	1	1	1	1.68269230769231	http://www.washingtonpost.com/national/on-faith/pope-francis-meets-with-israels-benjamin-netanyahu/2013/12/02/c616d8ba-5b86-11e3-801f-1f90bf692c9b_story.html
-278297209	20131202	ISR	SYR	020	3.0	2	1	2	1.68269230769231	http://www.washingtonpost.com/national/on-faith/pope-francis-meets-with-israels-benjamin-netanyahu/2013/12/02/c616d8ba-5b86-11e3-801f-1f90bf692c9b_story.html
-278297236	20131202	ISR	USA	020	3.0	8	1	8	1.98961937716263	http://www.bloomberg.com/news/2013-12-02/middle-east-mess-isn-t-about-settlements-.html
-278297237	20131202	ISR	USA	021	3.4	1	1	1	3.20987654320988	http://www.ynetnews.com/articles/0,7340,L-4460604,00.html
-278297238	20131202	ISR	USA	021	3.4	1	1	1	3.20987654320988	http://www.ynetnews.com/articles/0,7340,L-4460604,00.html
-278297239	20131202	ISR	USA	021	3.4	2	1	2	3.20987654320988	http://www.ynetnews.com/articles/0,7340,L-4460604,00.html
-278297249	20131202	ISR	USA	021	3.4	1	1	1	3.20987654320988	http://www.ynetnews.com/articles/0,7340,L-4460604,00.html
-278297250	20131202	ISR	USA	021	3.4	2	1	2	3.20987654320988	http://www.ynetnews.com/articles/0,7340,L-4460604,00.html
-278297251	20131202	ISR	USA	021	3.4	3	1	3	3.20987654320988	http://www.ynetnews.com/articles/0,7340,L-4460604,00.html
-278297285	20131202	ISR	ISR	020	3.0	2	1	2	1.37566137566138	http://www.france24.com/en/20131202-israeli-hacking-school-trains-cyber-warriors?ns_campaign=editorial&ns_fee=0&ns_linkname=20131202_israeli_hacking_school_trains_cyber_warriors
-278297286	20131202	ISR	ISR	020	3.0	2	1	2	1.72413793103448	http://news.yahoo.com/israeli-hacking-school-trains-cyber-warriors-005901224.html
-278297321	20131202	ISR	IRN	020	3.0	4	1	4	2.63157894736842	http://www.irna.ir/en/News/80931965/Politic/Palestinian_envoy_calls_for_further_cultural_ties_with_Iran
-278297337	20131202	ISR	ISR	020	3.0	1	1	1	2.23613595706619	http://www.latimes.com/world/la-fg-iraq-artifacts-20131202,0,616163.story?track=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+latimes%2Fnews%2Fnationworld%2Fworld+%28L.A.+Times+-+World+News%29
-278297362	20131202	ISR	ISR	020	3.0	10	1	10	2.44755244755245	http://www.jpost.com/Diplomacy-and-Politics/Netanyahu-holds-first-meeting-with-Pope-Francis-333708
-278297415	20131202	ITA	AUT	020	3.0	2	1	2	1.22574055158325	http://www.dw.de/eu-exports-its-crisis-to-the-balkans/a-17266626
-278297416	20131202	ITA	AUT	020	3.0	8	1	8	1.22574055158325	http://www.dw.de/eu-exports-its-crisis-to-the-balkans/a-17266626
-278297548	20131202	ITA	CHN	020	3.0	6	1	6	0.384615384615385	http://www.panarmenian.net/eng/news/173408/
-278297549	20131202	ITA	CHN	020	3.0	4	1	4	0.384615384615385	http://www.panarmenian.net/eng/news/173408/
-278297558	20131202	ITA	ITA	020	3.0	6	1	6	0.384615384615385	http://www.panarmenian.net/eng/news/173408/
-278297559	20131202	ITA	ITA	020	3.0	4	1	4	0.384615384615385	http://www.panarmenian.net/eng/news/173408/
-278297676	20131202	JOR	ARE	025	-0.3	3	1	3	2.20883534136546	http://www.prnewswire.com/news-releases/al-arabiya-news-global-discussion-princess-rym-of-jordan-calls-on-arab-world-to-fight-discrimination-234028911.html
-278297752	20131202	JOR	SOM	020	3.0	2	1	2	2.19298245614035	http://www.voanews.com/content/somali-prime-minister-voted-out-of-office/1801638.html
-278297892	20131202	JPN	CHN	020	3.0	1	1	1	3.63036303630363	http://ca.reuters.com/article/topNews/idCABRE9B10ZR20131203
-278297893	20131202	JPN	CHN	020	3.0	23	3	23	2.93512357368178	http://in.reuters.com/article/2013/12/03/japan-china-biden-idINDEE9B200V20131203?feedType=RSS&feedName=worldNews
-278297960	20131202	JPN	EGY	020	3.0	18	2	18	2.49523667347126	Quotes package from BBC Monitoring/BBC Monitoring/(c) BBC
-278297961	20131202	JPN	EGY	020	3.0	2	1	2	2.65878877400295	Quotes package from BBC Monitoring/BBC Monitoring/(c) BBC
-278297966	20131202	JPN	EUR	020	3.0	2	1	2	1.11386138613861	http://oilprice.com/Energy/Energy-General/Europe-and-Its-Slippery-Energy-Slope.html
-278297967	20131202	JPN	EUR	020	3.0	2	1	2	1.11386138613861	http://oilprice.com/Energy/Energy-General/Europe-and-Its-Slippery-Energy-Slope.html
-278298042	20131202	JPN	KOR	020	3.0	8	1	8	1.71990171990172	http://gizmodo.com/chinas-claiming-territory-by-calling-dibs-on-800-year-1474854084?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+gizmodo%2Ffull+%28Gizmodo%29
-278298043	20131202	JPN	KOR	020	3.0	2	1	2	1.71990171990172	http://gizmodo.com/chinas-claiming-territory-by-calling-dibs-on-800-year-1474854084?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+gizmodo%2Ffull+%28Gizmodo%29
-278298117	20131202	JPN	USA	020	3.0	1	1	1	1.16618075801749	http://www.cnn.com/2013/12/02/world/asia/japan-china-us-tensions/
-278298118	20131202	JPN	USA	020	3.0	2	1	2	0.346020761245675	http://zeenews.india.com/news/world/us-continues-to-defy-chinese-air-defence-zone_893970.html
-278298119	20131202	JPN	USA	020	3.0	2	1	2	0.346020761245675	http://zeenews.india.com/news/world/us-continues-to-defy-chinese-air-defence-zone_893970.html
-278298120	20131202	JPN	USA	020	3.0	3	1	3	1.24251560663906	http://edition.cnn.com/2013/12/02/world/asia/japan-china-us-tensions/index.html
-278298163	20131202	JPN	CHN	020	3.0	4	1	4	2.0979020979021	http://news.yahoo.com/biden-arrives-tokyo-japan-seeks-support-china-dispute-171039043.html
-278298164	20131202	JPN	CHN	020	3.0	6	1	6	2.0979020979021	http://news.yahoo.com/biden-arrives-tokyo-japan-seeks-support-china-dispute-171039043.html
-278298191	20131202	JPN	JPN	0233	3.4	4	2	4	1.35496105379063	http://www.google.com/hostednews/afp/article/ALeqM5goXZvj9fxiPplYJm-r48UWvWWJrw?docId=175f90b6-c95e-43fa-9ec6-c0fb97dd8caf&hl=en
-278298216	20131202	JPN	USA	020	3.0	10	1	10	2.47252747252747	http://www.reuters.com/article/2013/12/02/japan-insidertrading-idUSL4N0JH1NZ20131202?type=companyNews&feedType=RSS&feedName=companyNews
-278298908	20131202	KAZ	RUS	020	3.0	1	1	1	4.37424058323208	http://www.bloomberg.com/news/2013-12-02/rich-kazakhs-revive-polygamy-as-young-women-seek-poverty-escape.html
-278298909	20131202	KAZ	RUS	020	3.0	1	1	1	4.37424058323208	http://www.bloomberg.com/news/2013-12-02/rich-kazakhs-revive-polygamy-as-young-women-seek-poverty-escape.html
-278299107	20131202	KOR	PRK	020	3.0	2	1	2	1.13636363636364	http://www.globalsecurity.org/wmd/library/news/dprk/2013/dprk-131130-voa01.htm
-278299117	20131202	KOR	USA	020	3.0	10	1	10	1.33328973763793	http://www.reuters.com/article/2013/12/03/us-korea-north-newman-hedges-idUSBRE9B204D20131203?feedType=RSS&feedName=worldNews
-278299118	20131202	KOR	USA	020	3.0	10	1	10	1.33328973763793	http://www.reuters.com/article/2013/12/03/us-korea-north-newman-hedges-idUSBRE9B204D20131203?feedType=RSS&feedName=worldNews
-278299180	20131202	KWT	IRN	026	4.0	1	1	1	2.09205020920502	http://www.irna.ir/en/News/80932227/Politic/FM_Zarif_opens_7-yr-old_lock_in_Kuwait
-278299181	20131202	KWT	IRN	026	4.0	1	1	1	2.09205020920502	http://www.irna.ir/en/News/80932227/Politic/FM_Zarif_opens_7-yr-old_lock_in_Kuwait
-278299213	20131202	KWT	QAT	026	4.0	16	1	16	4	http://www.bna.bh/portal/en/news/591133
-278299222	20131202	KWT	SAU	020	3.0	10	1	10	3.58910891089109	http://www.omanet.om/english/0news/viewdetails.asp?id=27544
-278299233	20131202	KWT	IRN	026	4.0	1	1	1	2.09205020920502	http://www.irna.ir/en/News/80932227/Politic/FM_Zarif_opens_7-yr-old_lock_in_Kuwait
-278299234	20131202	KWT	IRN	026	4.0	7	1	7	2.09205020920502	http://www.irna.ir/en/News/80932227/Politic/FM_Zarif_opens_7-yr-old_lock_in_Kuwait
-278299502	20131202	LBN	LBY	020	3.0	10	1	10	2.67857142857143	Lebanese National News Agency website, Beirut/BBC Monitoring/(c) BBC
-278299544	20131202	LBN	SAU	020	3.0	10	1	10	2.22222222222222	http://www.dailystar.com.lb/News/Lebanon-News/2013/Dec-02/239694-siniora-rai-agree-on-need-to-implement-baabda-declaration.ashx
-278299546	20131202	LBN	SYR	020	3.0	2	1	2	2.1484375	http://www.trust.org/item/20131202133453-yq29k/
-278299547	20131202	LBN	SYR	020	3.0	2	1	2	2.1484375	http://www.trust.org/item/20131202133453-yq29k/
-278299548	20131202	LBN	SYR	0253	-0.3	2	1	2	2.1484375	http://www.trust.org/item/20131202133453-yq29k/
-278299549	20131202	LBN	SYR	0253	-0.3	2	1	2	2.1484375	http://www.trust.org/item/20131202133453-yq29k/
-278300364	20131202	MAR	JOR	022	3.2	2	1	2	0.833333333333333	http://www.upi.com/Top_News/World-News/2013/12/02/WTO-asked-to-add-Arabic-as-groups-official-language/UPI-52991385999582/
-278300365	20131202	MAR	JOR	022	3.2	6	1	6	0.833333333333333	http://www.upi.com/Top_News/World-News/2013/12/02/WTO-asked-to-add-Arabic-as-groups-official-language/UPI-52991385999582/
-278300366	20131202	MAR	JOR	022	3.2	2	1	2	0.833333333333333	http://www.upi.com/Top_News/World-News/2013/12/02/WTO-asked-to-add-Arabic-as-groups-official-language/UPI-52991385999582/
-278300383	20131202	MCO	LBN	070	7.0	2	2	2	2.16294272490237	http://www.seattlepi.com/news/world/article/Lebanon-puts-army-in-control-of-Tripoli-5027374.php
-278300412	20131202	MDV	AUS	020	3.0	2	1	2	1.55642023346304	http://www.upi.com/Science_News/2013/12/02/Secrets-of-big-voices-in-little-koalas-discovered/UPI-47301386024359/?spt=rln&or=1
-278300424	20131202	MDV	KIR	020	3.0	10	1	10	1.38613861386139	http://gulftoday.ae/portal/bc7be99c-5acb-47ee-ac37-1af6e712a84d.aspx
-278301254	20131202	MEX	MEX	071	7.4	8	1	8	4.28571428571429	http://thecelebritycafe.com/feature/2013/12/crowds-protests-mexican-preisdent-enrique-pena-nietos-energy-reform
-278301266	20131202	MEX	USA	070	7.0	8	1	8	2.3696682464455	http://www.watchnewspapers.com/view/full_story/24147143/article-Mayflower-Mill-Project-First-in-Colo--to-Benefit-from-Small-Hydro-Reform-?instance=latest_story
-278301798	20131202	MLI	MLI	020	3.0	2	1	2	4.46428571428571	http://www.upi.com/Top_News/Special/2013/12/02/Malian-courts-show-courage-rights-group-says/UPI-73841386003888/
-278301836	20131202	MMR	MMR	020	3.0	14	5	14	1.65817931525957	http://www.cbsnews.com/news/burma-continues-to-enlist-children-soldiers/
-278301837	20131202	MMR	MMR	020	3.0	2	1	2	1.67213114754098	http://www.cbsnews.com/news/burma-continues-to-enlist-children-soldiers/
-278301897	20131202	CHE	USA	071	7.4	5	1	5	1.51515151515152	http://www.prnewswire.com/news-releases/shutterstock-to-participate-in-the-credit-suisse-2013-annual-technology-conference-234100181.html
-278301912	20131202	DEU	DEU	020	3.0	2	1	2	1.55038759689922	http://uk.reuters.com/article/2013/12/02/markets-europe-stocks-idUKL5N0JH1A420131202?feedType=RSS&feedName=rbssFinancialServicesAndRealEstateNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+reuters%2FUKBankingFinancial+%28News+%2F+UK+%2F+Fi
-278301914	20131202	DEU	USA	020	3.0	50	4	50	3.18081786149853	http://uk.reuters.com/article/2013/12/03/uk-twitter-analysts-idUKBRE9B10Y320131203?feedType=RSS&feedName=topNews
-278301915	20131202	DEU	USA	020	3.0	5	1	5	2.87878787878788	http://www.theglobeandmail.com/report-on-business/international-business/us-business/twitter-stock-gets-mixed-reviews-from-ipo-underwriters/article15726569/?cmpid=rss1
-278301916	20131202	DEU	USA	020	3.0	10	1	10	1.42517814726841	http://www.bloomberg.com/news/2013-12-02/twitter-s-underwriters-project-limited-share-gains.html
-278301917	20131202	DEU	USA	020	3.0	10	1	10	1.50375939849624	http://www.contracostatimes.com/business/ci_24640242/twitters-underwriters-project-limited-share-gains-post-ipo
-278301987	20131202	MYS	CAN	020	3.0	4	1	4	4.9908260642278	http://www.4-traders.com/news/Government-of-British-Columbia--LNG-momentum-evident-as-Aurora-LNG-submits-export-bid--17572387/
-278302091	20131202	USA	USA	071	7.4	2	1	2	3.50076103500761	http://www.bloomberg.com/news/2013-12-02/kashkari-bets-on-u-s-rescue-to-fuel-challenge-of-brown.html
-278302092	20131202	USA	USA	071	7.4	2	1	2	3.50076103500761	http://www.bloomberg.com/news/2013-12-02/kashkari-bets-on-u-s-rescue-to-fuel-challenge-of-brown.html
-278302093	20131202	USA	USA	071	7.4	10	1	10	2.87648054145516	http://www.bloomberg.com/news/2013-12-02/hartford-financial-bailout-warrants-double-since-auction.html
-278302163	20131202	USA	USA	071	7.4	1	1	1	2.08333333333333	http://www.newsday.com/long-island/towns/audit-cites-babylon-officials-over-garbage-fund-loans-1.6528267
-278302481	20131202	MYS	USA	071	7.4	10	1	10	0	http://www.reuters.com/article/2013/12/02/malaysia-ekovest-bonds-idUSL4N0JH39320131202
-278302495	20131202	NAM	AFR	020	3.0	8	1	8	2.54237288135593	http://www.arabianbusiness.com/uae-s-utico-build-300m-power-plant-in-namibia-529060.html
-278302496	20131202	NAM	AFR	020	3.0	2	1	2	2.54237288135593	http://www.arabianbusiness.com/uae-s-utico-build-300m-power-plant-in-namibia-529060.html
-278302510	20131202	NER	NGA	020	3.0	2	1	2	3.73883928571429	http://www.thisdaylive.com/articles/pdp-govs-continue-complaints-over-turkur/165715/
-278302511	20131202	NER	NGA	020	3.0	2	1	2	3.73883928571429	http://www.thisdaylive.com/articles/pdp-govs-continue-complaints-over-turkur/165715/
-278302832	20131202	USA	USA	020	3.0	20	4	20	0.710261577777625	http://www.reuters.com/article/2013/12/02/us-bahrain-rights-idUSBRE9B10PE20131202?feedType=RSS&feedName=worldNews
-278302833	20131202	USA	USA	0253	-0.3	20	4	20	0.710261577777625	http://www.reuters.com/article/2013/12/02/us-bahrain-rights-idUSBRE9B10PE20131202?feedType=RSS&feedName=worldNews
-278302859	20131202	NLD	BGD	071	7.4	4	1	4	6.57894736842105	http://reliefweb.int/report/bangladesh/proofs-project-launched-bangladesh
-278302911	20131202	NLD	BGD	071	7.4	2	1	2	6.57894736842105	http://reliefweb.int/report/bangladesh/proofs-project-launched-bangladesh
-278302914	20131202	NLD	NLD	071	7.4	4	1	4	6.57894736842105	http://reliefweb.int/report/bangladesh/proofs-project-launched-bangladesh
-278302966	20131202	NOR	JPN	071	7.4	5	1	5	0.469483568075117	http://www.google.com/hostednews/afp/article/ALeqM5iCbtJQ5g9iXBfPXIffstL0F1B06Q?docId=febda965-6571-4066-978e-2741ab913fb0&hl=en
-278302973	20131202	NOR	NOR	070	7.0	1	1	1	1.99335548172757	http://reliefweb.int/report/world/increased-support-fight-against-hivaids-tuberculosis-and-malaria
-278303113	20131202	NZL	NZL	073	7.4	2	1	2	1.96078431372549	http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11165826
-278303139	20131202	NZL	USA	020	3.0	2	1	2	1.2909632571996	http://www.sun-sentinel.com/news/palm-beach/fl-goodman-retrial-motions-hearing-20131202,0,1487774.story?track=rss
-278303140	20131202	NZL	USA	020	3.0	2	1	2	1.2909632571996	http://www.sun-sentinel.com/news/palm-beach/fl-goodman-retrial-motions-hearing-20131202,0,1487774.story?track=rss
-278303216	20131202	OMN	SAU	020	3.0	9	2	9	3.31511839708561	http://www.thenews.com.pk/Todays-News-1-217852-Zarif-urges-S-Arabia-to-work-jointly-for-stability
-278303217	20131202	OMN	SAU	020	3.0	6	1	6	3.65296803652968	http://www.dailystar.com.lb/News/Middle-East/2013/Dec-02/239605-irans-zarif-urges-saudi-to-work-jointly-for-stability.ashx
-278303218	20131202	OMN	SAU	020	3.0	13	3	13	3.41066523864637	http://www.google.com/hostednews/afp/article/ALeqM5hbN6sYJ4c3HOzWbO8gxvZ56NU5gw?docId=7b80e91c-95a5-4258-9c2f-4809730012a5&hl=en
-278303219	20131202	OMN	SAU	020	3.0	1	1	1	3.27868852459016	http://www.google.com/hostednews/afp/article/ALeqM5hbN6sYJ4c3HOzWbO8gxvZ56NU5gw?docId=7b80e91c-95a5-4258-9c2f-4809730012a5&hl=en
-278303220	20131202	OMN	SAU	020	3.0	1	1	1	3.27868852459016	http://www.google.com/hostednews/afp/article/ALeqM5hbN6sYJ4c3HOzWbO8gxvZ56NU5gw?docId=7b80e91c-95a5-4258-9c2f-4809730012a5&hl=en
-278303819	20131202	PAK	AFG	020	3.0	8	1	8	8.68055555555556	Mojahed, Kabul/BBC Monitoring/(c) BBC
-278303820	20131202	PAK	AFG	020	3.0	1	1	1	8.68055555555556	Mojahed, Kabul/BBC Monitoring/(c) BBC
-278303821	20131202	PAK	AFG	020	3.0	1	1	1	8.68055555555556	Mojahed, Kabul/BBC Monitoring/(c) BBC
-278303864	20131202	PAK	AFG	020	3.0	20	2	20	4.78766066145002	http://zeenews.india.com/news/south-asia/pakistan-rejects-proposal-for-taliban-office-on-its-soil_893813.html
-278303874	20131202	PAK	AFG	070	7.0	10	1	10	6.16438356164384	http://www.voanews.com/content/pakistan-pleges-support-for-afghan-taliban-talks/1801998.html
-278304009	20131202	PAK	PAK	020	3.0	3	1	3	2.86259541984733	Associated Press of Pakistan news agency, Islamabad/BBC Monitoring/(c) BBC
-278304082	20131202	PAK	PAK	020	3.0	2	1	2	3.71352785145889	Anis, Kabul/BBC Monitoring/(c) BBC
-278304247	20131202	PHL	PHL	023	3.4	8	1	8	3.04568527918782	http://www.journalnow.com/news/local/article_9ae00cde-5afa-11e3-b276-0019bb30f31a.html
-278304261	20131202	PHL	PHL	020	3.0	4	1	4	0.33003300330033	http://news.xinhuanet.com/english/world/2013-12/02/c_132935892.htm
-278304265	20131202	PHL	THA	020	3.0	10	1	10	1.16822429906542	http://www.channelnewsasia.com/news/asiapacific/hong-kong-travel-agencies/907132.html
-278304362	20131202	PRK	CHN	0253	-0.3	4	3	4	1.94234844618517	http://www.chicagotribune.com/news/sns-rt-us-japan-china-biden-20131201,0,3890792.story
-278304363	20131202	PRK	CHN	0253	-0.3	4	3	4	1.94234844618517	http://www.chicagotribune.com/news/sns-rt-us-japan-china-biden-20131201,0,3890792.story
-278304401	20131202	PRK	USA	020	3.0	2	1	2	1.13636363636364	http://www.globalsecurity.org/wmd/library/news/dprk/2013/dprk-131130-voa01.htm
-278304479	20131202	PSE	IRN	020	3.0	6	1	6	3.78787878787879	http://www.jpost.com/Breaking-News/Report-Palestinian-enovy-to-calls-for-strengthened-cultural-ties-with-Iran-333688
-278304480	20131202	PSE	IRN	020	3.0	2	1	2	2.63157894736842	http://www.irna.ir/en/News/80931965/Politic/Palestinian_envoy_calls_for_further_cultural_ties_with_Iran
-278304484	20131202	PSE	ISR	020	3.0	1	1	1	5.60165975103734	http://www.bna.bh/portal/en/news/591146
-278304485	20131202	PSE	ISR	020	3.0	1	1	1	5.60165975103734	http://www.bna.bh/portal/en/news/591146
-278304523	20131202	PSE	ISR	020	3.0	2	1	2	0	Safa website, Gaza/BBC Monitoring/(c) BBC
-278304524	20131202	PSE	ISR	020	3.0	4	1	4	0	Safa website, Gaza/BBC Monitoring/(c) BBC
-278304566	20131202	PSE	PSE	020	3.0	2	1	2	0	Safa website, Gaza/BBC Monitoring/(c) BBC
-278304567	20131202	PSE	IRN	020	3.0	2	1	2	2.63157894736842	http://www.irna.ir/en/News/80931965/Politic/Palestinian_envoy_calls_for_further_cultural_ties_with_Iran
-278304572	20131202	PSE	ISR	020	3.0	2	1	2	5.88235294117647	http://www.jpost.com/Breaking-News/Abbas-calls-Deri-to-express-condolences-for-Ovadia-Yosefs-passing-two-months-later-333752
-278304583	20131202	PSE	ISR	020	3.0	5	1	5	0.735294117647059	http://www.israelnationalnews.com/News/News.aspx/174728
-278304725	20131202	QAT	EGY	020	3.0	1	1	1	3.29847144006436	http://www.dailystar.com.lb/Business/Middle-East/2013/Dec-03/239710-gulf-states-minus-qatar-rally-egypt-investment.ashx
-278304726	20131202	QAT	EGY	020	3.0	13	3	13	3.21725663921473	http://www.reuters.com/article/2013/12/02/egypt-gulf-investment-idUSL5N0JA2EQ20131202?feedType=RSS&feedName=mergersNews
-278304727	20131202	QAT	EGY	020	3.0	2	1	2	3.18217979315831	http://in.reuters.com/article/2013/12/02/egypt-gulf-investment-idINDEE9B10AP20131202?feedType=RSS&feedName=worldNews
-278304778	20131202	QAT	SAU	020	3.0	18	2	18	3.06360758192508	http://www.dailystar.com.lb/News/Middle-East/2013/Dec-03/239722-irans-zarif-reaches-out-to-old-foe-saudi-arabia.ashx
-278304779	20131202	QAT	SAU	020	3.0	2	1	2	2.97520661157025	http://timesofindia.indiatimes.com/world/middle-east/Iran-reaches-out-to-old-foe-Saudi/articleshow/26749751.cms
-278304809	20131202	QAT	JPN	071	7.4	6	1	6	2.0979020979021	http://www.menafn.com/1093731309/Japan-to-Contribute-USD800-Million-to-Global-Fund
-278304810	20131202	QAT	JPN	071	7.4	4	1	4	2.0979020979021	http://www.menafn.com/1093731309/Japan-to-Contribute-USD800-Million-to-Global-Fund
-278305259	20131202	RUS	AFG	020	3.0	3	1	3	1.95694716242661	Interfax news agency, Moscow/BBC Monitoring/(c) BBC
-278305351	20131202	RUS	ARM	020	3.0	1	1	1	2.37825594563986	Multiple Sources/BBC Monitoring/(c) BBC
-278305530	20131202	RUS	GRC	020	3.0	2	1	2	3.76569037656904	Multiple Sources/BBC Monitoring/(c) BBC
-278305533	20131202	RUS	EUR	020	3.0	4	1	4	1.22574055158325	http://www.dw.de/eu-exports-its-crisis-to-the-balkans/a-17266626
-278305636	20131202	RUS	POL	020	3.0	1	1	1	2.05607476635514	Rossiya 1 TV, Moscow/BBC Monitoring/(c) BBC
-278305637	20131202	RUS	POL	020	3.0	1	1	1	2.05607476635514	Rossiya 1 TV, Moscow/BBC Monitoring/(c) BBC
-278305638	20131202	RUS	POL	020	3.0	2	1	2	2.05607476635514	Rossiya 1 TV, Moscow/BBC Monitoring/(c) BBC
-278305639	20131202	RUS	POL	020	3.0	3	1	3	2.05607476635514	Rossiya 1 TV, Moscow/BBC Monitoring/(c) BBC
-278305654	20131202	RUS	RUS	071	7.4	2	1	2	2.17741935483871	Rossiyskaya Gazeta website, Moscow/BBC Monitoring/(c) BBC
-278305666	20131202	RUS	RUS	020	3.0	2	1	2	2.17741935483871	Rossiyskaya Gazeta website, Moscow/BBC Monitoring/(c) BBC
-278305667	20131202	RUS	RUS	020	3.0	2	1	2	2.17741935483871	Rossiyskaya Gazeta website, Moscow/BBC Monitoring/(c) BBC
-278305688	20131202	RUS	RUS	022	3.2	2	1	2	1.52671755725191	Izvestiya website, Moscow/BBC Monitoring/(c) BBC
-278305689	20131202	RUS	RUS	022	3.2	4	1	4	1.52671755725191	Izvestiya website, Moscow/BBC Monitoring/(c) BBC
-278305716	20131202	RUS	UKR	020	3.0	8	1	8	2.56410256410256	Rossiyskaya Gazeta website, Moscow/BBC Monitoring/(c) BBC
-278305717	20131202	RUS	UKR	020	3.0	12	1	12	2.90101980140111	http://www.themoscowtimes.com/news/article/kiev-protesters-bring-city-to-standstill/490744.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:%20themoscowtimes/RUXi%20(The%20Moscow%20Times)
-278305718	20131202	RUS	UKR	020	3.0	2	1	2	0.5	http://www.novinite.com/view_news.php?id=156051
-278305719	20131202	RUS	UKR	020	3.0	2	1	2	0.5	http://www.novinite.com/view_news.php?id=156051
-278305720	20131202	RUS	UKR	020	3.0	2	1	2	1.79640718562874	http://www.novinite.com/view_news.php?id=156040
-278305721	20131202	RUS	UKR	020	3.0	2	1	2	1.79640718562874	http://www.novinite.com/view_news.php?id=156040
-278305739	20131202	RUS	UKR	070	7.0	1	1	1	2.4896265560166	http://cpj.org/2013/12/journalists-attacked-while-covering-protests-in-ki.php
-278305740	20131202	RUS	UKR	070	7.0	1	1	1	2.4896265560166	http://cpj.org/2013/12/journalists-attacked-while-covering-protests-in-ki.php
-278305741	20131202	RUS	UKR	071	7.4	15	2	15	2.76973867558471	http://www.businessweek.com/news/2013-12-02/russia-offers-ukraine-cheaper-gas-to-join-moscow-led-group-1
-278305742	20131202	RUS	UKR	071	7.4	5	1	5	3.28638497652582	http://www.armradio.am/en/2013/12/02/russia-promises-cheep-gas-to-ukraine-if-it-joins-the-customs-union-like-armenia/
-278305791	20131202	RUS	USA	075	7.0	4	1	4	2.51192870381324	http://www.upi.com/Top_News/World-News/2013/12/02/Report-Australia-offered-to-share-data-on-ordinary-citizens/UPI-62941385994641/?spt=rln&or=2
-278305792	20131202	RUS	USA	075	7.0	2	1	2	1.99063231850117	http://www.theguardian.com/world/2013/dec/02/edward-snowden-nsa-whistleblower-us-law
-278305793	20131202	RUS	USA	075	7.0	4	1	4	2.51192870381324	http://www.upi.com/Top_News/World-News/2013/12/02/Report-Australia-offered-to-share-data-on-ordinary-citizens/UPI-62941385994641/?spt=rln&or=2
-278305794	20131202	RUS	USA	075	7.0	2	1	2	1.99063231850117	http://www.theguardian.com/world/2013/dec/02/edward-snowden-nsa-whistleblower-us-law
-278305881	20131202	RUS	ARM	020	3.0	1	1	1	2.37825594563986	Multiple Sources/BBC Monitoring/(c) BBC
-278305942	20131202	RUS	RUS	020	3.0	2	1	2	1.06951871657754	http://www.rte.ie/news/2013/1202/490357-ukraine-protests/
-278305943	20131202	RUS	RUS	020	3.0	4	1	4	2.17741935483871	Rossiyskaya Gazeta website, Moscow/BBC Monitoring/(c) BBC
-278305964	20131202	RUS	RUS	075	7.0	6	1	6	1.99063231850117	http://www.theguardian.com/world/2013/dec/02/edward-snowden-nsa-whistleblower-us-law
-278305991	20131202	RUS	RUS	020	3.0	2	1	2	0.737100737100737	Interfax news agency, Moscow/BBC Monitoring/(c) BBC
-278305992	20131202	RUS	RUS	020	3.0	2	1	2	0.737100737100737	Interfax news agency, Moscow/BBC Monitoring/(c) BBC
-278306013	20131202	RUS	RUS	022	3.2	2	1	2	1.52671755725191	Izvestiya website, Moscow/BBC Monitoring/(c) BBC
-278306014	20131202	RUS	RUS	022	3.2	1	1	1	1.52671755725191	Izvestiya website, Moscow/BBC Monitoring/(c) BBC
-278306015	20131202	RUS	RUS	022	3.2	1	1	1	1.52671755725191	Izvestiya website, Moscow/BBC Monitoring/(c) BBC
-278306170	20131202	SAU	ISR	020	3.0	1	1	1	3.58744394618834	http://www.eurasiareview.com/02122013-iran-claims-saudis-israelis-developing-new-super-stuxnet/
-278306171	20131202	SAU	ISR	020	3.0	1	1	1	3.58744394618834	http://www.eurasiareview.com/02122013-iran-claims-saudis-israelis-developing-new-super-stuxnet/
-278306178	20131202	SAU	JOR	022	3.2	2	1	2	0.833333333333333	http://www.upi.com/Top_News/World-News/2013/12/02/WTO-asked-to-add-Arabic-as-groups-official-language/UPI-52991385999582/
-278306179	20131202	SAU	JOR	022	3.2	6	1	6	0.833333333333333	http://www.upi.com/Top_News/World-News/2013/12/02/WTO-asked-to-add-Arabic-as-groups-official-language/UPI-52991385999582/
-278306180	20131202	SAU	JOR	022	3.2	2	1	2	0.833333333333333	http://www.upi.com/Top_News/World-News/2013/12/02/WTO-asked-to-add-Arabic-as-groups-official-language/UPI-52991385999582/
-278306215	20131202	SAU	SAU	071	7.4	4	1	4	0	http://www.menafn.com/1093731167/Saudi-banks-compete-to-win-funding-USD7224-b-projects
-278306300	20131202	SRB	RUS	025	-0.3	6	1	6	1.83206106870229	Blic website, Belgrade/BBC Monitoring/(c) BBC
-278306301	20131202	SRB	RUS	025	-0.3	4	1	4	1.83206106870229	Blic website, Belgrade/BBC Monitoring/(c) BBC
-278306329	20131202	SDN	SDN	022	3.2	7	1	7	1.59574468085106	http://allafrica.com/stories/201312020223.html
-278306350	20131202	SEA	IDN	070	7.0	11	9	10	2.52996539499726	http://www.businessweek.com/ap/2013-12-02/fresh-violence-pushes-thailand-deeper-into-crisis
-278306351	20131202	SEA	IDN	070	7.0	44	9	40	2.52996539499726	http://www.businessweek.com/ap/2013-12-02/fresh-violence-pushes-thailand-deeper-into-crisis
-278306404	20131202	SGP	SGP	020	3.0	4	1	4	4.97737556561086	http://www.channelnewsasia.com/news/singapore/vietnamese-party/907070.html
-278306491	20131202	SOM	SOM	020	3.0	10	1	10	2.01342281879195	http://www.africareview.com/Special-Reports/Just-dial-888-in-Somalia/-/979182/2095384/-/s0y9j9/-/index.html
-278306514	20131202	SOM	SOM	020	3.0	2	1	2	2.19298245614035	http://www.voanews.com/content/somali-prime-minister-voted-out-of-office/1801638.html
-278306832	20131202	SYR	CHE	020	3.0	4	2	4	3.05347951260651	http://www.news24.com/World/News/Red-Cross-1-millions-Syrians-lack-food-20131202
-278306833	20131202	SYR	CHE	020	3.0	16	2	16	3.05347951260651	http://www.news24.com/World/News/Red-Cross-1-millions-Syrians-lack-food-20131202
-278306888	20131202	SYR	IRN	020	3.0	2	1	2	1.03626943005181	Voice of the Islamic Republic of Iran External Service, Mashhad/BBC Monitoring/(c) BBC
-278306889	20131202	SYR	IRN	020	3.0	1	1	1	2.51968503937008	Cumhuriyet website, Istanbul/BBC Monitoring/(c) BBC
-278306890	20131202	SYR	IRN	020	3.0	1	1	1	2.51968503937008	Cumhuriyet website, Istanbul/BBC Monitoring/(c) BBC
-278306891	20131202	SYR	IRN	020	3.0	6	1	6	2.51968503937008	Cumhuriyet website, Istanbul/BBC Monitoring/(c) BBC
-278306894	20131202	SYR	IRN	071	7.4	2	1	2	1.83752417794971	Yeni Safak website, Istanbul/BBC Monitoring/(c) BBC
-278306897	20131202	SYR	IRN	020	3.0	2	1	2	1.03626943005181	Voice of the Islamic Republic of Iran External Service, Mashhad/BBC Monitoring/(c) BBC
-278306898	20131202	SYR	IRN	020	3.0	4	1	4	1.76311030741411	http://www.state.gov/r/pa/prs/dpb/2013/12/218178.htm
-278306899	20131202	SYR	IRN	020	3.0	1	1	1	1.76311030741411	http://www.state.gov/r/pa/prs/dpb/2013/12/218178.htm
-278306900	20131202	SYR	IRN	071	7.4	8	1	8	1.83752417794971	Yeni Safak website, Istanbul/BBC Monitoring/(c) BBC
-278306910	20131202	SYR	ISR	020	3.0	10	1	10	0	http://www.ynetnews.com/articles/0,7340,L-4460536,00.html
-278306933	20131202	SYR	JOR	020	3.0	3	1	3	1.03626943005181	Voice of the Islamic Republic of Iran External Service, Mashhad/BBC Monitoring/(c) BBC
-278306934	20131202	SYR	JOR	020	3.0	3	1	3	1.03626943005181	Voice of the Islamic Republic of Iran External Service, Mashhad/BBC Monitoring/(c) BBC
-278307099	20131202	SYR	USA	026	4.0	8	1	8	1.89982728842832	http://www.bbc.co.uk/news/magazine-24081498
-278307100	20131202	SYR	USA	026	4.0	2	1	2	1.89982728842832	http://www.bbc.co.uk/news/magazine-24081498
-278307206	20131202	SYR	AUS	072	8.3	8	1	8	0.655307994757536	http://www.smh.com.au/nsw/sydney-men-arrested-over-bid-to-help-fighters-in-syria-20131203-2ynr4.html
-278307368	20131202	THA	THA	020	3.0	1	1	1	3.52112676056338	http://www.nationmultimedia.com/opinion/Out-of-senseless-tragedy-a-lone-voice-of-sanity-30221175.html
-278307371	20131202	THA	THA	020	3.0	2	1	2	2.63157894736842	http://www.theguardian.com/world/video/2013/dec/02/thai-government-calm-violence-bangkok-video
-278307372	20131202	THA	THA	026	4.0	4	1	2	2.96096904441454	http://www.cbsnews.com/news/protest-leader-says-he-met-with-thailands-prime-minister/
-278307373	20131202	THA	THA	027	4.0	2	1	2	2.13675213675214	http://news.xinhuanet.com/english/china/2013-12/02/c_132935562.htm
-278307387	20131202	THA	THA	020	3.0	1	1	1	1.75131348511384	http://zeenews.india.com/news/world/yingluck-shinawatra-given-2-day-ultimatum-as-thai-protesters-call-for-strike_893729.html
-278307388	20131202	THA	THA	020	3.0	1	1	1	1.75131348511384	http://zeenews.india.com/news/world/yingluck-shinawatra-given-2-day-ultimatum-as-thai-protesters-call-for-strike_893729.html
-278307400	20131202	THA	USA	071	7.4	10	1	10	0	http://www.reuters.com/article/2013/12/02/thailand-central-fund-idUSL4N0JH1I920131202
-278307405	20131202	THA	IDN	070	7.0	5	1	5	2.71604938271605	http://www.nationmultimedia.com/business/PTTEP-Pertamina-to-acquire-Hess-stakes-in-two-proj-30221172.html
-278307416	20131202	THA	PHL	020	3.0	6	1	6	0.33003300330033	http://news.xinhuanet.com/english/world/2013-12/02/c_132935892.htm
-278307439	20131202	THA	THA	020	3.0	12	1	6	2.63157894736842	http://www.theguardian.com/world/video/2013/dec/02/thai-government-calm-violence-bangkok-video
-278307440	20131202	THA	THA	020	3.0	6	1	6	2.22222222222222	http://www.asianage.com/india/thai-anti-government-protesters-shield-themselves-behind-fence-they-clash-police-during-ongoin
-278307632	20131202	TUR	CHE	020	3.0	2	1	2	1.59574468085106	http://armenpress.am/eng/news/742270/
-278307633	20131202	TUR	CHE	020	3.0	8	1	8	1.59574468085106	http://armenpress.am/eng/news/742270/
-278307700	20131202	TUR	IRN	022	3.2	7	1	7	3.7956204379562	Hurriyet website, Istanbul/BBC Monitoring/(c) BBC
-278307717	20131202	TUR	IRQ	020	3.0	10	1	10	2	http://www.upstreamonline.com/live/article1345318.ece
-278307765	20131202	TUR	IRQ	070	7.0	1	1	1	1.49750415973378	http://www.hurriyetdailynews.com/turkey-bids-to-solve-oil-row-with-baghdad-krg.aspx?pageID=238&nID=58909&NewsCatID=348
-278307766	20131202	TUR	IRQ	070	7.0	3	1	3	1.49750415973378	http://www.hurriyetdailynews.com/turkey-bids-to-solve-oil-row-with-baghdad-krg.aspx?pageID=238&nID=58909&NewsCatID=348
-278307767	20131202	TUR	IRQ	070	7.0	2	1	2	1.49750415973378	http://www.hurriyetdailynews.com/turkey-bids-to-solve-oil-row-with-baghdad-krg.aspx?pageID=238&nID=58909&NewsCatID=348
-278307768	20131202	TUR	IRQ	070	7.0	4	1	4	1.49750415973378	http://www.hurriyetdailynews.com/turkey-bids-to-solve-oil-row-with-baghdad-krg.aspx?pageID=238&nID=58909&NewsCatID=348
-278307797	20131202	TUR	MYS	020	3.0	10	1	10	1.58730158730159	http://www.thestar.com.my/Business/Business-News/2013/12/02/Trading-in-Tenaga-Nasional-suspended-in-afternoon-session.aspx
-278307820	20131202	TUR	SYR	020	3.0	4	1	4	3.1496062992126	http://reliefweb.int/report/syrian-arab-republic/turkey-spent-usd-650-mln-syrian-refugees-fm
-278307833	20131202	TUR	SYR	020	3.0	6	1	6	3.1496062992126	http://reliefweb.int/report/syrian-arab-republic/turkey-spent-usd-650-mln-syrian-refugees-fm
-278307856	20131202	TUR	USA	071	7.4	8	1	8	1.59574468085106	http://in.reuters.com/article/2013/12/02/azerbaijan-fund-refinery-idINL5N0JH2FE20131202
-278307862	20131202	TUR	TUR	020	3.0	4	1	4	3.24324324324324	RTK TV, Pristina/BBC Monitoring/(c) BBC
-278307902	20131202	TUR	TUR	020	3.0	6	3	6	2.79622819337115	http://www.menafn.com/1093731738/Istanbul-landmark-rekindles-religious-tensions
-278307912	20131202	TUR	IRQ	020	3.0	10	1	10	2	http://www.upstreamonline.com/live/article1345318.ece
-278307933	20131202	TWN	CHN	020	3.0	4	1	4	3.69230769230769	http://www.chinapost.com.tw/taiwan-business/2013/12/03/395032/Trade-in-goods-pact.htm
-278307934	20131202	TWN	CHN	020	3.0	6	1	6	3.69230769230769	http://www.chinapost.com.tw/taiwan-business/2013/12/03/395032/Trade-in-goods-pact.htm
-278307935	20131202	TWN	CHN	020	3.0	4	1	4	0	http://www.chinapost.com.tw/taiwan/china-taiwan-relations/2013/12/03/395069/Taipei-mayor.htm
-278307952	20131202	TWN	CHN	071	7.4	2	1	2	0.632911392405063	http://www.reuters.com/article/2013/12/02/mbk-tinghsin-idUSL4N0JH09420131202?feedType=RSS&feedName=privateEquity
-278307953	20131202	TWN	CHN	071	7.4	3	1	3	0.632911392405063	http://www.reuters.com/article/2013/12/02/mbk-tinghsin-idUSL4N0JH09420131202?feedType=RSS&feedName=privateEquity
-278307976	20131202	TWN	PSE	020	3.0	8	1	8	4.10677618069815	http://www.chinapost.com.tw/taiwan/national/national-news/2013/12/03/395072/Ma-reiterates.htm
-278307977	20131202	TWN	PSE	020	3.0	2	1	2	4.10677618069815	http://www.chinapost.com.tw/taiwan/national/national-news/2013/12/03/395072/Ma-reiterates.htm
-278307981	20131202	TWN	CHN	020	3.0	2	1	2	0	http://www.chinapost.com.tw/taiwan/china-taiwan-relations/2013/12/03/395069/Taipei-mayor.htm
-278307982	20131202	TWN	CHN	020	3.0	4	1	4	0	http://www.chinapost.com.tw/taiwan/china-taiwan-relations/2013/12/03/395069/Taipei-mayor.htm
-278308372	20131202	UKR	CHN	020	3.0	16	2	16	1.92987802062846	http://news.yahoo.com/ukraine-looks-china-money-debt-crunch-looms-231103736--finance.html
-278308373	20131202	UKR	CHN	020	3.0	4	2	4	1.92987802062846	http://news.yahoo.com/ukraine-looks-china-money-debt-crunch-looms-231103736--finance.html
-278308421	20131202	UKR	EUR	020	3.0	8	1	8	4.51612903225806	http://cnsnews.com/news/article/patrick-goodenough/protesting-ukrainians-look-us-support-their-nation-tilts-toward
-278308422	20131202	UKR	EUR	020	3.0	2	1	2	2.08333333333333	http://news.sky.com/story/1176373/ukraine-protesters-block-government-offices
-278308423	20131202	UKR	EUR	020	3.0	2	1	2	4.51612903225806	http://cnsnews.com/news/article/patrick-goodenough/protesting-ukrainians-look-us-support-their-nation-tilts-toward
-278308491	20131202	UKR	EUR	020	3.0	10	1	10	1.78041543026706	http://www.globalsecurity.org/wmd/library/news/ukraine/2013/ukraine-131130-rianovosti01.htm
-278308492	20131202	UKR	EUR	020	3.0	2	1	2	0	http://online.wsj.com/news/articles/SB10001424052702304579404579233813235937156
-278308537	20131202	UKR	LTU	020	3.0	3	1	3	3.02547770700637	http://www.washingtonpost.com/world/europe/a-readers-guide-to-the-protests-in-ukraine/2013/12/02/2a589d1e-5b59-11e3-801f-1f90bf692c9b_story.html?wprss=rss_europe
-278308538	20131202	UKR	LTU	020	3.0	3	1	3	3.02547770700637	http://www.washingtonpost.com/world/europe/a-readers-guide-to-the-protests-in-ukraine/2013/12/02/2a589d1e-5b59-11e3-801f-1f90bf692c9b_story.html?wprss=rss_europe
-278308598	20131202	UKR	PHL	020	3.0	4	1	4	3.1413612565445	http://www.philippinetimes.com/index.php/sid/218805769/scat/2411cd3571b4f088
-278308599	20131202	UKR	PHL	020	3.0	2	1	2	0	http://www.philippinetimes.com/index.php/sid/218810472/scat/2411cd3571b4f088
-278308600	20131202	UKR	PHL	020	3.0	8	1	8	0	http://www.philippinetimes.com/index.php/sid/218810472/scat/2411cd3571b4f088
-278308602	20131202	UKR	POL	020	3.0	3	1	3	3.02547770700637	http://www.washingtonpost.com/world/europe/a-readers-guide-to-the-protests-in-ukraine/2013/12/02/2a589d1e-5b59-11e3-801f-1f90bf692c9b_story.html?wprss=rss_europe
-278308603	20131202	UKR	POL	020	3.0	3	1	3	3.02547770700637	http://www.washingtonpost.com/world/europe/a-readers-guide-to-the-protests-in-ukraine/2013/12/02/2a589d1e-5b59-11e3-801f-1f90bf692c9b_story.html?wprss=rss_europe
-278308604	20131202	UKR	POL	020	3.0	4	1	4	1.93370165745856	Rossiya 1 TV, Moscow/BBC Monitoring/(c) BBC
-278308623	20131202	UKR	RUS	020	3.0	2	1	2	2.90101980140111	http://www.themoscowtimes.com/news/article/kiev-protesters-bring-city-to-standstill/490744.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:%20themoscowtimes/RUXi%20(The%20Moscow%20Times)
-278308624	20131202	UKR	RUS	020	3.0	2	1	2	2.90101980140111	http://www.themoscowtimes.com/news/article/kiev-protesters-bring-city-to-standstill/490744.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:%20themoscowtimes/RUXi%20(The%20Moscow%20Times)
-278308625	20131202	UKR	RUS	020	3.0	10	1	10	1.78041543026706	http://www.globalsecurity.org/wmd/library/news/ukraine/2013/ukraine-131130-rianovosti01.htm
-278308670	20131202	UKR	UKR	020	3.0	4	1	4	3.32594235033259	Multiple Sources/BBC Monitoring/(c) BBC
-278308671	20131202	UKR	UKR	020	3.0	2	1	2	2.35081374321881	http://www.independent.co.uk/voices/editorials/demonstrations-on-the-streets-of-kiev-throw-a-spoke-in-russias-attempts-to-bully-its-way-to-a-deal-8978298.html
-278308672	20131202	UKR	UKR	020	3.0	2	1	2	1.58730158730159	http://www.iol.co.za/news/world/kiev-rally-marred-by-violence-1.1615223
-278308673	20131202	UKR	UKR	0241	-0.3	2	1	2	2.75707898658718	http://www.cnn.com/2013/12/02/world/europe/ukraine-protests/
-278308717	20131202	UKR	USA	020	3.0	6	1	6	1.89274447949527	http://ca.reuters.com/article/topNews/idCABRE9B105C20131202
-278308718	20131202	UKR	USA	020	3.0	4	1	4	1.89274447949527	http://ca.reuters.com/article/topNews/idCABRE9B105C20131202
-278308719	20131202	UKR	USA	027	4.0	10	1	10	4.76190476190476	http://www.reuters.com/article/2013/12/02/us-ukraine-eu-yanukovich-idUSBRE9B10O220131202
-278308720	20131202	UKR	USA	027	4.0	10	1	10	6.15384615384615	http://www.reuters.com/article/2013/12/02/us-ukraine-eu-yanukovich-idUSBRE9B10MV20131202?feedType=RSS&feedName=worldNews
-278308782	20131202	UKR	EUR	020	3.0	8	1	8	0	http://online.wsj.com/news/articles/SB10001424052702304579404579233813235937156
-278308823	20131202	UKR	UKR	020	3.0	2	1	2	3.32594235033259	Multiple Sources/BBC Monitoring/(c) BBC
-278308846	20131202	UKR	UKR	020	3.0	2	1	2	3.32594235033259	Multiple Sources/BBC Monitoring/(c) BBC
-278308876	20131202	UKR	UKR	070	7.0	2	1	2	1.1400651465798	http://www.globalsecurity.org/wmd/library/news/ukraine/2013/ukraine-131130-voa01.htm
-278308888	20131202	UKR	EUR	028	4.0	10	1	10	1.36518771331058	http://www.novinite.com/view_news.php?id=156055
-278308890	20131202	UKR	PHL	020	3.0	10	1	10	0	http://www.philippinetimes.com/index.php/sid/218800830/scat/2411cd3571b4f088
-278308891	20131202	UKR	PHL	020	3.0	6	1	6	3.1413612565445	http://www.philippinetimes.com/index.php/sid/218805769/scat/2411cd3571b4f088
-278308899	20131202	UKR	USA	020	3.0	40	1	40	2.07409083163418	http://www.reuters.com/article/2013/12/03/us-ukraine-eu-protest-idUSBRE9B105C20131203?feedType=RSS&feedName=topNews
-278310241	20131202	USA	AFG	071	7.4	4	1	4	3.64145658263305	Noor TV, Kabul/BBC Monitoring/(c) BBC
-278310242	20131202	USA	AFG	072	8.3	8	1	8	2.09895052473763	Resalat website, Tehran/BBC Monitoring/(c) BBC
-278310243	20131202	USA	AFG	072	8.3	2	1	2	2.09895052473763	Resalat website, Tehran/BBC Monitoring/(c) BBC
-278310256	20131202	USA	AFG	071	7.4	6	1	6	3.64145658263305	Noor TV, Kabul/BBC Monitoring/(c) BBC
-278310283	20131202	USA	BHS	070	7.0	1	1	1	0	http://www.thebahamasweekly.com/publish/international/Feeding_The_Hungry_on_Thanksgiving_Day_at_First_Baptist_Church_of_Glenarden31954.shtml
-278310426	20131202	USA	CAN	026	4.0	2	1	2	1.81818181818182	Interfax-Ukraine news agency, Kiev/BBC Monitoring/(c) BBC
-278310427	20131202	USA	CAN	026	4.0	8	1	8	1.81818181818182	Interfax-Ukraine news agency, Kiev/BBC Monitoring/(c) BBC
-278310468	20131202	USA	CAN	072	8.3	2	1	2	3.6773428232503	http://www.cbc.ca/news/politics/nsa-document-raises-questions-about-canada-in-g8-spying-1.2447398
-278310469	20131202	USA	CAN	072	8.3	6	1	6	3.6773428232503	http://www.cbc.ca/news/politics/nsa-document-raises-questions-about-canada-in-g8-spying-1.2447398
-278310470	20131202	USA	CAN	072	8.3	2	1	2	3.6773428232503	http://www.cbc.ca/news/politics/nsa-document-raises-questions-about-canada-in-g8-spying-1.2447398
-278310491	20131202	USA	CHN	020	3.0	6	1	6	0.346020761245675	http://zeenews.india.com/news/world/us-continues-to-defy-chinese-air-defence-zone_893970.html
-278310492	20131202	USA	CHN	020	3.0	2	1	2	1.76311030741411	http://www.state.gov/r/pa/prs/dpb/2013/12/218178.htm
-278310493	20131202	USA	CHN	020	3.0	2	1	2	1.76311030741411	http://www.state.gov/r/pa/prs/dpb/2013/12/218178.htm
-278310494	20131202	USA	CHN	020	3.0	6	1	6	1.76311030741411	http://www.state.gov/r/pa/prs/dpb/2013/12/218178.htm
-278310495	20131202	USA	CHN	020	3.0	4	1	4	1.49130074565037	http://www.businessweek.com/news/2013-12-02/u-dot-s-dot-japan-split-on-china-zone-puts-airlines-in-midst-of-dispute
-278310496	20131202	USA	CHN	020	3.0	4	1	4	3.30708661417323	http://zeenews.india.com/news/world/joe-biden-to-raise-air-defense-zone-issue-with-china-white-house_893975.html
-278310497	20131202	USA	CHN	020	3.0	1	1	1	3.30708661417323	http://zeenews.india.com/news/world/joe-biden-to-raise-air-defense-zone-issue-with-china-white-house_893975.html
-278310684	20131202	USA	CUB	020	3.0	35	3	35	1.40843527234779	http://in.reuters.com/article/2013/12/03/usa-cuba-contractor-idINDEE9B201G20131203?feedType=RSS&feedName=worldNews
-278310685	20131202	USA	CUB	020	3.0	5	3	5	1.40843527234779	http://in.reuters.com/article/2013/12/03/usa-cuba-contractor-idINDEE9B201G20131203?feedType=RSS&feedName=worldNews
-278310686	20131202	USA	CUB	020	3.0	8	1	8	1.171875	http://www.reuters.com/article/2013/12/03/us-usa-cuba-contractor-idUSBRE9B201P20131203?feedType=RSS&feedName=domesticNews
-278310853	20131202	USA	EGY	020	3.0	1	1	1	2.875	http://www.dailymail.co.uk/debate/article-2517235/CRAIG-BROWN-The-Coalition-isnt-twerking-says-Red-Ed-Next-years-news-today.html?ITO=1490&ns_campaign=1490
-278310854	20131202	USA	EGY	070	7.0	2	1	2	1.53846153846154	http://www.globalsecurity.org/military/library/news/2013/12/mil-131201-voa02.htm
-278310855	20131202	USA	EGY	070	7.0	2	1	2	1.53846153846154	http://www.globalsecurity.org/military/library/news/2013/12/mil-131201-voa02.htm
-278310857	20131202	USA	EGY	0253	-0.3	10	1	10	1.53846153846154	http://www.globalsecurity.org/military/library/news/2013/12/mil-131201-voa02.htm
-278310858	20131202	USA	EGY	070	7.0	6	1	6	1.53846153846154	http://www.globalsecurity.org/military/library/news/2013/12/mil-131201-voa02.htm
-278310878	20131202	USA	EUR	020	3.0	3	1	3	1.77865612648221	http://www.kcsg.com/view/full_story/24150769/article-Armored-Dinosaur-Unearthed-in-a-Spain-Coal-Mine?instance=more_local_news1
-278310879	20131202	USA	EUR	020	3.0	1	1	1	1.77865612648221	http://www.kcsg.com/view/full_story/24150769/article-Armored-Dinosaur-Unearthed-in-a-Spain-Coal-Mine?instance=more_local_news1
-278310917	20131202	USA	GBR	020	3.0	10	1	10	3.20665083135392	http://www.xe.com/news/2013/12/02/3695561.htm
-278310933	20131202	USA	GBR	070	7.0	10	1	10	2.14592274678112	http://www.heraldonline.com/2013/12/02/5461444/research-and-markets-china-us.html
-278310934	20131202	USA	GBR	075	7.0	6	1	6	2.05278592375367	http://www.dailymail.co.uk/news/article-2517034/Vancouver-homeless-man-playing-piano-brings-listeners-tears.html?ITO=1490&ns_campaign=1490
-278310950	20131202	USA	GHA	071	7.4	40	1	40	1.88261351052049	http://www.npr.org/blogs/parallels/2013/12/02/248194408/e-readers-mark-a-new-chapter-in-the-developing-world?ft=1&f=1008
-278311289	20131202	USA	ISR	020	3.0	10	1	10	2.36842105263158	http://www.csmonitor.com/World/Middle-East/Olive-Press/2013/1202/Cyber-Monday-deals-spike-Israeli-spending-seven-fold
-278311290	20131202	USA	ISR	027	4.0	2	1	2	3.83104125736739	http://www.israelnationalnews.com/News/News.aspx/174727
-278311318	20131202	USA	JPN	020	3.0	2	1	2	1.12044817927171	http://www.hurriyetdailynews.com/playing-chicken-in-the-east-china-sea.aspx?pageID=238&nid=58892&NewsCatID=418
-278311440	20131202	USA	KOR	020	3.0	4	1	4	1.13636363636364	http://www.globalsecurity.org/wmd/library/news/dprk/2013/dprk-131130-voa01.htm
-278311441	20131202	USA	KOR	020	3.0	10	1	10	1.71990171990172	http://gizmodo.com/chinas-claiming-territory-by-calling-dibs-on-800-year-1474854084?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+gizmodo%2Ffull+%28Gizmodo%29
-278311715	20131202	USA	USA	020	3.0	5	1	5	2.16450216450216	http://www.cleanenergyauthority.com/solar-energy-news/colorado-million-solar-roofs-120213
-278311716	20131202	USA	USA	020	3.0	10	1	10	4.04858299595142	http://www.engadget.com/2013/12/02/xbox-one-dev-settings-warning/?ncid=txtlnkusaolp00000589
-278311756	20131202	USA	NLD	020	3.0	6	1	6	0.994475138121547	http://www.eenews.net/stories/1059991119
-278311757	20131202	USA	NLD	020	3.0	2	1	2	0.994475138121547	http://www.eenews.net/stories/1059991119
-278311764	20131202	USA	NMR	020	3.0	2	1	2	4.08163265306122	http://www.rte.ie/news/2013/1202/490439-state-pathologist/
-278311803	20131202	USA	PAK	020	3.0	3	1	3	1.39435109045406	The News website, Islamabad/BBC Monitoring/(c) BBC
-278311823	20131202	USA	PRK	020	3.0	2	1	2	1.67883211678832	http://www.sbsun.com/general-news/20131202/new-details-on-california-grandfather-held-hostage-in-north-korea
-278311824	20131202	USA	PRK	020	3.0	20	1	20	1.33328973763793	http://www.reuters.com/article/2013/12/03/us-korea-north-newman-hedges-idUSBRE9B204D20131203?feedType=RSS&feedName=worldNews
-278311825	20131202	USA	PRK	020	3.0	17	2	17	1.31012196101743	http://www.reuters.com/article/2013/12/03/us-korea-north-newman-hedges-idUSBRE9B204D20131203?feedType=RSS&feedName=worldNews
-278311826	20131202	USA	PRK	025	-0.3	12	1	12	2.4	http://www.upi.com/Top_News/US/2013/12/02/US-calls-on-North-Korea-to-release-2-Americans-being-detained/UPI-86541386014964/
-278311827	20131202	USA	PRK	025	-0.3	8	1	8	2.4	http://www.upi.com/Top_News/US/2013/12/02/US-calls-on-North-Korea-to-release-2-Americans-being-detained/UPI-86541386014964/
-278311828	20131202	USA	PRK	0253	-0.3	10	1	10	1.33328973763793	http://www.reuters.com/article/2013/12/03/us-korea-north-newman-hedges-idUSBRE9B204D20131203?feedType=RSS&feedName=worldNews
-278311829	20131202	USA	PRK	0253	-0.3	5	1	5	1.33328973763793	http://www.reuters.com/article/2013/12/03/us-korea-north-newman-hedges-idUSBRE9B204D20131203?feedType=RSS&feedName=worldNews
-278311885	20131202	USA	RUS	026	4.0	12	2	12	2.13714793199695	http://news.xinhuanet.com/english/world/2013-12/03/c_125796217.htm
-278311886	20131202	USA	RUS	026	4.0	8	2	8	2.13714793199695	http://news.xinhuanet.com/english/world/2013-12/03/c_125796217.htm
-278311917	20131202	USA	SAU	020	3.0	8	1	8	1.91780821917808	http://www.jpost.com/Opinion/Op-Ed-Contributors/Perhaps-some-Arab-women-want-male-guardianship-333762
-278311918	20131202	USA	SAU	020	3.0	2	1	2	1.91780821917808	http://www.jpost.com/Opinion/Op-Ed-Contributors/Perhaps-some-Arab-women-want-male-guardianship-333762
-278311929	20131202	USA	SGP	071	7.4	2	1	2	1.09739368998628	http://www.bloomberg.com/news/2013-12-02/hilton-seeks-as-much-as-2-4-billion-in-biggest-ever-hotel-ipo.html
-278311963	20131202	USA	TUR	020	3.0	2	1	2	1.86865990389749	http://www.cbsnews.com/news/root-rot-threatens-traditional-christmas-tree-species/
-278311989	20131202	USA	UKR	020	3.0	6	1	6	3.9344262295082	http://www.prnewswire.com/news-releases/ajc-reacts-to-events-in-ukraine-234112941.html
-278311990	20131202	USA	UKR	020	3.0	1	1	1	3.9344262295082	http://www.prnewswire.com/news-releases/ajc-reacts-to-events-in-ukraine-234112941.html
-278311991	20131202	USA	UKR	020	3.0	3	1	3	3.9344262295082	http://www.prnewswire.com/news-releases/ajc-reacts-to-events-in-ukraine-234112941.html
-278312006	20131202	USA	USA	070	7.0	1	1	1	3.77358490566038	http://www.usatoday.com/story/news/nation/2013/12/01/givingtuesday-charity-day/3797705/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+UsatodaycomNation-TopStories+%28USATODAY+-+Nation+Top+Stories%29
-278312008	20131202	USA	USA	020	3.0	10	1	10	0.550964187327824	http://www.azfamily.com/news/TB-scare-aboard-US-Airways-from-Austine-to-Phoenix-234062231.html
-278312020	20131202	USA	USA	020	3.0	4	1	4	3.44827586206897	http://www.politico.com/story/2013/12/house-democrats-obamacare-briefing-100560.html
-278312038	20131202	USA	USA	020	3.0	2	1	2	3.57941834451902	http://www.boston.com/news/2013/12/02/revere-city-council-approves-resolution-supporting-casino-proposal/kGY5KuqZHBxAGv2Ef76dKM/story.html
-278312051	20131202	USA	USA	020	3.0	8	1	8	2.5089605734767	http://wesa.fm/post/fifth-pittsburghred-celebrates-aids-awareness
-278312052	20131202	USA	USA	020	3.0	2	1	2	1.73102529960053	http://www.miamiherald.com/2013/11/17/3792721/ryan-oneal-testifies-about-disputed.html
-278312101	20131202	USA	USA	020	3.0	16	4	16	1.43166109242721	http://news.yahoo.com/healthcare-gov-adviser-replaced-leaves-obama-econ-job-151632714--sector.html
-278312102	20131202	USA	USA	020	3.0	8	1	8	1.92878338278932	http://www.agweek.com/event/article/id/22191/
-278312103	20131202	USA	USA	020	3.0	50	5	50	3.14136498653441	http://www.startribune.com/politics/234112161.html
-278312104	20131202	USA	USA	020	3.0	13	3	13	1.26072624361468	http://www.usatoday.com/story/news/nation/2013/12/02/indian-casino-supreme-court/3799459/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+usatoday-NewsTopStories+%28USATODAY+-+News+Top+Stories%29
-278312105	20131202	USA	USA	020	3.0	2	1	2	1.92878338278932	http://www.agweek.com/event/article/id/22191/
-278312106	20131202	USA	USA	020	3.0	4	1	4	2.9296875	http://www.eenews.net/greenwire/stories/1059991146
-278312107	20131202	USA	USA	020	3.0	8	4	8	2.65241920173648	http://www.theregister.co.uk/2013/12/02/supreme_court_rejects_amazon_tax_appeal/
-278312108	20131202	USA	USA	026	4.0	10	1	10	3.35329341317365	http://www.npr.org/blogs/health/2013/12/02/248238356/obama-launches-hiv-cure-initiative-ups-pledge-for-global-health?ft=1&f=1001
-278312109	20131202	USA	USA	026	4.0	4	1	4	3.125	http://www.nj.com/politics/index.ssf/2013/12/christie_sets_the_record_straight_on_support_for_cuomo_or_astorino_in_new_york_gov_race.html
-278312159	20131202	USA	USA	070	7.0	10	1	10	3.37349397590361	http://www.upi.com/Top_News/US/2013/12/02/Obama-pledges-up-to-5M-for-to-combat-AIDS-globally/UPI-92961386019235/
-278312160	20131202	USA	USA	071	7.4	4	2	4	3.03340870513692	http://hosted.ap.org/dynamic/stories/U/US_OBAMA_2014_ELECTIONS?SITE=NVREN&SECTION=HOME&TEMPLATE=DEFAULT
-278312161	20131202	USA	USA	071	7.4	6	3	6	3.03033698622032	http://hosted.ap.org/dynamic/stories/U/US_OBAMA_2014_ELECTIONS?SITE=NVREN&SECTION=HOME&TEMPLATE=DEFAULT
-278312162	20131202	USA	USA	071	7.4	2	1	2	3.0241935483871	http://www.miamiherald.com/2013/12/02/3792664/some-dems-keep-distance-as-obama.html
-278312163	20131202	USA	USA	071	7.4	3	1	3	3.13411078717201	http://inthesetimes.com/uprising/entry/15945/wikileaks_docs_expose_famed_serbian_activists_ties_to_shadow_cia/
-278312164	20131202	USA	USA	071	7.4	2	1	2	3.13411078717201	http://inthesetimes.com/uprising/entry/15945/wikileaks_docs_expose_famed_serbian_activists_ties_to_shadow_cia/
-278312165	20131202	USA	USA	071	7.4	2	1	2	1.72711571675302	http://www.smh.com.au/federal-politics/political-opinion/tony-abbotts-gonski-backtrack-may-not-add-up-for-schools-20131202-2ylja.html
-278312166	20131202	USA	USA	071	7.4	2	1	2	2.08333333333333	http://www.huffingtonpost.com/2013/12/02/chamber-of-commerce-mitch-mcconnell_n_4372904.html
-278312167	20131202	USA	USA	071	7.4	2	1	2	3.13411078717201	http://inthesetimes.com/uprising/entry/15945/wikileaks_docs_expose_famed_serbian_activists_ties_to_shadow_cia/
-278312203	20131202	USA	USA	071	7.4	4	1	4	5.53745928338762	http://www.prnewswire.com/news-releases/gm-foundation-grant-sends-256-detroit-children-to-preschool-234093481.html
-278312204	20131202	USA	USA	020	3.0	4	1	4	2.30496453900709	http://www.usnews.com/news/articles/2013/12/02/senate-democrats-obama-on-collision-course-over-iran
-278312215	20131202	USA	USA	020	3.0	6	3	6	1.94832841215686	http://www.ksl.com/?sid=27876191&nid=1010
-278312216	20131202	USA	USA	020	3.0	6	3	6	1.94832841215686	http://www.ksl.com/?sid=27876191&nid=1010
-278312217	20131202	USA	USA	020	3.0	3	3	3	1.94832841215686	http://www.ksl.com/?sid=27876191&nid=1010
-278312230	20131202	USA	USA	020	3.0	2	1	2	4.6583850931677	http://www.miamiherald.com/2013/12/02/3791880/gay-weddings-become-reality-in.html
-278312231	20131202	USA	USA	020	3.0	6	1	6	2.66272189349112	http://www.miamiherald.com/2013/12/02/3792351/convicted-florida-killer-appeals.html
-278312232	20131202	USA	USA	020	3.0	66	13	66	5.43239812082535	http://www.politico.com/story/2013/12/hawaii-gay-marriage-weddings-100522.html
-278312233	20131202	USA	USA	020	3.0	31	5	31	1.51062957699189	http://www.google.com/hostednews/afp/article/ALeqM5jiLbzkI4QSmCG5PQi0i_Ho6PUFOg?docId=ac2a9c02-b9f0-4db5-9900-9d735431c60c&hl=en
-278312263	20131202	USA	USA	020	3.0	4	1	4	3.21100917431193	http://www.upi.com/Top_News/US/2013/12/02/Michigan-lawmaker-proposes-rolling-back-bar-smoking-ban/UPI-50801386011818/
-278312264	20131202	USA	USA	020	3.0	4	1	4	4.24766018718503	http://www.enterstageright.com/archive/articles/1213/1213climatefear.htm
-278312265	20131202	USA	USA	020	3.0	4	1	4	3.10077519379845	http://www.boston.com/news/local/massachusetts/2013/12/02/mass-senator-urges-caution-drone-deliveries/GvYF3cwrGnvtUdLTivDFMM/story.html
-278312295	20131202	USA	USA	020	3.0	5	1	5	2.5974025974026	http://www.reuters.com/article/2013/12/02/faa-southwest-idUSL2N0JH1WD20131202?type=companyNews&feedType=RSS&feedName=companyNews
-278312296	20131202	USA	USA	020	3.0	10	1	10	3.33333333333333	http://minnesota.publicradio.org/display/web/2013/12/02/news/sex-offender-law?refid=0&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MPR_NewsFeatures+%28News+%26+Features+from+Minnesota+Public+Radio%29
-278312313	20131202	USA	USA	070	7.0	2	2	2	1.45629484670581	http://news.yahoo.com/investigators-look-clues-nyc-train-wreck-203911011--finance.html
-278312314	20131202	USA	USA	071	7.4	5	1	5	0	http://www.reuters.com/article/2013/12/02/markets-usa-stocks-cftc-idUSL2N0JH1YJ20131202?type=companyNews&feedType=RSS&feedName=companyNews
-278312372	20131202	USA	CHN	020	3.0	6	1	6	1.49130074565037	http://www.businessweek.com/news/2013-12-02/u-dot-s-dot-japan-split-on-china-zone-puts-airlines-in-midst-of-dispute
-278312386	20131202	USA	USA	020	3.0	10	1	10	2.46153846153846	http://www.bloomberg.com/news/2013-12-02/u-s-chamber-wants-tougher-standard-on-risk-council-designations.html
-278312387	20131202	USA	USA	020	3.0	10	1	10	0.549450549450549	http://www.washingtontimes.com/news/2013/dec/2/passenger-possible-tb-infection-pulled-us-airways-/
-278312391	20131202	USA	USA	071	7.4	10	1	10	2.44150559511699	http://www.theglobeandmail.com/technology/tech-news/amazon-joins-the-drone-rush-the-flying-robots-are-coming/article15712301/?cmpid=rss1
-278312455	20131202	USA	TUR	020	3.0	10	1	10	3.7956204379562	Hurriyet website, Istanbul/BBC Monitoring/(c) BBC
-278312505	20131202	USA	USA	020	3.0	1	1	1	2.4330900243309	http://www.startribune.com/local/234089241.html
-278312527	20131202	USA	USA	020	3.0	1	1	1	2.4330900243309	http://www.startribune.com/local/234089241.html
-278312723	20131202	USA	CHN	020	3.0	2	1	2	2.57234726688103	http://www.aljazeera.com/news/asia-pacific/2013/12/us-deeply-concerned-over-china-defence-zone-201312324836508156.html
-278312724	20131202	USA	CHN	020	3.0	1	1	1	2.57234726688103	http://www.aljazeera.com/news/asia-pacific/2013/12/us-deeply-concerned-over-china-defence-zone-201312324836508156.html
-278312725	20131202	USA	CHN	022	3.2	8	1	8	2.35294117647059	http://zeenews.india.com/news/world/joe-biden-arrives-in-tokyo-as-japan-seeks-support-in-china-dispute_893785.html
-278312737	20131202	USA	CHN	071	7.4	16	1	16	3.3225664666619	http://www.csmonitor.com/Science/2013/1202/In-one-big-step-for-China-Jade-Rabbit-heads-to-the-moon-video
-278312738	20131202	USA	CHN	071	7.4	4	1	4	3.3225664666619	http://www.csmonitor.com/Science/2013/1202/In-one-big-step-for-China-Jade-Rabbit-heads-to-the-moon-video
-278312764	20131202	USA	FRA	020	3.0	8	1	8	1.04384133611691	http://www.france24.com/en/20131203-ex-nasa-expert-issues-call-climate-solutions
-278312765	20131202	USA	FRA	020	3.0	12	1	12	1.04384133611691	http://www.france24.com/en/20131203-ex-nasa-expert-issues-call-climate-solutions
-278312792	20131202	USA	IRN	020	3.0	4	1	4	3.20987654320988	http://www.ynetnews.com/articles/0,7340,L-4460604,00.html
-278312793	20131202	USA	IRN	020	3.0	1	1	1	3.20987654320988	http://www.ynetnews.com/articles/0,7340,L-4460604,00.html
-278312819	20131202	USA	JPN	020	3.0	1	1	1	2.57234726688103	http://www.aljazeera.com/news/asia-pacific/2013/12/us-deeply-concerned-over-china-defence-zone-201312324836508156.html
-278312820	20131202	USA	JPN	020	3.0	2	1	2	2.57234726688103	http://www.aljazeera.com/news/asia-pacific/2013/12/us-deeply-concerned-over-china-defence-zone-201312324836508156.html
-278312873	20131202	USA	PRK	020	3.0	15	1	15	1.33328973763793	http://www.reuters.com/article/2013/12/03/us-korea-north-newman-hedges-idUSBRE9B204D20131203?feedType=RSS&feedName=worldNews
-278312874	20131202	USA	PRK	020	3.0	10	1	10	1.33328973763793	http://www.reuters.com/article/2013/12/03/us-korea-north-newman-hedges-idUSBRE9B204D20131203?feedType=RSS&feedName=worldNews
-278312875	20131202	USA	PRK	0253	-0.3	5	1	5	1.33328973763793	http://www.reuters.com/article/2013/12/03/us-korea-north-newman-hedges-idUSBRE9B204D20131203?feedType=RSS&feedName=worldNews
-278312920	20131202	USA	USA	020	3.0	20	1	20	3.12931629834254	http://www.washingtonpost.com/politics/alan-gross-former-usaid-contractor-jailed-in-cuba-appeals-to-obama-to-intervene/2013/12/02/6510294e-5b46-11e3-a49b-90a0e156254b_story.html?wprss=rss_politics
-278312921	20131202	USA	USA	020	3.0	5	1	5	2.5	http://www.bloomberg.com/news/2013-12-02/baum-on-money-tallying-conspicuous-consumption.html
-278312922	20131202	USA	USA	020	3.0	2	1	2	3.20987654320988	http://www.ynetnews.com/articles/0,7340,L-4460604,00.html
-278312923	20131202	USA	USA	020	3.0	8	1	8	3.20987654320988	http://www.ynetnews.com/articles/0,7340,L-4460604,00.html
-278312924	20131202	USA	USA	020	3.0	34	5	34	1.97340328230666	http://www.reuters.com/article/2013/12/03/us-korea-north-newman-hedges-idUSBRE9B204D20131203?feedType=RSS&feedName=worldNews
-278312925	20131202	USA	USA	020	3.0	2	1	2	7.2289156626506	http://jamaica-gleaner.com/gleaner/20131202/lead/lead8.html
-278312926	20131202	USA	USA	0253	-0.3	30	1	30	1.33328973763793	http://www.reuters.com/article/2013/12/03/us-korea-north-newman-hedges-idUSBRE9B204D20131203?feedType=RSS&feedName=worldNews
-278312968	20131202	USA	USA	070	7.0	2	1	2	2.45398773006135	http://edition.cnn.com/2013/12/02/world/europe/ukraine-protests/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fedition_europe+%28RSS%3A+Europe%29
-278312969	20131202	USA	USA	070	7.0	10	1	10	3.5739313244569	http://www.washingtonblade.com/2013/12/02/obama-announces-nih-initiative-to-develop-hiv-cure/
-278312970	20131202	USA	USA	071	7.4	48	3	48	2.82473765884732	http://www.washingtonpost.com/national/health-science/obama-pledges-up-to-5-billion-to-infectious-diseases-fund/2013/12/02/a0a6d67e-5b87-11e3-bf7e-f567ee61ae21_story.html?wprss=rss_national
-278312987	20131202	USA	USA	020	3.0	2	1	2	2.09580838323353	http://www.politico.com/story/2013/12/obama-republican-governors-blue-states-2014-100549.html
-278312996	20131202	USA	USA	071	7.4	12	1	12	3.27332242225859	http://www.usatoday.com/story/news/politics/2013/12/02/obama-world-aids-day-2013/3804569/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+usatoday-NewsTopStories+%28USATODAY+-+News+Top+Stories%29
-278313001	20131202	USA	USA	020	3.0	6	1	6	2.30496453900709	http://www.usnews.com/news/articles/2013/12/02/senate-democrats-obama-on-collision-course-over-iran
-278313014	20131202	USA	USA	071	7.4	30	1	30	2.84810126582278	http://www.reuters.com/article/2013/12/02/us-usa-obama-aids-idUSBRE9B110A20131202?feedType=RSS&feedName=healthNews
-278313027	20131202	USA	USA	020	3.0	20	1	20	3.12931629834254	http://www.washingtonpost.com/politics/alan-gross-former-usaid-contractor-jailed-in-cuba-appeals-to-obama-to-intervene/2013/12/02/6510294e-5b46-11e3-a49b-90a0e156254b_story.html?wprss=rss_politics
-278313127	20131202	USA	USA	020	3.0	21	4	21	0.326068079261466	http://www.post-gazette.com/local/breaking/2013/12/02/Ex-UPMC-technician-sentenced-in-hepatitis-C-case/stories/201312020139
-278313128	20131202	USA	USA	020	3.0	32	3	32	1.32708553799206	http://www.reuters.com/article/2013/12/02/us-madoff-employees-trial-idUSBRE9B10ZO20131202?feedType=RSS&feedName=businessNews
-278313168	20131202	USA	CHN	071	7.4	8	1	8	2.01238390092879	http://www.washingtonpost.com/world/china-launches-jade-rabbit-rover-to-moon-precursor-to-manned-mission/2013/12/02/87ba7d1a-5b13-11e3-801f-1f90bf692c9b_story.html?wprss=rss_world
-278313169	20131202	USA	CHN	071	7.4	2	1	2	2.01238390092879	http://www.washingtonpost.com/world/china-launches-jade-rabbit-rover-to-moon-precursor-to-manned-mission/2013/12/02/87ba7d1a-5b13-11e3-801f-1f90bf692c9b_story.html?wprss=rss_world
-278313171	20131202	USA	USA	020	3.0	6	1	6	3.10077519379845	http://www.boston.com/news/local/massachusetts/2013/12/02/mass-senator-urges-caution-drone-deliveries/GvYF3cwrGnvtUdLTivDFMM/story.html
-278313172	20131202	USA	USA	020	3.0	30	1	30	1.02739822490374	http://www.usatoday.com/story/news/nation/2013/12/02/indian-casino-supreme-court/3799459/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+usatoday-NewsTopStories+%28USATODAY+-+News+Top+Stories%29
-278313246	20131202	USA	AFG	072	8.3	3	1	3	1.33136094674556	http://www.cbsnews.com/news/afghanistans-base-bonanza/
-278313263	20131202	USA	CAN	070	7.0	10	1	10	2.98850574712644	http://www.theglobeandmail.com/news/politics/canada-increases-donations-to-fight-hiv-malaria-and-tuberculosis/article15713467/?cmpid=rss1
-278313264	20131202	USA	CHL	070	7.0	2	1	2	3.29380764163373	http://timesleader.com/news/marcellus/97922934751932131/Repsol-agrees-to-negotiate-deal-with-Argentina
-278313279	20131202	USA	DEU	070	7.0	20	2	20	2.40132346995142	http://cnsnews.com/news/article/ukrainian-protesters-besiege-government-buildings
-278313297	20131202	USA	ISR	020	3.0	3	1	3	2.79503105590062	http://www.dw.de/arrest-warrant-issued-against-thai-protest-leader-suthep-thaugsuban/a-17267155
-278313318	20131202	USA	LBN	070	7.0	6	2	6	0.332041434712141	http://www.npr.org/templates/story/story.php?storyId=247918013
-278313319	20131202	USA	LBN	070	7.0	24	2	24	0.332041434712141	http://www.npr.org/templates/story/story.php?storyId=247918013
-278313326	20131202	USA	MEX	070	7.0	8	1	8	3.08529945553539	http://www.foxnews.com/world/2013/12/03/amid-debate-on-election-4-honduran-computer-geeks-rally-volunteers-to-check/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29
-278313329	20131202	USA	USA	020	3.0	60	2	60	2.40708887605093	http://www.reuters.com/article/2013/12/03/faa-southwest-idUSL2N0JH21S20131203?type=companyNews&feedType=RSS&feedName=companyNews
-278313330	20131202	USA	USA	071	7.4	10	1	10	1.22699386503067	http://www.huffingtonpost.com/2013/12/02/radioshack-name_n_4373533.html?ncid=txtlnkusaolp00000592
-278313333	20131202	USA	NLD	070	7.0	4	4	4	1.53631733806723	http://www.seattlepi.com/news/crime/article/Lebanese-army-taking-over-in-second-largest-city-5028535.php
-278313341	20131202	USA	PER	070	7.0	2	1	2	2.1656050955414	http://www.foxnews.com/world/2013/12/03/biggest-ever-exhumation-from-peru-long-brutal-conflict-exposes-horrors-3/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29
-278313342	20131202	USA	PER	070	7.0	2	1	2	2.1656050955414	http://www.foxnews.com/world/2013/12/03/biggest-ever-exhumation-from-peru-long-brutal-conflict-exposes-horrors-3/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29
-278313345	20131202	USA	SRB	070	7.0	1	1	1	1.48148148148148	http://cnsnews.com/news/article/after-boy-mauled-balkan-animal-cruelty-focus
-278313346	20131202	USA	SRB	070	7.0	5	4	5	1.73670200984507	http://news.yahoo.com/boy-mauled-balkan-animal-cruelty-focus-084227547.html
-278313347	20131202	USA	SRB	070	7.0	6	5	6	1.6941652551178	http://news.yahoo.com/boy-mauled-balkan-animal-cruelty-focus-084227547.html
-278313348	20131202	USA	SEN	070	7.0	6	3	6	3.3014570845825	http://abcnews.go.com/International/wireStory/united-nations-fly-drones-eastern-congo-21067158
-278313352	20131202	USA	SYR	070	7.0	14	4	14	1.76004793556702	http://hosted.ap.org/dynamic/stories/M/ML_SYRIA_SPLINTERED_OPPOSITION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-278313353	20131202	USA	SYR	070	7.0	14	4	14	1.76004793556702	http://hosted.ap.org/dynamic/stories/M/ML_SYRIA_SPLINTERED_OPPOSITION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-278313354	20131202	USA	THA	070	7.0	13	6	13	2.37509937504551	http://www.usatoday.com/story/news/world/2013/12/02/thai-pm-says-protesters-demands-unacceptable/3801619/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+UsatodaycomWorld-TopStories+%28USATODAY+-+World+Top+Stories%29
-278313355	20131202	USA	THA	070	7.0	8	4	8	2.57332812243023	http://www.businessweek.com/ap/2013-12-02/fresh-violence-pushes-thailand-deeper-into-crisis
-278313372	20131202	USA	USA	020	3.0	40	1	40	3.18279064490511	http://www.reuters.com/article/2013/12/02/wealth-advisers-children-corre-idUSL2N0JB17Z20131202?type=companyNews&feedType=RSS&feedName=companyNews
-278313387	20131202	USA	USA	070	7.0	14	2	14	2.48261782323145	http://hosted.ap.org/dynamic/stories/U/US_REL_ACLU_CATHOLIC_BISHOPS?SITE=MNWIN&SECTION=HOME&TEMPLATE=DEFAULT
-278313388	20131202	USA	USA	070	7.0	4	2	4	2.48261782323145	http://hosted.ap.org/dynamic/stories/U/US_REL_ACLU_CATHOLIC_BISHOPS?SITE=MNWIN&SECTION=HOME&TEMPLATE=DEFAULT
-278313389	20131202	USA	USA	070	7.0	14	6	14	0.25190820964352	http://www.wmbfnews.com/story/24113799/prosecutor-fatal-beating-followed-police-threat
-278313390	20131202	USA	USA	070	7.0	2	1	2	2.73348519362187	http://www.miamiherald.com/2013/12/02/3791932/govt-diagnosis-healthcaregov-on.html
-278313391	20131202	USA	USA	070	7.0	29	4	29	3.61505253275304	http://www.nwitimes.com/news/local/illinois/ill-lawmakers-prepare-for-pension-vote/article_7b275ade-971e-5be6-992c-2f7ed1191519.html
-278313392	20131202	USA	USA	070	7.0	3	3	3	3.72237413253197	http://news.yahoo.com/ill-lawmakers-prepare-pension-vote-235815778.html
-278313393	20131202	USA	USA	070	7.0	8	3	8	2.49988283154508	http://news.yahoo.com/fast-food-protests-planned-100-cities-155022144--finance.html
-278313394	20131202	USA	USA	070	7.0	3	3	3	2.79652844744455	http://abclocal.go.com/wabc/story?section=news/politics&id=9344872
-278313395	20131202	USA	USA	070	7.0	1	1	1	4.6875	http://www.sunherald.com/2013/12/02/5161488/miss-judge-refuses-to-grant-gay.html
-278313396	20131202	USA	USA	070	7.0	23	3	23	2.78483301927629	http://cnsnews.com/news/article/area-walker-car-crash-known-street-racing
-278313473	20131202	USA	USA	020	3.0	2	1	2	1.91387559808612	http://thehill.com/blogs/e2-wire/e2-wire/191725-week-ahead-epa-chief-keystone-battle-in-limelight
-278313491	20131202	USA	GBR	020	3.0	2	1	2	2.51716247139588	http://www.theguardian.com/technology/2013/dec/02/blackberry-sales-drop-iphone-android-switchers
-278313638	20131202	VEN	USA	071	7.4	1	1	1	3.13411078717201	http://inthesetimes.com/uprising/entry/15945/wikileaks_docs_expose_famed_serbian_activists_ties_to_shadow_cia/
-278313639	20131202	VEN	USA	071	7.4	1	1	1	3.13411078717201	http://inthesetimes.com/uprising/entry/15945/wikileaks_docs_expose_famed_serbian_activists_ties_to_shadow_cia/
-278313642	20131202	VEN	VEN	020	3.0	2	1	2	3.7037037037037	http://english.eluniversal.com/economia/131202/venezuelas-non-oil-exports-down-56-since-2007
-278313662	20131202	VNM	SGP	020	3.0	5	1	5	4.97737556561086	http://www.channelnewsasia.com/news/singapore/vietnamese-party/907070.html
-278313663	20131202	VNM	SGP	020	3.0	1	1	1	4.97737556561086	http://www.channelnewsasia.com/news/singapore/vietnamese-party/907070.html
-278313735	20131202	YEM	SAU	070	7.0	30	3	30	1.63077984691489	http://reliefweb.int/report/yemen/mass-returns-saudi-risk-instability-yemen
-278313849	20131202	ZAF	GBR	022	3.2	8	1	8	1.25	http://www.bbc.co.uk/democracylive/house-of-commons-25190390
+http://www.airforcetimes.com/article/20131202/NEWS08/312020017
+http://news.yahoo.com/iraq-fm-talks-afghans-security-130643712.html
+http://www.cbsnews.com/news/afghanistans-base-bonanza/
+RIA Novosti news agency, Moscow/BBC Monitoring/(c) BBC
+RIA Novosti news agency, Moscow/BBC Monitoring/(c) BBC
+http://armenpress.am/eng/news/742226/
+http://www.queenslandcountrylife.com.au/news/agriculture/livestock/cattle-beef/cca-restructure-approved/2680439.aspx
+http://www.news.com.au/national/breaking-news/car-funding-must-stay-intact-ai-group/story-e6frfku9-1226773677825?from=public_rss
+http://reliefweb.int/report/philippines/more-tents-airlifted-e-visayas
+http://edition.cnn.com/2013/12/02/world/europe/ukraine-protests/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fedition_europe+%28RSS%3A+Europe%29
+http://reliefweb.int/report/philippines/more-tents-airlifted-e-visayas
+http://www.upi.com/Top_News/Special/2013/12/02/French-army-buildup-in-CAR-unlikely-to-quell-bloodshed/UPI-28501385972520/?spt=rln&or=1
+http://www.bbc.co.uk/news/world-africa-25182454
+http://www.panarmenian.net/eng/news/173417/
+http://news.nationalpost.com/2013/12/02/totally-groundless-china-dismisses-canadas-spying-accusation-in-terse-one-line-statement-on-arrest/
+http://news.nationalpost.com/2013/12/02/totally-groundless-china-dismisses-canadas-spying-accusation-in-terse-one-line-statement-on-arrest/
+http://www.cbc.ca/news/politics/nsa-document-raises-questions-about-canada-in-g8-spying-1.2447398
+http://www.cbc.ca/news/politics/nsa-document-raises-questions-about-canada-in-g8-spying-1.2447398
+http://www.ynetnews.com/articles/0,7340,L-4460162,00.html
+http://www.philippinetimes.com/index.php/sid/218803773/scat/2411cd3571b4f088
+http://www.philippinetimes.com/index.php/sid/218803773/scat/2411cd3571b4f088
+http://www.bloomberg.com/news/2013-12-02/brevan-howard-former-partner-klaus-oestergaard-returns-to-firm.html
+http://www.bloomberg.com/news/2013-12-02/brevan-howard-former-partner-klaus-oestergaard-returns-to-firm.html
+http://news.am/eng/news/183569.html
+http://reliefweb.int/report/kyrgyzstan/world-bank-and-government-switzerland-join-efforts-support-effective-water
+http://www.seattlepi.com/news/crime/article/Lebanese-army-taking-over-in-second-largest-city-5028535.php
+http://www.abhaber.com/index.php?option=com_content&view=article&id=53920:ab-den-%C3%A7in-panel-%C3%BCreticilerine-ceza&catid=218:haberler&Itemid=836
+http://www.heraldonline.com/2013/12/02/5461444/research-and-markets-china-us.html
+http://uk.reuters.com/article/2013/12/02/uk-china-offshore-yuan-idUKBRE9B105X20131202?feedType=RSS&feedName=businessNews
+http://uk.reuters.com/article/2013/12/02/uk-china-offshore-yuan-idUKBRE9B105X20131202?feedType=RSS&feedName=businessNews
+http://uk.reuters.com/article/2013/12/02/uk-china-offshore-yuan-idUKBRE9B105X20131202?feedType=RSS&feedName=businessNews
+http://www.cbsnews.com/news/panda-diplomacy-cubs-are-a-sign-of-cooperation-between-china-us/
+http://phys.org/news/2013-12-moon-europa-chaotic-terrain.html
+http://reliefweb.int/report/world/invisible-climate-refugees
+http://www.panarmenian.net/eng/news/173417/
+http://www.voanews.com/content/car-pm-calls-for-aid-foreign-troops/1802279.html
+http://www.upi.com/Top_News/Special/2013/12/02/French-army-buildup-in-CAR-unlikely-to-quell-bloodshed/UPI-28501385972520/?spt=rln&or=1
+http://www.upi.com/Top_News/Special/2013/12/02/French-army-buildup-in-CAR-unlikely-to-quell-bloodshed/UPI-28501385972520/?spt=rln&or=1
+http://www.upi.com/Top_News/Special/2013/12/02/French-army-buildup-in-CAR-unlikely-to-quell-bloodshed/UPI-28501385972520/?spt=rln&or=1
+http://www.upi.com/Top_News/Special/2013/12/02/French-army-buildup-in-CAR-unlikely-to-quell-bloodshed/UPI-28501385972520/?spt=rln&or=1
+http://www.upi.com/Top_News/Special/2013/12/02/French-army-buildup-in-CAR-unlikely-to-quell-bloodshed/UPI-28501385972520/?spt=rln&or=1
+http://www.dailymail.co.uk/news/article-2517233/Could-Chinese-cash-rescue-50bn-HS2-Countrys-premier-says-wants-slice-scheme-calls-operation-nuclear-power.html?ITO=1490&ns_campaign=1490
+http://www.dailymail.co.uk/news/article-2517233/Could-Chinese-cash-rescue-50bn-HS2-Countrys-premier-says-wants-slice-scheme-calls-operation-nuclear-power.html?ITO=1490&ns_campaign=1490
+http://www.dailymail.co.uk/news/article-2517005/Ski-chalet-rep-Jamie-Rolfe-fell-death-ravine-Les-Deux-Alpes.html?ITO=1490&ns_campaign=1490
+http://www.dailymail.co.uk/news/article-2517005/Ski-chalet-rep-Jamie-Rolfe-fell-death-ravine-Les-Deux-Alpes.html?ITO=1490&ns_campaign=1490
+http://www.cambridge-news.co.uk/National-News/Osborne-vows-responsible-recovery-2-8032826.xnf
+http://www.cnn.com/2013/12/02/world/europe/ukraine-protests/
+http://www.thebahamasweekly.com/publish/service-clubs/Call_For_Nominations_For_The_Lady_Sassoon_Golden_Heart_Award31951.shtml
+http://seattletimes.com/html/personaltechnology/2022379327_apxgeekwars.html
+Multiple Sources/BBC Monitoring/(c) BBC
+Multiple Sources/BBC Monitoring/(c) BBC
+http://www.thehindu.com/news/national/on-ministerial-eve-india-stands-alone-in-bali/article5415158.ece
+http://allafrica.com/stories/201312021246.html
+http://www.khl.com/magazines/international-construction/detail/item90490/Funding-approved-for-African-hydropower-project
+http://www.aps.dz/Environment-Algeria-EU-new,133893.html
+http://www.rediff.com/news/column/india-japan-relations-economic-content-combined-with-strategic-intent/20131202.htm
+http://www.rediff.com/news/column/india-japan-relations-economic-content-combined-with-strategic-intent/20131202.htm
+http://www.breakingnews.ie/ireland/gardai-appeal-for-information-on-man-missing-from-dublin-615949.html
+Kyodo News Service, Tokyo/BBC Monitoring/(c) BBC
+http://www.presstv.ir/detail/2013/12/02/337824/iraqi-kurdistan-seals-turkey-deal/
+http://www.presstv.ir/detail/2013/12/02/337824/iraqi-kurdistan-seals-turkey-deal/
+http://www.ynetnews.com/articles/0,7340,L-4438190,00.html
+http://www.ynetnews.com/articles/0,7340,L-4438190,00.html
+http://www.ynetnews.com/articles/0,7340,L-4438190,00.html
+http://www.israelnationalnews.com/News/News.aspx/174708
+http://www.seattlepi.com/news/world/article/Lebanon-puts-army-in-control-of-Tripoli-5027374.php
+http://thecelebritycafe.com/feature/2013/12/crowds-protests-mexican-preisdent-enrique-pena-nietos-energy-reform
+http://www.watchnewspapers.com/view/full_story/24147143/article-Mayflower-Mill-Project-First-in-Colo--to-Benefit-from-Small-Hydro-Reform-?instance=latest_story
+http://www.prnewswire.com/news-releases/shutterstock-to-participate-in-the-credit-suisse-2013-annual-technology-conference-234100181.html
+http://www.bloomberg.com/news/2013-12-02/kashkari-bets-on-u-s-rescue-to-fuel-challenge-of-brown.html
+http://www.bloomberg.com/news/2013-12-02/kashkari-bets-on-u-s-rescue-to-fuel-challenge-of-brown.html
+http://www.bloomberg.com/news/2013-12-02/hartford-financial-bailout-warrants-double-since-auction.html
+http://www.newsday.com/long-island/towns/audit-cites-babylon-officials-over-garbage-fund-loans-1.6528267
+http://www.reuters.com/article/2013/12/02/malaysia-ekovest-bonds-idUSL4N0JH39320131202
+http://reliefweb.int/report/bangladesh/proofs-project-launched-bangladesh
+http://reliefweb.int/report/bangladesh/proofs-project-launched-bangladesh
+http://reliefweb.int/report/bangladesh/proofs-project-launched-bangladesh
+http://www.google.com/hostednews/afp/article/ALeqM5iCbtJQ5g9iXBfPXIffstL0F1B06Q?docId=febda965-6571-4066-978e-2741ab913fb0&hl=en
+http://reliefweb.int/report/world/increased-support-fight-against-hivaids-tuberculosis-and-malaria
+http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11165826
+http://www.voanews.com/content/pakistan-pleges-support-for-afghan-taliban-talks/1801998.html
+http://www.menafn.com/1093731309/Japan-to-Contribute-USD800-Million-to-Global-Fund
+http://www.menafn.com/1093731309/Japan-to-Contribute-USD800-Million-to-Global-Fund
+Rossiyskaya Gazeta website, Moscow/BBC Monitoring/(c) BBC
+http://cpj.org/2013/12/journalists-attacked-while-covering-protests-in-ki.php
+http://cpj.org/2013/12/journalists-attacked-while-covering-protests-in-ki.php
+http://www.businessweek.com/news/2013-12-02/russia-offers-ukraine-cheaper-gas-to-join-moscow-led-group-1
+http://www.armradio.am/en/2013/12/02/russia-promises-cheep-gas-to-ukraine-if-it-joins-the-customs-union-like-armenia/
+http://www.upi.com/Top_News/World-News/2013/12/02/Report-Australia-offered-to-share-data-on-ordinary-citizens/UPI-62941385994641/?spt=rln&or=2
+http://www.theguardian.com/world/2013/dec/02/edward-snowden-nsa-whistleblower-us-law
+http://www.upi.com/Top_News/World-News/2013/12/02/Report-Australia-offered-to-share-data-on-ordinary-citizens/UPI-62941385994641/?spt=rln&or=2
+http://www.theguardian.com/world/2013/dec/02/edward-snowden-nsa-whistleblower-us-law
+http://www.theguardian.com/world/2013/dec/02/edward-snowden-nsa-whistleblower-us-law
+http://www.menafn.com/1093731167/Saudi-banks-compete-to-win-funding-USD7224-b-projects
+http://www.businessweek.com/ap/2013-12-02/fresh-violence-pushes-thailand-deeper-into-crisis
+http://www.businessweek.com/ap/2013-12-02/fresh-violence-pushes-thailand-deeper-into-crisis
+Yeni Safak website, Istanbul/BBC Monitoring/(c) BBC
+Yeni Safak website, Istanbul/BBC Monitoring/(c) BBC
+http://www.smh.com.au/nsw/sydney-men-arrested-over-bid-to-help-fighters-in-syria-20131203-2ynr4.html
+http://www.reuters.com/article/2013/12/02/thailand-central-fund-idUSL4N0JH1I920131202
+http://www.nationmultimedia.com/business/PTTEP-Pertamina-to-acquire-Hess-stakes-in-two-proj-30221172.html
+http://www.hurriyetdailynews.com/turkey-bids-to-solve-oil-row-with-baghdad-krg.aspx?pageID=238&nID=58909&NewsCatID=348
+http://www.hurriyetdailynews.com/turkey-bids-to-solve-oil-row-with-baghdad-krg.aspx?pageID=238&nID=58909&NewsCatID=348
+http://www.hurriyetdailynews.com/turkey-bids-to-solve-oil-row-with-baghdad-krg.aspx?pageID=238&nID=58909&NewsCatID=348
+http://www.hurriyetdailynews.com/turkey-bids-to-solve-oil-row-with-baghdad-krg.aspx?pageID=238&nID=58909&NewsCatID=348
+http://in.reuters.com/article/2013/12/02/azerbaijan-fund-refinery-idINL5N0JH2FE20131202
+http://www.reuters.com/article/2013/12/02/mbk-tinghsin-idUSL4N0JH09420131202?feedType=RSS&feedName=privateEquity
+http://www.reuters.com/article/2013/12/02/mbk-tinghsin-idUSL4N0JH09420131202?feedType=RSS&feedName=privateEquity
+http://www.globalsecurity.org/wmd/library/news/ukraine/2013/ukraine-131130-voa01.htm
+Noor TV, Kabul/BBC Monitoring/(c) BBC
+Resalat website, Tehran/BBC Monitoring/(c) BBC
+Resalat website, Tehran/BBC Monitoring/(c) BBC
+Noor TV, Kabul/BBC Monitoring/(c) BBC
+http://www.thebahamasweekly.com/publish/international/Feeding_The_Hungry_on_Thanksgiving_Day_at_First_Baptist_Church_of_Glenarden31954.shtml
+http://www.cbc.ca/news/politics/nsa-document-raises-questions-about-canada-in-g8-spying-1.2447398
+http://www.cbc.ca/news/politics/nsa-document-raises-questions-about-canada-in-g8-spying-1.2447398
+http://www.cbc.ca/news/politics/nsa-document-raises-questions-about-canada-in-g8-spying-1.2447398
+http://www.globalsecurity.org/military/library/news/2013/12/mil-131201-voa02.htm
+http://www.globalsecurity.org/military/library/news/2013/12/mil-131201-voa02.htm
+http://www.globalsecurity.org/military/library/news/2013/12/mil-131201-voa02.htm
+http://www.heraldonline.com/2013/12/02/5461444/research-and-markets-china-us.html
+http://www.dailymail.co.uk/news/article-2517034/Vancouver-homeless-man-playing-piano-brings-listeners-tears.html?ITO=1490&ns_campaign=1490
+http://www.npr.org/blogs/parallels/2013/12/02/248194408/e-readers-mark-a-new-chapter-in-the-developing-world?ft=1&f=1008
+http://www.bloomberg.com/news/2013-12-02/hilton-seeks-as-much-as-2-4-billion-in-biggest-ever-hotel-ipo.html
+http://www.usatoday.com/story/news/nation/2013/12/01/givingtuesday-charity-day/3797705/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+UsatodaycomNation-TopStories+%28USATODAY+-+Nation+Top+Stories%29
+http://www.upi.com/Top_News/US/2013/12/02/Obama-pledges-up-to-5M-for-to-combat-AIDS-globally/UPI-92961386019235/
+http://hosted.ap.org/dynamic/stories/U/US_OBAMA_2014_ELECTIONS?SITE=NVREN&SECTION=HOME&TEMPLATE=DEFAULT
+http://hosted.ap.org/dynamic/stories/U/US_OBAMA_2014_ELECTIONS?SITE=NVREN&SECTION=HOME&TEMPLATE=DEFAULT
+http://www.miamiherald.com/2013/12/02/3792664/some-dems-keep-distance-as-obama.html
+http://inthesetimes.com/uprising/entry/15945/wikileaks_docs_expose_famed_serbian_activists_ties_to_shadow_cia/
+http://inthesetimes.com/uprising/entry/15945/wikileaks_docs_expose_famed_serbian_activists_ties_to_shadow_cia/
+http://www.smh.com.au/federal-politics/political-opinion/tony-abbotts-gonski-backtrack-may-not-add-up-for-schools-20131202-2ylja.html
+http://www.huffingtonpost.com/2013/12/02/chamber-of-commerce-mitch-mcconnell_n_4372904.html
+http://inthesetimes.com/uprising/entry/15945/wikileaks_docs_expose_famed_serbian_activists_ties_to_shadow_cia/
+http://www.prnewswire.com/news-releases/gm-foundation-grant-sends-256-detroit-children-to-preschool-234093481.html
+http://news.yahoo.com/investigators-look-clues-nyc-train-wreck-203911011--finance.html
+http://www.reuters.com/article/2013/12/02/markets-usa-stocks-cftc-idUSL2N0JH1YJ20131202?type=companyNews&feedType=RSS&feedName=companyNews
+http://www.theglobeandmail.com/technology/tech-news/amazon-joins-the-drone-rush-the-flying-robots-are-coming/article15712301/?cmpid=rss1
+http://www.csmonitor.com/Science/2013/1202/In-one-big-step-for-China-Jade-Rabbit-heads-to-the-moon-video
+http://www.csmonitor.com/Science/2013/1202/In-one-big-step-for-China-Jade-Rabbit-heads-to-the-moon-video
+http://edition.cnn.com/2013/12/02/world/europe/ukraine-protests/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fedition_europe+%28RSS%3A+Europe%29
+http://www.washingtonblade.com/2013/12/02/obama-announces-nih-initiative-to-develop-hiv-cure/
+http://www.washingtonpost.com/national/health-science/obama-pledges-up-to-5-billion-to-infectious-diseases-fund/2013/12/02/a0a6d67e-5b87-11e3-bf7e-f567ee61ae21_story.html?wprss=rss_national
+http://www.usatoday.com/story/news/politics/2013/12/02/obama-world-aids-day-2013/3804569/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+usatoday-NewsTopStories+%28USATODAY+-+News+Top+Stories%29
+http://www.reuters.com/article/2013/12/02/us-usa-obama-aids-idUSBRE9B110A20131202?feedType=RSS&feedName=healthNews
+http://www.washingtonpost.com/world/china-launches-jade-rabbit-rover-to-moon-precursor-to-manned-mission/2013/12/02/87ba7d1a-5b13-11e3-801f-1f90bf692c9b_story.html?wprss=rss_world
+http://www.washingtonpost.com/world/china-launches-jade-rabbit-rover-to-moon-precursor-to-manned-mission/2013/12/02/87ba7d1a-5b13-11e3-801f-1f90bf692c9b_story.html?wprss=rss_world
+http://www.cbsnews.com/news/afghanistans-base-bonanza/
+http://www.theglobeandmail.com/news/politics/canada-increases-donations-to-fight-hiv-malaria-and-tuberculosis/article15713467/?cmpid=rss1
+http://timesleader.com/news/marcellus/97922934751932131/Repsol-agrees-to-negotiate-deal-with-Argentina
+http://cnsnews.com/news/article/ukrainian-protesters-besiege-government-buildings
+http://www.npr.org/templates/story/story.php?storyId=247918013
+http://www.npr.org/templates/story/story.php?storyId=247918013
+http://www.foxnews.com/world/2013/12/03/amid-debate-on-election-4-honduran-computer-geeks-rally-volunteers-to-check/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29
+http://www.huffingtonpost.com/2013/12/02/radioshack-name_n_4373533.html?ncid=txtlnkusaolp00000592
+http://www.seattlepi.com/news/crime/article/Lebanese-army-taking-over-in-second-largest-city-5028535.php
+http://www.foxnews.com/world/2013/12/03/biggest-ever-exhumation-from-peru-long-brutal-conflict-exposes-horrors-3/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29
+http://www.foxnews.com/world/2013/12/03/biggest-ever-exhumation-from-peru-long-brutal-conflict-exposes-horrors-3/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29
+http://cnsnews.com/news/article/after-boy-mauled-balkan-animal-cruelty-focus
+http://news.yahoo.com/boy-mauled-balkan-animal-cruelty-focus-084227547.html
+http://news.yahoo.com/boy-mauled-balkan-animal-cruelty-focus-084227547.html
+http://abcnews.go.com/International/wireStory/united-nations-fly-drones-eastern-congo-21067158
+http://hosted.ap.org/dynamic/stories/M/ML_SYRIA_SPLINTERED_OPPOSITION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+http://hosted.ap.org/dynamic/stories/M/ML_SYRIA_SPLINTERED_OPPOSITION?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+http://www.usatoday.com/story/news/world/2013/12/02/thai-pm-says-protesters-demands-unacceptable/3801619/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+UsatodaycomWorld-TopStories+%28USATODAY+-+World+Top+Stories%29
+http://www.businessweek.com/ap/2013-12-02/fresh-violence-pushes-thailand-deeper-into-crisis
+http://hosted.ap.org/dynamic/stories/U/US_REL_ACLU_CATHOLIC_BISHOPS?SITE=MNWIN&SECTION=HOME&TEMPLATE=DEFAULT
+http://hosted.ap.org/dynamic/stories/U/US_REL_ACLU_CATHOLIC_BISHOPS?SITE=MNWIN&SECTION=HOME&TEMPLATE=DEFAULT
+http://www.wmbfnews.com/story/24113799/prosecutor-fatal-beating-followed-police-threat
+http://www.miamiherald.com/2013/12/02/3791932/govt-diagnosis-healthcaregov-on.html
+http://www.nwitimes.com/news/local/illinois/ill-lawmakers-prepare-for-pension-vote/article_7b275ade-971e-5be6-992c-2f7ed1191519.html
+http://news.yahoo.com/ill-lawmakers-prepare-pension-vote-235815778.html
+http://news.yahoo.com/fast-food-protests-planned-100-cities-155022144--finance.html
+http://abclocal.go.com/wabc/story?section=news/politics&id=9344872
+http://www.sunherald.com/2013/12/02/5161488/miss-judge-refuses-to-grant-gay.html
+http://cnsnews.com/news/article/area-walker-car-crash-known-street-racing
+http://inthesetimes.com/uprising/entry/15945/wikileaks_docs_expose_famed_serbian_activists_ties_to_shadow_cia/
+http://inthesetimes.com/uprising/entry/15945/wikileaks_docs_expose_famed_serbian_activists_ties_to_shadow_cia/
+http://reliefweb.int/report/yemen/mass-returns-saudi-risk-instability-yemen

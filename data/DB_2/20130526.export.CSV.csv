@@ -1,479 +1,149 @@
-255303400	20120526	AUS	AUS	071	7.4	2	1	2	1.22324159021407	http://www.adelaidenow.com.au/news/south-australia/accounting-for-a-deficit-in-state-budget/story-e6frea83-1226650947385?from=public_rss
-255303534	20120526	KEN	KEN	071	7.4	4	1	4	1.00732600732601	http://www.dailymail.co.uk/news/article-2331374/Michael-Adebolajo-We-warned--ignored-Kenya-says-Britain-told-dangerous-radical-2010.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490
-255303542	20120526	KEN	KEN	071	7.4	6	1	6	1.00732600732601	http://www.dailymail.co.uk/news/article-2331374/Michael-Adebolajo-We-warned--ignored-Kenya-says-Britain-told-dangerous-radical-2010.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490
-255303734	20130426	QAT	LBY	071	7.4	6	1	6	3.38983050847458	http://www.cpifinancial.net/news/post/20937/egypt-to-issue-smart-cards-to-fuel-stations-next-month
-255303735	20130426	QAT	LBY	071	7.4	2	1	2	3.38983050847458	http://www.cpifinancial.net/news/post/20937/egypt-to-issue-smart-cards-to-fuel-stations-next-month
-255303736	20130426	QAT	LBY	071	7.4	2	1	2	3.38983050847458	http://www.cpifinancial.net/news/post/20937/egypt-to-issue-smart-cards-to-fuel-stations-next-month
-255303742	20130426	RUS	SYR	026	4.0	2	1	2	1.59151193633952	http://www.globalsecurity.org/wmd/library/news/syria/2013/syria-130525-voa02.htm
-255303743	20130426	RUS	SYR	026	4.0	2	1	2	1.59151193633952	http://www.globalsecurity.org/wmd/library/news/syria/2013/syria-130525-voa02.htm
-255303744	20130426	RUS	SYR	026	4.0	6	1	6	1.59151193633952	http://www.globalsecurity.org/wmd/library/news/syria/2013/syria-130525-voa02.htm
-255303778	20130426	SYR	USA	026	4.0	8	1	8	2.84191829484902	http://www.dw.de/syria-regime-agrees-in-principle-to-attend-geneva-peace-talks/a-16837549?maca=en-rss-en-top-1022-rdf
-255303779	20130426	SYR	USA	026	4.0	12	1	12	2.84191829484902	http://www.dw.de/syria-regime-agrees-in-principle-to-attend-geneva-peace-talks/a-16837549?maca=en-rss-en-top-1022-rdf
-255303794	20130426	USA	SYR	026	4.0	6	1	6	1.59151193633952	http://www.globalsecurity.org/wmd/library/news/syria/2013/syria-130525-voa02.htm
-255303795	20130426	USA	SYR	026	4.0	2	1	2	1.59151193633952	http://www.globalsecurity.org/wmd/library/news/syria/2013/syria-130525-voa02.htm
-255303796	20130426	USA	SYR	026	4.0	2	1	2	1.59151193633952	http://www.globalsecurity.org/wmd/library/news/syria/2013/syria-130525-voa02.htm
-255304089	20130519	PSE	ISR	020	3.0	4	1	4	5.50306823014764	http://www.voanews.com/content/kerry-hopeful-on-palestinian-economic-plan/1668734.html
-255304103	20130519	PSE	JOR	020	3.0	2	1	2	5.96026490066225	http://www.voanews.com/content/israeli-president-says-israelipalestinian-peace-possible/1668498.html
-255304104	20130519	PSE	USA	020	3.0	1	1	1	5.04587155963303	http://www.voanews.com/content/kerry-hopeful-on-palestinian-economic-plan/1668734.html
-255304105	20130519	PSE	USA	020	3.0	1	1	1	5.04587155963303	http://www.voanews.com/content/kerry-hopeful-on-palestinian-economic-plan/1668734.html
-255304178	20130519	USA	USA	020	3.0	3	1	3	4.11392405063291	http://newsok.com/president-barack-obama-to-tour-tornado-damage-in-oklahoma/article/3834316?custom_click=pod_headline_politics
-255304191	20130519	USA	PRK	0214	3.4	30	1	30	4.48508979304052	http://www.foxnews.com/politics/2013/05/26/graham-wants-special-counsel-to-probe-feds-looking-at-fox-reporter-phone-logs/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fmost-popular+%28Internal+-+Most+Popular+Content%29
-255304317	20130525	ITA	CHN	070	7.0	16	1	16	2.56410256410256	http://www.shanghaidaily.com/nsp/Metro/2013/05/27/Expatriates%2Bdonate%2Bblood%2Bto%2Bhelp%2Bboost%2Bcitys%2Bsupply%2Bof%2Brare%2Btypes/
-255304318	20130525	ITA	CHN	070	7.0	4	1	4	2.56410256410256	http://www.shanghaidaily.com/nsp/Metro/2013/05/27/Expatriates%2Bdonate%2Bblood%2Bto%2Bhelp%2Bboost%2Bcitys%2Bsupply%2Bof%2Brare%2Btypes/
-255306780	20130526	AFG	AFG	020	3.0	4	1	4	0	BBC Monitoring
-255306876	20130526	AFG	PAK	020	3.0	10	1	5	0	BBC Monitoring
-255306877	20130526	AFG	PAK	025	-0.3	2	1	2	0	BBC Monitoring
-255306923	20130526	AFG	USA	075	7.0	3	1	3	1.29533678756477	http://zeenews.india.com/news/south-asia/committed-pak-jihadists-replace-slain-al-qaeda-leaders-report_851006.html
-255306931	20130526	AFG	USA	020	3.0	2	1	2	2.87292817679558	http://www.bloomberg.com/news/2013-05-26/our-mixed-message-to-veterans-on-memorial-day.html
-255306932	20130526	AFG	USA	020	3.0	4	1	4	1.61443494776828	http://www.npr.org/templates/story/story.php?storyId=186614350&ft=1&f=2&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+NprProgramsATC+%28NPR+Programs%3A+All+Things+Considered%29
-255306933	20130526	AFG	USA	020	3.0	2	1	2	2.87292817679558	http://www.bloomberg.com/news/2013-05-26/our-mixed-message-to-veterans-on-memorial-day.html
-255306941	20130526	AFG	AFG	020	3.0	8	1	8	2.06794682422452	http://www.globalsecurity.org/military/library/news/2013/05/mil-130524-arnews02.htm
-255306986	20130526	AFG	AFG	072	8.3	12	3	12	3.32912226217666	http://www.dailystar.com.lb/News/International/2013/May-26/218401-afghan-police-rescued-aid-workers-trapped-in-siege.ashx
-255306990	20130526	AFG	AFG	072	8.3	18	3	18	3.32912226217666	http://www.dailystar.com.lb/News/International/2013/May-26/218401-afghan-police-rescued-aid-workers-trapped-in-siege.ashx
-255307002	20130526	AFG	AFG	072	8.3	4	1	4	1.63487738419619	http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2013-05-26-Afghanistan/id-cd83a9f00d444d3fa353eeee788a0a0b
-255307004	20130526	AFG	AFG	072	8.3	6	1	6	1.63487738419619	http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2013-05-26-Afghanistan/id-cd83a9f00d444d3fa353eeee788a0a0b
-255307166	20130526	AFR	AFR	071	7.4	3	1	3	3.73548712771328	http://www.iol.co.za/news/africa/prophets-of-pan-africanism-from-the-oau-to-the-au-1.1521876
-255307167	20130526	AFR	AFR	071	7.4	1	1	1	3.73548712771328	http://www.iol.co.za/news/africa/prophets-of-pan-africanism-from-the-oau-to-the-au-1.1521876
-255307179	20130526	AFR	ISR	025	-0.3	2	1	2	5.28169014084507	http://www.ctvnews.ca/world/israel-s-peres-calls-for-return-to-peace-talks-with-palestinians-1.1297580
-255307193	20130526	AFR	PSE	025	-0.3	2	1	2	5.28169014084507	http://www.ctvnews.ca/world/israel-s-peres-calls-for-return-to-peace-talks-with-palestinians-1.1297580
-255307215	20130526	AFR	ZAF	073	7.4	4	1	4	4.45859872611465	http://www.iol.co.za/news/south-africa/eastern-cape/trapped-fishermen-rescued-1.1521913
-255307231	20130526	AGO	AGO	070	7.0	10	1	10	6.74157303370786	http://allafrica.com/stories/201305260116.html
-255307304	20130526	ARE	LBN	020	3.0	16	3	16	1.41358778148131	http://www.jpost.com/MiddleEast/Article.aspx?ID=314414&R=R1
-255307305	20130526	ARE	LBN	020	3.0	2	1	2	2.22222222222222	http://www.jpost.com/Headlines/Article.aspx?id=314412&R=R101
-255307306	20130526	ARE	LBN	020	3.0	2	1	2	2.22222222222222	http://www.jpost.com/Headlines/Article.aspx?id=314412&R=R101
-255307309	20130526	ARE	LBN	020	3.0	24	3	24	1.41358778148131	http://www.jpost.com/MiddleEast/Article.aspx?ID=314414&R=R1
-255307310	20130526	ARE	LBN	020	3.0	6	1	6	2.22222222222222	http://www.jpost.com/Headlines/Article.aspx?id=314412&R=R101
-255307593	20130526	AUS	AUS	020	3.0	2	1	2	0	http://www.3news.co.nz/NZ-experts-help-in-Australian-cold-case/tabid/417/articleID/299288/Default.aspx?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+co%2FMvia+%283News+-+International+News%29
-255307594	20130526	AUS	AUS	020	3.0	2	1	2	0	http://www.3news.co.nz/NZ-experts-help-in-Australian-cold-case/tabid/417/articleID/299288/Default.aspx?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+co%2FMvia+%283News+-+International+News%29
-255307600	20130526	AUS	AUS	020	3.0	6	2	6	4.31647300068353	http://www.radioaustralia.net.au/international/2013-05-27/red-tape-limits-oil-and-gas-industry-productivity/1136402
-255307611	20130526	AUS	AUS	071	7.4	2	1	2	2.52707581227437	http://www.news.com.au/breaking-news/national/qld-unions-launch-anti-asset-sales-blitz/story-e6frfku9-1226650828490?from=public_rss
-255307619	20130526	AUS	ISR	070	7.0	6	1	6	1.22950819672131	http://www.jpost.com/JewishWorld/JewishNews/Article.aspx?id=314402&R=R5
-255307622	20130526	AUS	PSE	070	7.0	6	1	6	1.22950819672131	http://www.jpost.com/JewishWorld/JewishNews/Article.aspx?id=314402&R=R5
-255307644	20130526	AUT	FRA	070	7.0	10	1	10	4.70324748040314	http://www.bloomberg.com/news/2013-05-26/pinot-blanc-pairs-with-foie-gras-gorgonzola-baked-beans.html
-255307647	20130526	AUT	ISR	074	8.5	4	1	4	2.88184438040346	http://www.dailystar.com.lb/News/Middle-East/2013/May-27/218426-ex-un-commander-in-golan-warns-against-austria-pullout.ashx
-255307648	20130526	AUT	ISR	074	8.5	6	1	6	2.88184438040346	http://www.dailystar.com.lb/News/Middle-East/2013/May-27/218426-ex-un-commander-in-golan-warns-against-austria-pullout.ashx
-255307649	20130526	AUT	SYR	074	8.5	10	1	10	2.88184438040346	http://www.dailystar.com.lb/News/Middle-East/2013/May-27/218426-ex-un-commander-in-golan-warns-against-austria-pullout.ashx
-255307658	20130526	AZE	IRN	020	3.0	2	1	2	1.5748031496063	http://en.trend.az/news/iran_elections/2154601.html
-255307660	20130526	AZE	IRN	020	3.0	8	1	8	1.5748031496063	http://en.trend.az/news/iran_elections/2154601.html
-255307677	20130526	BEL	CHN	020	3.0	10	2	10	1.62671809947478	http://www.miamiherald.com/2013/05/26/3417771/germany-merkel-vows-to-avoid-trade.html
-255307678	20130526	BEL	CHN	020	3.0	10	2	10	1.62671809947478	http://www.miamiherald.com/2013/05/26/3417771/germany-merkel-vows-to-avoid-trade.html
-255307679	20130526	BEL	CHN	020	3.0	30	3	30	0.921928313232662	http://zeenews.india.com/news/world/chinese-pm-meets-german-chancellor-amid-trade-row_851060.html
-255307680	20130526	BEL	CHN	020	3.0	2	1	2	1.99501246882793	http://www.thestandard.com.hk/breaking_news_detail.asp?id=36638
-255307681	20130526	BEL	CHN	020	3.0	8	1	8	1.99501246882793	http://www.thestandard.com.hk/breaking_news_detail.asp?id=36638
-255307736	20130526	BGD	GBR	020	3.0	3	1	3	2.16216216216216	http://www.thehindu.com/news/international/south-asia/interpol-sounded-for-khaledas-son/article4753605.ece
-255307793	20130526	BHR	IRN	071	7.4	1	1	1	1.94672131147541	http://www.ynetnews.com/articles/0,7340,L-4384491,00.html
-255307794	20130526	BHR	IRN	071	7.4	4	1	4	1.94672131147541	http://www.ynetnews.com/articles/0,7340,L-4384491,00.html
-255307851	20130526	BRA	AFR	071	7.4	10	1	10	2.35690235690236	http://news.yahoo.com/brazil-says-cancel-africa-debt-worth-900-mln-073705868.html
-255307852	20130526	BRA	AFR	071	7.4	25	3	25	5.17641281456185	http://www.iol.co.za/business/international/brazil-cancels-900m-in-african-debt-1.1521886
-255307853	20130526	BRA	AFR	071	7.4	10	1	10	3.125	http://www.nation.co.ke/News/world/Brazil-cancels--900-million-in-African-debt/-/1068/1863300/-/13o80c9/-/index.html
-255307856	20130526	BRA	BRA	071	7.4	5	1	5	4.67289719626168	http://www.thenews.com.pk/Todays-News-3-179779-Brazil-cancels-$900-million-of-African-debt
-255307860	20130526	BRA	CAN	026	4.0	1	1	1	2.47046186895811	http://www.ctvnews.ca/canada/csis-knew-of-navy-spy-s-activity-but-held-file-back-from-rcmp-1.1297454
-255307861	20130526	BRA	CAN	026	4.0	1	1	1	2.47046186895811	http://www.ctvnews.ca/canada/csis-knew-of-navy-spy-s-activity-but-held-file-back-from-rcmp-1.1297454
-255307875	20130526	BRA	MCO	020	3.0	1	1	1	2.87081339712919	http://www.breakingnews.ie/sport/more-joy-for-rosberg-in-monaco-595658.html
-255307876	20130526	BRA	MCO	020	3.0	2	1	2	2.87081339712919	http://www.breakingnews.ie/sport/more-joy-for-rosberg-in-monaco-595658.html
-255308557	20130526	CAN	DEU	020	3.0	2	1	2	2.7063599458728	http://www.calgaryherald.com/technology/environment/Toronto+artist+Franke+James+says+Harper/8432290/story.html
-255308558	20130526	CAN	DEU	020	3.0	4	1	4	2.7063599458728	http://www.calgaryherald.com/technology/environment/Toronto+artist+Franke+James+says+Harper/8432290/story.html
-255308559	20130526	CAN	DEU	020	3.0	2	1	2	2.7063599458728	http://www.calgaryherald.com/technology/environment/Toronto+artist+Franke+James+says+Harper/8432290/story.html
-255308581	20130526	CAN	ITA	020	3.0	4	1	4	5.04201680672269	http://www.cbc.ca/news/canada/montreal/story/2013/05/26/lisee-finds-humour-in-language-debate-just-for-laughs.html?cmp=rss
-255308648	20130526	CAN	CAN	020	3.0	6	2	6	3.11947732019493	http://metronews.ca/news/calgary/685418/climate-activists-book-claims-conservatives-tried-to-silence-her/
-255308654	20130526	CAN	CAN	071	7.4	2	1	2	1.92539109506619	http://www.theglobeandmail.com/news/national/ontario-premier-will-pitch-tax-hikes-fees-to-fund-transit-expansion/article12158576/?cmpid=rss1
-255308732	20130526	CHE	IRQ	020	3.0	1	1	1	2.0979020979021	http://en.trend.az/regions/met/arabicr/2154610.html
-255308733	20130526	CHE	IRQ	020	3.0	1	1	1	2.0979020979021	http://en.trend.az/regions/met/arabicr/2154610.html
-255308744	20130526	CHE	SYR	020	3.0	1	1	1	1.71358629130967	http://www.guardian.co.uk/world/2013/may/26/beirut-attack-hezbollah-sectarian-conflict
-255308745	20130526	CHE	SYR	020	3.0	1	1	1	1.71358629130967	http://www.guardian.co.uk/world/2013/may/26/beirut-attack-hezbollah-sectarian-conflict
-255309016	20130526	CHN	DEU	020	3.0	4	1	4	0	BBC Monitoring
-255309134	20130526	CHN	CHN	070	7.0	2	1	2	1.92982456140351	http://www.thisdaylive.com/articles/construction-of-700mw-zungeru-hydro-plant-begins-soon/148531/
-255309152	20130526	CHN	QAT	020	3.0	10	1	10	3.90625	http://www.ameinfo.com/ssh-team-attend-arabian-world-construction-343144
-255309175	20130526	CHN	USA	020	3.0	40	1	40	1.30906638325703	http://uk.reuters.com/article/2013/05/26/uk-china-eu-trade-merkel-idUKBRE94P0C920130526?feedType=RSS&feedName=topNews
-255309178	20130526	CHN	USA	020	3.0	10	1	10	1.16731517509728	http://ca.reuters.com/article/businessNews/idCABRE94P0CD20130526
-255309240	20130526	CHN	DEU	020	3.0	6	1	6	0	BBC Monitoring
-255309276	20130526	CHN	CHN	072	8.3	3	1	3	3.6563071297989	http://www.thejakartapost.com/news/2013/05/26/where-toilet-cleaners-get-paid-more-prime-ministers.html
-255309477	20130526	COL	COL	020	3.0	1	1	1	3.46191889218595	http://www.cbc.ca/news/world/story/2013/05/26/colombia-farc-peace-talks-land-reform.html?cmp=rss
-255309478	20130526	COL	COL	020	3.0	1	1	1	3.46191889218595	http://www.cbc.ca/news/world/story/2013/05/26/colombia-farc-peace-talks-land-reform.html?cmp=rss
-255310460	20130526	CUB	USA	020	3.0	4	1	4	2.46555474981871	http://www.jpost.com/Travel/TravelNews/Article.aspx?ID=314354&R=R1
-255310461	20130526	CUB	USA	020	3.0	2	1	2	2.46555474981871	http://www.jpost.com/Travel/TravelNews/Article.aspx?ID=314354&R=R1
-255310894	20130526	DEU	BEL	020	3.0	3	1	3	1.38461538461538	http://www.cnn.com/2013/05/26/business/china-europe-trade-war/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+Most+Recent%29
-255310895	20130526	DEU	BEL	020	3.0	1	1	1	1.38461538461538	http://www.cnn.com/2013/05/26/business/china-europe-trade-war/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+Most+Recent%29
-255310946	20130526	DEU	CHN	027	4.0	4	2	4	1.62671809947478	http://www.miamiherald.com/2013/05/26/3417771/germany-merkel-vows-to-avoid-trade.html
-255311039	20130526	DEU	LBN	070	7.0	2	1	2	1.35869565217391	http://www.channelnewsasia.com/news/sport/motor-racing-stewards-confirm-protests-a/687766.html
-255311040	20130526	DEU	LBN	070	7.0	2	1	2	1.35869565217391	http://www.channelnewsasia.com/news/sport/motor-racing-stewards-confirm-protests-a/687766.html
-255311053	20130526	DEU	PHL	020	3.0	10	1	10	4.68227424749164	http://www.philippinetimes.com/index.php/sid/214776723/scat/2411cd3571b4f088
-255311066	20130526	DEU	USA	073	7.4	2	2	2	2.32235890731166	http://www.airforcetimes.com/article/20130525/NEWS/305250011
-255311129	20130526	DOM	USA	071	7.4	4	1	4	1.44230769230769	http://reliefweb.int/report/dominican-republic/trafficked-haitian-children-dominican-republic-get-assistance-iom
-255311520	20130526	EGY	ISR	020	3.0	6	1	6	0	BBC Monitoring
-255311526	20130526	EGY	LBN	025	-0.3	8	1	8	2.61780104712042	http://www.jpost.com/Headlines/Article.aspx?id=314444&R=R101
-255311527	20130526	EGY	LBN	025	-0.3	2	1	2	2.61780104712042	http://www.jpost.com/Headlines/Article.aspx?id=314444&R=R101
-255311534	20130526	EGY	PSE	020	3.0	1	1	1	0	BBC Monitoring
-255311540	20130526	EGY	SYR	025	-0.3	4	1	4	2.61780104712042	http://www.jpost.com/Headlines/Article.aspx?id=314444&R=R101
-255311556	20130526	EGY	USA	022	3.2	2	1	2	4.25963488843813	http://www.egyptindependent.com/news/us-encourages-egypt-implement-economic-reforms
-255311557	20130526	EGY	USA	022	3.2	2	1	2	4.25963488843813	http://www.egyptindependent.com/news/us-encourages-egypt-implement-economic-reforms
-255311652	20130526	ESP	USA	020	3.0	2	1	2	2.79900901017309	http://www.latimes.com/news/nationworld/nation/la-na-texas-third-george-bush-20130526,0,3922932.story
-255311653	20130526	ESP	USA	020	3.0	2	1	2	2.79900901017309	http://www.latimes.com/news/nationworld/nation/la-na-texas-third-george-bush-20130526,0,3922932.story
-255311664	20130526	ESP	VEN	070	7.0	4	1	4	2.19619326500732	http://www.cnn.com/2013/05/26/us/oklahoma-tornado/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+Top+Stories%29
-255311684	20130526	ETH	AFR	0211	3.4	10	1	10	6.86567164179105	http://www.capitalfm.co.ke/news/2013/05/uhuru-job-wealth-creation-will-liberate-africa/
-255311740	20130526	ETH	NGA	0243	-0.3	2	1	2	2.40963855421687	http://www.washingtonpost.com/world/africa/in-1st-official-trip-to-sub-saharan-africa-kerry-urges-nigeria-to-respect-human-rights/2013/05/25/0cb9d64c-c509-11e2-9642-a56177f1cdf7_story.html
-255311741	20130526	ETH	NGA	0243	-0.3	2	1	2	2.40963855421687	http://www.washingtonpost.com/world/africa/in-1st-official-trip-to-sub-saharan-africa-kerry-urges-nigeria-to-respect-human-rights/2013/05/25/0cb9d64c-c509-11e2-9642-a56177f1cdf7_story.html
-255312027	20130526	FRA	CHE	023	3.4	20	4	20	0.990698451681408	http://www.theglobeandmail.com/report-on-business/international-business/european-business/french-budget-minister-warns-tax-evaders-to-confess-now/article12160001/?cmpid=rss1
-255312028	20130526	FRA	CHE	023	3.4	20	4	20	0.990698451681408	http://www.theglobeandmail.com/report-on-business/international-business/european-business/french-budget-minister-warns-tax-evaders-to-confess-now/article12160001/?cmpid=rss1
-255312031	20130526	FRA	CHE	023	3.4	20	4	20	0.990698451681408	http://www.theglobeandmail.com/report-on-business/international-business/european-business/french-budget-minister-warns-tax-evaders-to-confess-now/article12160001/?cmpid=rss1
-255312032	20130526	FRA	CHE	023	3.4	40	4	40	0.990698451681408	http://www.theglobeandmail.com/report-on-business/international-business/european-business/french-budget-minister-warns-tax-evaders-to-confess-now/article12160001/?cmpid=rss1
-255312068	20130526	FRA	FRA	071	7.4	1	1	1	1.71849427168576	http://www.contracostatimes.com/breaking-news/ci_23326284/internal-affairs-forbes-cover-brings-back-meg-whitmans?source=rss
-255312069	20130526	FRA	FRA	071	7.4	1	1	1	1.71849427168576	http://www.contracostatimes.com/breaking-news/ci_23326284/internal-affairs-forbes-cover-brings-back-meg-whitmans?source=rss
-255312084	20130526	FRA	FRA	020	3.0	4	1	4	0.408163265306122	http://www.guardian.co.uk/world/2013/may/26/french-police-soldier-stabbed-paris
-255312104	20130526	FRA	FRA	020	3.0	4	1	4	2.12234706616729	http://globalvoicesonline.org/2013/05/26/a-thin-line-between-democracy-and-independence-in-french-polynesia/
-255312107	20130526	FRA	GBR	020	3.0	4	1	4	1.73745173745174	http://www.telegraph.co.uk/news/uknews/terrorism-in-the-uk/10081715/Woolwich-attack-Extremist-preachers-should-be-banned-from-TV.html
-255312135	20130526	FRA	GHA	071	7.4	2	2	2	2.53264350825327	http://www.spyghana.com/ghana-and-france-made-significant-earnings-of-e1-4b-trade-in-2012-from-trade/
-255312136	20130526	FRA	GHA	071	7.4	2	2	2	2.53264350825327	http://www.spyghana.com/ghana-and-france-made-significant-earnings-of-e1-4b-trade-in-2012-from-trade/
-255312166	20130526	FRA	IRN	020	3.0	2	1	2	2.84900284900285	http://www.aljazeera.com/news/middleeast/2013/05/20135269362518274.html
-255312167	20130526	FRA	IRN	020	3.0	6	2	6	2.82430147690839	http://www.dailystar.com.lb/News/Middle-East/2013/May-26/218367-iran-slams-us-french-criticism-of-electoral-vetting.ashx
-255312240	20130526	FRA	PAK	020	3.0	4	1	4	0.864418804376236	http://www.thehindu.com/news/international/world/manhunt-on-for-paris-attacker/article4753217.ece
-255312241	20130526	FRA	PAK	020	3.0	4	1	4	0.864418804376236	http://www.thehindu.com/news/international/world/manhunt-on-for-paris-attacker/article4753217.ece
-255312420	20130526	FRA	GHA	071	7.4	8	2	8	2.53264350825327	http://www.spyghana.com/ghana-and-france-made-significant-earnings-of-e1-4b-trade-in-2012-from-trade/
-255312421	20130526	FRA	GHA	071	7.4	2	2	2	2.53264350825327	http://www.spyghana.com/ghana-and-france-made-significant-earnings-of-e1-4b-trade-in-2012-from-trade/
-255312423	20130526	FRA	IRN	020	3.0	6	1	6	2.84900284900285	http://www.aljazeera.com/news/middleeast/2013/05/20135269362518274.html
-255312424	20130526	FRA	IRN	020	3.0	6	1	6	2.81195079086116	http://www.dailystar.com.lb/News/Middle-East/2013/May-26/218367-iran-slams-us-french-criticism-of-electoral-vetting.ashx
-255312472	20130526	FRA	FRA	020	3.0	2	1	2	2.12234706616729	http://globalvoicesonline.org/2013/05/26/a-thin-line-between-democracy-and-independence-in-french-polynesia/
-255312474	20130526	FRA	FRA	020	3.0	4	1	4	2.12234706616729	http://globalvoicesonline.org/2013/05/26/a-thin-line-between-democracy-and-independence-in-french-polynesia/
-255312715	20130526	GBR	AUS	070	7.0	1	1	1	0.430292598967298	http://www.cnn.com/2013/05/25/world/europe/uk-terror-arrest/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_crime+%28RSS%3A+Crime%29
-255312865	20130526	GBR	GBR	0234	3.4	4	1	4	3.30490405117271	http://www.telegraph.co.uk/health/healthnews/10080524/Protect-NHS-whistleblowers-urges-consultant-who-lost-job-and-home-after-raising-concerns.html
-255312940	20130526	GBR	JPN	020	3.0	2	1	2	6.43185298621746	http://www.independent.co.uk/news/world/asia/kawaii-going-crazy-for-cute-the-japanese-way-8632933.html
-255312959	20130526	GBR	KEN	070	7.0	4	1	4	0.420126899426874	http://www.cnn.com/2013/05/26/world/europe/uk-terror-arrest/index.html?eref=rss_mostpopular&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_mostpopular+%28RSS%3A+Most+Popular%29
-255312960	20130526	GBR	KEN	070	7.0	4	1	4	0.420126899426874	http://www.cnn.com/2013/05/26/world/europe/uk-terror-arrest/index.html?eref=rss_mostpopular&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_mostpopular+%28RSS%3A+Most+Popular%29
-255313082	20130526	GBR	NZL	020	3.0	10	1	10	5.85106382978723	http://topnews.net.nz/content/227896-britain-calls-eu-adopt-target-cut-emissions-50-2030
-255313086	20130526	GBR	PAK	020	3.0	2	1	2	3.72340425531915	http://www.thenews.com.pk/Todays-News-2-180022-Galloway-plans-legal-actions-against-Altaf
-255313087	20130526	GBR	PAK	020	3.0	2	1	2	3.72340425531915	http://www.thenews.com.pk/Todays-News-2-180022-Galloway-plans-legal-actions-against-Altaf
-255313097	20130526	GBR	PAK	073	7.4	1	1	1	2.03045685279188	http://dawn.com/2013/05/26/two-men-charged-in-britain-over-pakistan-plane-incident/
-255313098	20130526	GBR	PAK	073	7.4	2	1	2	2.03045685279188	http://dawn.com/2013/05/26/two-men-charged-in-britain-over-pakistan-plane-incident/
-255313099	20130526	GBR	PAK	073	7.4	3	1	3	2.03045685279188	http://dawn.com/2013/05/26/two-men-charged-in-britain-over-pakistan-plane-incident/
-255313100	20130526	GBR	PAK	073	7.4	2	1	2	2.03045685279188	http://dawn.com/2013/05/26/two-men-charged-in-britain-over-pakistan-plane-incident/
-255313164	20130526	GBR	USA	020	3.0	8	1	4	2.88973384030418	http://www.filmjournal.com/filmjournal/content_display/reviews/specialty-releases/e3ieb3131d46968ad632601a031f56abda1?imw=Y
-255313165	20130526	GBR	USA	023	3.4	2	1	2	3.72340425531915	http://www.thenews.com.pk/Todays-News-2-180022-Galloway-plans-legal-actions-against-Altaf
-255313166	20130526	GBR	USA	023	3.4	2	1	2	3.72340425531915	http://www.thenews.com.pk/Todays-News-2-180022-Galloway-plans-legal-actions-against-Altaf
-255313285	20130526	GBR	GBR	020	3.0	2	1	2	0.884955752212389	http://www.thehindu.com/news/international/world/manhunt-on-for-paris-attacker/article4753217.ece
-255313290	20130526	GBR	GBR	070	7.0	12	1	12	0.420126899426874	http://www.cnn.com/2013/05/26/world/europe/uk-terror-arrest/index.html?eref=rss_mostpopular&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_mostpopular+%28RSS%3A+Most+Popular%29
-255313360	20130526	GBR	GBR	020	3.0	8	4	8	0.363388868139431	http://www.nation.com.pk/pakistan-news-newspaper-daily-english-online/international/27-May-2013/police-probe-paris-soldier-stabbing-as-3-held-over-london-murder
-255313378	20130526	GHA	AFR	020	3.0	12	5	12	2.79819999706935	http://www.bdlive.co.za/africa/africannews/2013/05/26/news-analysis-africa-defence-force-needed-but-still-a-paper-tiger
-255313379	20130526	GHA	AFR	020	3.0	48	5	48	2.79819999706935	http://www.bdlive.co.za/africa/africannews/2013/05/26/news-analysis-africa-defence-force-needed-but-still-a-paper-tiger
-255315368	20130526	HTI	USA	020	3.0	10	1	10	2.38362310712283	http://www.salon.com/2013/05/26/the_medias_warped_coverage_of_post_disaster_haiti_partner/
-255315398	20130526	IDN	IDN	020	3.0	2	1	2	1.75718849840256	http://www.chinapost.com.tw/editorial/taiwan-issues/2013/05/27/379561/Bureaucratic-tapestry.htm
-255315437	20130526	AFR	AFR	020	3.0	10	1	10	4.86815415821501	http://www.lusakatimes.com/2013/05/26/fight-on-kk-urges-african-union/
-255315514	20130526	EUR	CHN	020	3.0	30	3	30	2.04158257849533	http://www.foxnews.com/world/2013/05/26/german-chancellor-merkel-vows-to-lobby-eu-to-avoid-trade-spat-with-china-over/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29
-255315515	20130526	EUR	CHN	020	3.0	20	1	20	1.80729450190528	http://hosted.ap.org/dynamic/stories/E/EU_GERMANY_CHINA?SITE=TXHOU&SECTION=HOME&TEMPLATE=DEFAULT
-255315543	20130526	EUR	TUR	020	3.0	10	1	10	3.97727272727273	http://www.google.com/hostednews/afp/article/ALeqM5hObufe9GJV4IfsaYAZwL9X_A9Xtw?docId=CNG.c96cfa041a8c3d4d3ddc67ecc10fc3c8.341
-255315558	20130526	MEA	SYR	025	-0.3	2	1	2	2.61780104712042	http://www.jpost.com/Headlines/Article.aspx?id=314444&R=R101
-255315559	20130526	MEA	SYR	025	-0.3	4	1	4	2.61780104712042	http://www.jpost.com/Headlines/Article.aspx?id=314444&R=R101
-255315749	20130526	IND	ARE	020	3.0	2	1	2	1.64473684210526	http://timesofindia.indiatimes.com/india/UAE-court-rejects-CBI-plea-to-extradite-Koda-aide/articleshow/20283917.cms
-255315750	20130526	IND	ARE	023	3.4	4	1	4	1.64473684210526	http://timesofindia.indiatimes.com/india/UAE-court-rejects-CBI-plea-to-extradite-Koda-aide/articleshow/20283917.cms
-255315818	20130526	IND	IND	020	3.0	5	1	5	2.7027027027027	http://zeenews.india.com/news/nation/modi-calls-for-zero-tolerance-towards-naxalism_851055.html
-255315819	20130526	IND	IND	020	3.0	1	1	1	2.7027027027027	http://zeenews.india.com/news/nation/modi-calls-for-zero-tolerance-towards-naxalism_851055.html
-255315901	20130526	IND	USA	020	3.0	2	1	2	1.64502164502165	http://www.thehindu.com/opinion/op-ed/chasing-a-boat-we-missed-long-ago/article4753529.ece
-255315984	20130526	IND	IND	020	3.0	8	1	8	2.14285714285714	http://www.upi.com/Top_News/World-News/2013/05/26/Maoists-attack-in-India-leaves-27-dead-32-wounded/UPI-67821369546259/
-255315985	20130526	IND	JPN	020	3.0	5	1	5	3.63636363636364	http://www.philippinetimes.com/index.php/sid/214786155/scat/2411cd3571b4f088
-255316025	20130526	IND	IND	020	3.0	8	1	8	3.52941176470588	http://www.bna.bh/portal/en/news/562412
-255316026	20130526	IND	IND	020	3.0	8	1	8	1.42857142857143	http://www.thehindu.com/news/national/other-states/congress-workers-call-for-bandh-in-chhattisgarh/article4752898.ece
-255316036	20130526	IND	USA	072	8.3	2	1	2	2.69541778975741	http://www.thehindu.com/news/national/other-states/abducted-chhattisgarh-congress-chief-son-dead/article4752692.ece
-255316080	20130526	IRL	GBR	020	3.0	10	1	10	3.6734693877551	http://www.bbc.co.uk/sport/0/rugby-union/22676395
-255316174	20130526	IRN	FRA	020	3.0	6	1	6	6.93069306930693	http://www.google.com/hostednews/afp/article/ALeqM5iz7KTRQCYKWsNrxo5_2WkE8Cdshg?docId=CNG.345f824dea2ecdf955e9644d2d0ed9f4.241
-255316175	20130526	IRN	FRA	020	3.0	1	1	1	8.42696629213483	http://www.forbesadvocate.com.au/story/1528712/lesbian-love-epic-wins-cannes-top-prize/?cs=36
-255316176	20130526	IRN	FRA	020	3.0	2	1	2	6.93069306930693	http://www.google.com/hostednews/afp/article/ALeqM5iz7KTRQCYKWsNrxo5_2WkE8Cdshg?docId=CNG.345f824dea2ecdf955e9644d2d0ed9f4.241
-255316177	20130526	IRN	FRA	020	3.0	1	1	1	8.3596214511041	http://www.channel24.co.za/Movies/News/Blue-lesbian-love-epic-wins-at-Cannes-20130526
-255316178	20130526	IRN	FRA	020	3.0	2	2	2	8.39329387161947	http://www.forbesadvocate.com.au/story/1528712/lesbian-love-epic-wins-cannes-top-prize/?cs=36
-255316179	20130526	IRN	FRA	020	3.0	2	1	2	6.93069306930693	http://www.google.com/hostednews/afp/article/ALeqM5iz7KTRQCYKWsNrxo5_2WkE8Cdshg?docId=CNG.345f824dea2ecdf955e9644d2d0ed9f4.241
-255316215	20130526	IRN	IRN	020	3.0	4	1	4	0	BBC Monitoring
-255316274	20130526	IRN	SYR	0256	-0.3	3	1	3	2.83505154639175	http://www.news24.com/World/News/Iran-rejects-French-claim-about-Syria-war-20130526
-255316275	20130526	IRN	SYR	0256	-0.3	1	1	1	2.83505154639175	http://www.news24.com/World/News/Iran-rejects-French-claim-about-Syria-war-20130526
-255316276	20130526	IRN	SYR	0256	-0.3	1	1	1	2.83505154639175	http://www.news24.com/World/News/Iran-rejects-French-claim-about-Syria-war-20130526
-255316284	20130526	IRN	SYR	072	8.3	10	1	10	3.73831775700935	http://www.globalsecurity.org/wmd/library/news/syria/2013/syria-130525-irna01.htm
-255316285	20130526	IRN	SYR	072	8.3	5	1	5	2.77777777777778	http://www.globalsecurity.org/wmd/library/news/syria/2013/syria-130525-presstv01.htm
-255316303	20130526	IRN	USA	026	4.0	4	1	4	2.5	http://www.globalsecurity.org/wmd/library/news/iran/2013/iran-130525-presstv02.htm
-255316349	20130526	IRN	SYR	020	3.0	2	1	2	0	BBC Monitoring
-255316350	20130526	IRN	SYR	020	3.0	8	1	8	0	BBC Monitoring
-255316355	20130526	IRN	USA	020	3.0	2	1	2	0	BBC Monitoring
-255316377	20130526	IRN	IRN	020	3.0	6	1	6	0	BBC Monitoring
-255316384	20130526	IRN	IRN	020	3.0	10	1	10	0	BBC Monitoring
-255316548	20130526	IRQ	USA	020	3.0	4	1	4	2.87292817679558	http://www.bloomberg.com/news/2013-05-26/our-mixed-message-to-veterans-on-memorial-day.html
-255316578	20130526	IRQ	SOM	071	7.4	10	1	10	0	BBC Monitoring
-255316701	20130526	ISR	CHN	020	3.0	2	1	2	5.07880910683012	http://www.chinapost.com.tw/international/middle-east/2013/05/27/379626/Israels-Peres.htm
-255316702	20130526	ISR	CHN	020	3.0	8	1	8	5.07880910683012	http://www.chinapost.com.tw/international/middle-east/2013/05/27/379626/Israels-Peres.htm
-255316730	20130526	ISR	EUR	075	7.0	4	1	4	2.05405405405405	http://www.bloomberg.com/news/2013-05-26/mehta-gala-with-perlman-opens-38-million-concert-hall.html
-255316762	20130526	ISR	MEA	020	3.0	10	1	10	3.62756952841596	http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=314436&R=R9
-255316778	20130526	ISR	ISR	020	3.0	4	1	4	3.05676855895197	http://www.philippinetimes.com/index.php/sid/214778048/scat/2411cd3571b4f088
-255316789	20130526	ISR	ISR	020	3.0	4	1	4	4.02366863905325	http://www.haaretz.com/news/national/habayit-hayehudi-demands-that-idf-draft-reform-includes-arabs.premium-1.525928?localLinksEnabled=false
-255316790	20130526	ISR	ISR	020	3.0	2	1	2	4.02366863905325	http://www.haaretz.com/news/national/habayit-hayehudi-demands-that-idf-draft-reform-includes-arabs.premium-1.525928?localLinksEnabled=false
-255316867	20130526	ISR	PHL	020	3.0	14	1	12	3.03786460991701	http://www.philippinetimes.com/index.php/sid/214774149/scat/2411cd3571b4f088
-255316878	20130526	ISR	PSE	020	3.0	2	1	2	3.6	http://www.news.com.au/breaking-news/world/palestinian-plan-looks-to-inject-4b/story-e6frfkui-1226651013131?from=public_rss
-255316879	20130526	ISR	PSE	020	3.0	2	1	2	4.35779816513761	http://en.trend.az/regions/met/palestine/2154639.html
-255316880	20130526	ISR	PSE	020	3.0	2	1	2	4.35779816513761	http://en.trend.az/regions/met/palestine/2154639.html
-255316881	20130526	ISR	PSE	020	3.0	4	1	4	3.7593984962406	http://www.jpost.com/Headlines/Article.aspx?id=314422&R=R101
-255316882	20130526	ISR	PSE	026	4.0	3	1	3	4.35779816513761	http://en.trend.az/regions/met/palestine/2154639.html
-255316883	20130526	ISR	PSE	026	4.0	1	1	1	4.35779816513761	http://en.trend.az/regions/met/palestine/2154639.html
-255316884	20130526	ISR	PSE	027	4.0	2	1	2	5.16795865633075	http://news.xinhuanet.com/english/world/2013-05/26/c_132409403.htm
-255316885	20130526	ISR	PSE	027	4.0	4	1	4	5.16795865633075	http://news.xinhuanet.com/english/world/2013-05/26/c_132409403.htm
-255316886	20130526	ISR	PSE	027	4.0	2	1	2	5.16795865633075	http://news.xinhuanet.com/english/world/2013-05/26/c_132409403.htm
-255316887	20130526	ISR	PSE	027	4.0	2	1	2	5.16795865633075	http://news.xinhuanet.com/english/world/2013-05/26/c_132409403.htm
-255316935	20130526	ISR	PSE	070	7.0	4	1	4	1.22950819672131	http://www.jpost.com/JewishWorld/JewishNews/Article.aspx?id=314402&R=R5
-255316936	20130526	ISR	PSE	070	7.0	4	1	4	1.22950819672131	http://www.jpost.com/JewishWorld/JewishNews/Article.aspx?id=314402&R=R5
-255316963	20130526	ISR	QAT	026	4.0	10	1	10	4.76190476190476	http://www.aljazeera.com/news/middleeast/2013/05/2013526102115733845.html
-255316996	20130526	ISR	USA	020	3.0	2	1	2	2.7027027027027	http://www.washingtonpost.com/world/middle_east/israeli-president-shimon-peres-calls-peace-talks-urgent/2013/05/26/f340c460-c606-11e2-9cd9-3b9a22a4000a_story.html?wprss=rss_middle-east
-255316997	20130526	ISR	USA	020	3.0	1	1	1	3.74064837905237	http://www.washingtonpost.com/world/middle_east/israeli-president-shimon-peres-calls-peace-talks-urgent/2013/05/26/f340c460-c606-11e2-9cd9-3b9a22a4000a_story.html?wprss=rss_world
-255316998	20130526	ISR	USA	020	3.0	1	1	1	3.74064837905237	http://www.washingtonpost.com/world/middle_east/israeli-president-shimon-peres-calls-peace-talks-urgent/2013/05/26/f340c460-c606-11e2-9cd9-3b9a22a4000a_story.html?wprss=rss_world
-255317048	20130526	ISR	ISR	020	3.0	2	1	2	1.87667560321716	http://www.bbc.co.uk/news/world-middle-east-22675802#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
-255317049	20130526	ISR	ISR	020	3.0	4	1	4	4	http://www.albawaba.com/news/peres-kerry-peace-talks-494535
-255317050	20130526	ISR	ISR	025	-0.3	6	3	6	5.05114570432633	http://www.cbc.ca/news/world/story/2013/05/26/israel-president-peace-talks.html?cmp=rss
-255317051	20130526	ISR	ISR	025	-0.3	3	2	3	5.29756291577657	http://abcnews.go.com/International/wireStory/israels-peres-calls-return-peace-talks-19259021
-255317052	20130526	ISR	ISR	025	-0.3	1	1	1	4.90367775831874	http://www.ynetnews.com/articles/0,7340,L-4384307,00.html
-255317091	20130526	ISR	PSE	025	-0.3	10	5	10	5.11032407316064	http://www.cbc.ca/news/world/story/2013/05/26/israel-president-peace-talks.html?cmp=rss
-255317092	20130526	ISR	PSE	025	-0.3	8	1	8	4.21052631578947	http://en.trend.az/news/arisc/2154660.html
-255317110	20130526	ISR	PSE	020	3.0	2	1	2	4.35779816513761	http://en.trend.az/regions/met/palestine/2154639.html
-255317111	20130526	ISR	PSE	026	4.0	6	1	6	4.35779816513761	http://en.trend.az/regions/met/palestine/2154639.html
-255317121	20130526	ISR	USA	020	3.0	6	1	6	2.7027027027027	http://www.washingtonpost.com/world/middle_east/israeli-president-shimon-peres-calls-peace-talks-urgent/2013/05/26/f340c460-c606-11e2-9cd9-3b9a22a4000a_story.html?wprss=rss_middle-east
-255317122	20130526	ISR	USA	020	3.0	6	1	6	3.74064837905237	http://www.washingtonpost.com/world/middle_east/israeli-president-shimon-peres-calls-peace-talks-urgent/2013/05/26/f340c460-c606-11e2-9cd9-3b9a22a4000a_story.html?wprss=rss_world
-255317141	20130526	ISR	ISR	0253	-0.3	2	1	2	4.76190476190476	http://www.aljazeera.com/news/middleeast/2013/05/2013526102115733845.html
-255317146	20130526	ISR	LBN	020	3.0	1	1	1	5.52486187845304	http://reliefweb.int/report/syrian-arab-republic/palestinian-refugees-syria
-255317147	20130526	ISR	LBN	020	3.0	1	1	1	5.52486187845304	http://reliefweb.int/report/syrian-arab-republic/palestinian-refugees-syria
-255317367	20130526	JOR	ISR	020	3.0	1	1	1	4.90367775831874	http://www.ynetnews.com/articles/0,7340,L-4384307,00.html
-255317368	20130526	JOR	ISR	020	3.0	4	1	4	4.90367775831874	http://www.ynetnews.com/articles/0,7340,L-4384307,00.html
-255317394	20130526	JOR	ISR	020	3.0	20	1	20	4.94767353496754	http://www.miamiherald.com/2013/05/26/3417858/israels-president-calls-for-return.html
-255317403	20130526	JOR	LBN	075	7.0	4	1	4	5.52486187845304	http://reliefweb.int/report/syrian-arab-republic/palestinian-refugees-syria
-255317404	20130526	JOR	LBN	075	7.0	1	1	1	5.52486187845304	http://reliefweb.int/report/syrian-arab-republic/palestinian-refugees-syria
-255317439	20130526	JOR	SYR	020	3.0	2	1	2	2.76406712734452	http://www.dailystar.com.lb/News/Middle-East/2013/May-26/218385-syria-will-attend-geneva-talks.ashx
-255317440	20130526	JOR	SYR	020	3.0	8	1	8	2.76406712734452	http://www.dailystar.com.lb/News/Middle-East/2013/May-26/218385-syria-will-attend-geneva-talks.ashx
-255317457	20130526	JOR	USA	020	3.0	1	1	1	1.59151193633952	http://www.globalsecurity.org/wmd/library/news/syria/2013/syria-130525-voa02.htm
-255317458	20130526	JOR	USA	020	3.0	7	1	7	1.59151193633952	http://www.globalsecurity.org/wmd/library/news/syria/2013/syria-130525-voa02.htm
-255317471	20130526	JOR	USA	071	7.4	10	4	10	3.90543363775437	http://www.politico.com/story/2013/05/john-kerry-palestine-economic-plan-91900.html
-255317512	20130526	JOR	SYR	020	3.0	2	1	2	1.63424124513619	http://www.csmonitor.com/World/2013/0525/Hezbollah-leader-vows-victory-in-Syria-for-Assad?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feeds%2Fworld+%28Christian+Science+Monitor+%7C+World%29
-255317513	20130526	JOR	SYR	020	3.0	64	6	64	1.78631407184595	http://www.npr.org/templates/story/story.php?storyId=186675379&ft=1&f=
-255317514	20130526	JOR	SYR	020	3.0	6	1	6	1.63424124513619	http://www.csmonitor.com/World/2013/0525/Hezbollah-leader-vows-victory-in-Syria-for-Assad?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feeds%2Fworld+%28Christian+Science+Monitor+%7C+World%29
-255317635	20130526	JPN	CHN	071	7.4	5	1	5	3.33333333333333	http://www.shanghaidaily.com/nsp/World/2013/05/27/Japan%2Bgives%2BMyanmar%2BUS504m%2Bloan%2Bcancels%2Bdebt/
-255317652	20130526	JPN	IND	022	3.2	9	3	9	2.18479342125225	http://www.google.com/hostednews/afp/article/ALeqM5iLKzJ8u_1lyMdNbkuSVqNOje-YHw?docId=CNG.63eb1338c1777e0a056335d5bd5f2d91.3c1
-255317659	20130526	JPN	JPN	070	7.0	3	2	3	3.260999352702	http://www.rediff.com/news/report/pm-to-seek-nuclear-deal-investments-during-japan-visit/20130526.htm
-255317660	20130526	JPN	JPN	070	7.0	5	2	5	3.57867079232612	http://www.rediff.com/news/report/india-and-japan-must-have-robust-strategic-and-global-partnership-says-pm/20130526.htm
-255317661	20130526	JPN	JPN	070	7.0	2	1	2	4.23728813559322	http://zeenews.india.com/news/nation/pm-to-seek-nuclear-deal-investments-in-japan_850977.html
-255317662	20130526	JPN	JPN	070	7.0	4	2	4	2.01726826842664	http://www.channelnewsasia.com/news/asiapacific/india-pm-calls-for-nuclear-deal-more-jap/687446.html
-255317687	20130526	JPN	MMR	020	3.0	3	1	3	2.11267605633803	http://www.startribune.com/world/208984531.html
-255317708	20130526	JPN	MMR	071	7.4	85	9	85	2.73942794198004	http://www.shanghaidaily.com/nsp/World/2013/05/27/Japan%2Bgives%2BMyanmar%2BUS504m%2Bloan%2Bcancels%2Bdebt/
-255317709	20130526	JPN	MMR	071	7.4	2	1	2	2.61682242990654	http://economictimes.indiatimes.com/news/international-business/japan-gives-myanmar-504-million-loan-forgives-debt/articleshow/20274735.cms
-255317710	20130526	JPN	MMR	071	7.4	1	1	1	2.61194029850746	http://finance.yahoo.com/news/japan-gives-myanmar-504m-loan-095749421.html
-255317711	20130526	JPN	MMR	071	7.4	5	1	5	2.56410256410256	http://www.bbc.co.uk/news/world-asia-22673107#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
-255317712	20130526	JPN	MMR	071	7.4	12	2	12	2.61519505277351	http://economictimes.indiatimes.com/news/international-business/japan-gives-myanmar-504-million-loan-forgives-debt/articleshow/20274735.cms
-255317730	20130526	JPN	PHL	020	3.0	3	1	3	2.58620689655172	http://www.philippinetimes.com/index.php/sid/214774593/scat/2411cd3571b4f088
-255317756	20130526	JPN	JPN	070	7.0	6	2	6	2.01726826842664	http://www.channelnewsasia.com/news/asiapacific/india-pm-calls-for-nuclear-deal-more-jap/687446.html
-255318175	20130526	KEN	GBR	020	3.0	4	1	4	0.786782061369001	http://apnews.myway.com/article/20130525/DA6GJ1200.html
-255318176	20130526	KEN	GBR	020	3.0	4	1	4	0.805008944543828	http://www.france24.com/en/20130526-uk-police-arrest-london-soldier-murder-case-anti-muslim?ns_campaign=editorial&ns_source=RSS_public&ns_mchannel=RSS&ns_fee=0&ns_linkname=20130526_uk_police_arrest_london_soldier_murder
-255318188	20130526	KEN	GBR	070	7.0	16	5	16	0.411029242708462	http://www.trust.org/item/20130526131826-gay4u
-255318331	20130526	KEN	SOM	020	3.0	10	1	10	0	BBC Monitoring
-255318344	20130526	KEN	SOM	072	8.3	48	3	48	1.06784313637106	http://news.yahoo.com/kenyan-police-kill-muslim-cleric-ties-somali-militants-155431356.html
-255318345	20130526	KEN	SOM	072	8.3	12	3	12	1.06784313637106	http://news.yahoo.com/kenyan-police-kill-muslim-cleric-ties-somali-militants-155431356.html
-255318385	20130526	KEN	UGA	0214	3.4	2	1	2	0	BBC Monitoring
-255318513	20130526	KWT	GRD	071	7.4	10	1	10	0	BBC Monitoring
-255318514	20130526	KWT	LBN	020	3.0	1	1	1	3.28358208955224	http://www.dailystar.com.lb/News/Local-News/2013/May-26/218383-kuwaitis-urged-to-avoid-lebanon-after-attack.ashx
-255318515	20130526	KWT	LBN	020	3.0	6	1	6	3.28358208955224	http://www.dailystar.com.lb/News/Local-News/2013/May-26/218383-kuwaitis-urged-to-avoid-lebanon-after-attack.ashx
-255318516	20130526	KWT	LBN	020	3.0	1	1	1	3.28358208955224	http://www.dailystar.com.lb/News/Local-News/2013/May-26/218383-kuwaitis-urged-to-avoid-lebanon-after-attack.ashx
-255318731	20130526	LBN	LBN	020	3.0	7	1	7	3.43347639484979	http://www.dailystar.com.lb/News/Local-News/2013/May-26/218365-mikati-urges-calm-vigilance-after-beirut-rocket-attack.ashx
-255318735	20130526	LBN	LBY	020	3.0	2	1	2	0	BBC Monitoring
-255318736	20130526	LBN	LBY	020	3.0	2	1	2	0	BBC Monitoring
-255318770	20130526	LBN	PSE	020	3.0	10	1	10	0	BBC Monitoring
-255318947	20130526	LBY	LBY	020	3.0	8	1	4	0	BBC Monitoring
-255318958	20130526	LBY	USA	020	3.0	4	1	4	2.07509881422925	http://thehill.com/homenews/administration/301973-no-end-to-scandals-in-sight-for-embattled-obama-white-house
-255318965	20130526	LBY	LBY	020	3.0	12	1	6	0	BBC Monitoring
-255319374	20130526	MCO	LBN	070	7.0	6	1	6	1.35869565217391	http://www.channelnewsasia.com/news/sport/motor-racing-stewards-confirm-protests-a/687766.html
-255320224	20130526	MKD	GRC	020	3.0	2	1	2	0	BBC Monitoring
-255320226	20130526	MKD	GRC	020	3.0	6	1	6	0	BBC Monitoring
-255320242	20130526	MLI	MLI	020	3.0	7	1	7	0	BBC Monitoring
-255320280	20130526	MMR	JPN	071	7.4	7	1	7	2.56410256410256	http://www.bbc.co.uk/news/world-asia-22673107#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
-255320281	20130526	MMR	JPN	071	7.4	1	1	1	2.56410256410256	http://www.bbc.co.uk/news/world-asia-22673107#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
-255320282	20130526	MMR	JPN	071	7.4	5	1	5	2.78592375366569	http://www.miamiherald.com/2013/05/26/3417487/japan-gives-myanmar-504m-loan.html
-255320289	20130526	MMR	MMR	020	3.0	10	2	10	0	http://timesofindia.indiatimes.com/world/south-asia/11-dead-16-hurt-in-Myanmar-bus-crash-State-media/articleshow/20274819.cms
-255320291	20130526	MMR	MMR	020	3.0	2	1	2	3.85542168674699	http://www.japantimes.co.jp/news/2013/05/26/national/abe-pledges-more-aid-to-myanmar/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+japantimes+%28The+Japan+Times%3A+All+Stories%29
-255320351	20130526	AUS	FJI	071	7.4	6	1	6	0	http://www.fijitimes.com/story.aspx?id=235202
-255320352	20130526	AUS	FJI	071	7.4	4	1	4	0	http://www.fijitimes.com/story.aspx?id=235202
-255320356	20130526	CHN	CHN	071	7.4	2	1	2	4.84210526315789	http://www.myrepublica.com/portal/index.php?action=news_details&news_id=55265
-255320364	20130526	GBR	AUS	020	3.0	10	1	10	1.19047619047619	http://www.bloomberg.com/news/2013-05-26/aussie-dollar-falls-as-shorts-climb-before-u-s-confidence-data.html
-255320365	20130526	GBR	FJI	071	7.4	6	1	6	0	http://www.fijitimes.com/story.aspx?id=235202
-255320366	20130526	GBR	FJI	071	7.4	4	1	4	0	http://www.fijitimes.com/story.aspx?id=235202
-255320411	20130526	USA	USA	070	7.0	5	1	5	8.22222222222222	http://news.terra.com/startup-weekend-and-startup-america-partner-to-jumpstart-global-entrepreneurship,4252b044757de310VgnCLD2000000ec6eb0aRCRD.html
-255320420	20130526	USA	USA	070	7.0	9	1	9	2.41935483870968	http://examiner-enterprise.com/sections/news/business/wells-fargo-donates-100000-oklahoma-tornado-victims.html
-255320488	20130526	USA	USA	020	3.0	10	1	10	1.98216055500496	http://techcrunch.com/2013/05/26/what-hulu-is-worth/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29
-255320490	20130526	USA	USA	020	3.0	10	1	10	1.00502512562814	http://www.menafn.com/menafn/1093638621/Microsoft-Cleared-of-Xbox-Patent-Violation?src=RSS
-255320842	20130526	MYS	USA	020	3.0	20	2	20	2.50164480124976	http://in.reuters.com/article/2013/05/26/malaysia-politics-idINDEE94P00Z20130526?feedType=RSS&feedName=worldNews
-255320979	20130526	NGA	CHN	071	7.4	2	1	2	1.92982456140351	http://www.thisdaylive.com/articles/construction-of-700mw-zungeru-hydro-plant-begins-soon/148531/
-255321122	20130526	NLD	EUR	020	3.0	20	1	20	0.815956482320943	http://www.jpost.com/International/Article.aspx?id=314382&R=R4
-255321141	20130526	NLD	NLD	020	3.0	4	1	4	0.815956482320943	http://www.jpost.com/International/Article.aspx?id=314382&R=R4
-255321142	20130526	NLD	NLD	020	3.0	4	1	4	0.815956482320943	http://www.jpost.com/International/Article.aspx?id=314382&R=R4
-255321150	20130526	NLD	NLD	020	3.0	12	1	12	0.815956482320943	http://www.jpost.com/International/Article.aspx?id=314382&R=R4
-255321178	20130526	NOR	ISR	020	3.0	12	3	12	3.64259941095396	http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=314436&R=R9
-255321179	20130526	NOR	JOR	020	3.0	4	1	4	3.62756952841596	http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=314436&R=R9
-255321180	20130526	NOR	JOR	020	3.0	4	1	4	3.62756952841596	http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=314436&R=R9
-255321181	20130526	NOR	PSE	020	3.0	10	3	10	3.65462331698436	http://www.jpost.com/DiplomacyAndPolitics/Article.aspx?id=314436&R=R9
-255321182	20130526	NOR	PSE	020	3.0	2	1	2	3.6	http://www.news.com.au/breaking-news/world/palestinian-plan-looks-to-inject-4b/story-e6frfkui-1226651013131?from=public_rss
-255321183	20130526	NOR	PSE	020	3.0	2	1	2	3.74531835205993	http://www.news24.com/World/News/Palestinian-economic-plan-of-4-bn-Kerry-20130526
-255321199	20130526	NPL	NPL	020	3.0	10	1	10	4.84210526315789	http://www.myrepublica.com/portal/index.php?action=news_details&news_id=55265
-255321266	20130526	NZL	NZL	020	3.0	2	1	2	2.64900662251656	http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10886377&ref=rss
-255321283	20130526	NZL	NZL	020	3.0	4	1	4	3.55871886120996	http://www.3news.co.nz/Family-First-fights-for-charity-status/tabid/1607/articleID/299236/Default.aspx?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+co%2FEoAG+%283News+-+Political+News%29
-255321630	20130526	PAK	AFG	020	3.0	1	1	1	1.52671755725191	http://www.karachinews.net/index.php/sid/214764157/scat/8c3d7d78943a99c7
-255321631	20130526	PAK	AFG	020	3.0	1	1	1	1.52671755725191	http://www.karachinews.net/index.php/sid/214764157/scat/8c3d7d78943a99c7
-255321632	20130526	PAK	AFG	020	3.0	4	1	4	1.52091254752852	http://www.bignewsnetwork.com/index.php/sid/214764157/scat/6e1d5c8e1f98f17c
-255321643	20130526	PAK	AFG	020	3.0	12	2	12	1.52381505239021	http://www.bignewsnetwork.com/index.php/sid/214764157/scat/6e1d5c8e1f98f17c
-255321653	20130526	PAK	CHN	020	3.0	2	1	2	3.49344978165939	http://www.thenews.com.pk/Todays-News-11-180073-With-a-little-help
-255321654	20130526	PAK	CHN	020	3.0	2	1	2	3.49344978165939	http://www.thenews.com.pk/Todays-News-11-180073-With-a-little-help
-255321655	20130526	PAK	CHN	020	3.0	6	1	6	3.49344978165939	http://www.thenews.com.pk/Todays-News-11-180073-With-a-little-help
-255321656	20130526	PAK	CHN	020	3.0	2	1	2	1.65745856353591	http://www.thenews.com.pk/Todays-News-2-180029-Baloch-calls-for-new-bloc-of-Pakistan,-China,-Iran-and-Afghanistan
-255321860	20130526	PAK	PAK	020	3.0	10	1	10	1.13314447592068	http://www.thenews.com.pk/Todays-News-3-179788-Briefs....
-255321883	20130526	PAK	PAK	020	3.0	4	1	4	3.04449648711944	http://www.thenews.com.pk/Todays-News-2-180030-Ulema-for-talks-with-TTP-under-Constitution
-255321891	20130526	PAK	AFG	020	3.0	10	1	10	0	BBC Monitoring
-255321966	20130526	PHL	JPN	020	3.0	5	1	5	3.63636363636364	http://www.philippinetimes.com/index.php/sid/214786155/scat/2411cd3571b4f088
-255322061	20130526	PRK	CHN	020	3.0	12	3	12	3.88902379366138	http://www.couriermail.com.au/news/breaking-news/south-korea-dismisses-north-dialogue/story-e6freoo6-1226651413600?from=public_rss
-255322106	20130526	PRK	MMR	028	4.0	2	1	2	2.84757118927973	http://www.bloomberg.com/news/2013-05-26/japan-agrees-to-give-myanmar-development-loans-as-abe-visits.html
-255322124	20130526	PRK	CHN	020	3.0	18	3	18	3.88902379366138	http://www.couriermail.com.au/news/breaking-news/south-korea-dismisses-north-dialogue/story-e6freoo6-1226651413600?from=public_rss
-255322143	20130526	PRT	PRT	020	3.0	6	1	6	3.06122448979592	http://www.dw.de/swedish-riots-point-to-deep-social-problems/a-16836709?maca=en-rss-en-eu-2092-rdf
-255322144	20130526	PRT	PRT	020	3.0	4	1	4	3.06122448979592	http://www.dw.de/swedish-riots-point-to-deep-social-problems/a-16836709?maca=en-rss-en-eu-2092-rdf
-255322145	20130526	PRT	PRT	020	3.0	10	1	10	3.06122448979592	http://www.dw.de/swedish-riots-point-to-deep-social-problems/a-16836709?maca=en-rss-en-eu-2092-rdf
-255322194	20130526	PSE	EUR	075	7.0	4	1	4	2.05405405405405	http://www.bloomberg.com/news/2013-05-26/mehta-gala-with-perlman-opens-38-million-concert-hall.html
-255322195	20130526	PSE	EUR	075	7.0	2	1	2	2.05405405405405	http://www.bloomberg.com/news/2013-05-26/mehta-gala-with-perlman-opens-38-million-concert-hall.html
-255322207	20130526	PSE	ISR	020	3.0	2	1	2	3.80228136882129	http://www.guardian.co.uk/world/2013/may/26/john-kerry-plan-palestinian-economy
-255322208	20130526	PSE	ISR	020	3.0	12	2	7	3.17387354850007	http://www.jpost.com/Headlines/Article.aspx?id=314422&R=R101
-255322272	20130526	PSE	ISR	020	3.0	2	1	2	3.05676855895197	http://www.philippinetimes.com/index.php/sid/214778048/scat/2411cd3571b4f088
-255322284	20130526	PSE	JOR	020	3.0	2	1	2	5.96026490066225	http://www.voanews.com/content/israeli-president-says-israelipalestinian-peace-possible/1668498.html
-255322295	20130526	PSE	LBN	020	3.0	2	1	2	5.52486187845304	http://reliefweb.int/report/syrian-arab-republic/palestinian-refugees-syria
-255322296	20130526	PSE	LBN	020	3.0	2	1	2	5.52486187845304	http://reliefweb.int/report/syrian-arab-republic/palestinian-refugees-syria
-255322312	20130526	PSE	USA	020	3.0	1	1	1	5.04587155963303	http://www.voanews.com/content/kerry-hopeful-on-palestinian-economic-plan/1668734.html
-255322313	20130526	PSE	USA	020	3.0	1	1	1	5.04587155963303	http://www.voanews.com/content/kerry-hopeful-on-palestinian-economic-plan/1668734.html
-255322318	20130526	PSE	USA	071	7.4	2	1	2	4.23452768729642	http://world.time.com/2013/05/26/kerry-says-palestinian-economic-plan-could-work/
-255322332	20130526	PSE	PSE	025	-0.3	2	1	2	4.21052631578947	http://en.trend.az/news/arisc/2154660.html
-255322366	20130526	PSE	LBN	020	3.0	1	1	1	5.52486187845304	http://reliefweb.int/report/syrian-arab-republic/palestinian-refugees-syria
-255322483	20130526	QAT	LBN	071	7.4	10	1	10	0	BBC Monitoring
-255322486	20130526	QAT	SYR	071	7.4	10	1	10	0	BBC Monitoring
-255322909	20130526	RUS	IRN	020	3.0	1	1	1	3.42857142857143	http://www.ynetnews.com/articles/0,7340,L-4384077,00.html
-255322910	20130526	RUS	IRN	020	3.0	1	1	1	3.42857142857143	http://www.ynetnews.com/articles/0,7340,L-4384077,00.html
-255323069	20130526	RUS	RUS	020	3.0	2	1	2	1.7921146953405	http://www.themoscowtimes.com/news/article/both-houses-of-parliament-to-be-put-under-one-roof-in-central-moscow/480452.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:%20themoscowtimes/RUXi%20(The%20Moscow%20Times)
-255323163	20130526	SAU	SAU	071	7.4	2	1	2	4.07673860911271	http://www.menafn.com/menafn/1093638474/New-initiatives-for-Saudi-SMEs-spotlight?src=RSS
-255323202	20130526	SAU	PAK	020	3.0	1	1	1	2.84090909090909	http://www.thenews.com.pk/Todays-News-4-179792-Karachiites-hail-metro-bus-announcement
-255323306	20130526	SGP	USA	071	7.4	1	1	1	1.77664974619289	http://www.bloomberg.com/news/2013-05-26/uem-taps-land-starved-singapore-to-sell-iskandar-property.html
-255323307	20130526	SGP	USA	071	7.4	3	1	3	1.77664974619289	http://www.bloomberg.com/news/2013-05-26/uem-taps-land-starved-singapore-to-sell-iskandar-property.html
-255323308	20130526	SGP	USA	071	7.4	1	1	1	1.77664974619289	http://www.bloomberg.com/news/2013-05-26/uem-taps-land-starved-singapore-to-sell-iskandar-property.html
-255323418	20130526	SOM	SOM	020	3.0	8	1	8	1.57268592969168	http://reliefweb.int/report/somalia/six-years-after-its-last-reported-case-polio-outbreak-confirmed-somalia-0
-255323419	20130526	SOM	SOM	020	3.0	2	1	2	0	BBC Monitoring
-255323425	20130526	SOM	SOM	020	3.0	2	1	2	0	BBC Monitoring
-255323439	20130526	SOM	AFR	020	3.0	6	1	6	0	BBC Monitoring
-255323442	20130526	SOM	SOM	020	3.0	12	1	12	1.57268592969168	http://reliefweb.int/report/somalia/six-years-after-its-last-reported-case-polio-outbreak-confirmed-somalia-0
-255323527	20130526	SVK	FRA	020	3.0	1	1	1	4.86111111111111	http://www.google.com/hostednews/afp/article/ALeqM5jL1wLumjBWz7eEAzzvNnVqFAnOxA?docId=CNG.26cca045d911d64d66269c72328f270e.ba1
-255323528	20130526	SVK	FRA	020	3.0	2	1	2	4.86111111111111	http://www.google.com/hostednews/afp/article/ALeqM5jL1wLumjBWz7eEAzzvNnVqFAnOxA?docId=CNG.26cca045d911d64d66269c72328f270e.ba1
-255323554	20130526	SWE	GBR	075	7.0	1	1	1	0.835654596100279	http://news.msn.co.nz/worldnews/8663276/assange-accuser-calls-for-swedish-pressure
-255323555	20130526	SWE	GBR	075	7.0	1	1	1	0.835654596100279	http://news.msn.co.nz/worldnews/8663276/assange-accuser-calls-for-swedish-pressure
-255323740	20130526	SYR	IRN	026	4.0	10	1	10	0	BBC Monitoring
-255323978	20130526	SYR	SYR	025	-0.3	2	1	2	1.63424124513619	http://www.csmonitor.com/World/2013/0525/Hezbollah-leader-vows-victory-in-Syria-for-Assad?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feeds%2Fworld+%28Christian+Science+Monitor+%7C+World%29
-255323979	20130526	SYR	SYR	025	-0.3	2	1	2	1.63424124513619	http://www.csmonitor.com/World/2013/0525/Hezbollah-leader-vows-victory-in-Syria-for-Assad?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+feeds%2Fworld+%28Christian+Science+Monitor+%7C+World%29
-255324008	20130526	SYR	SYR	022	3.2	2	1	2	0	BBC Monitoring
-255324111	20130526	SYR	SYR	020	3.0	1	1	1	1.95771339075959	http://www.dailystar.com.lb/News/Politics/2013/May-27/218459-beirut-gets-first-taste-of-syria-war.ashx
-255324138	20130526	SYR	SYR	020	3.0	2	1	2	5.20833333333333	http://www.bna.bh/portal/en/news/562406
-255324170	20130526	SYR	SYR	020	3.0	10	1	10	2.77777777777778	http://www.google.com/hostednews/afp/article/ALeqM5guoPjtbMyI6TfKFaNIvbn8hxy2Uw?docId=CNG.26cca045d911d64d66269c72328f270e.911
-255324261	20130526	TJK	IRN	020	3.0	4	1	4	1.63934426229508	http://news.tj/en/news/iran-reportedly-intends-bring-back-equipment-meant-common-persian-language-tv-channel
-255324272	20130526	TJK	IRN	020	3.0	2	1	2	1.63934426229508	http://news.tj/en/news/iran-reportedly-intends-bring-back-equipment-meant-common-persian-language-tv-channel
-255324273	20130526	TJK	IRN	020	3.0	4	1	4	1.63934426229508	http://news.tj/en/news/iran-reportedly-intends-bring-back-equipment-meant-common-persian-language-tv-channel
-255324274	20130526	TJK	TJK	026	4.0	10	1	10	1.28617363344051	http://news.tj/en/news/three-tajiks-fighting-side-islamist-rebels-syria-reportedly-killed-recently
-255324287	20130526	TON	NZL	070	7.0	4	1	4	1.77935943060498	http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10886269&ref=rss
-255324401	20130526	TUR	SYR	020	3.0	1	1	1	1.36186770428016	http://www.guardian.co.uk/world/2013/may/26/syria-conflict-grow-consequence-lebanon
-255324402	20130526	TUR	SYR	020	3.0	3	1	3	2.18181818181818	http://www.thenews.com.pk/Todays-News-1-179951-Erdogan-urges-citizens-to-welcome-Syrians-despite-attack
-255324413	20130526	TUR	SYR	020	3.0	1	1	1	1.36186770428016	http://www.guardian.co.uk/world/2013/may/26/syria-conflict-grow-consequence-lebanon
-255324414	20130526	TUR	SYR	020	3.0	1	1	1	2.52659574468085	http://www.cnn.com/2013/05/25/world/meast/syria-violence/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+Top+Stories%29
-255324415	20130526	TUR	SYR	020	3.0	4	1	4	2.52659574468085	http://www.cnn.com/2013/05/25/world/meast/syria-violence/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+Top+Stories%29
-255324442	20130526	TUR	USA	026	4.0	4	1	4	0	BBC Monitoring
-255324674	20130526	UGA	GBR	020	3.0	4	2	4	1.91209965413492	http://www.thisdaylive.com/articles/wanted-ugandan-general-hiding-in-london/148581/
-255325582	20130526	USA	AFG	072	8.3	2	1	2	1.29533678756477	http://zeenews.india.com/news/south-asia/committed-pak-jihadists-replace-slain-al-qaeda-leaders-report_851006.html
-255325711	20130526	USA	CHN	070	7.0	10	1	10	3.23023651223003	http://www.themoscowtimes.com/opinion/article/preparing-for-the-us-china-strategic-union/480504.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:%20themoscowtimes/RUXi%20(The%20Moscow%20Times)
-255325716	20130526	USA	CHN	020	3.0	2	1	2	0	BBC Monitoring
-255325816	20130526	USA	DEU	073	7.4	1	1	1	2.3943661971831	http://cnsnews.com/news/article/survivor-rescuer-reunite-maine-b-52-crash-site-0
-255325817	20130526	USA	DEU	073	7.4	2	2	2	2.32235890731166	http://www.airforcetimes.com/article/20130525/NEWS/305250011
-255325818	20130526	USA	DEU	073	7.4	1	1	1	2.25035161744022	http://www.airforcetimes.com/article/20130525/NEWS/305250011
-255325902	20130526	USA	EGY	072	8.3	2	1	2	4.25963488843813	http://www.egyptindependent.com/news/us-encourages-egypt-implement-economic-reforms
-255325903	20130526	USA	EGY	072	8.3	8	1	8	4.25963488843813	http://www.egyptindependent.com/news/us-encourages-egypt-implement-economic-reforms
-255325909	20130526	USA	ESP	020	3.0	2	1	2	1.18243243243243	http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10886318&ref=rss
-255325981	20130526	USA	GBR	020	3.0	4	1	4	1.23456790123457	http://www.guardian.co.uk/uk/2013/may/26/social-media-warning-sex-offender?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+theguardian%2Fmedia%2Frss+%28Media%29
-255326119	20130526	USA	AFR	071	7.4	1	1	1	3.73548712771328	http://www.iol.co.za/news/africa/prophets-of-pan-africanism-from-the-oau-to-the-au-1.1521876
-255326153	20130526	USA	ISR	0256	-0.3	2	1	2	5.74712643678161	http://www.jpost.com/Headlines/Article.aspx?id=314417&R=R101
-255326196	20130526	USA	JPN	071	7.4	2	1	2	4.3859649122807	http://www.nationmultimedia.com/life/Puppet-on-tour-30206851.html
-255326197	20130526	USA	JPN	071	7.4	2	1	2	4.3859649122807	http://www.nationmultimedia.com/life/Puppet-on-tour-30206851.html
-255326250	20130526	USA	LBN	020	3.0	3	1	3	0	BBC Monitoring
-255326255	20130526	USA	LBY	020	3.0	1	1	1	2.07509881422925	http://thehill.com/homenews/administration/301973-no-end-to-scandals-in-sight-for-embattled-obama-white-house
-255326292	20130526	USA	MCO	073	7.4	3	1	3	2.8169014084507	http://www.sun-sentinel.com/news/palm-beach/fl-boy-struck-by-vehicle-in-jupiter-20130526,0,5507270.story?track=rss
-255326378	20130526	USA	USA	020	3.0	10	1	10	1.83982683982684	http://www.sportingnews.com/nascar/story/2013-05-25/charlotte-coca-cola-600-strategy-contenders-lineup-kasey-kahne-jeff-gordon
-255326392	20130526	USA	USA	020	3.0	4	1	4	4.79338842975207	http://appleinsider.com/articles/13/05/24/googles-motorola-issues-second-appeal-of-itc-case-dismissal-against-apple
-255326401	20130526	USA	NGA	020	3.0	2	1	2	3.00957592339261	http://leadership.ng/news/270513/why-obama-keeps-skipping-nigeria
-255326402	20130526	USA	NGA	020	3.0	3	1	3	3.00957592339261	http://leadership.ng/news/270513/why-obama-keeps-skipping-nigeria
-255326413	20130526	USA	NZL	020	3.0	10	1	10	1.7586841499885	http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10886368&ref=rss
-255326416	20130526	USA	NZL	020	3.0	10	1	10	1.8595041322314	http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10886257&ref=rss
-255326434	20130526	USA	PHL	020	3.0	4	1	4	4.41988950276243	http://www.philippinetimes.com/index.php/sid/214778126/scat/2411cd3571b4f088
-255326463	20130526	USA	PSE	020	3.0	12	1	12	4.72743942780044	http://www.washingtonpost.com/world/africa/kerry-says-us-drone-program-strict-fair/2013/05/26/80058422-c615-11e2-9cd9-3b9a22a4000a_story.html
-255326555	20130526	USA	USA	071	7.4	2	1	2	3.83877159309021	http://hosted.ap.org/dynamic/stories/M/ML_US_MIDEAST?SITE=FLPLA&SECTION=HOME&TEMPLATE=DEFAULT
-255326556	20130526	USA	USA	071	7.4	6	3	6	3.94591415033688	http://www.npr.org/templates/story/story.php?storyId=186695638&ft=1&f=
-255326584	20130526	USA	USA	070	7.0	2	1	2	3.30578512396694	http://www.cbc.ca/news/canada/calgary/story/2013/05/26/canadian-tornado-survivor.html?cmp=rss
-255326598	20130526	USA	USA	020	3.0	10	1	10	3.75	http://www.upi.com/Top_News/US/2013/05/26/Senators-say-IRS-was-intimidating-or-just-doing-its-duty/UPI-38991369593658/
-255326599	20130526	USA	USA	020	3.0	2	1	2	1.61443494776828	http://www.npr.org/templates/story/story.php?storyId=186614350&ft=1&f=2&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+NprProgramsATC+%28NPR+Programs%3A+All+Things+Considered%29
-255326637	20130526	USA	USA	0231	3.4	6	1	6	1.97044334975369	http://www.upi.com/Sports_News/College-Football/2013/05/26/Feds-seek-jail-time-for-former-Fiesta-Bowl-chief/UPI-91191369576545/
-255326645	20130526	USA	USA	022	3.2	4	3	4	3.60264645280642	http://www.theglobeandmail.com/report-on-business/international-business/african-and-mideast-business/kerry-presses-egypt-on-economic-reform/article12159815/?cmpid=rss1
-255326646	20130526	USA	USA	022	3.2	9	4	9	3.62900785039159	http://www.news24.com/Africa/News/Kerry-urges-Egypt-economic-reform-20130526
-255326647	20130526	USA	USA	022	3.2	12	3	12	3.6288024189185	http://www.theglobeandmail.com/report-on-business/international-business/african-and-mideast-business/kerry-presses-egypt-on-economic-reform/article12159815/?cmpid=rss1
-255326667	20130526	USA	USA	070	7.0	4	1	4	1.5963511972634	http://seattletimes.com/html/localnews/2021059931_bridgedeficienciesxml.html
-255326668	20130526	USA	USA	073	7.4	1	1	1	2.8169014084507	http://www.sun-sentinel.com/news/palm-beach/fl-boy-struck-by-vehicle-in-jupiter-20130526,0,5507270.story?track=rss
-255326772	20130526	USA	DNK	020	3.0	3	1	3	1.15473441108545	http://www.guardian.co.uk/lifeandstyle/2013/may/26/is-plastic-food-packaging-dangerous
-255326879	20130526	USA	AFG	020	3.0	5	1	5	2.61780104712042	http://www.politico.com/blogs/politico-live/2013/05/gen-allen-no-question-us-forces-are-necessary-in-afghanistan-164805.html
-255326880	20130526	USA	AFG	020	3.0	2	1	2	1.9280205655527	http://www.cbsnews.com/8301-3460_162-57586240/coburn-war-on-terror-is-going-to-continue/
-255326917	20130526	USA	EGY	020	3.0	2	1	2	2.59067357512953	http://www.rferl.org/content/egypt-reforms-morsi-kerry/24997459.html
-255326918	20130526	USA	EGY	020	3.0	2	1	2	2.59067357512953	http://www.rferl.org/content/egypt-reforms-morsi-kerry/24997459.html
-255326919	20130526	USA	EGY	020	3.0	6	1	6	2.59067357512953	http://www.rferl.org/content/egypt-reforms-morsi-kerry/24997459.html
-255326945	20130526	USA	IRN	020	3.0	8	1	8	3.2979976442874	http://reliefweb.int/report/syrian-arab-republic/syria-rebels-fight-peace-talks-pressure-mounts
-255326946	20130526	USA	IRN	020	3.0	1	1	1	1.51515151515152	http://www.rferl.org/content/iran-western-interference/24997538.html
-255326947	20130526	USA	IRN	020	3.0	1	1	1	1.51515151515152	http://www.rferl.org/content/iran-western-interference/24997538.html
-255326948	20130526	USA	IRN	020	3.0	6	1	6	1.51515151515152	http://www.rferl.org/content/iran-western-interference/24997538.html
-255326952	20130526	USA	ISR	0256	-0.3	2	1	2	5.74712643678161	http://www.jpost.com/Headlines/Article.aspx?id=314417&R=R101
-255326953	20130526	USA	ISR	0256	-0.3	4	1	4	5.74712643678161	http://www.jpost.com/Headlines/Article.aspx?id=314417&R=R101
-255326954	20130526	USA	ISR	027	4.0	4	1	4	0	BBC Monitoring
-255326993	20130526	USA	PSE	020	3.0	10	1	10	5.96026490066225	http://www.voanews.com/content/israeli-president-says-israelipalestinian-peace-possible/1668498.html
-255326994	20130526	USA	PSE	027	4.0	4	1	4	0	BBC Monitoring
-255327010	20130526	USA	SYR	072	8.3	30	1	30	2.38095238095238	http://www.foxnews.com/politics/2013/05/26/republican-leaders-criticize-obama-revamp-counter-terror-plan-call-it/
-255327023	20130526	USA	USA	020	3.0	3	2	3	2.36071033779807	http://thehill.com/blogs/blog-briefing-room/news/302029-schumer-new-gang-of-eight-to-draft-rules-for-press-subpoenas
-255327024	20130526	USA	USA	020	3.0	2	2	2	1.62320912285981	http://hosted.ap.org/dynamic/stories/N/NV_WILD_HORSE_ROUNDUP_WAOL-?SITE=OHCIN&SECTION=HOME&TEMPLATE=DEFAULT
-255327025	20130526	USA	USA	020	3.0	1	1	1	1.66270783847981	http://www.seattlepi.com/news/science/article/Drought-prompts-plan-to-remove-wild-horses-in-NV-4550245.php
-255327026	20130526	USA	USA	020	3.0	1	1	1	1.58371040723982	http://hosted.ap.org/dynamic/stories/N/NV_WILD_HORSE_ROUNDUP_WAOL-?SITE=OHCIN&SECTION=HOME&TEMPLATE=DEFAULT
-255327027	20130526	USA	USA	020	3.0	2	1	2	3.04878048780488	http://www.politico.com/blogs/politico-live/2013/05/tom-coburn-holder-shouldnt-be-investigating-164802.html
-255327028	20130526	USA	USA	020	3.0	1	1	1	1.47465437788018	http://www.dailymail.co.uk/news/article-2331082/Pipe-bombing-bank-robbing-Patti-Hearst-kidnapping-Symbianese-Liberation-Army-soldier-Grandma-cause.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490
-255327029	20130526	USA	USA	0214	3.4	2	1	2	2.49110320284698	http://www.huffingtonpost.com/2013/05/25/asteroid-mission-plan-under-fire-congress-poll_n_3320259.html
-255327030	20130526	USA	USA	025	-0.3	10	1	10	2.62869660460022	http://www.cbsnews.com/8301-250_162-57586247/obama-urges-americans-to-step-up-tornado-aid/
-255327070	20130526	USA	USA	020	3.0	10	1	10	1.3953488372093	http://kbia.org/post/collapsed-bridge-was-not-structurally-deficient
-255327085	20130526	USA	USA	071	7.4	10	1	10	1.04849279161206	http://www.thefinancialexpress-bd.com/index.php?ref=MjBfMDVfMjdfMTNfMV8yXzE3MDc3MQ%3D%3D&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+thefinancialexpress-bd%2FIouH+%28The+Financial+Express%29
-255327090	20130526	USA	USA	072	8.3	10	1	10	2.88461538461538	http://www.philippinetimes.com/index.php/sid/214776664/scat/2411cd3571b4f088
-255327124	20130526	USA	IND	020	3.0	2	1	2	1.42857142857143	http://www.thehindu.com/news/national/other-states/congress-workers-call-for-bandh-in-chhattisgarh/article4752898.ece
-255327140	20130526	USA	USA	071	7.4	6	1	6	5.2064631956912	http://indiancountrytodaymedianetwork.com/2013/05/26/stevens-memorial-day-weekend-time-recognize-our-relatives-149541
-255327171	20130526	USA	CHN	070	7.0	8	1	8	1.17647058823529	http://www.huffingtonpost.com/2013/05/25/two-child-limit-for-rohingya-muslims-in-parts-of-myanmar_n_3337816.html
-255327175	20130526	USA	COL	070	7.0	4	2	4	3.3927309439677	http://abcnews.go.com/International/wireStory/colombia-rebels-reach-land-reform-deal-19260906
-255327176	20130526	USA	COL	070	7.0	4	2	4	3.3927309439677	http://abcnews.go.com/International/wireStory/colombia-rebels-reach-land-reform-deal-19260906
-255327178	20130526	USA	CUB	070	7.0	2	1	2	3.25972660357518	http://www.startribune.com/world/209000031.html
-255327187	20130526	USA	GBR	070	7.0	10	2	10	0.875412541254125	http://www.npr.org/templates/story/story.php?storyId=186667539&ft=1&f=
-255327188	20130526	USA	GBR	070	7.0	6	1	6	0.416666666666667	http://news.yahoo.com/kenya-uk-soldier-killing-suspect-arrested-2010-132149952.html
-255327193	20130526	USA	IRL	070	7.0	2	1	2	0.786782061369001	http://apnews.myway.com/article/20130525/DA6GJ1200.html
-255327195	20130526	USA	IRQ	070	7.0	5	1	5	2.04678362573099	http://www.npr.org/templates/story/story.php?storyId=186675379&ft=1&f=
-255327196	20130526	USA	IRQ	070	7.0	2	1	2	2.04678362573099	http://www.npr.org/templates/story/story.php?storyId=186675379&ft=1&f=
-255327198	20130526	USA	JOR	070	7.0	10	1	10	4.85294117647059	http://cnsnews.com/news/article/israels-peres-calls-return-peace-talks
-255327199	20130526	USA	JOR	070	7.0	10	1	10	5.05709624796085	http://www.startribune.com/world/208986171.html
-255327222	20130526	USA	USA	070	7.0	6	4	6	1.7741910624956	http://cnsnews.com/news/article/san-antonio-flooding-kills-2-200-plus-rescued
-255327223	20130526	USA	USA	070	7.0	4	2	4	2.00932017543859	http://www.ottawacitizen.com/news/Antonioarea+flooding+kills+more+than+people+rescued+from/8436145/story.html
-255327224	20130526	USA	USA	070	7.0	9	1	9	2.17999834891646	http://hosted.ap.org/dynamic/stories/U/US_TEXAS_FLOODING_?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-255327225	20130526	USA	USA	070	7.0	2	2	2	1.6566265060241	http://cnsnews.com/news/article/san-antonio-flooding-kills-2-200-plus-rescued
-255327226	20130526	USA	USA	070	7.0	35	5	35	1.06872943096705	http://news.yahoo.com/searchers-body-teen-missing-texas-flood-012538210.html
-255327227	20130526	USA	USA	070	7.0	1	1	1	1.07758620689655	http://cnsnews.com/news/article/search-continues-teen-missing-texas-flood
-255327228	20130526	USA	USA	070	7.0	6	5	6	1.06725330164546	http://news.yahoo.com/searchers-body-teen-missing-texas-flood-012538210.html
-255327229	20130526	USA	USA	070	7.0	12	3	12	0.870129616837647	http://www.krqe.com/dpp/news/us/Budget-cuts-mean-unpaid-day-off-for-many-in-govt_28561034
-255327230	20130526	USA	USA	070	7.0	2	1	2	2.28136882129278	http://news.yahoo.com/northern-england-offering-more-just-beaches-attract-tourists-145805266.html
-255327231	20130526	USA	USA	070	7.0	3	1	3	2.28136882129278	http://news.yahoo.com/northern-england-offering-more-just-beaches-attract-tourists-145805266.html
-255327232	20130526	USA	USA	070	7.0	5	1	5	2.28136882129278	http://news.yahoo.com/northern-england-offering-more-just-beaches-attract-tourists-145805266.html
-255327233	20130526	USA	USA	070	7.0	14	7	14	2.03628869229174	http://cnsnews.com/news/article/native-american-vets-push-recognition
-255327236	20130526	USA	USA	070	7.0	2	1	2	0.532859680284192	http://cnsnews.com/news/article/temporary-bridges-planned-fallen-i-5-wash
-255327237	20130526	USA	USA	070	7.0	8	2	8	0.836806003608135	http://news.yahoo.com/temporary-bridges-planned-fallen-5-wash-221834842.html
-255327238	20130526	USA	USA	070	7.0	14	7	14	2.03628869229174	http://cnsnews.com/news/article/native-american-vets-push-recognition
-255327262	20130526	USA	USA	020	3.0	1	1	1	3.07692307692308	http://www.latimes.com/news/local/political/la-me-pc-bill-protects-children-20130524,0,6639819.story
-255327390	20130526	YEM	PRK	020	3.0	28	6	28	1.68511609283071	http://hosted.ap.org/dynamic/stories/U/US_SCHUMER_LEAKS_INVESTIGATIONS?SITE=NVREN&SECTION=HOME&TEMPLATE=DEFAULT
-255327430	20130526	ZAF	AFR	020	3.0	2	1	2	1.24740124740125	http://www.guardian.co.uk/sport/2013/may/26/oscar-pistorius-fined-unpaid-taxes
-255327440	20130526	ZAF	AFR	073	7.4	4	1	4	4.45859872611465	http://www.iol.co.za/news/south-africa/eastern-cape/trapped-fishermen-rescued-1.1521913
-255327473	20130526	ZMB	AFR	0231	3.4	4	1	4	1.44927536231884	http://www.adelaidenow.com.au/news/south-australia/emma-dawes-to-shave-her-dreadlocks-to-raise-money-for-african-orphans/story-e6frea83-1226650906432?from=public_rss
-255327475	20130526	ZMB	AFR	020	3.0	10	1	10	4.86815415821501	http://www.lusakatimes.com/2013/05/26/fight-on-kk-urges-african-union/
-255327504	20130526	ZWE	ZWE	070	7.0	5	1	5	5.77367205542725	http://allafrica.com/stories/201305260226.html
+http://www.adelaidenow.com.au/news/south-australia/accounting-for-a-deficit-in-state-budget/story-e6frea83-1226650947385?from=public_rss
+http://www.dailymail.co.uk/news/article-2331374/Michael-Adebolajo-We-warned--ignored-Kenya-says-Britain-told-dangerous-radical-2010.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490
+http://www.dailymail.co.uk/news/article-2331374/Michael-Adebolajo-We-warned--ignored-Kenya-says-Britain-told-dangerous-radical-2010.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490
+http://www.cpifinancial.net/news/post/20937/egypt-to-issue-smart-cards-to-fuel-stations-next-month
+http://www.cpifinancial.net/news/post/20937/egypt-to-issue-smart-cards-to-fuel-stations-next-month
+http://www.cpifinancial.net/news/post/20937/egypt-to-issue-smart-cards-to-fuel-stations-next-month
+http://www.shanghaidaily.com/nsp/Metro/2013/05/27/Expatriates%2Bdonate%2Bblood%2Bto%2Bhelp%2Bboost%2Bcitys%2Bsupply%2Bof%2Brare%2Btypes/
+http://www.shanghaidaily.com/nsp/Metro/2013/05/27/Expatriates%2Bdonate%2Bblood%2Bto%2Bhelp%2Bboost%2Bcitys%2Bsupply%2Bof%2Brare%2Btypes/
+http://zeenews.india.com/news/south-asia/committed-pak-jihadists-replace-slain-al-qaeda-leaders-report_851006.html
+http://www.dailystar.com.lb/News/International/2013/May-26/218401-afghan-police-rescued-aid-workers-trapped-in-siege.ashx
+http://www.dailystar.com.lb/News/International/2013/May-26/218401-afghan-police-rescued-aid-workers-trapped-in-siege.ashx
+http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2013-05-26-Afghanistan/id-cd83a9f00d444d3fa353eeee788a0a0b
+http://hosted2.ap.org/APDEFAULT/cae69a7523db45408eeb2b3a98c0c9c5/Article_2013-05-26-Afghanistan/id-cd83a9f00d444d3fa353eeee788a0a0b
+http://www.iol.co.za/news/africa/prophets-of-pan-africanism-from-the-oau-to-the-au-1.1521876
+http://www.iol.co.za/news/africa/prophets-of-pan-africanism-from-the-oau-to-the-au-1.1521876
+http://www.iol.co.za/news/south-africa/eastern-cape/trapped-fishermen-rescued-1.1521913
+http://allafrica.com/stories/201305260116.html
+http://www.news.com.au/breaking-news/national/qld-unions-launch-anti-asset-sales-blitz/story-e6frfku9-1226650828490?from=public_rss
+http://www.jpost.com/JewishWorld/JewishNews/Article.aspx?id=314402&R=R5
+http://www.jpost.com/JewishWorld/JewishNews/Article.aspx?id=314402&R=R5
+http://www.bloomberg.com/news/2013-05-26/pinot-blanc-pairs-with-foie-gras-gorgonzola-baked-beans.html
+http://www.dailystar.com.lb/News/Middle-East/2013/May-27/218426-ex-un-commander-in-golan-warns-against-austria-pullout.ashx
+http://www.dailystar.com.lb/News/Middle-East/2013/May-27/218426-ex-un-commander-in-golan-warns-against-austria-pullout.ashx
+http://www.dailystar.com.lb/News/Middle-East/2013/May-27/218426-ex-un-commander-in-golan-warns-against-austria-pullout.ashx
+http://www.ynetnews.com/articles/0,7340,L-4384491,00.html
+http://www.ynetnews.com/articles/0,7340,L-4384491,00.html
+http://news.yahoo.com/brazil-says-cancel-africa-debt-worth-900-mln-073705868.html
+http://www.iol.co.za/business/international/brazil-cancels-900m-in-african-debt-1.1521886
+http://www.nation.co.ke/News/world/Brazil-cancels--900-million-in-African-debt/-/1068/1863300/-/13o80c9/-/index.html
+http://www.thenews.com.pk/Todays-News-3-179779-Brazil-cancels-$900-million-of-African-debt
+http://www.theglobeandmail.com/news/national/ontario-premier-will-pitch-tax-hikes-fees-to-fund-transit-expansion/article12158576/?cmpid=rss1
+http://www.thisdaylive.com/articles/construction-of-700mw-zungeru-hydro-plant-begins-soon/148531/
+http://www.thejakartapost.com/news/2013/05/26/where-toilet-cleaners-get-paid-more-prime-ministers.html
+http://www.channelnewsasia.com/news/sport/motor-racing-stewards-confirm-protests-a/687766.html
+http://www.channelnewsasia.com/news/sport/motor-racing-stewards-confirm-protests-a/687766.html
+http://www.airforcetimes.com/article/20130525/NEWS/305250011
+http://reliefweb.int/report/dominican-republic/trafficked-haitian-children-dominican-republic-get-assistance-iom
+http://www.cnn.com/2013/05/26/us/oklahoma-tornado/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_topstories+%28RSS%3A+Top+Stories%29
+http://www.contracostatimes.com/breaking-news/ci_23326284/internal-affairs-forbes-cover-brings-back-meg-whitmans?source=rss
+http://www.contracostatimes.com/breaking-news/ci_23326284/internal-affairs-forbes-cover-brings-back-meg-whitmans?source=rss
+http://www.spyghana.com/ghana-and-france-made-significant-earnings-of-e1-4b-trade-in-2012-from-trade/
+http://www.spyghana.com/ghana-and-france-made-significant-earnings-of-e1-4b-trade-in-2012-from-trade/
+http://www.spyghana.com/ghana-and-france-made-significant-earnings-of-e1-4b-trade-in-2012-from-trade/
+http://www.spyghana.com/ghana-and-france-made-significant-earnings-of-e1-4b-trade-in-2012-from-trade/
+http://www.cnn.com/2013/05/25/world/europe/uk-terror-arrest/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_crime+%28RSS%3A+Crime%29
+http://www.cnn.com/2013/05/26/world/europe/uk-terror-arrest/index.html?eref=rss_mostpopular&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_mostpopular+%28RSS%3A+Most+Popular%29
+http://www.cnn.com/2013/05/26/world/europe/uk-terror-arrest/index.html?eref=rss_mostpopular&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_mostpopular+%28RSS%3A+Most+Popular%29
+http://dawn.com/2013/05/26/two-men-charged-in-britain-over-pakistan-plane-incident/
+http://dawn.com/2013/05/26/two-men-charged-in-britain-over-pakistan-plane-incident/
+http://dawn.com/2013/05/26/two-men-charged-in-britain-over-pakistan-plane-incident/
+http://dawn.com/2013/05/26/two-men-charged-in-britain-over-pakistan-plane-incident/
+http://www.cnn.com/2013/05/26/world/europe/uk-terror-arrest/index.html?eref=rss_mostpopular&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_mostpopular+%28RSS%3A+Most+Popular%29
+http://www.thehindu.com/news/national/other-states/abducted-chhattisgarh-congress-chief-son-dead/article4752692.ece
+http://www.globalsecurity.org/wmd/library/news/syria/2013/syria-130525-irna01.htm
+http://www.globalsecurity.org/wmd/library/news/syria/2013/syria-130525-presstv01.htm
+BBC Monitoring
+http://www.bloomberg.com/news/2013-05-26/mehta-gala-with-perlman-opens-38-million-concert-hall.html
+http://www.jpost.com/JewishWorld/JewishNews/Article.aspx?id=314402&R=R5
+http://www.jpost.com/JewishWorld/JewishNews/Article.aspx?id=314402&R=R5
+http://reliefweb.int/report/syrian-arab-republic/palestinian-refugees-syria
+http://reliefweb.int/report/syrian-arab-republic/palestinian-refugees-syria
+http://www.politico.com/story/2013/05/john-kerry-palestine-economic-plan-91900.html
+http://www.shanghaidaily.com/nsp/World/2013/05/27/Japan%2Bgives%2BMyanmar%2BUS504m%2Bloan%2Bcancels%2Bdebt/
+http://www.rediff.com/news/report/pm-to-seek-nuclear-deal-investments-during-japan-visit/20130526.htm
+http://www.rediff.com/news/report/india-and-japan-must-have-robust-strategic-and-global-partnership-says-pm/20130526.htm
+http://zeenews.india.com/news/nation/pm-to-seek-nuclear-deal-investments-in-japan_850977.html
+http://www.channelnewsasia.com/news/asiapacific/india-pm-calls-for-nuclear-deal-more-jap/687446.html
+http://www.shanghaidaily.com/nsp/World/2013/05/27/Japan%2Bgives%2BMyanmar%2BUS504m%2Bloan%2Bcancels%2Bdebt/
+http://economictimes.indiatimes.com/news/international-business/japan-gives-myanmar-504-million-loan-forgives-debt/articleshow/20274735.cms
+http://finance.yahoo.com/news/japan-gives-myanmar-504m-loan-095749421.html
+http://www.bbc.co.uk/news/world-asia-22673107#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+http://economictimes.indiatimes.com/news/international-business/japan-gives-myanmar-504-million-loan-forgives-debt/articleshow/20274735.cms
+http://www.channelnewsasia.com/news/asiapacific/india-pm-calls-for-nuclear-deal-more-jap/687446.html
+http://www.trust.org/item/20130526131826-gay4u
+http://news.yahoo.com/kenyan-police-kill-muslim-cleric-ties-somali-militants-155431356.html
+http://news.yahoo.com/kenyan-police-kill-muslim-cleric-ties-somali-militants-155431356.html
+BBC Monitoring
+http://www.channelnewsasia.com/news/sport/motor-racing-stewards-confirm-protests-a/687766.html
+http://www.bbc.co.uk/news/world-asia-22673107#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+http://www.bbc.co.uk/news/world-asia-22673107#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+http://www.miamiherald.com/2013/05/26/3417487/japan-gives-myanmar-504m-loan.html
+http://www.fijitimes.com/story.aspx?id=235202
+http://www.fijitimes.com/story.aspx?id=235202
+http://www.myrepublica.com/portal/index.php?action=news_details&news_id=55265
+http://www.fijitimes.com/story.aspx?id=235202
+http://www.fijitimes.com/story.aspx?id=235202
+http://news.terra.com/startup-weekend-and-startup-america-partner-to-jumpstart-global-entrepreneurship,4252b044757de310VgnCLD2000000ec6eb0aRCRD.html
+http://examiner-enterprise.com/sections/news/business/wells-fargo-donates-100000-oklahoma-tornado-victims.html
+http://www.thisdaylive.com/articles/construction-of-700mw-zungeru-hydro-plant-begins-soon/148531/
+http://www.bloomberg.com/news/2013-05-26/mehta-gala-with-perlman-opens-38-million-concert-hall.html
+http://www.bloomberg.com/news/2013-05-26/mehta-gala-with-perlman-opens-38-million-concert-hall.html
+http://world.time.com/2013/05/26/kerry-says-palestinian-economic-plan-could-work/
+BBC Monitoring
+BBC Monitoring
+http://www.menafn.com/menafn/1093638474/New-initiatives-for-Saudi-SMEs-spotlight?src=RSS
+http://www.bloomberg.com/news/2013-05-26/uem-taps-land-starved-singapore-to-sell-iskandar-property.html
+http://www.bloomberg.com/news/2013-05-26/uem-taps-land-starved-singapore-to-sell-iskandar-property.html
+http://www.bloomberg.com/news/2013-05-26/uem-taps-land-starved-singapore-to-sell-iskandar-property.html
+http://news.msn.co.nz/worldnews/8663276/assange-accuser-calls-for-swedish-pressure
+http://news.msn.co.nz/worldnews/8663276/assange-accuser-calls-for-swedish-pressure
+http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10886269&ref=rss
+http://zeenews.india.com/news/south-asia/committed-pak-jihadists-replace-slain-al-qaeda-leaders-report_851006.html
+http://www.themoscowtimes.com/opinion/article/preparing-for-the-us-china-strategic-union/480504.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:%20themoscowtimes/RUXi%20(The%20Moscow%20Times)
+http://cnsnews.com/news/article/survivor-rescuer-reunite-maine-b-52-crash-site-0
+http://www.airforcetimes.com/article/20130525/NEWS/305250011
+http://www.airforcetimes.com/article/20130525/NEWS/305250011
+http://www.egyptindependent.com/news/us-encourages-egypt-implement-economic-reforms
+http://www.egyptindependent.com/news/us-encourages-egypt-implement-economic-reforms
+http://www.iol.co.za/news/africa/prophets-of-pan-africanism-from-the-oau-to-the-au-1.1521876
+http://www.nationmultimedia.com/life/Puppet-on-tour-30206851.html
+http://www.nationmultimedia.com/life/Puppet-on-tour-30206851.html
+http://www.sun-sentinel.com/news/palm-beach/fl-boy-struck-by-vehicle-in-jupiter-20130526,0,5507270.story?track=rss
+http://hosted.ap.org/dynamic/stories/M/ML_US_MIDEAST?SITE=FLPLA&SECTION=HOME&TEMPLATE=DEFAULT
+http://www.npr.org/templates/story/story.php?storyId=186695638&ft=1&f=
+http://www.cbc.ca/news/canada/calgary/story/2013/05/26/canadian-tornado-survivor.html?cmp=rss
+http://seattletimes.com/html/localnews/2021059931_bridgedeficienciesxml.html
+http://www.sun-sentinel.com/news/palm-beach/fl-boy-struck-by-vehicle-in-jupiter-20130526,0,5507270.story?track=rss
+http://www.foxnews.com/politics/2013/05/26/republican-leaders-criticize-obama-revamp-counter-terror-plan-call-it/
+http://www.thefinancialexpress-bd.com/index.php?ref=MjBfMDVfMjdfMTNfMV8yXzE3MDc3MQ%3D%3D&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+thefinancialexpress-bd%2FIouH+%28The+Financial+Express%29
+http://www.philippinetimes.com/index.php/sid/214776664/scat/2411cd3571b4f088
+http://indiancountrytodaymedianetwork.com/2013/05/26/stevens-memorial-day-weekend-time-recognize-our-relatives-149541
+http://www.huffingtonpost.com/2013/05/25/two-child-limit-for-rohingya-muslims-in-parts-of-myanmar_n_3337816.html
+http://abcnews.go.com/International/wireStory/colombia-rebels-reach-land-reform-deal-19260906
+http://abcnews.go.com/International/wireStory/colombia-rebels-reach-land-reform-deal-19260906
+http://www.startribune.com/world/209000031.html
+http://www.npr.org/templates/story/story.php?storyId=186667539&ft=1&f=
+http://news.yahoo.com/kenya-uk-soldier-killing-suspect-arrested-2010-132149952.html
+http://apnews.myway.com/article/20130525/DA6GJ1200.html
+http://www.npr.org/templates/story/story.php?storyId=186675379&ft=1&f=
+http://www.npr.org/templates/story/story.php?storyId=186675379&ft=1&f=
+http://cnsnews.com/news/article/israels-peres-calls-return-peace-talks
+http://www.startribune.com/world/208986171.html
+http://cnsnews.com/news/article/san-antonio-flooding-kills-2-200-plus-rescued
+http://www.ottawacitizen.com/news/Antonioarea+flooding+kills+more+than+people+rescued+from/8436145/story.html
+http://hosted.ap.org/dynamic/stories/U/US_TEXAS_FLOODING_?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+http://cnsnews.com/news/article/san-antonio-flooding-kills-2-200-plus-rescued
+http://news.yahoo.com/searchers-body-teen-missing-texas-flood-012538210.html
+http://cnsnews.com/news/article/search-continues-teen-missing-texas-flood
+http://news.yahoo.com/searchers-body-teen-missing-texas-flood-012538210.html
+http://www.krqe.com/dpp/news/us/Budget-cuts-mean-unpaid-day-off-for-many-in-govt_28561034
+http://news.yahoo.com/northern-england-offering-more-just-beaches-attract-tourists-145805266.html
+http://news.yahoo.com/northern-england-offering-more-just-beaches-attract-tourists-145805266.html
+http://news.yahoo.com/northern-england-offering-more-just-beaches-attract-tourists-145805266.html
+http://cnsnews.com/news/article/native-american-vets-push-recognition
+http://cnsnews.com/news/article/temporary-bridges-planned-fallen-i-5-wash
+http://news.yahoo.com/temporary-bridges-planned-fallen-5-wash-221834842.html
+http://cnsnews.com/news/article/native-american-vets-push-recognition
+http://www.iol.co.za/news/south-africa/eastern-cape/trapped-fishermen-rescued-1.1521913
+http://allafrica.com/stories/201305260226.html

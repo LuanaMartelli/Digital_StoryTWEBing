@@ -1,1023 +1,365 @@
-283499923	20130122	FRA	BEL	020	3.0	4	1	4	1.37254901960784	http://www.bloomberg.com/news/2014-01-22/verizon-says-government-data-requests-rose-to-320-000-last-year.html
-283499924	20130122	FRA	BEL	020	3.0	1	1	1	1.37254901960784	http://www.bloomberg.com/news/2014-01-22/verizon-says-government-data-requests-rose-to-320-000-last-year.html
-283499925	20130122	FRA	CHN	071	7.4	2	1	2	2.8436018957346	http://www.theguardian.com/business/2014/jan/22/christies-record-breaking-year-auction
-283499926	20130122	FRA	CHN	071	7.4	6	1	6	2.8436018957346	http://www.theguardian.com/business/2014/jan/22/christies-record-breaking-year-auction
-283499927	20130122	FRA	IND	071	7.4	1	1	1	2.8436018957346	http://www.theguardian.com/business/2014/jan/22/christies-record-breaking-year-auction
-283499928	20130122	FRA	IND	071	7.4	1	1	1	2.8436018957346	http://www.theguardian.com/business/2014/jan/22/christies-record-breaking-year-auction
-283499929	20130122	FRA	IND	071	7.4	2	1	2	2.8436018957346	http://www.theguardian.com/business/2014/jan/22/christies-record-breaking-year-auction
-283499962	20130122	GBR	SYR	075	7.0	5	2	5	2.71828724408666	http://uk.reuters.com/article/2014/01/22/uk-syria-crisis-britain-refugees-idUKBREA0L1JU20140122?feedType=RSS&feedName=topNews
-283499963	20130122	GBR	SYR	075	7.0	4	2	4	2.50756926592402	http://www.reuters.com/article/2014/01/22/us-syria-crisis-britain-refugees-idUSBREA0L1K020140122
-283499964	20130122	GBR	SYR	075	7.0	1	1	1	2.56410256410256	http://news.yahoo.com/britain-39-cameron-comes-under-pressure-syrian-refugees-164903055.html
-283499965	20130122	GBR	SYR	075	7.0	6	1	6	2.75683341408268	http://uk.reuters.com/article/2014/01/22/uk-syria-crisis-britain-refugees-idUKBREA0L1JU20140122?feedType=RSS&feedName=topNews
-283499966	20130122	GBR	SYR	075	7.0	9	3	9	2.5264136986502	http://news.yahoo.com/britain-39-cameron-comes-under-pressure-syrian-refugees-164903055.html
-283499968	20130122	GBR	GBR	023	3.4	10	1	10	1.28755364806867	http://www.scotsman.com/news/scotland/top-stories/concerns-for-aberdeen-woman-missing-since-may-2013-1-3277845
-283500180	20130122	RUS	USA	075	7.0	1	1	1	1.37614678899083	http://timesofindia.indiatimes.com/world/us/Snowden-denies-he-got-help-from-Russia-in-leaking-US-secrets-Report/articleshow/29191871.cms
-283500181	20130122	RUS	USA	075	7.0	24	7	24	1.4843887452633	http://worldnews.nbcnews.com/_news/2014/01/22/22392599-absurd-snowden-denies-getting-help-from-russia-on-leaks
-283500182	20130122	RUS	USA	075	7.0	1	1	1	1.37614678899083	http://timesofindia.indiatimes.com/world/us/Snowden-denies-he-got-help-from-Russia-in-leaking-US-secrets-Report/articleshow/29191871.cms
-283500183	20130122	RUS	USA	075	7.0	3	3	3	1.43254517750446	http://worldnews.nbcnews.com/_news/2014/01/22/22392599-absurd-snowden-denies-getting-help-from-russia-on-leaks
-283500277	20130122	USA	USA	070	7.0	4	1	4	1.30081300813008	http://www.chicagotribune.com/news/local/ct-cook-county-fundraising-met-0122-20140122,0,7606707.story?track=rss
-283500278	20130122	USA	USA	071	7.4	2	1	2	3.07107887282432	http://www.usatoday.com/story/news/politics/2014/01/22/de-blasio-cuomo-tax-the-rich/4724291/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+usatoday-NewsTopStories+%28USATODAY+-+News+Top+Stories%29
-283500311	20130122	USA	USA	071	7.4	2	1	2	3.36391437308868	http://www.miamiherald.com/2014/01/22/3886353/meryl-streep-set-to-speak-at-umass.html
-283500314	20130122	USA	JPN	072	8.3	4	1	4	2.8169014084507	http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11190677
-283500315	20130122	USA	JPN	072	8.3	1	1	1	2.8169014084507	http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11190677
-283500373	20131223	CAN	ISR	071	7.4	3	1	3	1.68539325842697	http://www.theglobeandmail.com/news/politics/draft-harper-serenades-netanyahu/article16444477/?cmpid=rss1
-283500374	20131223	CAN	ISR	071	7.4	17	2	17	3.37152089300139	http://www.npr.org/blogs/thetwo-way/2014/01/22/264877811/watch-canadian-pm-belts-out-hey-jude-during-visit-to-israel?ft=1&f=1001
-283500375	20131223	CAN	CAN	020	3.0	6	1	6	2.4126455906822	http://business.financialpost.com/2014/01/22/enbridge-beats-transcanada-on-keystone-xl-delay/
-283500435	20131223	ISR	CAN	071	7.4	2	1	2	4.07407407407407	http://www.npr.org/blogs/thetwo-way/2014/01/22/264877811/watch-canadian-pm-belts-out-hey-jude-during-visit-to-israel?ft=1&f=1001
-283500436	20131223	ISR	CAN	071	7.4	2	1	2	4.07407407407407	http://www.npr.org/blogs/thetwo-way/2014/01/22/264877811/watch-canadian-pm-belts-out-hey-jude-during-visit-to-israel?ft=1&f=1001
-283500437	20131223	ISR	ISR	071	7.4	2	1	2	4.07407407407407	http://www.npr.org/blogs/thetwo-way/2014/01/22/264877811/watch-canadian-pm-belts-out-hey-jude-during-visit-to-israel?ft=1&f=1001
-283500438	20131223	ISR	ISR	071	7.4	2	1	2	4.07407407407407	http://www.npr.org/blogs/thetwo-way/2014/01/22/264877811/watch-canadian-pm-belts-out-hey-jude-during-visit-to-israel?ft=1&f=1001
-283500472	20131223	ISR	CAN	071	7.4	10	1	10	4.82758620689655	http://www.ctvnews.ca/politics/harper-serenades-israeli-leader-with-rousing-rendition-of-hey-jude-1.1650832
-283500477	20131223	QAT	RUS	073	7.4	10	1	10	3.08370044052863	http://www.menafn.com/1093758555/Passengers-Rescued-from-Ship-Trapped-in-Antarctic-Ice-Arrive-in-Australia
-283500490	20131223	RUS	USA	020	3.0	1	1	1	2.91806958473625	http://www.latimes.com/world/worldnow/la-fg-wn-edward-snowden-russia-spy-allegations-20140122,0,936831.story
-283500491	20131223	RUS	USA	020	3.0	1	1	1	2.91806958473625	http://www.latimes.com/world/worldnow/la-fg-wn-edward-snowden-russia-spy-allegations-20140122,0,936831.story
-283500741	20140115	GBR	CHN	020	3.0	2	1	2	1.69014084507042	http://www.bloomberg.com/news/2014-01-22/copper-declines-on-speculation-chinese-holidays-to-curb-demand.html
-283500742	20140115	GBR	CHN	020	3.0	8	1	8	1.69014084507042	http://www.bloomberg.com/news/2014-01-22/copper-declines-on-speculation-chinese-holidays-to-curb-demand.html
-283500919	20140115	SWE	SWE	020	3.0	10	1	10	3.515625	http://www.thelocal.se/20140122/mps-cool-toward-tougher-penalties-for-political-violence
-283500982	20140115	USA	USA	020	3.0	2	1	2	2.14723926380368	http://www.theverge.com/2014/1/22/5335220/PPH-chemical-leaked-into-west-virginia-water-supply
-283500983	20140115	USA	USA	071	7.4	2	1	2	8.73493975903614	http://www.prnewswire.com/news-releases/vtv-applauds-bi-partisan-congressional-support-for-new-school--campus-safety-initiatives-241537921.html
-283501006	20140115	USA	AFG	020	3.0	2	1	2	3.4965034965035	http://www.khaama.com/us-military-propose-to-keep-10000-troops-in-afghanistan-beyond-2014-3332
-283501121	20140121	GBR	GBR	020	3.0	4	1	4	4.63286713286713	http://www.dailymail.co.uk/news/article-2544276/Benefits-Street-proves-reforms-right-says-Iain-Duncan-Smith-Work-Pensions-Secretary-says-middle-class-families-shocked-welfare-ghettos.html?ITO=1490&ns_campaign=1490
-283501278	20140121	USA	RUS	020	3.0	1	1	1	3.8961038961039	http://zeenews.india.com/news/world/edward-snowden-bids-to-become-rector-of-british-university_906020.html
-283501279	20140121	USA	RUS	020	3.0	2	1	2	3.8961038961039	http://zeenews.india.com/news/world/edward-snowden-bids-to-become-rector-of-british-university_906020.html
-283501280	20140121	USA	RUS	020	3.0	1	1	1	3.8961038961039	http://zeenews.india.com/news/world/edward-snowden-bids-to-become-rector-of-british-university_906020.html
-283504672	20140122	AFG	AFG	020	3.0	6	1	6	0.925925925925926	http://www.khaama.com/afghan-mp-khawasi-calls-on-ghorband-residents-for-jihad-against-us-forces-3330
-283504673	20140122	AFG	AFG	020	3.0	4	1	4	0.925925925925926	http://www.khaama.com/afghan-mp-khawasi-calls-on-ghorband-residents-for-jihad-against-us-forces-3330
-283504674	20140122	AFG	AFG	020	3.0	1	1	1	0.925925925925926	http://www.khaama.com/afghan-mp-khawasi-calls-on-ghorband-residents-for-jihad-against-us-forces-3330
-283504692	20140122	AFG	AFG	026	4.0	1	1	1	0.529100529100529	http://www.khaama.com/us-drone-strike-on-a-taliban-gathering-in-nuristan-leaves-9-dead-3308
-283504705	20140122	AFG	AFG	073	7.4	2	1	2	4.71204188481675	http://www.khaama.com/afghan-police-rescue-all-63-abducted-de-miners-in-herat-2711
-283504811	20140122	AFG	PAK	020	3.0	8	1	8	1.61870503597122	Hasht-e Sobh, Kabul/BBC Monitoring/(c) BBC
-283504883	20140122	AFG	AFG	073	7.4	6	1	6	4.71204188481675	http://www.khaama.com/afghan-police-rescue-all-63-abducted-de-miners-in-herat-2711
-283504983	20140122	AFG	USA	020	3.0	2	1	2	2.01863354037267	http://www.khaama.com/making-sense-of-the-recent-suicide-attack-in-kabul-3323
-283505010	20140122	AFG	PAK	026	4.0	1	1	1	0.529100529100529	http://www.khaama.com/us-drone-strike-on-a-taliban-gathering-in-nuristan-leaves-9-dead-3308
-283505011	20140122	AFG	PAK	026	4.0	1	1	1	0.529100529100529	http://www.khaama.com/us-drone-strike-on-a-taliban-gathering-in-nuristan-leaves-9-dead-3308
-283505014	20140122	AFG	PAK	026	4.0	3	1	3	0.529100529100529	http://www.khaama.com/us-drone-strike-on-a-taliban-gathering-in-nuristan-leaves-9-dead-3308
-283505139	20140122	AFR	EUR	020	3.0	2	1	2	3.43443354148082	http://www.ip-watch.org/2014/01/22/concerns-erupt-over-leaked-pharma-lobbying-plan-against-ip-policy-in-south-africa/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ip-watch+%28Intellectual+Property+Watch%29
-283505142	20140122	AFR	EUR	020	3.0	2	1	2	2.64598540145985	http://www.dw.de/germany-to-bolster-its-presence-in-africa/a-17380347
-283505143	20140122	AFR	EUR	020	3.0	3	1	3	2.64598540145985	http://www.dw.de/germany-to-bolster-its-presence-in-africa/a-17380347
-283505265	20140122	AFR	SWZ	070	7.0	1	1	1	5.67010309278351	http://www.chinapost.com.tw/taiwan/intl-community/2014/01/23/399048/Taiwan-Swaziland-parliamentary.htm
-283505266	20140122	AFR	SWZ	070	7.0	4	1	4	5.67010309278351	http://www.chinapost.com.tw/taiwan/intl-community/2014/01/23/399048/Taiwan-Swaziland-parliamentary.htm
-283505268	20140122	AFR	AFR	020	3.0	8	2	8	3.04126886356637	http://www.news24.com/SouthAfrica/News/Breytenbach-files-appeal-20140122
-283505276	20140122	AFR	USA	070	7.0	6	1	6	2.41691842900302	http://www.futurity.org/decoded-dna-help-fight-parasitic-hookworms/
-283505277	20140122	AFR	USA	072	8.3	2	1	2	2.41691842900302	http://www.futurity.org/decoded-dna-help-fight-parasitic-hookworms/
-283505278	20140122	AFR	USA	072	8.3	8	1	8	2.41691842900302	http://www.futurity.org/decoded-dna-help-fight-parasitic-hookworms/
-283505285	20140122	AGO	AGO	073	7.4	6	1	6	1.24610591900312	http://reliefweb.int/report/angola/over-26000-angolans-return-home-until-end-2014
-283505468	20140122	ARM	ARM	071	7.4	4	1	4	2.9045643153527	http://news.am/eng/news/190371.html
-283505471	20140122	ARM	ARM	020	3.0	10	1	10	3.7037037037037	http://news.am/eng/news/190351.html
-283505489	20140122	ARM	AZE	026	4.0	4	1	4	0	http://armenpress.am/eng/news/747209/
-283505490	20140122	ARM	AZE	026	4.0	6	1	6	0	http://armenpress.am/eng/news/747209/
-283505491	20140122	ARM	AZE	026	4.0	10	1	10	0	http://armenpress.am/eng/news/747209/
-283505526	20140122	ARM	USA	020	3.0	10	1	10	2.82685512367491	http://armenpress.am/eng/news/747095/
-283505532	20140122	ARM	ARM	071	7.4	6	1	6	2.9045643153527	http://news.am/eng/news/190371.html
-283505556	20140122	ARM	ARM	020	3.0	3	1	3	0	http://www.news.az/articles/85891
-283505557	20140122	ARM	ARM	020	3.0	2	1	2	0	http://www.news.az/articles/85891
-283505674	20140122	AUS	AUS	020	3.0	4	1	4	1.59798149705635	http://www.prnewswire.com/news-releases/newcrest-mining-limited---quarterly-report-for-the-three-months-ending-31-december-2013-241564321.html
-283505717	20140122	AUS	CHN	073	7.4	2	1	2	3.63636363636364	http://www.cbsnews.com/news/passengers-from-icebound-antarctic-ship-reach-australia/
-283505718	20140122	AUS	CHN	073	7.4	9	2	9	3.57834968832932	http://news.yahoo.com/rescued-antarctic-passengers-arrive-australia-132554632.html
-283505719	20140122	AUS	CHN	073	7.4	46	6	46	3.56872796725886	http://www.telegram.com/article/20140122/NEWS/301229915/1052/RSS01
-283505720	20140122	AUS	CHN	073	7.4	15	6	15	3.57109254892548	http://www.telegram.com/article/20140122/NEWS/301229915/1052/RSS01
-283505721	20140122	AUS	CHN	073	7.4	2	1	2	3.63636363636364	http://www.cbsnews.com/news/passengers-from-icebound-antarctic-ship-reach-australia/
-283505722	20140122	AUS	CHN	073	7.4	10	5	10	3.60515402575195	http://www.telegram.com/article/20140122/NEWS/301229915/1052/RSS01
-283505723	20140122	AUS	CHN	073	7.4	6	2	6	3.49619496143725	http://news.yahoo.com/rescued-antarctic-passengers-arrive-australia-132554632.html
-283505768	20140122	AUS	GBR	071	7.4	2	1	2	2.98507462686567	http://www.angelnews.co.uk/article.jsf?articleId=15317
-283505792	20140122	AUS	IDN	072	8.3	1	1	1	4.58715596330275	http://www.aljazeera.com/news/americas/2014/01/australia-blasts-snowden-over-treachery-201412220248878896.html
-283505793	20140122	AUS	IDN	072	8.3	1	1	1	4.58715596330275	http://www.aljazeera.com/news/americas/2014/01/australia-blasts-snowden-over-treachery-201412220248878896.html
-283505796	20140122	AUS	IDN	072	8.3	3	1	3	4.58715596330275	http://www.aljazeera.com/news/americas/2014/01/australia-blasts-snowden-over-treachery-201412220248878896.html
-283505840	20140122	AUS	PNG	020	3.0	10	1	10	0.985221674876847	http://www.voanews.com/content/australia-refugee-policy-cruel-rights-group/1835025.html
-283505841	20140122	AUS	PNG	071	7.4	8	1	8	2.33812949640288	http://www.theguardian.com/world/2014/jan/22/australias-reputation-on-human-rights-damaged-by-asylum-policies-ngo-says
-283505842	20140122	AUS	PNG	071	7.4	2	1	2	2.33812949640288	http://www.theguardian.com/world/2014/jan/22/australias-reputation-on-human-rights-damaged-by-asylum-policies-ngo-says
-283505864	20140122	AUS	USA	020	3.0	4	1	4	2.24719101123596	http://www.charlotteobserver.com/2014/01/21/4629885/ap-news-in-brief-at-858-pm-est.html
-283505896	20140122	AUS	AUS	020	3.0	3	1	3	1.59798149705635	http://www.prnewswire.com/news-releases/newcrest-mining-limited---quarterly-report-for-the-three-months-ending-31-december-2013-241564321.html
-283505969	20140122	AUT	AUT	020	3.0	2	1	2	3.87596899224806	http://www.reuters.com/article/2014/01/22/austria-hypalpeadria-idUSL5N0KW39820140122
-283505995	20140122	AUT	UKR	025	-0.3	4	1	4	1.57894736842105	OSCE press release, Vienna/BBC Monitoring/(c) BBC
-283505996	20140122	AUT	UKR	025	-0.3	6	1	6	1.57894736842105	OSCE press release, Vienna/BBC Monitoring/(c) BBC
-283506003	20140122	AUT	AUT	020	3.0	6	1	6	3.87596899224806	http://www.reuters.com/article/2014/01/22/austria-hypalpeadria-idUSL5N0KW39820140122
-283506195	20140122	BEL	EUR	020	3.0	7	1	7	1.29366106080207	http://news.sciencemag.org/climate/2014/01/european-commission-dampens-climate-ambitions
-283506196	20140122	BEL	EUR	020	3.0	20	2	20	1.83278303206671	http://www.trust.org/item/20140122104858-uliwe
-283506254	20140122	BEL	BEL	020	3.0	4	1	4	0.588440842313023	http://www.reuters.com/article/2014/01/22/euronext-idUSL5N0KW44620140122?feedType=RSS&feedName=mergersNews
-283506255	20140122	BEL	FRA	020	3.0	4	1	4	0.588440842313023	http://www.reuters.com/article/2014/01/22/euronext-idUSL5N0KW44620140122?feedType=RSS&feedName=mergersNews
-283506256	20140122	BEL	GBR	020	3.0	4	1	4	0.588440842313023	http://www.reuters.com/article/2014/01/22/euronext-idUSL5N0KW44620140122?feedType=RSS&feedName=mergersNews
-283506259	20140122	BEL	NLD	020	3.0	4	1	4	0.588440842313023	http://www.reuters.com/article/2014/01/22/euronext-idUSL5N0KW44620140122?feedType=RSS&feedName=mergersNews
-283506260	20140122	BEL	PRT	020	3.0	4	1	4	0.588440842313023	http://www.reuters.com/article/2014/01/22/euronext-idUSL5N0KW44620140122?feedType=RSS&feedName=mergersNews
-283506264	20140122	BEL	TUR	025	-0.3	4	1	4	2.21948212083847	http://www.dailystar.com.lb/News/Middle-East/2014/Jan-22/244942-turkey-launches-new-mass-purge-of-police-and-judiciary.ashx
-283506289	20140122	BGD	SAU	020	3.0	2	1	2	3.40557275541796	http://www.menafn.com/1093758695/800000-Bangla-expats-correct-status
-283506303	20140122	BGD	SAU	020	3.0	2	1	2	3.40557275541796	http://www.menafn.com/1093758695/800000-Bangla-expats-correct-status
-283506304	20140122	BGD	SAU	020	3.0	1	1	1	3.40557275541796	http://www.menafn.com/1093758695/800000-Bangla-expats-correct-status
-283506421	20140122	BLR	BLR	026	4.0	2	1	2	3.33333333333333	Belapan news agency, Minsk/BBC Monitoring/(c) BBC
-283506424	20140122	BLR	BLR	026	4.0	3	1	3	3.06122448979592	Belapan news agency, Minsk/BBC Monitoring/(c) BBC
-283506442	20140122	BLR	BLR	026	4.0	2	1	2	1.61290322580645	Belapan news agency, Minsk/BBC Monitoring/(c) BBC
-283506445	20140122	BLR	BLR	026	4.0	8	1	8	1.61290322580645	Belapan news agency, Minsk/BBC Monitoring/(c) BBC
-283506451	20140122	BLR	BLR	026	4.0	2	1	2	1.23839009287926	Belapan news agency, Minsk/BBC Monitoring/(c) BBC
-283506452	20140122	BLR	BLR	026	4.0	2	1	2	1.23839009287926	Belapan news agency, Minsk/BBC Monitoring/(c) BBC
-283506453	20140122	BLR	BLR	026	4.0	4	1	4	1.60427807486631	Belapan news agency, Minsk/BBC Monitoring/(c) BBC
-283506455	20140122	BLR	BLR	026	4.0	6	1	6	1.23839009287926	Belapan news agency, Minsk/BBC Monitoring/(c) BBC
-283506456	20140122	BLR	BLR	026	4.0	6	1	6	1.60427807486631	Belapan news agency, Minsk/BBC Monitoring/(c) BBC
-283506477	20140122	BLZ	NOR	020	3.0	8	1	8	1.3953488372093	http://www.7newsbelize.com/sstory.php?nid=27658
-283506510	20140122	BRA	USA	020	3.0	5	1	5	2.25806451612903	http://www.theglobeandmail.com/report-on-business/group-wants-to-set-rules-for-internet/article16441910/?cmpid=rss1
-283508012	20140122	CAN	CAN	020	3.0	2	1	2	0.710900473933649	http://www.cbc.ca/news/canada/nova-scotia/drunk-driver-michael-gerard-cooper-gets-new-look-new-picture-1.2506976
-283508017	20140122	CAN	CAN	071	7.4	2	1	2	2.51572327044025	http://www.theguardian.com/world/2014/jan/22/independent-commission-future-internet-nsa-revelations-davos
-283508022	20140122	CAN	CAN	020	3.0	10	1	10	5.26315789473684	http://www.ctvnews.ca/canada/laptop-with-personal-health-information-of-620-000-albertans-stolen-1.1651544
-283508023	20140122	CAN	CAN	071	7.4	2	1	2	5.79710144927536	http://www.stangnet.com/2014/01/21/first-2015-ford-mustang-auctioned-huge-coin/
-283508073	20140122	CAN	GBR	020	3.0	1	1	1	1.81818181818182	http://www.cbc.ca/news/canada/british-columbia/deer-shot-with-arrow-in-metro-vancouver-neighbourhood-1.2507388
-283508147	20140122	CAN	JAM	020	3.0	2	1	2	1.0752688172043	http://www.theguardian.com/world/2014/jan/22/video-toronto-mayor-rob-ford-jamaican-accent
-283508148	20140122	CAN	JAM	020	3.0	2	1	2	1.0752688172043	http://www.theguardian.com/world/2014/jan/22/video-toronto-mayor-rob-ford-jamaican-accent
-283508149	20140122	CAN	JAM	023	3.4	2	1	2	1.0752688172043	http://www.theguardian.com/world/2014/jan/22/video-toronto-mayor-rob-ford-jamaican-accent
-283508150	20140122	CAN	JAM	023	3.4	2	1	2	1.0752688172043	http://www.theguardian.com/world/2014/jan/22/video-toronto-mayor-rob-ford-jamaican-accent
-283508156	20140122	CAN	JOR	075	7.0	4	1	4	2.58249641319943	http://www.dailystar.com.lb/Culture/Lifestyle/2014/Jan-23/244989-sans-gender-or-season-hourani-shows-unisex-couture.ashx
-283508157	20140122	CAN	JOR	075	7.0	1	1	1	2.58249641319943	http://www.dailystar.com.lb/Culture/Lifestyle/2014/Jan-23/244989-sans-gender-or-season-hourani-shows-unisex-couture.ashx
-283508212	20140122	CAN	USA	020	3.0	2	1	2	3.12989045383412	http://www.theepochtimes.com/n3/465497-oil-myths-vs-real-problems/
-283508213	20140122	CAN	USA	020	3.0	8	1	8	2.98136645962733	http://www.theglobeandmail.com/report-on-business/international-business/auto-makers-stand-alone-in-opposition-to-south-korea-pact/article16441487/?cmpid=rss1
-283508214	20140122	CAN	USA	020	3.0	2	1	2	3.12989045383412	http://www.theepochtimes.com/n3/465497-oil-myths-vs-real-problems/
-283508215	20140122	CAN	USA	020	3.0	2	1	2	2.98136645962733	http://www.theglobeandmail.com/report-on-business/international-business/auto-makers-stand-alone-in-opposition-to-south-korea-pact/article16441487/?cmpid=rss1
-283508216	20140122	CAN	USA	020	3.0	10	1	10	1.6260162601626	http://www.minotdailynews.com/page/content.detail/id/591406/Make-a-decision-already.html
-283508240	20140122	CAN	CAN	071	7.4	14	1	14	3.13807531380753	http://www.theglobeandmail.com/news/toronto/rob-fords-personal-issues-a-distraction-for-toronto-wynne-warns/article16449256/?cmpid=rss1
-283508253	20140122	CAN	CAN	020	3.0	1	1	1	1.52963671128107	http://www.theglobeandmail.com/news/toronto/rob-ford-arrives-at-city-hall/article16444612/?cmpid=rss1
-283508254	20140122	CAN	CAN	020	3.0	1	1	1	1.52963671128107	http://www.theglobeandmail.com/news/toronto/rob-ford-arrives-at-city-hall/article16444612/?cmpid=rss1
-283508278	20140122	CAN	CAN	020	3.0	20	2	20	2.87670266952035	http://www.cbc.ca/news/canada/toronto/former-pm-paul-martin-to-advise-ontario-on-new-provincial-pension-plan-1.2507457
-283508305	20140122	CAN	CAN	026	4.0	2	1	2	2.97699594046008	http://www.ctvnews.ca/canada/toronto-mayor-s-video-rant-makes-international-headlines-1.1650430
-283508361	20140122	CAN	USA	020	3.0	4	1	4	2.9639175257732	http://www.ctvnews.ca/canada/79-year-old-census-resister-has-no-regrets-after-conditional-discharge-1.1650327
-283508509	20140122	CHE	CHE	020	3.0	4	1	4	0.988142292490119	http://www.thehindu.com/sci-tech/science/fish-contain-genetic-blueprint-for-limbs/article5606220.ece
-283508517	20140122	CHE	CHN	020	3.0	2	1	2	0.986842105263158	Xinhua news agency, Beijing/BBC Monitoring/(c) BBC
-283508627	20140122	CHE	EUR	020	3.0	9	2	9	0.240500240500241	http://www.trust.org/item/20140122143958-5s6cj
-283508628	20140122	CHE	EUR	020	3.0	4	2	4	0.216450216450217	http://www.reuters.com/article/2014/01/22/us-ukraine-bildt-idUSBREA0L1AY20140122
-283508629	20140122	CHE	EUR	020	3.0	6	2	6	0.216450216450217	http://www.reuters.com/article/2014/01/22/us-ukraine-bildt-idUSBREA0L1AY20140122
-283508809	20140122	CHE	RUS	020	3.0	1	1	1	2.49169435215947	Al-Jazeera TV, Doha/BBC Monitoring/(c) BBC
-283508810	20140122	CHE	RUS	020	3.0	1	1	1	2.49169435215947	Al-Jazeera TV, Doha/BBC Monitoring/(c) BBC
-283508870	20140122	CHE	SYR	020	3.0	1	1	1	5.03080082135524	http://www.asianews.it/news-en/Pope:-may-Syria-choose-a-path-of-reconciliation-and-reconstruction-with-the-participation-of-all-citizens-30101.html
-283508871	20140122	CHE	SYR	020	3.0	2	1	2	3.886925795053	http://www.irna.ir/en/News/81007079/Politic/India_asserts___No_military_solution_to_Syrian_crisis
-283508872	20140122	CHE	SYR	020	3.0	2	1	2	3.886925795053	http://www.irna.ir/en/News/81007079/Politic/India_asserts___No_military_solution_to_Syrian_crisis
-283508873	20140122	CHE	SYR	020	3.0	1	1	1	5.03080082135524	http://www.asianews.it/news-en/Pope:-may-Syria-choose-a-path-of-reconciliation-and-reconstruction-with-the-participation-of-all-citizens-30101.html
-283508874	20140122	CHE	SYR	020	3.0	34	3	34	4.03764592405567	http://www.trust.org/item/20140122162412-vtrm5
-283508875	20140122	CHE	SYR	0256	-0.3	10	1	10	3.73134328358209	http://news.yahoo.com/fabius-calls-immediate-ceasefires-syria-opening-aid-corridors-101325103.html
-283508961	20140122	CHE	SYR	020	3.0	6	1	6	2.83616016786151	http://www.bbc.co.uk/news/world-middle-east-25855027
-283509262	20140122	CHN	AUS	073	7.4	2	1	2	2.62557077625571	http://www.independent.co.uk/news/world/australasia/communication-breakdown-on-board-the-akademik-shokalskiy-blamed-for-the-ship-being-stranded-in-antarctic-ice-over-christmas-9078090.html
-283509307	20140122	CHN	CHN	020	3.0	4	1	4	2.9045643153527	http://www.dw.de/japan-pm-abe-calls-in-davos-for-military-restraint-in-asia/a-17381754
-283509318	20140122	CHN	CHN	073	7.4	2	1	2	2.30607966457023	http://www.smh.com.au/federal-politics/political-news/plan-to-curb-antarctic-expeditions-after-costly-rescue-of-trapped-ship-20140122-3191c.html
-283509319	20140122	CHN	CHN	073	7.4	2	1	2	2.30607966457023	http://www.smh.com.au/federal-politics/political-news/plan-to-curb-antarctic-expeditions-after-costly-rescue-of-trapped-ship-20140122-3191c.html
-283509360	20140122	CHN	DNK	070	7.0	2	1	2	3.95273023634882	Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
-283509361	20140122	CHN	DNK	070	7.0	5	1	5	3.95273023634882	Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
-283509362	20140122	CHN	DNK	070	7.0	1	1	1	3.95273023634882	Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
-283509365	20140122	CHN	ECU	071	7.4	10	1	10	0.518134715025907	http://www.channelnewsasia.com/news/business/international/china-to-fund-us-10b/964738.html
-283509370	20140122	CHN	EUR	020	3.0	10	1	10	1.50537634408602	http://www.businessweek.com/news/2014-01-22/gazprom-says-china-natural-gas-deal-delayed-to-putin-s-may-visit
-283509392	20140122	CHN	FRA	073	7.4	2	1	2	2.30607966457023	http://www.smh.com.au/federal-politics/political-news/plan-to-curb-antarctic-expeditions-after-costly-rescue-of-trapped-ship-20140122-3191c.html
-283509393	20140122	CHN	FRA	073	7.4	2	1	2	2.30607966457023	http://www.smh.com.au/federal-politics/political-news/plan-to-curb-antarctic-expeditions-after-costly-rescue-of-trapped-ship-20140122-3191c.html
-283509406	20140122	CHN	GBR	071	7.4	2	1	2	2.44565217391304	http://www.bbc.co.uk/news/business-25838655
-283509407	20140122	CHN	GBR	071	7.4	6	1	6	2.44565217391304	http://www.bbc.co.uk/news/business-25838655
-283509408	20140122	CHN	GBR	071	7.4	2	1	2	2.44565217391304	http://www.bbc.co.uk/news/business-25838655
-283509426	20140122	CHN	GRC	020	3.0	10	1	10	5.07065669160432	http://www.forbes.com/sites/christophermarquis/2014/01/22/successful-chinese-hot-pot-chain-stumbles-in-us-expansion/
-283509452	20140122	CHN	JPN	020	3.0	6	1	6	2.9045643153527	http://www.dw.de/japan-pm-abe-calls-in-davos-for-military-restraint-in-asia/a-17381754
-283509453	20140122	CHN	JPN	020	3.0	2	1	2	2.9045643153527	http://www.dw.de/japan-pm-abe-calls-in-davos-for-military-restraint-in-asia/a-17381754
-283509535	20140122	CHN	NOR	070	7.0	2	1	2	3.95273023634882	Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
-283509536	20140122	CHN	NOR	070	7.0	5	1	5	3.95273023634882	Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
-283509537	20140122	CHN	NOR	070	7.0	1	1	1	3.95273023634882	Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
-283509548	20140122	CHN	PAK	071	7.4	8	1	8	2.82258064516129	http://pakobserver.net/detailnews.asp?id=231053
-283509568	20140122	CHN	RUS	070	7.0	2	1	2	3.95273023634882	Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
-283509569	20140122	CHN	RUS	070	7.0	5	1	5	3.95273023634882	Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
-283509570	20140122	CHN	RUS	070	7.0	1	1	1	3.95273023634882	Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
-283509575	20140122	CHN	SRB	071	7.4	4	1	4	4.07124681933842	http://www.b92.net//eng/news/business.php?yyyy=2014&mm=01&dd=22&nav_id=89081
-283509576	20140122	CHN	SRB	071	7.4	1	1	1	4.07124681933842	http://www.b92.net//eng/news/business.php?yyyy=2014&mm=01&dd=22&nav_id=89081
-283509635	20140122	CHN	USA	070	7.0	10	1	10	2.6284348864994	http://news.nationalgeographic.com/news/energy/2014/01/140122-made-in-china-pollution-from-exports/
-283509636	20140122	CHN	USA	070	7.0	2	1	2	2.57731958762887	http://www.chinapost.com.tw/international/americas/2014/01/23/399056/Chinese-sculpture.htm
-283509637	20140122	CHN	USA	073	7.4	2	1	2	2.30607966457023	http://www.smh.com.au/federal-politics/political-news/plan-to-curb-antarctic-expeditions-after-costly-rescue-of-trapped-ship-20140122-3191c.html
-283509638	20140122	CHN	USA	073	7.4	2	1	2	2.30607966457023	http://www.smh.com.au/federal-politics/political-news/plan-to-curb-antarctic-expeditions-after-costly-rescue-of-trapped-ship-20140122-3191c.html
-283509646	20140122	CHN	USA	026	4.0	8	1	8	5.26315789473684	http://www.bbc.co.uk/news/magazine-25836922
-283509654	20140122	CHN	USA	020	3.0	8	1	8	3.71621621621622	http://ca.reuters.com/article/topNews/idCABREA0L0FC20140122
-283509655	20140122	CHN	USA	020	3.0	8	1	8	3.8860103626943	http://www.reuters.com/article/2014/01/22/us-china-xinjiang-idUSBREA0L0FC20140122?feedType=RSS&feedName=worldNews
-283509666	20140122	CHN	VEN	071	7.4	1	1	1	0.340136054421769	http://english.eluniversal.com/economia/140121/sale-of-venezuelan-oil-to-the-us-near-750000-bpd-in-2013
-283509667	20140122	CHN	VEN	071	7.4	4	1	4	0.340136054421769	http://english.eluniversal.com/economia/140121/sale-of-venezuelan-oil-to-the-us-near-750000-bpd-in-2013
-283509668	20140122	CHN	VEN	071	7.4	4	1	4	0.340136054421769	http://english.eluniversal.com/economia/140121/sale-of-venezuelan-oil-to-the-us-near-750000-bpd-in-2013
-283509669	20140122	CHN	VEN	071	7.4	1	1	1	0.340136054421769	http://english.eluniversal.com/economia/140121/sale-of-venezuelan-oil-to-the-us-near-750000-bpd-in-2013
-283509670	20140122	CHN	VNM	020	3.0	4	1	4	9.36329588014981	Xinhua news agency, Beijing/BBC Monitoring/(c) BBC
-283509684	20140122	CHN	CHN	020	3.0	2	1	2	2.44385733157199	http://www.iol.co.za/business/companies/icbc-boss-at-davos-peak-from-mining-start-1.1635219
-283509685	20140122	CHN	CHN	020	3.0	2	1	2	2.44385733157199	http://www.iol.co.za/business/companies/icbc-boss-at-davos-peak-from-mining-start-1.1635219
-283509720	20140122	CHN	CHN	025	-0.3	2	1	2	1.30353817504655	http://www.washingtonpost.com/world/trial-for-chinese-anti-corruption-activist-xu-zhiyong-draws-crowd-of-wary-supporters/2014/01/22/10cd62bc-834f-11e3-8099-9181471f7aaf_story.html?wprss=rss_asia-pacific
-283509721	20140122	CHN	CHN	025	-0.3	8	2	8	3.10916382753096	http://in.reuters.com/article/2014/01/22/china-activist-idINDEEA0L0HV20140122
-283509722	20140122	CHN	CHN	025	-0.3	2	1	2	1.30353817504655	http://www.washingtonpost.com/world/trial-for-chinese-anti-corruption-activist-xu-zhiyong-draws-crowd-of-wary-supporters/2014/01/22/10cd62bc-834f-11e3-8099-9181471f7aaf_story.html?wprss=rss_asia-pacific
-283509759	20140122	CHN	VNM	020	3.0	5	1	5	9.36329588014981	Xinhua news agency, Beijing/BBC Monitoring/(c) BBC
-283509916	20140122	COD	USA	026	4.0	2	1	2	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283509917	20140122	COD	USA	026	4.0	6	1	6	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283509918	20140122	COD	USA	026	4.0	2	1	2	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283512206	20140122	DEU	AUS	020	3.0	8	1	8	1.59744408945687	http://reneweconomy.com.au/2014/german-renewables-giant-looks-to-tap-australian-off-grid-market-21741
-283512235	20140122	DEU	DEU	020	3.0	2	1	2	4.17582417582418	http://phys.org/news/2014-01-nxp-mantis-transceivers-volkswagen-chokeless.html
-283512244	20140122	DEU	DEU	020	3.0	2	1	2	0.505050505050505	http://reneweconomy.com.au/2014/german-energy-targets-replaces-least-12252
-283512250	20140122	DEU	DEU	020	3.0	2	1	2	3.7940379403794	http://www.lse.co.uk/AllNews.asp?code=knu9rmcr&headline=UPDATE_EU_Seeks_New_Climate_Targets_Slammed_By_Environmentalists
-283512253	20140122	DEU	EUR	020	3.0	30	1	30	0.804301075268817	http://uk.reuters.com/article/2014/01/22/uk-ecb-ssm-idUKBREA0L1QY20140122?feedType=RSS&feedName=businessNews
-283512254	20140122	DEU	EUR	020	3.0	2	1	2	3.24232081911263	http://blueandgreentomorrow.com/2014/01/22/eu-2030-energy-and-climate-targets-the-reaction/
-283512296	20140122	DEU	IRN	026	4.0	8	1	8	2.67857142857143	http://www.irna.ir/en/News/2626263/Politic/German_gov%CB%88t_urged_to_boost_efforts_to_include_Iran_in_Syria_talks
-283512297	20140122	DEU	IRN	026	4.0	2	1	2	2.67857142857143	http://www.irna.ir/en/News/2626263/Politic/German_gov%CB%88t_urged_to_boost_efforts_to_include_Iran_in_Syria_talks
-283512399	20140122	DEU	BEL	070	7.0	2	1	2	0.666666666666667	http://allafrica.com/stories/201401220319.html
-283512402	20140122	DEU	EUR	070	7.0	4	1	4	0.666666666666667	http://allafrica.com/stories/201401220319.html
-283512403	20140122	DEU	EUR	070	7.0	1	1	1	0.666666666666667	http://allafrica.com/stories/201401220319.html
-283512433	20140122	DNK	USA	070	7.0	6	1	6	2.57731958762887	http://www.chinapost.com.tw/international/americas/2014/01/23/399056/Chinese-sculpture.htm
-283512505	20140122	ECU	BLR	075	7.0	1	1	1	1.70316301703163	http://www.google.com/hostednews/afp/article/ALeqM5hnxVwetgLusnt9hOBOO4xmm0nTig?docId=b4763dbc-a182-4a3a-9c00-9d0209bb98fc&hl=en
-283512506	20140122	ECU	BLR	075	7.0	1	1	1	1.70316301703163	http://www.google.com/hostednews/afp/article/ALeqM5hnxVwetgLusnt9hOBOO4xmm0nTig?docId=b4763dbc-a182-4a3a-9c00-9d0209bb98fc&hl=en
-283512507	20140122	ECU	BLR	075	7.0	1	1	1	1.70316301703163	http://www.google.com/hostednews/afp/article/ALeqM5hnxVwetgLusnt9hOBOO4xmm0nTig?docId=b4763dbc-a182-4a3a-9c00-9d0209bb98fc&hl=en
-283512508	20140122	ECU	BLR	075	7.0	1	1	1	1.70316301703163	http://www.google.com/hostednews/afp/article/ALeqM5hnxVwetgLusnt9hOBOO4xmm0nTig?docId=b4763dbc-a182-4a3a-9c00-9d0209bb98fc&hl=en
-283512509	20140122	ECU	BLR	075	7.0	1	1	1	1.70316301703163	http://www.google.com/hostednews/afp/article/ALeqM5hnxVwetgLusnt9hOBOO4xmm0nTig?docId=b4763dbc-a182-4a3a-9c00-9d0209bb98fc&hl=en
-283513167	20140122	EGY	CHE	026	4.0	2	1	2	2.24719101123596	MENA news agency, Cairo/BBC Monitoring/(c) BBC
-283513184	20140122	EGY	EGY	0233	3.4	6	1	6	0	http://en.ria.ru/russia/20140122/186804527/Al-Qaeda-Militant-Caught-in-Moscow--Official.html
-283513189	20140122	EGY	EUR	026	4.0	2	1	2	2.24719101123596	MENA news agency, Cairo/BBC Monitoring/(c) BBC
-283513228	20140122	EGY	KWT	071	7.4	5	2	5	3.57146006578541	http://www.dailystar.com.lb/Business/Middle-East/2014/Jan-23/244961-dubai-retailer-maf-to-invest-23b-in-egypt.ashx
-283513229	20140122	EGY	KWT	071	7.4	5	2	5	3.57146006578541	http://www.dailystar.com.lb/Business/Middle-East/2014/Jan-23/244961-dubai-retailer-maf-to-invest-23b-in-egypt.ashx
-283513251	20140122	EGY	RUS	0233	3.4	4	1	4	0	http://en.ria.ru/russia/20140122/186804527/Al-Qaeda-Militant-Caught-in-Moscow--Official.html
-283513255	20140122	EGY	SAU	071	7.4	5	2	5	3.57146006578541	http://www.dailystar.com.lb/Business/Middle-East/2014/Jan-23/244961-dubai-retailer-maf-to-invest-23b-in-egypt.ashx
-283513256	20140122	EGY	SAU	071	7.4	5	2	5	3.57146006578541	http://www.dailystar.com.lb/Business/Middle-East/2014/Jan-23/244961-dubai-retailer-maf-to-invest-23b-in-egypt.ashx
-283513267	20140122	EGY	USA	020	3.0	2	1	2	1.97628458498024	http://zeenews.india.com/news/world/war-on-syrias-civilians-unchecked-report_905993.html
-283513268	20140122	EGY	USA	020	3.0	2	1	2	1.97628458498024	http://zeenews.india.com/news/world/war-on-syrias-civilians-unchecked-report_905993.html
-283513291	20140122	EGY	EGY	026	4.0	6	1	6	2.24719101123596	MENA news agency, Cairo/BBC Monitoring/(c) BBC
-283513433	20140122	ESP	ESP	020	3.0	10	1	10	0.501672240802676	http://www.sun-sentinel.com/os-orlando-police-officer-arrested-dui-20140122,0,632456.story?track=rss
-283513452	20140122	ESP	NOR	020	3.0	10	1	10	1.3953488372093	http://www.7newsbelize.com/sstory.php?nid=27658
-283513481	20140122	ESP	ESP	020	3.0	2	2	2	4.31399086448993	http://www.menafn.com/1093759061/Lost-work-of-playwright-Lope-de-Vega-found-in-Madrid
-283513482	20140122	ESP	ESP	020	3.0	2	2	2	4.31399086448993	http://www.menafn.com/1093759061/Lost-work-of-playwright-Lope-de-Vega-found-in-Madrid
-283513524	20140122	ETH	BDI	072	8.3	6	1	6	0	Multiple Sources/BBC Monitoring/(c) BBC
-283513525	20140122	ETH	BDI	072	8.3	2	1	2	0	Multiple Sources/BBC Monitoring/(c) BBC
-283513533	20140122	ETH	ETH	072	8.3	2	1	2	0	Multiple Sources/BBC Monitoring/(c) BBC
-283513543	20140122	ETH	AFR	072	8.3	2	1	2	2.06185567010309	http://www.voanews.com/content/ethiopian-troops-join-au-force-in-somalia/1835401.html
-283513544	20140122	ETH	AFR	072	8.3	6	1	6	2.06185567010309	http://www.voanews.com/content/ethiopian-troops-join-au-force-in-somalia/1835401.html
-283513545	20140122	ETH	AFR	072	8.3	2	1	2	2.06185567010309	http://www.voanews.com/content/ethiopian-troops-join-au-force-in-somalia/1835401.html
-283513572	20140122	ETH	SOM	072	8.3	2	1	2	2.06185567010309	http://www.voanews.com/content/ethiopian-troops-join-au-force-in-somalia/1835401.html
-283513573	20140122	ETH	SOM	072	8.3	2	1	2	2.06185567010309	http://www.voanews.com/content/ethiopian-troops-join-au-force-in-somalia/1835401.html
-283513574	20140122	ETH	SOM	072	8.3	6	1	6	2.06185567010309	http://www.voanews.com/content/ethiopian-troops-join-au-force-in-somalia/1835401.html
-283513592	20140122	ETH	UGA	072	8.3	8	1	8	0	Multiple Sources/BBC Monitoring/(c) BBC
-283513601	20140122	ETH	USA	026	4.0	4	1	4	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283513602	20140122	ETH	USA	026	4.0	4	1	4	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283513603	20140122	ETH	USA	026	4.0	2	1	2	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283513615	20140122	ETH	ETH	072	8.3	1	1	1	0	Multiple Sources/BBC Monitoring/(c) BBC
-283513616	20140122	ETH	ETH	072	8.3	1	1	1	0	Multiple Sources/BBC Monitoring/(c) BBC
-283513708	20140122	EUR	BEL	020	3.0	4	1	4	2.94117647058824	http://www.businessweek.com/news/2014-01-22/eu-ban-on-un-carbon-may-flag-end-of-offset-market-nomisma-says
-283513749	20140122	EUR	TUR	025	-0.3	16	4	16	2.44579891006777	http://www.dailytimes.com.pk/foreign/23-Jan-2014/turkey-in-new-mass-purge-as-mps-debate-judicial-reforms
-283513757	20140122	EUR	USA	020	3.0	5	1	5	1.57068062827225	http://www.rte.ie/news/2014/0122/499336-eu-climate-energy/
-283513790	20140122	EUR	EUR	020	3.0	8	1	8	1.6	http://www.dailymail.co.uk/sciencetech/article-2543973/Ceres-gushing-WATER-Liquid-spouting-planets-surface-reveal-life-began-Earth.html
-283513791	20140122	EUR	EUR	020	3.0	12	1	12	1.6	http://www.dailymail.co.uk/sciencetech/article-2543973/Ceres-gushing-WATER-Liquid-spouting-planets-surface-reveal-life-began-Earth.html
-283513829	20140122	FIN	USA	070	7.0	2	1	2	0.888888888888889	http://halfhollowhills.patch.com/groups/around-town/p/95-inches-of-snow-measured-in-huntington-halfhollowhills?ncid=txtlnkusaolp00000593
-283513864	20140122	FJI	CHN	071	7.4	4	1	4	2.63157894736842	http://www.fijitimes.com/story.aspx?id=257803
-283513865	20140122	FJI	CHN	071	7.4	6	1	6	2.63157894736842	http://www.fijitimes.com/story.aspx?id=257803
-283513941	20140122	FRA	BEL	020	3.0	4	1	4	1.37254901960784	http://www.bloomberg.com/news/2014-01-22/verizon-says-government-data-requests-rose-to-320-000-last-year.html
-283513942	20140122	FRA	BEL	020	3.0	1	1	1	1.37254901960784	http://www.bloomberg.com/news/2014-01-22/verizon-says-government-data-requests-rose-to-320-000-last-year.html
-283513957	20140122	FRA	CAF	020	3.0	1	1	1	2.95291300877893	Postimees, Tallinn/BBC Monitoring/(c) BBC
-283513958	20140122	FRA	CAF	020	3.0	4	1	4	2.95291300877893	Postimees, Tallinn/BBC Monitoring/(c) BBC
-283513959	20140122	FRA	CAF	072	8.3	8	1	8	2.64598540145985	http://www.dw.de/germany-to-bolster-its-presence-in-africa/a-17380347
-283513960	20140122	FRA	CAF	072	8.3	2	1	2	2.64598540145985	http://www.dw.de/germany-to-bolster-its-presence-in-africa/a-17380347
-283513991	20140122	FRA	CHN	073	7.4	2	1	2	3.33333333333333	http://www.talktalk.co.uk/news/world/article/antarctic-passengers-on-dry-land/116824/
-283513992	20140122	FRA	CHN	073	7.4	18	7	18	3.57230207215946	http://www.telegram.com/article/20140122/NEWS/301229915/1052/RSS01
-283513993	20140122	FRA	CHN	073	7.4	54	7	54	3.57230207215946	http://www.telegram.com/article/20140122/NEWS/301229915/1052/RSS01
-283513994	20140122	FRA	CHN	073	7.4	10	5	10	3.66576008635801	http://www.telegram.com/article/20140122/NEWS/301229915/1052/RSS01
-283513995	20140122	FRA	CHN	073	7.4	6	2	6	3.49619496143725	http://news.yahoo.com/rescued-antarctic-passengers-arrive-australia-132554632.html
-283514006	20140122	FRA	DEU	020	3.0	1	1	1	2.40420736288505	http://www.spiegel.de/international/europe/hollande-affair-overshadowed-his-reform-announcement-a-944939.html
-283514007	20140122	FRA	DEU	020	3.0	1	1	1	2.40420736288505	http://www.spiegel.de/international/europe/hollande-affair-overshadowed-his-reform-announcement-a-944939.html
-283514027	20140122	FRA	ESP	071	7.4	1	1	1	1.8025078369906	http://www.bloomberg.com/news/2014-01-21/invasion-of-spanish-builders-angers-france-struggling-to-compete.html
-283514028	20140122	FRA	ESP	071	7.4	1	1	1	1.8025078369906	http://www.bloomberg.com/news/2014-01-21/invasion-of-spanish-builders-angers-france-struggling-to-compete.html
-283514099	20140122	FRA	MWI	071	7.4	1	1	1	4.0650406504065	http://www.express.co.uk/news/uk/455507/Fury-at-400-000-green-energy-handout-for-Malawi-as-Scots-OAPs-shiver
-283514100	20140122	FRA	MWI	071	7.4	2	1	2	4.0650406504065	http://www.express.co.uk/news/uk/455507/Fury-at-400-000-green-energy-handout-for-Malawi-as-Scots-OAPs-shiver
-283514101	20140122	FRA	MWI	071	7.4	1	1	1	4.0650406504065	http://www.express.co.uk/news/uk/455507/Fury-at-400-000-green-energy-handout-for-Malawi-as-Scots-OAPs-shiver
-283514102	20140122	FRA	MWI	071	7.4	1	1	1	4.0650406504065	http://www.express.co.uk/news/uk/455507/Fury-at-400-000-green-energy-handout-for-Malawi-as-Scots-OAPs-shiver
-283514116	20140122	FRA	SYR	0256	-0.3	2	1	2	3.1496062992126	http://www.panarmenian.net/eng/news/175134/
-283514117	20140122	FRA	SYR	0256	-0.3	2	1	2	3.1496062992126	http://www.panarmenian.net/eng/news/175134/
-283514121	20140122	FRA	TCD	020	3.0	10	1	10	3.16622691292876	Multiple Sources/BBC Monitoring/(c) BBC
-283514136	20140122	FRA	USA	020	3.0	2	1	2	3.79241516966068	http://www.ctvnews.ca/world/hospitalized-86-year-old-fatally-shot-in-nevada-husband-charged-1.1651851
-283514173	20140122	FRA	SYR	0256	-0.3	6	1	6	3.1496062992126	http://www.panarmenian.net/eng/news/175134/
-283514174	20140122	FRA	SYR	0256	-0.3	6	1	6	3.1496062992126	http://www.panarmenian.net/eng/news/175134/
-283514420	20140122	GBR	AFG	020	3.0	5	1	5	3.2258064516129	http://reliefweb.int/report/afghanistan/dfid-afghanistan-one-year-update-agreed-and-partially-agreed-recommendations-2013
-283514577	20140122	GBR	EUR	020	3.0	8	2	7	3.85969789639514	http://www.greenwisebusiness.co.uk/news/eu-sets-binding-new-targets-on-emissions-and-renewable-energy-but-not-energy-efficiency-4226.aspx
-283514611	20140122	GBR	GBR	020	3.0	10	1	10	4.4280442804428	http://www.medicalnewstoday.com/articles/271487.php
-283514617	20140122	GBR	GBR	020	3.0	8	1	8	0.763358778625954	http://www.trust.org/item/20140122161711-rbqym
-283514620	20140122	GBR	GBR	075	7.0	10	1	10	3.03030303030303	http://www.scotsman.com/news/alyn-smith-uk-isolated-by-unpleasant-rhetoric-1-3279016
-283514666	20140122	GBR	IDN	025	-0.3	8	1	8	3.31262939958592	http://www.belfasttelegraph.co.uk/news/world-news/briton-jailed-for-drug-smuggling-29940476.html
-283514667	20140122	GBR	IDN	025	-0.3	1	1	1	3.10262529832936	http://www.theguardian.com/world/2014/jan/22/briton-jailed-14-years-drug-smuggling-indonesia-andrea-waldeck
-283514668	20140122	GBR	IDN	025	-0.3	1	1	1	2.99625468164794	http://www.belfasttelegraph.co.uk/news/local-national/uk/expcso-jailed-over-drug-smuggling-29940546.html
-283514669	20140122	GBR	IDN	025	-0.3	10	2	10	3.04943998998865	http://www.theguardian.com/world/2014/jan/22/briton-jailed-14-years-drug-smuggling-indonesia-andrea-waldeck
-283514670	20140122	GBR	IDN	025	-0.3	2	1	2	3.31262939958592	http://www.belfasttelegraph.co.uk/news/world-news/briton-jailed-for-drug-smuggling-29940476.html
-283514718	20140122	GBR	KOR	071	7.4	4	1	4	6.74418604651163	http://www.newsday.com/hyundai-to-sponsor-tate-modern-exhibitions-1.6833331
-283514719	20140122	GBR	KOR	071	7.4	4	1	4	6.74418604651163	http://www.newsday.com/hyundai-to-sponsor-tate-modern-exhibitions-1.6833331
-283514730	20140122	GBR	LKA	072	8.3	4	2	4	3.323384174448	http://timesofindia.indiatimes.com/india/Indira-Gandhi-asked-Thatcher-to-stop-helping-Lanka-militarily/articleshow/29210478.cms
-283514775	20140122	GBR	PAK	020	3.0	10	1	10	3.06748466257669	http://www.thenews.com.pk/article-134993-Altaf-urges-PM-to-announce-anti-terror-strategy
-283514780	20140122	GBR	POL	022	3.2	5	1	5	2.12765957446809	http://www.cityam.com/blog/1390394059/eu-backs-down-binding-targets-renewable-energy
-283514783	20140122	GBR	RUS	020	3.0	1	1	1	3.8961038961039	http://www.channelnewsasia.com/news/world/snowden-bids-to-become/964046.html
-283514784	20140122	GBR	RUS	020	3.0	1	1	1	3.8961038961039	http://www.channelnewsasia.com/news/world/snowden-bids-to-become/964046.html
-283514801	20140122	GBR	SGP	020	3.0	10	1	10	2.53164556962025	http://www.dailymail.co.uk/news/article-2543851/British-businessman-married-Miss-Universe-Singapore-forced-issue-public-apology-mocking-local-people-poor.html?ITO=1490&ns_campaign=1490
-283514807	20140122	GBR	SWE	020	3.0	8	1	8	1.88235294117647	http://news.sky.com/story/1199483/second-rate-care-for-heart-attack-patients
-283514808	20140122	GBR	SWE	020	3.0	2	1	2	1.88235294117647	http://news.sky.com/story/1199483/second-rate-care-for-heart-attack-patients
-283514809	20140122	GBR	SYR	020	3.0	2	1	2	1.69902912621359	http://www.channelnewsasia.com/news/world/syria-warring-sides-join/963440.html
-283514810	20140122	GBR	SYR	020	3.0	2	1	2	1.69902912621359	http://www.channelnewsasia.com/news/world/syria-warring-sides-join/963440.html
-283514811	20140122	GBR	SYR	020	3.0	2	1	2	2.90556900726392	http://en.trend.az/regions/met/arabicr/2232543.html
-283514812	20140122	GBR	SYR	020	3.0	2	1	2	2.90556900726392	http://en.trend.az/regions/met/arabicr/2232543.html
-283514819	20140122	GBR	SYR	071	7.4	4	2	4	0.370370370370371	http://www.startribune.com/world/241545591.html
-283514820	20140122	GBR	SYR	071	7.4	24	3	24	0.69434087331179	http://www.startribune.com/world/241545591.html
-283514821	20140122	GBR	SYR	075	7.0	11	2	11	2.49151592182237	http://www.bbc.co.uk/democracylive/house-of-commons-25844954
-283514822	20140122	GBR	SYR	075	7.0	1	1	1	2.74914089347079	http://www.independent.co.uk/news/uk/politics/donald-macintyres-sketch-the-sword-prompts-an-unseemly-bout-of-consensus-9078469.html
-283514882	20140122	GBR	GBR	027	4.0	3	1	3	5.27777777777778	http://www.bbc.co.uk/news/technology-25848873
-283514890	20140122	GBR	GBR	020	3.0	4	1	4	3.18379160636758	http://www.dailymail.co.uk/news/article-2544345/May-urged-ban-far-Right-Hungarian-MP-staging-rally-Britain-Jewish-groups-anti-fascist-campaigners-lobby-Home-Secretary.html?ITO=1490&ns_campaign=1490
-283514999	20140122	GBR	LKA	072	8.3	4	2	4	3.323384174448	http://timesofindia.indiatimes.com/india/Indira-Gandhi-asked-Thatcher-to-stop-helping-Lanka-militarily/articleshow/29210478.cms
-283515000	20140122	GBR	LKA	072	8.3	12	2	12	3.323384174448	http://timesofindia.indiatimes.com/india/Indira-Gandhi-asked-Thatcher-to-stop-helping-Lanka-militarily/articleshow/29210478.cms
-283515002	20140122	GBR	SYR	020	3.0	2	1	2	1.69902912621359	http://www.channelnewsasia.com/news/world/syria-warring-sides-join/963440.html
-283515003	20140122	GBR	SYR	020	3.0	4	1	4	1.69902912621359	http://www.channelnewsasia.com/news/world/syria-warring-sides-join/963440.html
-283515004	20140122	GBR	SYR	020	3.0	6	1	6	2.90556900726392	http://en.trend.az/regions/met/arabicr/2232543.html
-283515067	20140122	GMB	GMB	025	-0.3	4	1	4	1.91897654584222	http://www.trust.org/item/20140122162019-tn5bc/
-283518096	20140122	GRC	GRC	020	3.0	5	2	5	2.2043354655295	http://jurist.org/paperchase/2014/01/greece-austerity-measures-ruled-unconstitutional.php
-283518097	20140122	GRC	GRC	020	3.0	1	1	1	1.07142857142857	http://www.foxnews.com/us/2014/01/21/former-us-ambassador-to-greece-says-autopsy-on-marine-without-heart-was/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fmost-popular+%28Internal+-+Most+Popular+Content%29
-283518100	20140122	GRC	GRC	021	3.4	2	1	2	2.8436018957346	http://www.theguardian.com/world/2014/jan/22/christodoulos-xiros-manhunt-greece-reward
-283518658	20140122	IDN	TMP	020	3.0	2	1	2	1.81347150259067	http://www.theguardian.com/world/2014/jan/23/timor-leste-rejects-outrageous-slur-australian-spying-dispute
-283518659	20140122	IDN	TMP	020	3.0	2	1	2	1.81347150259067	http://www.theguardian.com/world/2014/jan/23/timor-leste-rejects-outrageous-slur-australian-spying-dispute
-283518671	20140122	IDN	IDN	070	7.0	8	1	8	4	http://uk.reuters.com/article/2014/01/22/freeport-results-idUKL2N0KW0L020140122
-283518706	20140122	IDN	IDN	020	3.0	10	1	10	1.25944584382872	http://www.news24.com/World/News/UK-drug-mule-gets-14yrs-in-Indonesia-20140122
-283518825	20140122	EUR	BEL	020	3.0	24	3	24	2.32407849424254	http://www.contracostatimes.com/science/ci_24972595/eu-ups-emission-limits-relaxes-renewables-target
-283518826	20140122	EUR	BEL	020	3.0	6	2	6	2.42868229501177	http://www.kentucky.com/2014/01/22/3046217/eu-ups-emission-limits-relaxes.html
-283518827	20140122	EUR	BEL	020	3.0	20	2	20	2.08405411222627	http://tbo.com/ap/world/eu-relaxes-renewables-target-reaps-criticism-ap_world8cfae20a67634d4a9e05f1c59a390a45
-283518863	20140122	EUR	EUR	020	3.0	10	1	10	3.8265306122449	http://www.socialistsanddemocrats.eu/newsroom/sds-call-strong-and-quick-action-europe%E2%80%99s-reindustrialisation
-283518904	20140122	EUR	ISR	020	3.0	8	1	8	2.47148288973384	http://www.israelnationalnews.com/News/News.aspx/176614
-283518905	20140122	EUR	ISR	020	3.0	8	1	8	2.92792792792793	http://www.israelnationalnews.com/News/News.aspx/176605
-283518967	20140122	EUR	NLD	020	3.0	2	1	2	1.29366106080207	http://news.sciencemag.org/climate/2014/01/european-commission-dampens-climate-ambitions
-283518968	20140122	EUR	NLD	020	3.0	2	1	2	1.29366106080207	http://news.sciencemag.org/climate/2014/01/european-commission-dampens-climate-ambitions
-283518972	20140122	EUR	UKR	020	3.0	2	1	2	1.37795275590551	http://www.globalsecurity.org/wmd/library/news/ukraine/2014/ukraine-140122-rferl01.htm
-283518973	20140122	EUR	UKR	020	3.0	2	1	2	1.37795275590551	http://www.globalsecurity.org/wmd/library/news/ukraine/2014/ukraine-140122-rferl01.htm
-283518979	20140122	EUR	BLR	070	7.0	10	1	10	1.97183098591549	http://news.am/eng/news/190437.html
-283519260	20140122	WST	NZL	070	7.0	10	1	10	4.9079754601227	http://www.globalsecurity.org/military/library/news/2014/01/mil-140121-nato01.htm
-283519553	20140122	IND	USA	020	3.0	4	1	4	1.14613180515759	http://www.thehindu.com/business/Industry/cabinet-committee-clears-three-hydel-projects/article5605786.ece
-283519603	20140122	IND	IND	020	3.0	1	1	1	2.70935960591133	http://www.bbc.co.uk/news/world-asia-india-25838858
-283519607	20140122	IND	IND	027	4.0	10	1	10	2.92207792207792	http://www.thehindu.com/news/national/other-states/mamata-stresses-on-unity-in-darjeeling-hills-plains/article5606093.ece
-283519696	20140122	IRL	GBR	021	3.4	2	1	2	2.11538461538462	http://www.bbc.co.uk/news/uk-northern-ireland-25843314
-283519697	20140122	IRL	GBR	021	3.4	1	1	1	2.11538461538462	http://www.bbc.co.uk/news/uk-northern-ireland-25843314
-283519698	20140122	IRL	GBR	021	3.4	1	1	1	2.11538461538462	http://www.bbc.co.uk/news/uk-northern-ireland-25843314
-283519715	20140122	IRL	IRL	020	3.0	2	1	2	1.5625	http://www.presstv.ir/detail/2014/01/22/347061/irish-mp-stresses-irans-nuclear-rights/
-283519716	20140122	IRL	IRL	020	3.0	2	1	2	1.93050193050193	http://english.farsnews.com/newstext.aspx?nn=13921102001348
-283519717	20140122	IRL	IRL	020	3.0	2	1	2	1.5625	http://www.presstv.ir/detail/2014/01/22/347061/irish-mp-stresses-irans-nuclear-rights/
-283519718	20140122	IRL	IRL	020	3.0	6	1	6	1.5625	http://www.presstv.ir/detail/2014/01/22/347061/irish-mp-stresses-irans-nuclear-rights/
-283519719	20140122	IRL	IRL	020	3.0	2	1	2	1.93050193050193	http://english.farsnews.com/newstext.aspx?nn=13921102001348
-283519720	20140122	IRL	IRL	020	3.0	6	1	6	1.93050193050193	http://english.farsnews.com/newstext.aspx?nn=13921102001348
-283519879	20140122	IRN	BHR	020	3.0	4	1	4	1.66666666666667	Press TV, Tehran/BBC Monitoring/(c) BBC
-283519880	20140122	IRN	BHR	020	3.0	1	1	1	1.66666666666667	Press TV, Tehran/BBC Monitoring/(c) BBC
-283519903	20140122	IRN	CHE	020	3.0	2	1	2	3.60093905447633	http://uk.reuters.com/article/2014/01/22/uk-syria-crisis-un-insight-idUKBREA0L03Z20140122?feedType=RSS&feedName=topNews
-283519904	20140122	IRN	CHE	020	3.0	2	1	2	3.60093905447633	http://uk.reuters.com/article/2014/01/22/uk-syria-crisis-un-insight-idUKBREA0L03Z20140122?feedType=RSS&feedName=topNews
-283519905	20140122	IRN	CHE	025	-0.3	2	1	2	2.28571428571429	Fars News Agency website, Tehran/BBC Monitoring/(c) BBC
-283519906	20140122	IRN	CHE	0256	-0.3	2	1	2	2.78035217794254	http://www.asianews.it/news-en/Geneva-II:-Syrian-regime-and-opposition-together-for-the-first-time-30106.html
-283520109	20140122	IRN	IRN	020	3.0	2	1	2	3.17460317460317	Multiple Sources/BBC Monitoring/(c) BBC
-283520117	20140122	IRN	IRN	020	3.0	1	1	1	4.1044776119403	http://news.yahoo.com/iran-39-rouhani-doubts-syria-peace-talks-succeed-102631902.html
-283520118	20140122	IRN	IRN	020	3.0	2	1	2	3.17460317460317	Multiple Sources/BBC Monitoring/(c) BBC
-283520152	20140122	IRN	JOR	020	3.0	2	1	2	4.23509075194468	http://www.reuters.com/article/2014/01/22/iran-politics-idUSL5N0KV2XQ20140122
-283520242	20140122	IRN	RUS	020	3.0	5	1	5	3.6036036036036	http://www.irna.ir/en/News/2626236/Politic/Iran,_Russia_calls_for_expansion_of_parliamentary_ties
-283520243	20140122	IRN	RUS	022	3.2	5	1	5	3.6036036036036	http://www.irna.ir/en/News/2626236/Politic/Iran,_Russia_calls_for_expansion_of_parliamentary_ties
-283520244	20140122	IRN	RUS	022	3.2	5	1	5	3.6036036036036	http://www.irna.ir/en/News/2626236/Politic/Iran,_Russia_calls_for_expansion_of_parliamentary_ties
-283520245	20140122	IRN	RUS	026	4.0	5	1	5	3.6036036036036	http://www.irna.ir/en/News/2626236/Politic/Iran,_Russia_calls_for_expansion_of_parliamentary_ties
-283520261	20140122	IRN	SAU	071	7.4	2	1	2	0.851063829787234	http://www.newser.com/story/181127/how-climate-change-fueled-syrias-uprising.html
-283520262	20140122	IRN	SAU	071	7.4	1	1	1	0.851063829787234	http://www.newser.com/story/181127/how-climate-change-fueled-syrias-uprising.html
-283520291	20140122	IRN	SYR	020	3.0	4	1	4	0.50251256281407	http://en.trend.az/news/politics/2232746.html
-283520292	20140122	IRN	SYR	028	4.0	10	1	10	3.60183366077276	Quotes package from BBC Monitoring/BBC Monitoring/(c) BBC
-283520321	20140122	IRN	SYR	070	7.0	4	2	4	2.93755106071624	http://www.breakingnews.ie/world/assad-future-clouds-syria-talks-620482.html
-283520322	20140122	IRN	SYR	070	7.0	4	2	4	2.93755106071624	http://www.breakingnews.ie/world/assad-future-clouds-syria-talks-620482.html
-283520323	20140122	IRN	SYR	072	8.3	8	1	8	1.78571428571429	http://www.chron.com/news/article/friedman-5164222.php
-283520324	20140122	IRN	SYR	072	8.3	2	1	2	1.78571428571429	http://www.chron.com/news/article/friedman-5164222.php
-283520350	20140122	IRN	SYR	020	3.0	6	1	6	0.50251256281407	http://en.trend.az/news/politics/2232746.html
-283520357	20140122	IRN	SYR	072	8.3	8	1	8	3.33024976873266	http://www.cnn.com/2014/01/21/opinion/ghitis-syria-iran/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+Most+Recent%29
-283520514	20140122	IRN	IRN	020	3.0	6	1	6	3.17460317460317	Multiple Sources/BBC Monitoring/(c) BBC
-283520565	20140122	IRN	IRN	020	3.0	5	1	5	2.93255131964809	http://www.payvand.com/news/14/jan/1158.html
-283520609	20140122	IRN	SYR	070	7.0	1	1	1	2.65402843601896	http://www.cbsnews.com/news/first-day-of-syria-peace-talks-end-on-fragile-ground/
-283520610	20140122	IRN	SYR	070	7.0	2	2	2	2.9716201824608	http://www.contracostatimes.com/news/ci_24968699/syria-u-s-clash-sharply-at-peace-talks
-283520611	20140122	IRN	SYR	070	7.0	3	3	3	2.86575626698019	http://www.contracostatimes.com/news/ci_24968699/syria-u-s-clash-sharply-at-peace-talks
-283520625	20140122	IRN	USA	020	3.0	10	1	10	4.54545454545455	http://thehill.com/blogs/global-affairs/middle-east-north-africa/196146-irans-rouhani-suggests-friendship-with-us
-283520670	20140122	IRN	IRN	020	3.0	7	1	7	4.04040404040404	ISNA website, Tehran/BBC Monitoring/(c) BBC
-283520671	20140122	IRN	IRN	020	3.0	1	1	1	4.04040404040404	ISNA website, Tehran/BBC Monitoring/(c) BBC
-283520732	20140122	IRQ	IRQ	020	3.0	18	3	18	0.840477791619924	http://reliefweb.int/report/iraq/iraq-pm-calls-stand-against-anbar-militants
-283520754	20140122	IRQ	SYR	071	7.4	2	1	2	2.19178082191781	http://www.trust.org/item/20140116173617-qfjbw/?source=hpblogs
-283520778	20140122	IRQ	USA	020	3.0	4	1	4	3.60766629086809	http://www.csmonitor.com/World/Security-Watch/Backchannels/2014/0122/Booz-Allen-Snowden-s-old-firm-looking-to-help-US-government-with-insider-threats
-283520794	20140122	IRQ	IRQ	020	3.0	2	1	2	0.662251655629139	Shafaq News website, Baghdad/BBC Monitoring/(c) BBC
-283520795	20140122	IRQ	IRQ	020	3.0	2	1	2	0.662251655629139	Shafaq News website, Baghdad/BBC Monitoring/(c) BBC
-283521095	20140122	ISR	ISR	071	7.4	5	1	5	3.22085889570552	http://www.haaretz.com/news/diplomacy-defense/.premium-1.570047
-283521181	20140122	ISR	ISR	071	7.4	2	1	2	3.50665054413543	http://www.theglobeandmail.com/news/politics/in-tel-aviv-harper-offers-gloomy-view-of-syrias-war-and-egypts-democracy/article16460343/?cmpid=rss1
-283521182	20140122	ISR	ISR	071	7.4	3	1	3	3.50665054413543	http://www.theglobeandmail.com/news/politics/in-tel-aviv-harper-offers-gloomy-view-of-syrias-war-and-egypts-democracy/article16460343/?cmpid=rss1
-283521183	20140122	ISR	ISR	071	7.4	1	1	1	3.50665054413543	http://www.theglobeandmail.com/news/politics/in-tel-aviv-harper-offers-gloomy-view-of-syrias-war-and-egypts-democracy/article16460343/?cmpid=rss1
-283521191	20140122	ISR	PSE	020	3.0	2	1	2	2.39520958083832	http://www.csmonitor.com/World/Middle-East/Olive-Press/2014/0122/Few-Israelis-Palestinians-see-two-state-solution-as-feasible.-What-s-the-alternative
-283521192	20140122	ISR	PSE	020	3.0	1	1	1	3.69747899159664	http://www.jpost.com/National-News/Israel-advances-plans-for-642-new-settler-homes-339089
-283521193	20140122	ISR	PSE	020	3.0	1	1	1	3.69747899159664	http://www.jpost.com/National-News/Israel-advances-plans-for-642-new-settler-homes-339089
-283521327	20140122	ISR	USA	070	7.0	1	1	1	0.94876660341556	http://www.thehindu.com/news/international/world/nuremberg-documents-on-display-in-berlin/article5606228.ece
-283521328	20140122	ISR	USA	070	7.0	4	1	4	0.94876660341556	http://www.thehindu.com/news/international/world/nuremberg-documents-on-display-in-berlin/article5606228.ece
-283521351	20140122	ISR	USA	070	7.0	4	1	4	0.568181818181818	http://www.foxnews.com/world/2014/01/22/israel-foils-al-qaeda-plot-on-us-embassy-internal-security-agency-says/
-283521361	20140122	ISR	ISR	020	3.0	4	1	4	2.96296296296296	http://www.news24.com/SouthAfrica/News/New-Madibeng-mayor-promises-visit-20140122
-283521362	20140122	ISR	ISR	020	3.0	3	1	3	3.69747899159664	http://www.jpost.com/National-News/Israel-advances-plans-for-642-new-settler-homes-339089
-283521370	20140122	ISR	PSE	020	3.0	1	1	1	3.69747899159664	http://www.jpost.com/National-News/Israel-advances-plans-for-642-new-settler-homes-339089
-283521371	20140122	ISR	PSE	020	3.0	1	1	1	3.69747899159664	http://www.jpost.com/National-News/Israel-advances-plans-for-642-new-settler-homes-339089
-283521390	20140122	ISR	ARE	020	3.0	6	1	6	2.32558139534884	Multiple Sources/BBC Monitoring/(c) BBC
-283521391	20140122	ISR	ARE	020	3.0	4	1	4	2.32558139534884	Multiple Sources/BBC Monitoring/(c) BBC
-283521405	20140122	ISR	ISR	020	3.0	2	1	2	2.53353204172876	http://www.ynetnews.com/articles/0,7340,L-4479941,00.html
-283521406	20140122	ISR	ISR	020	3.0	2	1	2	2.90102389078498	Al-Ra'y website, Gaza/BBC Monitoring/(c) BBC
-283521426	20140122	ISR	ISR	020	3.0	1	1	1	2.41057542768274	http://www.jpost.com/Opinion/Columnists/Candidly-Speaking-The-price-tag-crimes-must-be-dealt-with-now-339052
-283521441	20140122	ISR	PSE	020	3.0	2	1	2	2.53353204172876	http://www.ynetnews.com/articles/0,7340,L-4479941,00.html
-283521571	20140122	ITA	GRC	071	7.4	20	1	20	0	http://uk.reuters.com/article/2014/01/22/uk-italy-privatisation-idUKBREA0L1DR20140122?feedType=RSS&feedName=businessNews
-283521576	20140122	ITA	ITA	070	7.0	2	1	2	1.23456790123457	http://www.cnn.com/2014/01/21/justice/maryland-exorcism-deaths/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_crime+%28RSS%3A+Crime%29
-283521587	20140122	ITA	USA	020	3.0	1	1	1	2.74509803921569	http://www.airforcetimes.com/article/20140122/NEWS/301220012
-283521588	20140122	ITA	USA	020	3.0	2	1	2	2.74509803921569	http://www.airforcetimes.com/article/20140122/NEWS/301220012
-283521777	20140122	JOR	SYR	075	7.0	4	2	4	2.26503180792119	Petra-JNA website, Amman/BBC Monitoring/(c) BBC
-283521784	20140122	JOR	SYR	075	7.0	16	2	16	2.2650318079212	Petra-JNA website, Amman/BBC Monitoring/(c) BBC
-283521814	20140122	JOR	IRN	020	3.0	3	1	2	4.23509075194468	http://www.reuters.com/article/2014/01/22/iran-politics-idUSL5N0KV2XQ20140122
-283521920	20140122	JPN	CHE	020	3.0	4	1	4	2.9045643153527	http://www.dw.de/japan-pm-abe-calls-in-davos-for-military-restraint-in-asia/a-17381754
-283521921	20140122	JPN	CHE	025	-0.3	1	1	1	2.2093023255814	http://www.dw.de/ukraine-president-yanukovych-meets-with-opposition-after-deadly-clashes/a-17381027
-283521922	20140122	JPN	CHE	025	-0.3	8	1	8	2.55620761498612	http://www.dw.de/ukraine-opposition-issues-ultimatum-to-president-yanukovych/a-17381919
-283521923	20140122	JPN	CHE	025	-0.3	1	1	1	2.375	http://www.dw.de/bitter-exchanges-at-syrian-peace-talks/a-17381221
-283521924	20140122	JPN	CHE	025	-0.3	4	1	4	2.9045643153527	http://www.dw.de/japan-pm-abe-calls-in-davos-for-military-restraint-in-asia/a-17381754
-283521925	20140122	JPN	CHE	025	-0.3	4	1	4	2.9045643153527	http://www.dw.de/japan-pm-abe-calls-in-davos-for-military-restraint-in-asia/a-17381754
-283521926	20140122	JPN	CHE	025	-0.3	2	1	2	2.9045643153527	http://www.dw.de/japan-pm-abe-calls-in-davos-for-military-restraint-in-asia/a-17381754
-283521931	20140122	JPN	CHN	020	3.0	1	1	1	1.73611111111111	http://www.trust.org/item/20140122185403-tcizr/?source=hpbreaking
-283521932	20140122	JPN	CHN	020	3.0	7	2	7	2.0082885288684	http://in.reuters.com/article/2014/01/22/davos-japan-idINDEEA0L0FJ20140122?feedType=RSS&feedName=worldNews
-283521933	20140122	JPN	CHN	020	3.0	6	4	6	1.79702440966403	http://www.trust.org/item/20140122185403-tcizr/?source=hpbreaking
-283521934	20140122	JPN	CHN	020	3.0	5	3	5	1.80920706937461	http://www.smh.com.au/world/chinajapan-tensions-on-display-at-davos-20140123-hv9i6.html
-283521935	20140122	JPN	CHN	020	3.0	28	2	28	2.0082885288684	http://in.reuters.com/article/2014/01/22/davos-japan-idINDEEA0L0FJ20140122?feedType=RSS&feedName=worldNews
-283521936	20140122	JPN	CHN	020	3.0	18	4	18	1.79702440966403	http://www.trust.org/item/20140122185403-tcizr/?source=hpbreaking
-283521937	20140122	JPN	CHN	020	3.0	10	1	10	2.37580993520518	http://zeenews.india.com/news/world/japan-appeals-to-global-elite-for-backing-in-china-dispute_906001.html
-283521963	20140122	JPN	FRA	020	3.0	2	1	2	6.26086956521739	http://www.japantimes.co.jp/culture/2014/01/22/arts/encounters-with-the-modern-that-both-frustrated-and-inspired-japanese-artists/
-283521964	20140122	JPN	FRA	020	3.0	8	1	8	6.26086956521739	http://www.japantimes.co.jp/culture/2014/01/22/arts/encounters-with-the-modern-that-both-frustrated-and-inspired-japanese-artists/
-283521987	20140122	JPN	JPN	020	3.0	8	1	8	4.92424242424242	http://ajw.asahi.com/article/behind_news/AJ201401220060
-283522034	20140122	JPN	THA	027	4.0	16	1	16	3.37223656155313	Kyodo News Service, Tokyo/BBC Monitoring/(c) BBC
-283522035	20140122	JPN	THA	027	4.0	4	1	4	3.37223656155313	Kyodo News Service, Tokyo/BBC Monitoring/(c) BBC
-283522036	20140122	JPN	THA	027	4.0	10	1	10	3.7593984962406	Kyodo News Service, Tokyo/BBC Monitoring/(c) BBC
-283522055	20140122	JPN	CHE	025	-0.3	2	1	2	2.9045643153527	http://www.dw.de/japan-pm-abe-calls-in-davos-for-military-restraint-in-asia/a-17381754
-283522068	20140122	JPN	CHE	020	3.0	4	1	4	2.9045643153527	http://www.dw.de/japan-pm-abe-calls-in-davos-for-military-restraint-in-asia/a-17381754
-283522069	20140122	JPN	CHE	020	3.0	2	1	2	2.9045643153527	http://www.dw.de/japan-pm-abe-calls-in-davos-for-military-restraint-in-asia/a-17381754
-283522968	20140122	KAZ	RUS	0231	3.4	10	1	10	2.12765957446809	http://www.rferl.org/content/kazakh-activist-detained-launches/25238513.html
-283523012	20140122	KEN	KEN	0241	-0.3	2	1	2	3.08370044052863	http://www.capitalfm.co.ke/news/2014/01/icc-witness-ruto-advocated-peace-but-too-late/
-283523026	20140122	KEN	SDN	072	8.3	10	1	10	4.89795918367347	http://www.nation.co.ke/news/Kenya-wont-send-troops-to-SOUTH-Sudan/-/1056/2156646/-/cpdkv4z/-/index.html
-283523027	20140122	KEN	SSD	072	8.3	2	1	2	4.44444444444444	http://www.capitalfm.co.ke/news/2014/01/kenya-wont-send-troops-to-south-sudan-amina/
-283523028	20140122	KEN	SSD	072	8.3	8	1	8	4.44444444444444	http://www.capitalfm.co.ke/news/2014/01/kenya-wont-send-troops-to-south-sudan-amina/
-283523047	20140122	KEN	USA	026	4.0	2	1	2	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283523048	20140122	KEN	USA	026	4.0	2	1	2	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283523049	20140122	KEN	USA	026	4.0	4	1	4	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283523052	20140122	KEN	USA	026	4.0	2	1	2	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283523137	20140122	KOR	KOR	071	7.4	8	1	8	6.74418604651163	http://www.newsday.com/hyundai-to-sponsor-tate-modern-exhibitions-1.6833331
-283523163	20140122	KOR	PRK	020	3.0	10	1	10	1.94444444444444	Yonhap news agency, Seoul/BBC Monitoring/(c) BBC
-283523441	20140122	LBN	LBN	071	7.4	8	1	8	2.23613595706619	http://www.dailymail.co.uk/news/article-2544318/Revealed-The-43m-paid-elite-group-donors-access-Tories-including-David-Cameron.html?ITO=1490&ns_campaign=1490
-283523463	20140122	LBN	SYR	020	3.0	1	1	1	1.33333333333333	Naharnet, Beirut/BBC Monitoring/(c) BBC
-283523464	20140122	LBN	SYR	020	3.0	1	1	1	1.33333333333333	Naharnet, Beirut/BBC Monitoring/(c) BBC
-283523465	20140122	LBN	SYR	027	4.0	1	1	1	1.33333333333333	Naharnet, Beirut/BBC Monitoring/(c) BBC
-283523466	20140122	LBN	SYR	027	4.0	1	1	1	1.33333333333333	Naharnet, Beirut/BBC Monitoring/(c) BBC
-283523601	20140122	LBY	LBY	070	7.0	1	1	1	1.36054421768707	Libya Herald, Tripoli/BBC Monitoring/(c) BBC
-283523608	20140122	LBY	USA	071	7.4	7	1	7	2.52365930599369	http://www.bloomberg.com/news/2014-01-22/libyan-investment-authority-sues-goldman-sachs-in-london-court.html
-283523652	20140122	LCA	GBR	020	3.0	4	1	4	2.32558139534884	http://www.theguardian.com/world/2014/jan/22/st-lucia-police-arrest-two-death-briton-defending-wife
-283524074	20140122	LKA	LKA	020	3.0	10	1	10	1.59235668789809	http://www.colombopage.com/archive_14A/Jan22_1390406068CH.php
-283524195	20140122	MAR	MAR	020	3.0	5	1	5	2.25225225225225	http://www.montrealgazette.com/life/Seminar+National+Assembly+raises+gender+parity+questions/9418806/story.html
-283524207	20140122	MCO	USA	020	3.0	2	1	2	2.27272727272727	http://www.nzherald.co.nz/opinion/news/article.cfm?c_id=466&objectid=11190473
-283524229	20140122	MDV	USA	020	3.0	4	1	4	2.58823529411765	http://zeenews.india.com/news/world/maldives-rejects-military-pact-with-us_906023.html
-283525040	20140122	MEX	AUT	070	7.0	1	1	1	1.99004975124378	http://www.voanews.com/content/texas-executes-mexican-national-despite-international-pressure/1835822.html
-283525041	20140122	MEX	AUT	070	7.0	1	1	1	1.99004975124378	http://www.voanews.com/content/texas-executes-mexican-national-despite-international-pressure/1835822.html
-283525066	20140122	MEX	MEX	020	3.0	5	1	5	2.76890308839191	http://www.ogj.com/articles/2014/01/operators-await-details-as-mexico-implements-energy-reforms.html
-283525077	20140122	MEX	USA	0231	3.4	2	1	2	1.63710777626194	http://www.miamiherald.com/2014/01/22/3886315/lime-attack-incapacitates-guatemalas.html
-283525078	20140122	MEX	USA	0231	3.4	2	1	2	1.63710777626194	http://www.miamiherald.com/2014/01/22/3886315/lime-attack-incapacitates-guatemalas.html
-283525142	20140122	MEX	USA	070	7.0	10	1	10	0	http://www.washingtontimes.com/news/2014/jan/22/lobbyist-charged-in-san-diego-campaign-scandal/
-283525184	20140122	MEX	MEX	020	3.0	8	1	8	2.55639097744361	http://www.dailymail.co.uk/news/article-2544158/Mexican-gunned-Houston-cop-WILL-executed-tonight-despite-minute-pleas-Mexico-government.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490
-283525696	20140122	MLI	USA	026	4.0	2	1	2	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283525697	20140122	MLI	USA	026	4.0	2	1	2	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283525698	20140122	MLI	USA	026	4.0	4	1	4	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283525699	20140122	MLI	USA	026	4.0	2	1	2	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283525719	20140122	MMR	MMR	020	3.0	10	1	10	3.97350993377483	http://reliefweb.int/report/myanmar/fresh-charges-under-draconian-anti-protest-law
-283525765	20140122	CAN	USA	020	3.0	4	1	4	0.161030595813205	http://www.theglobeandmail.com/report-on-business/industry-news/energy-and-resources/keystone-pipelines-southern-leg-opens-to-alberta-crude/article16459739/?cmpid=rss1
-283525766	20140122	CAN	USA	020	3.0	8	1	8	0.161030595813205	http://www.theglobeandmail.com/report-on-business/industry-news/energy-and-resources/keystone-pipelines-southern-leg-opens-to-alberta-crude/article16459739/?cmpid=rss1
-283525767	20140122	CAN	USA	020	3.0	2	1	2	0.161030595813205	http://www.theglobeandmail.com/report-on-business/industry-news/energy-and-resources/keystone-pipelines-southern-leg-opens-to-alberta-crude/article16459739/?cmpid=rss1
-283525786	20140122	FIN	KOR	020	3.0	5	1	5	1.36307311028501	http://www.dailymail.co.uk/sciencetech/article-2544102/Is-Apple-set-release-TWO-new-big-screen-iPhones-June.html?ITO=1490&ns_campaign=1490
-283525787	20140122	FIN	SWE	071	7.4	10	1	10	1.33333333333333	http://www.binarytribune.com/2014/01/22/google-acquires-second-wind-farm-in-sweden/
-283525809	20140122	ISR	USA	020	3.0	10	1	10	5.22875816993464	http://www.globes.co.il/serveen/globes/docview.asp?did=1000911387
-283525820	20140122	JPN	USA	020	3.0	12	2	12	1.75913607253928	http://finance.yahoo.com/news/vws-labor-chief-says-u-225038322.html
-283525834	20140122	KOR	NMR	020	3.0	6	1	6	3.43511450381679	http://news.yahoo.com/verizon-galaxy-note-3-gets-141125546.html
-283525837	20140122	KOR	USA	020	3.0	4	1	4	3.43511450381679	http://news.yahoo.com/verizon-galaxy-note-3-gets-141125546.html
-283525928	20140122	USA	ESP	020	3.0	10	1	10	1.66666666666667	http://www.menafn.com/1093759051/CocaCola-looks-to-close-4-bottling-plants-in-Spain
-283525990	20140122	USA	USA	020	3.0	45	1	45	1.68271730216239	http://www.reuters.com/article/2014/01/23/usa-security-microsoft-idUSL2N0KX03C20140123?type=companyNews&feedType=RSS&feedName=companyNews
-283526333	20140122	MOZ	MOZ	020	3.0	5	1	5	1.03896103896104	Agencia Informacao Mocambique website, Maputo/BBC Monitoring/(c) BBC
-283526337	20140122	MOZ	MOZ	020	3.0	10	1	10	1.03896103896104	Agencia Informacao Mocambique website, Maputo/BBC Monitoring/(c) BBC
-283526396	20140122	MYS	PHL	070	7.0	3	1	3	1.61290322580645	http://www.gmanetwork.com/news/story/345049/news/nation/new-sulu-sultan-renews-call-on-aquino-to-help-reclaim-sabah
-283526481	20140122	NGA	USA	026	4.0	2	1	2	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283526482	20140122	NGA	USA	026	4.0	2	1	2	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283526483	20140122	NGA	USA	026	4.0	4	1	4	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283526484	20140122	NGA	USA	026	4.0	2	1	2	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283526835	20140122	NLD	USA	020	3.0	4	1	4	3.82775119617225	http://www.wired.com/design/2014/01/dutch-masters-paintings-turned-franken-portraits/
-283526850	20140122	NMR	USA	020	3.0	2	1	2	1.98511166253102	http://www.hydroworld.com/articles/2013/12/aboriginal-perspective-a-recommendation.html
-283526853	20140122	NMR	USA	071	7.4	4	1	4	2.03488372093023	http://www.bloomberg.com/news/2014-01-22/carlyle-group-said-to-raise-900-million-for-energy-fund.html
-283526889	20140122	NOR	ISR	020	3.0	8	1	8	2.53353204172876	http://www.ynetnews.com/articles/0,7340,L-4479941,00.html
-283526890	20140122	NOR	ISR	020	3.0	2	1	2	2.53353204172876	http://www.ynetnews.com/articles/0,7340,L-4479941,00.html
-283526896	20140122	NOR	PSE	0256	-0.3	7	1	7	2.53353204172876	http://www.ynetnews.com/articles/0,7340,L-4479941,00.html
-283526897	20140122	NOR	PSE	0256	-0.3	1	1	1	2.53353204172876	http://www.ynetnews.com/articles/0,7340,L-4479941,00.html
-283526966	20140122	NRU	NZL	071	7.4	2	1	2	3.10391363022942	http://globalvoicesonline.org/2014/01/22/rule-of-law-overturned-in-nauru/
-283526967	20140122	NRU	NZL	071	7.4	2	1	2	3.10391363022942	http://globalvoicesonline.org/2014/01/22/rule-of-law-overturned-in-nauru/
-283526968	20140122	NRU	NZL	071	7.4	6	1	6	3.10391363022942	http://globalvoicesonline.org/2014/01/22/rule-of-law-overturned-in-nauru/
-283526999	20140122	NZL	WST	070	7.0	8	1	8	4.9079754601227	http://www.globalsecurity.org/military/library/news/2014/01/mil-140121-nato01.htm
-283527000	20140122	NZL	WST	070	7.0	5	1	5	4.9079754601227	http://www.globalsecurity.org/military/library/news/2014/01/mil-140121-nato01.htm
-283527001	20140122	NZL	WST	070	7.0	2	1	2	4.9079754601227	http://www.globalsecurity.org/military/library/news/2014/01/mil-140121-nato01.htm
-283527003	20140122	NZL	USA	071	7.4	10	1	10	2.21238938053097	http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=11190489
-283527016	20140122	NZL	SGP	071	7.4	5	1	5	2.6525198938992	http://www.timescolonist.com/virgin-australia-posts-88-million-loss-blames-competition-restructuring-cost-and-carbon-tax-1.606522
-283527017	20140122	NZL	UKR	070	7.0	1	1	1	4.9079754601227	http://www.globalsecurity.org/military/library/news/2014/01/mil-140121-nato01.htm
-283527018	20140122	NZL	UKR	070	7.0	4	1	4	4.9079754601227	http://www.globalsecurity.org/military/library/news/2014/01/mil-140121-nato01.htm
-283527066	20140122	OMN	CHN	020	3.0	10	1	10	2.21674876847291	http://www.timesofoman.com/News/Article-28626.aspx
-283527070	20140122	OMN	GBR	020	3.0	10	1	10	2.24215246636771	http://www.timesofoman.com/News/Article-28617.aspx
-283527944	20140122	PAK	USA	020	3.0	2	1	2	1.84049079754601	http://www.forbes.com/sites/andygreenberg/2014/01/22/google-lets-slip-that-its-exploring-possible-bitcoin-integration-plans/
-283528038	20140122	PAK	USA	020	3.0	2	1	2	3.40909090909091	http://zeenews.india.com/news/nation/talk-to-india-over-basing-us-troops-to-tackle-terror-groups_905941.html
-283528039	20140122	PAK	USA	020	3.0	2	1	2	3.40909090909091	http://zeenews.india.com/news/nation/talk-to-india-over-basing-us-troops-to-tackle-terror-groups_905941.html
-283528040	20140122	PAK	USA	020	3.0	6	1	6	3.40909090909091	http://zeenews.india.com/news/nation/talk-to-india-over-basing-us-troops-to-tackle-terror-groups_905941.html
-283528075	20140122	PAK	PAK	026	4.0	2	1	2	1.88679245283019	http://www.thenews.com.pk/Todays-News-4-227967-Mining-in-Thar-coalfields-Block-2-to-start-soon
-283528133	20140122	PAN	USA	020	3.0	7	1	7	1.45228215767635	http://uk.reuters.com/article/2014/01/22/us-sacyr-panama-talks-idUKBREA0L01P20140122
-283528172	20140122	PHL	CAF	0231	3.4	2	1	2	1.27478753541076	http://reliefweb.int/report/haiti/un-warns-surge-haiti-cholera-deaths
-283528173	20140122	PHL	CAF	0231	3.4	24	4	24	1.29367475309463	http://www.menafn.com/1093758925/UN-warns-of-surge-in-Haiti-cholera-deaths
-283528174	20140122	PHL	CAF	0231	3.4	8	4	8	1.29367475309462	http://www.menafn.com/1093758925/UN-warns-of-surge-in-Haiti-cholera-deaths
-283528175	20140122	PHL	CAF	0231	3.4	6	3	6	1.29997049232258	http://www.menafn.com/1093758925/UN-warns-of-surge-in-Haiti-cholera-deaths
-283528193	20140122	PHL	IDN	070	7.0	2	1	2	1.13960113960114	http://www.voanews.com/content/hk-woman-charged-in-indonesian-maid-beating/1835417.html
-283528194	20140122	PHL	IDN	070	7.0	2	1	2	1.13960113960114	http://www.voanews.com/content/hk-woman-charged-in-indonesian-maid-beating/1835417.html
-283528214	20140122	PHL	CAN	020	3.0	2	1	2	3.40136054421769	http://www.trust.org/item/20140122150502-gcd5q
-283528215	20140122	PHL	MYS	020	3.0	4	1	4	1.61290322580645	http://www.gmanetwork.com/news/story/345049/news/nation/new-sulu-sultan-renews-call-on-aquino-to-help-reclaim-sabah
-283528218	20140122	PHL	PHL	020	3.0	2	1	2	2.09163346613546	http://www.trust.org/item/20140122095401-vl62k/?source=hptop
-283528266	20140122	POL	EUR	070	7.0	4	1	4	2.77296360485269	http://www.world-nuclear-news.org/EE-Greenhouse-gas-leads-new-European-targets-2201141.html
-283528304	20140122	PRK	KOR	020	3.0	1	1	1	1.94444444444444	Yonhap news agency, Seoul/BBC Monitoring/(c) BBC
-283528305	20140122	PRK	KOR	020	3.0	2	1	2	0.649350649350649	http://www.theguardian.com/world/2014/jan/22/north-korea-proposal-korean-war-reunions
-283528306	20140122	PRK	KOR	020	3.0	2	1	2	1.94444444444444	Yonhap news agency, Seoul/BBC Monitoring/(c) BBC
-283528307	20140122	PRK	KOR	020	3.0	8	1	8	0.649350649350649	http://www.theguardian.com/world/2014/jan/22/north-korea-proposal-korean-war-reunions
-283528322	20140122	PRK	USA	0253	-0.3	8	1	8	1.67197452229299	http://www.cnn.com/2014/01/22/world/asia/north-korea-kenneth-bae/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_us+%28RSS%3A+U.S.%29
-283528323	20140122	PRK	USA	0253	-0.3	8	1	8	1.67197452229299	http://www.cnn.com/2014/01/22/world/asia/north-korea-kenneth-bae/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_us+%28RSS%3A+U.S.%29
-283528390	20140122	PSE	ISR	020	3.0	4	1	4	2.39520958083832	http://www.csmonitor.com/World/Middle-East/Olive-Press/2014/0122/Few-Israelis-Palestinians-see-two-state-solution-as-feasible.-What-s-the-alternative
-283528391	20140122	PSE	ISR	020	3.0	2	1	2	2.90102389078498	Al-Ra'y website, Gaza/BBC Monitoring/(c) BBC
-283528423	20140122	PSE	ISR	070	7.0	30	4	30	2.15418222586664	http://www.ynetnews.com/articles/0,7340,L-4479989,00.html
-283528424	20140122	PSE	ISR	070	7.0	8	4	8	2.13430853834704	http://www.ynetnews.com/articles/0,7340,L-4479989,00.html
-283528425	20140122	PSE	ISR	070	7.0	2	1	2	2.23367697594502	http://www.reuters.com/article/2014/01/22/us-israel-palestinians-eu-idUSBREA0L1PT20140122?feedType=RSS&feedName=worldNews
-283528426	20140122	PSE	ISR	073	7.4	4	1	4	4.6070460704607	http://reliefweb.int/report/occupied-palestinian-territory/zakat-feeding-gazas-children
-283528466	20140122	PSE	PSE	020	3.0	6	1	6	2.90102389078498	Al-Ra'y website, Gaza/BBC Monitoring/(c) BBC
-283528627	20140122	QAT	QAT	020	3.0	5	1	5	3.21637426900585	http://www.ameinfo.com/blog/energy-oil-and-gas/largest-world-future-energy-summit-to-date-opens-in-abu-dhabi-tomorrow-with-attendees-from-over-170-countries/
-283528629	20140122	QAT	GBR	071	7.4	1	1	1	2.39316239316239	http://edition.cnn.com/2014/01/22/world/meast/syria-torture-photos/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fedition_meast+%28RSS%3A+Middle+East%29
-283528630	20140122	QAT	GBR	071	7.4	2	1	2	2.39316239316239	http://edition.cnn.com/2014/01/22/world/meast/syria-torture-photos/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fedition_meast+%28RSS%3A+Middle+East%29
-283528631	20140122	QAT	GBR	071	7.4	5	1	5	2.39316239316239	http://edition.cnn.com/2014/01/22/world/meast/syria-torture-photos/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fedition_meast+%28RSS%3A+Middle+East%29
-283529093	20140122	RUS	BLR	071	7.4	3	1	3	1.37931034482759	Belapan news agency, Minsk/BBC Monitoring/(c) BBC
-283529112	20140122	RUS	CHE	020	3.0	2	1	2	3.5958904109589	http://www.asianews.it/news-en/Geneva-II,-Patriarch-of-Moscow:-Stop-the-war-and-free-the-hostages-30096.html
-283529113	20140122	RUS	CHE	020	3.0	6	1	6	2.97303488448197	http://www.csmonitor.com/World/Security-Watch/2014/0122/Syria-talks-showcase-chasm-in-positions.-What-was-US-expecting-video
-283529184	20140122	RUS	CHN	070	7.0	2	1	2	3.95273023634882	Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
-283529185	20140122	RUS	CHN	070	7.0	5	1	5	3.95273023634882	Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
-283529186	20140122	RUS	CHN	070	7.0	1	1	1	3.95273023634882	Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
-283529230	20140122	RUS	DNK	070	7.0	5	1	5	3.95273023634882	Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
-283529231	20140122	RUS	DNK	070	7.0	2	1	2	3.95273023634882	Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
-283529232	20140122	RUS	DNK	070	7.0	1	1	1	3.95273023634882	Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
-283529239	20140122	RUS	EUR	025	-0.3	1	1	1	1.88205771643664	http://www.dw.de/ukraine-opposition-issues-ultimatum-to-president-yanukovych/a-17381919
-283529240	20140122	RUS	EUR	025	-0.3	10	1	10	1.12201963534362	http://www.bdlive.co.za/world/europe/2014/01/22/russia-urges-eu-to-stay-out-of-ukraine-crisis
-283529241	20140122	RUS	EUR	025	-0.3	14	1	14	2.11580386582575	http://www.dw.de/ukraine-opposition-issues-ultimatum-to-president-yanukovych/a-17381919
-283529329	20140122	RUS	IRN	020	3.0	3	1	3	4.1044776119403	http://news.yahoo.com/iran-39-rouhani-doubts-syria-peace-talks-succeed-102631902.html
-283529330	20140122	RUS	IRN	025	-0.3	2	1	2	3.36817653890825	Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
-283529331	20140122	RUS	IRN	025	-0.3	2	1	2	3.36817653890825	Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
-283529345	20140122	RUS	IRN	072	8.3	8	1	8	2.05680705190989	http://www.bloomberg.com/news/2014-01-21/syria-peace-talks-starting-in-switzerland-as-world-powers-gather.html
-283529346	20140122	RUS	IRN	072	8.3	2	1	2	2.05680705190989	http://www.bloomberg.com/news/2014-01-21/syria-peace-talks-starting-in-switzerland-as-world-powers-gather.html
-283529433	20140122	RUS	NOR	070	7.0	7	1	7	3.95273023634882	Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
-283529434	20140122	RUS	NOR	070	7.0	1	1	1	3.95273023634882	Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
-283529507	20140122	RUS	RUS	071	7.4	2	1	2	1.16279069767442	http://www.reuters.com/article/2014/01/22/russia-kamaz-idUSL2N0KW09D20140122?feedType=RSS&feedName=privateEquity
-283529508	20140122	RUS	RUS	071	7.4	1	1	1	1.23076923076923	http://www.themoscowtimes.com/business/article/chemezov-sees-russian-buyers-for-kamaz/493170.html
-283529509	20140122	RUS	RUS	071	7.4	2	1	2	1.46105057732964	http://www.themoscowtimes.com/business/article/chemezov-sees-russian-buyers-for-kamaz/493170.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:%20themoscowtimes/RUXi%20(The%20Moscow%20Times)
-283529510	20140122	RUS	RUS	071	7.4	1	1	1	1.69133192389006	http://www.themoscowtimes.com/business/article/chemezov-sees-russian-buyers-for-kamaz/493170.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:%20themoscowtimes/RUXi%20(The%20Moscow%20Times)
-283529518	20140122	RUS	RUS	070	7.0	1	1	1	2.44498777506112	http://www.washingtonpost.com/world/national-security/snowden-denies-receiving-assistance-from-russian-intelligence-with-nsa-leaks/2014/01/21/a85cca18-830a-11e3-9dd4-e7278db80d86_story.html?wprss=rss_national-security
-283529519	20140122	RUS	RUS	070	7.0	1	1	1	2.44498777506112	http://www.washingtonpost.com/world/national-security/snowden-denies-receiving-assistance-from-russian-intelligence-with-nsa-leaks/2014/01/21/a85cca18-830a-11e3-9dd4-e7278db80d86_story.html?wprss=rss_national-security
-283529520	20140122	RUS	SEN	020	3.0	9	2	9	2.27964577279646	http://news.yahoo.com/russian-shipowners-pay-fine-free-trawlers-senegal-190826357--finance.html
-283529531	20140122	RUS	SYR	020	3.0	2	1	2	2.375	http://www.dw.de/bitter-exchanges-at-syrian-peace-talks/a-17381221
-283529532	20140122	RUS	SYR	020	3.0	2	1	2	2.375	http://www.dw.de/bitter-exchanges-at-syrian-peace-talks/a-17381221
-283529533	20140122	RUS	SYR	020	3.0	2	1	2	2.6378896882494	http://www.voanews.com/content/syria-conference-opens-with-acrimony/1835090.html
-283529534	20140122	RUS	SYR	020	3.0	2	1	2	2.6378896882494	http://www.voanews.com/content/syria-conference-opens-with-acrimony/1835090.html
-283529597	20140122	RUS	UKR	020	3.0	8	2	8	1.44490644490645	RIA Novosti news agency, Moscow/BBC Monitoring/(c) BBC
-283529598	20140122	RUS	UKR	020	3.0	2	1	2	1.12201963534362	http://www.bdlive.co.za/world/europe/2014/01/22/russia-urges-eu-to-stay-out-of-ukraine-crisis
-283529599	20140122	RUS	UKR	020	3.0	2	1	2	1.12201963534362	http://www.bdlive.co.za/world/europe/2014/01/22/russia-urges-eu-to-stay-out-of-ukraine-crisis
-283529600	20140122	RUS	UKR	020	3.0	6	1	6	1.12201963534362	http://www.bdlive.co.za/world/europe/2014/01/22/russia-urges-eu-to-stay-out-of-ukraine-crisis
-283529623	20140122	RUS	UKR	020	3.0	6	1	6	1.35135135135135	RIA Novosti news agency, Moscow/BBC Monitoring/(c) BBC
-283529643	20140122	RUS	USA	020	3.0	6	1	6	1.73160173160173	http://www.npr.org/blogs/thetwo-way/2014/01/22/264865533/snowden-says-allegations-he-received-russian-help-are-absurd?ft=1&f=1001
-283529644	20140122	RUS	USA	020	3.0	2	1	2	1.73160173160173	http://www.npr.org/blogs/thetwo-way/2014/01/22/264865533/snowden-says-allegations-he-received-russian-help-are-absurd?ft=1&f=1001
-283529686	20140122	RUS	USA	070	7.0	1	1	1	2.44498777506112	http://www.washingtonpost.com/world/national-security/snowden-denies-receiving-assistance-from-russian-intelligence-with-nsa-leaks/2014/01/21/a85cca18-830a-11e3-9dd4-e7278db80d86_story.html?wprss=rss_national-security
-283529687	20140122	RUS	USA	070	7.0	1	1	1	2.44498777506112	http://www.washingtonpost.com/world/national-security/snowden-denies-receiving-assistance-from-russian-intelligence-with-nsa-leaks/2014/01/21/a85cca18-830a-11e3-9dd4-e7278db80d86_story.html?wprss=rss_national-security
-283529688	20140122	RUS	USA	070	7.0	4	1	4	2.46636771300448	http://www.bloomberg.com/news/2014-01-22/snowden-denies-working-as-foreign-spy-new-yorker-reports.html
-283529689	20140122	RUS	USA	070	7.0	2	1	2	2.46636771300448	http://www.bloomberg.com/news/2014-01-22/snowden-denies-working-as-foreign-spy-new-yorker-reports.html
-283529690	20140122	RUS	USA	075	7.0	2	1	2	2.59067357512953	http://www.rferl.org/content/snowden-says-acted-alone/25238109.html
-283529691	20140122	RUS	USA	075	7.0	2	1	2	2.59067357512953	http://www.rferl.org/content/snowden-says-acted-alone/25238109.html
-283529713	20140122	RUS	USA	020	3.0	6	1	6	2.54175744371823	http://edition.cnn.com/2014/01/22/world/europe/syria-geneva-talks/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fedition_europe+%28RSS%3A+Europe%29
-283529714	20140122	RUS	USA	020	3.0	1	1	1	2.10674157303371	http://www.upi.com/Top_News/World-News/2014/01/23/Brahimi-Bad-blood-makes-peace-talks-thorny/UPI-58311390455000/
-283529715	20140122	RUS	USA	020	3.0	6	1	6	2.54175744371823	http://edition.cnn.com/2014/01/22/world/europe/syria-geneva-talks/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fedition_europe+%28RSS%3A+Europe%29
-283529733	20140122	RUS	USA	020	3.0	1	1	1	1.98198198198198	http://www.iol.co.za/news/world/us-wants-snowden-dead-lawyer-1.1634907
-283529734	20140122	RUS	USA	020	3.0	1	1	1	1.99637023593466	http://www.dnaindia.com/world/report-russian-lawyer-says-edward-snowden-in-danger-after-hostile-remarks-1955008
-283529735	20140122	RUS	USA	020	3.0	1	1	1	1.93164933135215	http://www.csmonitor.com/World/Latest-News-Wires/2014/0122/Edward-Snowden-denies-that-he-s-a-Russian-spy
-283529736	20140122	RUS	USA	020	3.0	1	1	1	1.92644483362522	http://in.reuters.com/article/2014/01/21/usa-security-russia-snowden-idINDEEA0K0IG20140121
-283529739	20140122	RUS	USA	070	7.0	1	1	1	2.46636771300448	http://www.bloomberg.com/news/2014-01-22/snowden-denies-working-as-foreign-spy-new-yorker-reports.html
-283529761	20140122	RUS	USA	020	3.0	1	1	1	1.76678445229682	http://en.ria.ru/world/20140122/186800550/Snowden-Dismisses-Claims-He-Was-Spying-for-Russia.html
-283529762	20140122	RUS	USA	020	3.0	1	1	1	1.76678445229682	http://en.ria.ru/world/20140122/186800550/Snowden-Dismisses-Claims-He-Was-Spying-for-Russia.html
-283529781	20140122	RUS	RUS	027	4.0	10	1	10	4.37956204379562	Regnum news agency, Moscow/BBC Monitoring/(c) BBC
-283529841	20140122	RUS	PRK	020	3.0	1	1	1	2.39520958083832	http://www.rediff.com/news/interview/antony-beevor-indians-should-remember-what-hitler-did/20140122.htm
-283529845	20140122	RUS	RUS	020	3.0	4	1	4	3.7122969837587	http://www.thehindu.com/news/international/world/snowden-to-ask-for-russian-police-protection-after-us-threats/article5606082.ece
-283529846	20140122	RUS	RUS	020	3.0	2	1	2	2.39520958083832	http://www.rediff.com/news/interview/antony-beevor-indians-should-remember-what-hitler-did/20140122.htm
-283529847	20140122	RUS	RUS	020	3.0	4	1	4	2.78688524590164	http://www.thehindu.com/news/international/snowden-to-ask-for-russian-police-protection-after-us-threats/article5606082.ece
-283529865	20140122	RUS	RUS	020	3.0	3	1	3	2.10674157303371	http://www.upi.com/Top_News/World-News/2014/01/23/Brahimi-Bad-blood-makes-peace-talks-thorny/UPI-58311390455000/
-283529871	20140122	RUS	SYR	020	3.0	2	1	2	2.39130434782609	http://www.news24.com/World/News/Syria-peace-talks-expose-deep-rifts-over-Assad-20140122-2
-283529872	20140122	RUS	SYR	020	3.0	6	1	6	2.375	http://www.dw.de/bitter-exchanges-at-syrian-peace-talks/a-17381221
-283529877	20140122	RUS	UKR	020	3.0	6	1	6	1.53846153846154	Multiple Sources/BBC Monitoring/(c) BBC
-283529878	20140122	RUS	UKR	020	3.0	3	1	3	1.53846153846154	Multiple Sources/BBC Monitoring/(c) BBC
-283529882	20140122	RUS	USA	020	3.0	3	1	3	2.10674157303371	http://www.upi.com/Top_News/World-News/2014/01/23/Brahimi-Bad-blood-makes-peace-talks-thorny/UPI-58311390455000/
-283529883	20140122	RUS	USA	020	3.0	18	1	18	2.54175744371823	http://edition.cnn.com/2014/01/22/world/europe/syria-geneva-talks/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fedition_europe+%28RSS%3A+Europe%29
-283529892	20140122	RUS	RUS	020	3.0	4	2	4	2.66646222408175	http://www.globalsecurity.org/intell/library/news/2014/intell-140122-rianovosti01.htm
-283529905	20140122	RUS	UKR	020	3.0	10	1	10	1.67910447761194	Interfax news agency, Moscow/BBC Monitoring/(c) BBC
-283529921	20140122	RUS	RUS	026	4.0	4	1	4	2.04350606135738	http://www.usatoday.com/story/news/nation/2014/01/22/edward-snowden-nsa-alone-russia-spy/4765097/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+UsatodaycomNation-TopStories+%28USATODAY+-+Nation+Top+Stories%29
-283529992	20140122	SAU	IRN	020	3.0	8	2	8	2.51701972893131	http://en.trend.az/regions/met/arabicr/2233094.html
-283529993	20140122	SAU	IRN	020	3.0	4	2	4	2.26745771958538	http://www.globalsecurity.org/wmd/library/news/syria/2014/syria-140122-voa01.htm
-283529994	20140122	SAU	IRN	020	3.0	10	4	10	2.47166640709382	http://www.dailymail.co.uk/news/article-2543803/After-nearly-three-years-100-000-deaths-Syria-peace-conference-begins-Switzerland.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490
-283529995	20140122	SAU	IRN	020	3.0	8	4	8	2.3493169556157	http://www.thestar.com.my/News/World/2014/01/23/UNs-lastminute-Iran-invitation-throws-Syria-talks-into-doubt/
-283529996	20140122	SAU	IRN	020	3.0	5	2	5	2.56268634779966	http://www.trust.org/item/20140122180328-l4zkj/?source=gep
-283529997	20140122	SAU	IRN	020	3.0	2	1	2	2.29132569558101	http://www.voanews.com/content/un-envoy-to-meet-two-syrian-sides-thursday/1835466.html
-283529998	20140122	SAU	IRN	020	3.0	2	1	2	2.24358974358974	http://www.globalsecurity.org/wmd/library/news/syria/2014/syria-140122-voa01.htm
-283529999	20140122	SAU	IRN	020	3.0	4	2	4	2.48836565998438	http://www.scotsman.com/news/uk/mutual-hostility-greets-start-of-syria-peace-talks-1-3279167
-283530000	20140122	SAU	IRN	020	3.0	153	12	153	2.45786479479315	http://en.trend.az/regions/met/arabicr/2233094.html
-283530001	20140122	SAU	IRN	020	3.0	8	1	8	2.58152173913043	http://www.scotsman.com/news/uk/mutual-hostility-greets-start-of-syria-peace-talks-1-3279167
-283530002	20140122	SAU	IRN	020	3.0	10	1	10	2.58620689655172	http://www.voanews.com/content/syria-talks-spark-deep-rifts-over-assad/1835232.html
-283530031	20140122	SAU	QAT	071	7.4	5	1	5	4.58167330677291	http://www.dw.de/no-peace-for-syria-in-switzerland/a-17378980
-283530037	20140122	SAU	RUS	072	8.3	1	1	1	2.17821782178218	http://www.reuters.com/article/2014/01/22/rohde-syria-idUSL2N0KW23S20140122
-283530038	20140122	SAU	RUS	072	8.3	1	1	1	2.17821782178218	http://www.reuters.com/article/2014/01/22/rohde-syria-idUSL2N0KW23S20140122
-283530039	20140122	SAU	SAU	020	3.0	10	1	10	5.38116591928251	http://www.oilvoice.com/job/Head_of_Sales_Power_Aftermarket/37237dee.aspx
-283530044	20140122	SAU	SYR	020	3.0	1	1	1	3.34394904458599	http://www.rferl.org/content/syria-peace-talks-assad/25238853.html
-283530045	20140122	SAU	SYR	020	3.0	1	1	1	3.34394904458599	http://www.rferl.org/content/syria-peace-talks-assad/25238853.html
-283530046	20140122	SAU	SYR	0256	-0.3	4	2	4	2.51701972893131	http://en.trend.az/regions/met/arabicr/2233094.html
-283530047	20140122	SAU	SYR	0256	-0.3	4	2	4	2.26745771958538	http://www.globalsecurity.org/wmd/library/news/syria/2014/syria-140122-voa01.htm
-283530048	20140122	SAU	SYR	0256	-0.3	1	1	1	2.61865793780687	http://www.dailymail.co.uk/news/article-2543803/After-nearly-three-years-100-000-deaths-Syria-peace-conference-begins-Switzerland.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490
-283530049	20140122	SAU	SYR	0256	-0.3	6	3	6	2.40363737258598	http://zeenews.india.com/news/world/syria-peace-conference-exposes-deep-rifts-over-assad_906063.html
-283530050	20140122	SAU	SYR	0256	-0.3	1	1	1	2.33962264150943	http://www.thestar.com.my/News/World/2014/01/23/UNs-lastminute-Iran-invitation-throws-Syria-talks-into-doubt/
-283530051	20140122	SAU	SYR	0256	-0.3	1	1	1	2.4866785079929	http://www.reuters.com/article/2014/01/22/us-syria-crisis-idUSBREA0L0H820140122?feedType=RSS&feedName=wtMostRead
-283530052	20140122	SAU	SYR	0256	-0.3	3	2	3	2.41766519655644	http://www.news24.com/World/News/Syrian-enemies-may-discuss-prisoner-swaps-20140122
-283530053	20140122	SAU	SYR	0256	-0.3	2	1	2	3.03687635574837	http://www.dailystar.com.lb/News/Middle-East/2014/Jan-23/244993-assads-fate-hangs-over-geneva-ii-opening.ashx
-283530054	20140122	SAU	SYR	0256	-0.3	2	1	2	2.44413884581249	http://www.trust.org/item/20140122180328-l4zkj/?source=gep
-283530055	20140122	SAU	SYR	0256	-0.3	1	1	1	2.29132569558101	http://www.voanews.com/content/un-envoy-to-meet-two-syrian-sides-thursday/1835466.html
-283530056	20140122	SAU	SYR	0256	-0.3	1	1	1	2.58620689655172	http://www.voanews.com/content/syria-talks-spark-deep-rifts-over-assad/1835232.html
-283530057	20140122	SAU	SYR	0256	-0.3	1	1	1	2.24358974358974	http://www.globalsecurity.org/wmd/library/news/syria/2014/syria-140122-voa01.htm
-283530058	20140122	SAU	SYR	0256	-0.3	1	1	1	2.39520958083832	http://www.buenosairesherald.com/article/150290/syria-govt-opposition-clash-at-first-summit-
-283530059	20140122	SAU	SYR	0256	-0.3	1	1	1	2.58152173913043	http://www.scotsman.com/news/uk/mutual-hostility-greets-start-of-syria-peace-talks-1-3279167
-283530060	20140122	SAU	SYR	0256	-0.3	93	10	93	2.49324444749676	http://en.trend.az/regions/met/arabicr/2233094.html
-283530061	20140122	SAU	SYR	0256	-0.3	16	3	16	2.43045166218125	http://www.reuters.com/article/2014/01/23/us-syria-crisis-idUSBREA0L0H820140123?feedType=RSS&feedName=worldNews
-283530062	20140122	SAU	SYR	0256	-0.3	20	8	20	2.53414676142318	http://en.trend.az/regions/met/arabicr/2233094.html
-283530063	20140122	SAU	SYR	0256	-0.3	4	2	4	2.49070823869502	http://www.buenosairesherald.com/article/150290/syria-govt-opposition-clash-at-first-summit-
-283530064	20140122	SAU	SYR	0256	-0.3	20	3	20	2.3790829791402	http://www.globalsecurity.org/wmd/library/news/syria/2014/syria-140122-voa01.htm
-283530065	20140122	SAU	SYR	072	8.3	8	1	8	1.78571428571429	http://www.chron.com/news/article/friedman-5164222.php
-283530066	20140122	SAU	SYR	072	8.3	2	1	2	1.78571428571429	http://www.chron.com/news/article/friedman-5164222.php
-283530123	20140122	SAU	SYR	020	3.0	1	1	1	3.34394904458599	http://www.rferl.org/content/syria-peace-talks-assad/25238853.html
-283530124	20140122	SAU	SYR	020	3.0	2	1	2	3.34394904458599	http://www.rferl.org/content/syria-peace-talks-assad/25238853.html
-283530127	20140122	SAU	RUS	072	8.3	2	1	2	2.17821782178218	http://www.reuters.com/article/2014/01/22/rohde-syria-idUSL2N0KW23S20140122
-283530128	20140122	SAU	RUS	072	8.3	2	1	2	2.17821782178218	http://www.reuters.com/article/2014/01/22/rohde-syria-idUSL2N0KW23S20140122
-283530177	20140122	SDN	EUR	072	8.3	10	1	10	5.88235294117647	http://reliefweb.int/report/sudan/european-commission-s-humanitarian-office-supports-fight-against-child-malnutrition
-283530198	20140122	SDN	SSD	071	7.4	2	1	2	1.36986301369863	http://www.upi.com/Top_News/World-News/2014/01/22/S-Sudan-lawmakers-say-more-than-2500-killed-in-Bor-fighting/UPI-84881390408101/?spt=rln&or=4
-283530199	20140122	SDN	SSD	071	7.4	2	1	2	1.36986301369863	http://www.upi.com/Top_News/World-News/2014/01/22/S-Sudan-lawmakers-say-more-than-2500-killed-in-Bor-fighting/UPI-84881390408101/?spt=rln&or=4
-283530202	20140122	SDN	UGA	025	-0.3	10	1	10	3.26797385620915	Al-Ayyam, Khartoum/BBC Monitoring/(c) BBC
-283530203	20140122	SDN	UGA	0256	-0.3	2	1	2	3.26797385620915	Al-Ayyam, Khartoum/BBC Monitoring/(c) BBC
-283530220	20140122	SDN	SSD	020	3.0	3	1	3	2.74963820549928	http://reliefweb.int/report/south-sudan-republic/sudan-s-media-keeps-eagle-eye-south-sudan-s-escalating-crisis
-283530231	20140122	SEN	GMB	071	7.4	3	1	3	2.66393442622951	http://www.thestar.com.my/News/World/2014/01/22/EU-poised-to-boost-Gambia-aid-despite-rights-violations/
-283530235	20140122	SEN	RUS	020	3.0	6	2	6	2.27964577279646	http://news.yahoo.com/russian-shipowners-pay-fine-free-trawlers-senegal-190826357--finance.html
-283530265	20140122	SGP	USA	020	3.0	60	2	60	5.45888542110884	http://in.reuters.com/article/2014/01/22/lockheed-singapore-idINL2N0KW17Q20140122
-283530318	20140122	SOM	BDI	072	8.3	2	1	2	1.42602495543672	http://www.bbc.co.uk/news/world-africa-25849750
-283530319	20140122	SOM	BDI	072	8.3	8	1	8	1.42602495543672	http://www.bbc.co.uk/news/world-africa-25849750
-283530323	20140122	SOM	DJI	072	8.3	4	1	4	1.42602495543672	http://www.bbc.co.uk/news/world-africa-25849750
-283530324	20140122	SOM	DJI	072	8.3	6	1	6	1.42602495543672	http://www.bbc.co.uk/news/world-africa-25849750
-283530339	20140122	SOM	KEN	072	8.3	2	1	2	1.42602495543672	http://www.bbc.co.uk/news/world-africa-25849750
-283530340	20140122	SOM	KEN	072	8.3	2	1	2	1.42602495543672	http://www.bbc.co.uk/news/world-africa-25849750
-283530341	20140122	SOM	KEN	072	8.3	6	1	6	1.42602495543672	http://www.bbc.co.uk/news/world-africa-25849750
-283530344	20140122	SOM	SLE	072	8.3	2	1	2	1.42602495543672	http://www.bbc.co.uk/news/world-africa-25849750
-283530345	20140122	SOM	SLE	072	8.3	2	1	2	1.42602495543672	http://www.bbc.co.uk/news/world-africa-25849750
-283530346	20140122	SOM	SLE	072	8.3	6	1	6	1.42602495543672	http://www.bbc.co.uk/news/world-africa-25849750
-283530350	20140122	SOM	SOM	070	7.0	2	1	2	2.06185567010309	http://www.voanews.com/content/ethiopian-troops-join-au-force-in-somalia/1835401.html
-283530354	20140122	SOM	SOM	070	7.0	8	1	8	3.17460317460317	Radio Voice of Mudug, Gaalkacyo/BBC Monitoring/(c) BBC
-283530355	20140122	SOM	UGA	072	8.3	4	1	4	1.42602495543672	http://www.bbc.co.uk/news/world-africa-25849750
-283530356	20140122	SOM	UGA	072	8.3	6	1	6	1.42602495543672	http://www.bbc.co.uk/news/world-africa-25849750
-283530423	20140122	SSD	CAF	0231	3.4	2	1	2	1.27478753541076	http://reliefweb.int/report/haiti/un-warns-surge-haiti-cholera-deaths
-283530424	20140122	SSD	CAF	0231	3.4	24	4	24	1.29367475309463	http://www.menafn.com/1093758925/UN-warns-of-surge-in-Haiti-cholera-deaths
-283530425	20140122	SSD	CAF	0231	3.4	8	4	8	1.29367475309462	http://www.menafn.com/1093758925/UN-warns-of-surge-in-Haiti-cholera-deaths
-283530426	20140122	SSD	CAF	0231	3.4	6	3	6	1.29997049232258	http://www.menafn.com/1093758925/UN-warns-of-surge-in-Haiti-cholera-deaths
-283530476	20140122	SSD	USA	026	4.0	2	1	2	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283530477	20140122	SSD	USA	026	4.0	2	1	2	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283530478	20140122	SSD	USA	026	4.0	4	1	4	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283530479	20140122	SSD	USA	026	4.0	2	1	2	3.24675324675325	http://www.voanews.com/content/us-africa-summit-to-include-nearly-50-governments/1835423.html
-283530486	20140122	SSD	SSD	020	3.0	3	1	3	3.21100917431193	South Sudan TV, Juba/BBC Monitoring/(c) BBC
-283530529	20140122	SWE	SWE	070	7.0	18	1	18	2.3992673992674	http://www.thelocal.se/20140122/jamie-oliver-to-open-stockholm-restaurant
-283530530	20140122	SWE	SWE	070	7.0	18	1	18	2.70263085891997	http://www.thelocal.se/20140122/dismemberment-killer-jailed-for-14-years
-283530788	20140122	SYR	CAF	0231	3.4	8	4	8	1.29367475309462	http://www.menafn.com/1093758925/UN-warns-of-surge-in-Haiti-cholera-deaths
-283530789	20140122	SYR	CAF	0231	3.4	24	4	24	1.29367475309463	http://www.menafn.com/1093758925/UN-warns-of-surge-in-Haiti-cholera-deaths
-283530790	20140122	SYR	CAF	0231	3.4	8	4	8	1.29367475309462	http://www.menafn.com/1093758925/UN-warns-of-surge-in-Haiti-cholera-deaths
-283530802	20140122	SYR	CHE	020	3.0	2	1	2	5.12820512820513	http://reliefweb.int/report/syrian-arab-republic/top-humanitarian-leaders-pen-open-letter-geneva-ii-peace-talk
-283530803	20140122	SYR	CHE	020	3.0	2	1	2	2.22513089005236	http://www.miamiherald.com/2014/01/22/3885879/syria-rebels-met-in-geneva-conference.html
-283530804	20140122	SYR	CHE	0256	-0.3	3	1	3	2.78035217794254	http://www.asianews.it/news-en/Geneva-II:-Syrian-regime-and-opposition-together-for-the-first-time-30106.html
-283530805	20140122	SYR	CHE	026	4.0	2	1	2	2.12053571428571	http://www.usatoday.com/story/news/world/2014/01/22/low-expectations-syria-negotiations/4759871/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+UsatodaycomWorld-TopStories+%28USATODAY+-+World+Top+Stories%29
-283530806	20140122	SYR	CHE	026	4.0	8	1	8	2.12053571428571	http://www.usatoday.com/story/news/world/2014/01/22/low-expectations-syria-negotiations/4759871/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+UsatodaycomWorld-TopStories+%28USATODAY+-+World+Top+Stories%29
-283530906	20140122	SYR	FSM	020	3.0	4	1	4	4.11622276029056	http://voiceofrussia.com/news/2014_01_22/US-arms-Syrian-terrorists-while-participating-in-Geneva-2-Damascus-3122/
-283530907	20140122	SYR	FSM	020	3.0	2	1	2	4.11622276029056	http://voiceofrussia.com/news/2014_01_22/US-arms-Syrian-terrorists-while-participating-in-Geneva-2-Damascus-3122/
-283530908	20140122	SYR	FSM	0254	-0.3	6	1	6	4.11622276029056	http://voiceofrussia.com/news/2014_01_22/US-arms-Syrian-terrorists-while-participating-in-Geneva-2-Damascus-3122/
-283530913	20140122	SYR	GBR	071	7.4	10	2	10	1.27859477124183	http://news.yahoo.com/two-british-women-charged-syria-terrorism-offences-225118622.html
-283531025	20140122	SYR	IRN	022	3.2	2	1	2	2.7063599458728	http://www.latimes.com/world/worldnow/la-fg-wn-syria-peace-talks-20140122,0,141490.story
-283531026	20140122	SYR	IRN	022	3.2	6	1	6	2.7063599458728	http://www.latimes.com/world/worldnow/la-fg-wn-syria-peace-talks-20140122,0,141490.story
-283531027	20140122	SYR	IRN	022	3.2	2	1	2	2.7063599458728	http://www.latimes.com/world/worldnow/la-fg-wn-syria-peace-talks-20140122,0,141490.story
-283531099	20140122	SYR	JOR	026	4.0	1	1	1	1.51515151515152	Al-Manar Television website, Beirut/BBC Monitoring/(c) BBC
-283531100	20140122	SYR	JOR	026	4.0	1	1	1	1.51515151515152	Al-Manar Television website, Beirut/BBC Monitoring/(c) BBC
-283531292	20140122	SYR	RUS	020	3.0	2	1	2	4.11622276029056	http://voiceofrussia.com/news/2014_01_22/US-arms-Syrian-terrorists-while-participating-in-Geneva-2-Damascus-3122/
-283531293	20140122	SYR	RUS	020	3.0	1	1	1	4.11622276029056	http://voiceofrussia.com/news/2014_01_22/US-arms-Syrian-terrorists-while-participating-in-Geneva-2-Damascus-3122/
-283531294	20140122	SYR	RUS	022	3.2	8	1	8	2.7063599458728	http://www.latimes.com/world/worldnow/la-fg-wn-syria-peace-talks-20140122,0,141490.story
-283531295	20140122	SYR	RUS	022	3.2	2	1	2	2.7063599458728	http://www.latimes.com/world/worldnow/la-fg-wn-syria-peace-talks-20140122,0,141490.story
-283531296	20140122	SYR	RUS	0254	-0.3	2	1	2	4.11622276029056	http://voiceofrussia.com/news/2014_01_22/US-arms-Syrian-terrorists-while-participating-in-Geneva-2-Damascus-3122/
-283531297	20140122	SYR	RUS	0254	-0.3	1	1	1	4.11622276029056	http://voiceofrussia.com/news/2014_01_22/US-arms-Syrian-terrorists-while-participating-in-Geneva-2-Damascus-3122/
-283531339	20140122	SYR	SYR	020	3.0	1	1	1	1.98776758409786	http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11190791
-283531340	20140122	SYR	SYR	020	3.0	2	1	2	2.91576673866091	http://www.csmonitor.com/World/Security-Watch/2014/0122/Syria-talks-showcase-chasm-in-positions.-What-was-US-expecting-video
-283531341	20140122	SYR	SYR	020	3.0	1	1	1	1.98776758409786	http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11190791
-283531342	20140122	SYR	SYR	025	-0.3	12	3	12	2.32283674242734	http://zeenews.india.com/news/world/syria-foes-clash-over-assad-atrocities-at-first-meeting_905958.html
-283531365	20140122	SYR	SYR	071	7.4	1	1	1	4.0650406504065	http://www.theguardian.com/commentisfree/2014/jan/22/geneva-ii-syria-5-things
-283531366	20140122	SYR	SYR	071	7.4	1	1	1	2.17821782178218	http://www.reuters.com/article/2014/01/22/rohde-syria-idUSL2N0KW23S20140122
-283531367	20140122	SYR	SYR	071	7.4	1	1	1	4.0650406504065	http://www.theguardian.com/commentisfree/2014/jan/22/geneva-ii-syria-5-things
-283531368	20140122	SYR	SYR	071	7.4	1	1	1	2.17821782178218	http://www.reuters.com/article/2014/01/22/rohde-syria-idUSL2N0KW23S20140122
-283531401	20140122	SYR	SYR	026	4.0	1	1	1	1.51515151515152	Al-Manar Television website, Beirut/BBC Monitoring/(c) BBC
-283531420	20140122	SYR	SYR	020	3.0	5	2	5	2.53289194364859	http://en.trend.az/regions/met/arabicr/2233094.html
-283531421	20140122	SYR	SYR	020	3.0	3	1	3	2.49056603773585	http://www.reuters.com/article/2014/01/23/us-syria-crisis-idUSBREA0L0H820140123?feedType=RSS&feedName=worldNews
-283531422	20140122	SYR	SYR	020	3.0	1	1	1	2.44072524407252	http://www.trust.org/item/20140122180328-l4zkj
-283531423	20140122	SYR	SYR	020	3.0	1	1	1	2.44755244755245	http://www.trust.org/item/20140122180328-l4zkj/?source=gep
-283531424	20140122	SYR	SYR	020	3.0	2	1	2	2.44413884581249	http://www.trust.org/item/20140122180328-l4zkj/?source=gep
-283531511	20140122	SYR	USA	020	3.0	16	1	16	4.1958041958042	http://www.reuters.com/article/2014/01/22/us-syria-crisis-talks-close-idUSBREA0L1JB20140122
-283531512	20140122	SYR	USA	020	3.0	4	1	4	4.1958041958042	http://www.reuters.com/article/2014/01/22/us-syria-crisis-talks-close-idUSBREA0L1JB20140122
-283531582	20140122	SYR	CHE	020	3.0	2	1	2	2.49609984399376	http://www.news24.com/World/News/Syrian-enemies-may-discuss-prisoner-swaps-20140122
-283531643	20140122	SYR	SYR	020	3.0	7	4	7	1.94893851403463	http://www.dailystar.com.lb/News/Middle-East/2014/Jan-23/244984-no-let-up-on-the-ground-as-peace-conference-kicks-off.ashx
-283531644	20140122	SYR	SYR	020	3.0	1	1	1	2.49169435215947	Al-Jazeera TV, Doha/BBC Monitoring/(c) BBC
-283531645	20140122	SYR	SYR	020	3.0	1	1	1	2.49169435215947	Al-Jazeera TV, Doha/BBC Monitoring/(c) BBC
-283531646	20140122	SYR	SYR	0256	-0.3	2	1	2	2.77349768875193	http://news.sky.com/story/1198921/syria-diplomatic-push-to-end-bloody-conflict
-283531647	20140122	SYR	SYR	0256	-0.3	2	1	2	2.67175572519084	http://www.irn.co.uk/ViewNewsItem.aspx?ItemID=2742785
-283531683	20140122	SYR	SYR	020	3.0	12	3	12	1.46551724137931	http://zeenews.india.com/news/world/syria-missile-attack-kills-10-as-peace-talks-open_906081.html
-283531688	20140122	SYR	SYR	071	7.4	6	1	6	2.17821782178218	http://www.reuters.com/article/2014/01/22/rohde-syria-idUSL2N0KW23S20140122
-283531760	20140122	SYR	SYR	072	8.3	4	1	4	2.3598820058997	http://www.jpost.com/Middle-East/Syrian-opposition-leader-Torture-photos-unprecedented-except-in-Nazi-camps-339003
-283531761	20140122	SYR	SYR	072	8.3	24	4	24	2.93052132635987	http://in.reuters.com/article/2014/01/22/syria-crisis-crimes-idINDEEA0L08T20140122
-283531766	20140122	SYR	USA	020	3.0	4	1	2	3.03687635574837	http://www.dailystar.com.lb/News/Middle-East/2014/Jan-23/244993-assads-fate-hangs-over-geneva-ii-opening.ashx
-283531781	20140122	SYR	SYR	020	3.0	1	1	1	4.10764872521247	http://www.dailystar.com.lb/Business/Lebanon/2014/Jan-23/244959-un-to-offset-refugee-crisis-by-buying-lebanese.ashx
-283531782	20140122	SYR	SYR	020	3.0	1	1	1	4.10764872521247	http://www.dailystar.com.lb/Business/Lebanon/2014/Jan-23/244959-un-to-offset-refugee-crisis-by-buying-lebanese.ashx
-283531870	20140122	THA	JPN	070	7.0	2	1	2	0.668896321070234	http://www.marketwatch.com/story/thailand-declares-state-of-emergency-for-bangkok-2014-01-22
-283531901	20140122	THA	THA	071	7.4	3	1	3	2.30473751600512	http://in.reuters.com/article/2014/01/22/fitch-publishes-sme-development-bank-of-idINFit68564520140122
-283532078	20140122	TUR	ARM	070	7.0	6	1	6	2.22222222222222	http://www.news.az/articles/85895
-283532079	20140122	TUR	ARM	070	7.0	2	1	2	2.22222222222222	http://www.news.az/articles/85895
-283532080	20140122	TUR	ARM	070	7.0	2	1	2	2.22222222222222	http://www.news.az/articles/85895
-283532173	20140122	TUR	SYR	020	3.0	2	1	2	0.717213114754098	Zaman website, Istanbul/BBC Monitoring/(c) BBC
-283532183	20140122	TUR	SYR	075	7.0	7	1	7	0.72992700729927	Anadolu (also known as Anatolia) news agency website, Ankara/BBC Monitoring/(c) BBC
-283532238	20140122	TUR	SYR	020	3.0	6	1	6	0.717213114754098	Zaman website, Istanbul/BBC Monitoring/(c) BBC
-283532287	20140122	TWN	CHN	020	3.0	6	1	6	2.38095238095238	http://www.chinapost.com.tw/taiwan/intl-community/2014/01/23/399044/Taiwan-Japan.htm
-283532288	20140122	TWN	CHN	020	3.0	5	1	5	1.06382978723404	http://www.chinapost.com.tw/taiwan/national/national-news/2014/01/23/399036/Academia-Sinica.htm
-283532305	20140122	TWN	JPN	020	3.0	4	1	4	2.38095238095238	http://www.chinapost.com.tw/taiwan/intl-community/2014/01/23/399044/Taiwan-Japan.htm
-283532342	20140122	TZA	USA	075	7.0	4	1	4	1.22448979591837	http://www.upi.com/Top_News/US/2014/01/22/Bipolar-man-who-was-tortured-in-Tanzania-granted-US-asylum/UPI-25051390407943/
-283532343	20140122	TZA	USA	075	7.0	6	1	6	1.22448979591837	http://www.upi.com/Top_News/US/2014/01/22/Bipolar-man-who-was-tortured-in-Tanzania-granted-US-asylum/UPI-25051390407943/
-283532646	20140122	UGA	SSD	020	3.0	4	1	2	3.37837837837838	Daily Monitor website, Kampala/BBC Monitoring/(c) BBC
-283532647	20140122	UGA	SSD	020	3.0	4	1	2	3.37837837837838	Daily Monitor website, Kampala/BBC Monitoring/(c) BBC
-283532648	20140122	UGA	SSD	020	3.0	6	1	6	3.37837837837838	Daily Monitor website, Kampala/BBC Monitoring/(c) BBC
-283532649	20140122	UGA	SSD	0256	-0.3	6	1	6	3.26797385620915	Al-Ayyam, Khartoum/BBC Monitoring/(c) BBC
-283532650	20140122	UGA	SSD	0256	-0.3	2	1	2	3.26797385620915	Al-Ayyam, Khartoum/BBC Monitoring/(c) BBC
-283532653	20140122	UGA	SSD	072	8.3	8	1	8	4.65116279069767	http://www.news24.com/Africa/News/East-Africa-approves-military-force-for-S-Sudan-20140122-3
-283532654	20140122	UGA	SSD	072	8.3	2	1	2	4.65116279069767	http://www.news24.com/Africa/News/East-Africa-approves-military-force-for-S-Sudan-20140122-3
-283532686	20140122	UGA	SSD	020	3.0	2	1	2	3.37837837837838	Daily Monitor website, Kampala/BBC Monitoring/(c) BBC
-283532687	20140122	UGA	SSD	020	3.0	4	1	4	3.37837837837838	Daily Monitor website, Kampala/BBC Monitoring/(c) BBC
-283532758	20140122	UKR	ARM	075	7.0	6	1	6	2.99750208159867	http://www.rferl.org/content/ukraine-euromaidan-first-victims-nihoyan-zhyzneuski/25239108.html
-283532759	20140122	UKR	ARM	075	7.0	2	1	2	2.99750208159867	http://www.rferl.org/content/ukraine-euromaidan-first-victims-nihoyan-zhyzneuski/25239108.html
-283532760	20140122	UKR	ARM	075	7.0	2	1	2	2.99750208159867	http://www.rferl.org/content/ukraine-euromaidan-first-victims-nihoyan-zhyzneuski/25239108.html
-283532856	20140122	UKR	EUR	020	3.0	1	1	1	0	http://www.reuters.com/article/2014/01/22/us-ukraine-bildt-idUSBREA0L1AY20140122
-283532928	20140122	UKR	POL	020	3.0	5	1	5	0.892857142857143	Interfax-Ukraine news agency, Kiev/BBC Monitoring/(c) BBC
-283532932	20140122	UKR	POL	020	3.0	1	1	1	1.04712041884817	Interfax-Ukraine news agency, Kiev/BBC Monitoring/(c) BBC
-283532933	20140122	UKR	POL	020	3.0	1	1	1	1.04712041884817	Interfax-Ukraine news agency, Kiev/BBC Monitoring/(c) BBC
-283532934	20140122	UKR	POL	020	3.0	2	1	2	1.04712041884817	Interfax-Ukraine news agency, Kiev/BBC Monitoring/(c) BBC
-283532935	20140122	UKR	POL	020	3.0	1	1	1	1.04712041884817	Interfax-Ukraine news agency, Kiev/BBC Monitoring/(c) BBC
-283532939	20140122	UKR	RUS	020	3.0	4	1	4	1.7527690193225	http://www.csmonitor.com/World/Europe/2014/0122/Kiev-protests-turn-deadly.-A-line-crossed-in-Ukraine-video
-283532961	20140122	UKR	UKR	020	3.0	10	1	10	0	http://news.yahoo.com/ukraine-prosecutors-2-dead-men-hit-live-ammo-125758343.html
-283532975	20140122	UKR	UKR	020	3.0	3	1	3	2.31292517006803	Multiple Sources/BBC Monitoring/(c) BBC
-283532983	20140122	UKR	USA	070	7.0	2	1	2	2.17391304347826	http://www.cnn.com/2014/01/22/world/europe/ukraine-protests/
-283533081	20140122	UKR	UKR	020	3.0	9	1	9	1.19891258634714	Interfax-Ukraine news agency, Kiev/BBC Monitoring/(c) BBC
-283533090	20140122	UKR	UKR	020	3.0	12	1	12	0.969988780852656	Interfax-Ukraine news agency, Kiev/BBC Monitoring/(c) BBC
-283533120	20140122	UKR	RUS	020	3.0	16	1	16	1.7527690193225	http://www.csmonitor.com/World/Europe/2014/0122/Kiev-protests-turn-deadly.-A-line-crossed-in-Ukraine-video
-283534743	20140122	USA	AFR	071	7.4	2	1	2	2.9585798816568	http://www.news24.com/Africa/News/Obama-to-invite-47-leaders-to-US-Africa-summit-20140121
-283534755	20140122	USA	ARE	071	7.4	4	1	4	2.29357798165138	http://in.reuters.com/article/2014/01/22/mideast-markets-wrap-idINL5N0KW2HA20140122
-283534756	20140122	USA	ARE	071	7.4	16	1	16	2.29357798165138	http://in.reuters.com/article/2014/01/22/mideast-markets-wrap-idINL5N0KW2HA20140122
-283534764	20140122	USA	AUS	071	7.4	7	1	7	2.98507462686567	http://www.angelnews.co.uk/article.jsf?articleId=15317
-283534778	20140122	USA	BHS	020	3.0	10	1	10	3.72168284789644	http://www.businessweek.com/ap/2014-01-22/md-dot-senate-oks-bill-on-health-exchange-problems
-283534779	20140122	USA	BLR	075	7.0	1	1	1	1.70316301703163	http://www.google.com/hostednews/afp/article/ALeqM5hnxVwetgLusnt9hOBOO4xmm0nTig?docId=b4763dbc-a182-4a3a-9c00-9d0209bb98fc&hl=en
-283534780	20140122	USA	BLR	075	7.0	1	1	1	1.70316301703163	http://www.google.com/hostednews/afp/article/ALeqM5hnxVwetgLusnt9hOBOO4xmm0nTig?docId=b4763dbc-a182-4a3a-9c00-9d0209bb98fc&hl=en
-283534979	20140122	USA	CAN	020	3.0	2	1	2	1.85830429732869	http://gizmodo.com/being-on-a-smartphone-makes-you-more-likely-to-use-publ-1505847885?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+gizmodo%2Ffull+%28Gizmodo%29
-283534980	20140122	USA	CAN	020	3.0	1	1	1	1.85830429732869	http://gizmodo.com/being-on-a-smartphone-makes-you-more-likely-to-use-publ-1505847885?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+gizmodo%2Ffull+%28Gizmodo%29
-283534981	20140122	USA	CAN	020	3.0	20	1	20	2.54716981132075	http://www.theprovince.com/technology/Guest+column+need+know+poor+stops+needing/9418414/story.html
-283535013	20140122	USA	CHE	0256	-0.3	4	1	4	1.94552529182879	http://www.usnews.com/news/articles/2014/01/22/geneva-ii-immediately-divided-on-future-role-of-bashar-assad
-283535059	20140122	USA	CHN	020	3.0	12	1	12	1.36363636363636	http://www.washingtonpost.com/business/economy/judge-rules-chinese-accounting-affiliates-willfully-violated-us-law/2014/01/22/f9f48e6a-83af-11e3-8099-9181471f7aaf_story.html?wprss=rss_national
-283535060	20140122	USA	CHN	020	3.0	4	1	4	1.36363636363636	http://www.washingtonpost.com/business/economy/judge-rules-chinese-accounting-affiliates-willfully-violated-us-law/2014/01/22/f9f48e6a-83af-11e3-8099-9181471f7aaf_story.html?wprss=rss_national
-283535061	20140122	USA	CHN	020	3.0	2	1	2	4.3956043956044	http://www.upi.com/News_Photos/Featured/2014/01/upi/6234712b25961f24cf87a035ce6b04a0/MGM-immortalized-with-a-paw-print-ceremony-in-Los-Angeles/?spt=hfp&or=2
-283535093	20140122	USA	CHN	070	7.0	2	1	2	1.14503816793893	http://finance.yahoo.com/news/chinese-internet-traffic-redirected-small-120049668.html
-283535094	20140122	USA	CHN	070	7.0	2	1	2	1.14503816793893	http://finance.yahoo.com/news/chinese-internet-traffic-redirected-small-120049668.html
-283535095	20140122	USA	CHN	070	7.0	5	1	5	1.3215859030837	http://www.inquisitr.com/1105379/china-air-pollution-linked-to-western-united-states-air-pollution-study-says/
-283535440	20140122	USA	DEU	070	7.0	20	2	20	3.41306552776527	http://hosted.ap.org/dynamic/stories/U/US_MCCONNELL_CAMPAIGN_ADS?SITE=NVREN&SECTION=HOME&TEMPLATE=DEFAULT
-283535452	20140122	USA	ECU	075	7.0	1	1	1	1.70316301703163	http://www.google.com/hostednews/afp/article/ALeqM5hnxVwetgLusnt9hOBOO4xmm0nTig?docId=b4763dbc-a182-4a3a-9c00-9d0209bb98fc&hl=en
-283535453	20140122	USA	ECU	075	7.0	3	1	3	1.70316301703163	http://www.google.com/hostednews/afp/article/ALeqM5hnxVwetgLusnt9hOBOO4xmm0nTig?docId=b4763dbc-a182-4a3a-9c00-9d0209bb98fc&hl=en
-283535454	20140122	USA	ECU	075	7.0	1	1	1	1.70316301703163	http://www.google.com/hostednews/afp/article/ALeqM5hnxVwetgLusnt9hOBOO4xmm0nTig?docId=b4763dbc-a182-4a3a-9c00-9d0209bb98fc&hl=en
-283535718	20140122	USA	GBR	071	7.4	1	1	1	1.58982511923688	http://techcrunch.com/2014/01/22/tok-tok-tok/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29
-283535719	20140122	USA	GBR	071	7.4	1	1	1	1.58982511923688	http://techcrunch.com/2014/01/22/tok-tok-tok/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29
-283535720	20140122	USA	GBR	071	7.4	2	1	2	2.98507462686567	http://www.angelnews.co.uk/article.jsf?articleId=15317
-283535969	20140122	USA	GRC	020	3.0	8	1	8	2.82131661442006	http://www.bloomberg.com/news/2014-01-22/detroit-judge-denies-creditor-request-for-role-in-valuing-art.html
-283536036	20140122	USA	EUR	020	3.0	5	1	5	1.87110187110187	http://euobserver.com/foreign/122829
-283536122	20140122	USA	IRN	071	7.4	8	1	8	3.7542662116041	Renmin Ribao, Beijing/BBC Monitoring/(c) BBC
-283536123	20140122	USA	IRN	071	7.4	2	1	2	3.7542662116041	Renmin Ribao, Beijing/BBC Monitoring/(c) BBC
-283536166	20140122	USA	ISR	071	7.4	3	1	3	2.92792792792793	http://www.israelnationalnews.com/News/News.aspx/176605
-283536167	20140122	USA	ISR	071	7.4	6	1	6	1.58102766798419	http://www.israelnationalnews.com/News/News.aspx/176615
-283536168	20140122	USA	ISR	071	7.4	3	1	3	2.92792792792793	http://www.israelnationalnews.com/News/News.aspx/176605
-283536173	20140122	USA	ISR	071	7.4	2	1	2	2.92792792792793	http://www.israelnationalnews.com/News/News.aspx/176605
-283536174	20140122	USA	ISR	071	7.4	1	1	1	1.58102766798419	http://www.israelnationalnews.com/News/News.aspx/176615
-283536175	20140122	USA	ISR	071	7.4	1	1	1	1.58102766798419	http://www.israelnationalnews.com/News/News.aspx/176615
-283536176	20140122	USA	ITA	020	3.0	4	1	4	2.74509803921569	http://www.airforcetimes.com/article/20140122/NEWS/301220012
-283536590	20140122	USA	MEX	020	3.0	8	1	8	2.14602242056767	http://www.reuters.com/article/2014/01/22/us-vw-usa-labour-idUSBREA0L15O20140122
-283536600	20140122	USA	MEX	070	7.0	2	1	2	2.08333333333333	http://www.miamiherald.com/2014/01/21/3885038/feds-illegal-donations-fueled.html
-283536644	20140122	USA	MEX	020	3.0	2	1	2	2.04081632653061	http://www.counterpunch.org/2014/01/22/kelloggs-union-busting-lock-out/
-283536645	20140122	USA	MEX	020	3.0	2	1	2	2.04081632653061	http://www.counterpunch.org/2014/01/22/kelloggs-union-busting-lock-out/
-283536685	20140122	USA	CHE	020	3.0	12	2	12	2.44651061543157	http://in.reuters.com/article/2014/01/22/novartis-us-site-idINL5N0KW3J820140122
-283536690	20140122	USA	USA	020	3.0	5	1	5	0.854700854700855	http://ca.reuters.com/article/businessNews/idCABREA0L2CI20140122
-283536711	20140122	USA	USA	020	3.0	1	1	1	2.87120590648072	http://www.forbes.com/sites/karstenstrauss/2014/01/22/online-anonymity-for-the-business-pro-and-the-rebel/
-283536712	20140122	USA	USA	020	3.0	1	1	1	2.87120590648072	http://www.forbes.com/sites/karstenstrauss/2014/01/22/online-anonymity-for-the-business-pro-and-the-rebel/
-283536713	20140122	USA	USA	020	3.0	2	1	2	2.88540807914262	http://www.forbes.com/sites/karstenstrauss/2014/01/22/hackers-and-governments-beware-online-anonymity-for-the-people/
-283536726	20140122	USA	MUS	023	3.4	6	1	6	0	http://www.syracuse.com/news/index.ssf/2014/01/authorities_seeking_help_identifying_body_found_in_jefferson_county_river.html
-283536727	20140122	USA	MUS	023	3.4	2	1	2	0	http://www.syracuse.com/news/index.ssf/2014/01/authorities_seeking_help_identifying_body_found_in_jefferson_county_river.html
-283536777	20140122	USA	PHL	020	3.0	1	1	1	2.09163346613546	http://www.trust.org/item/20140122095401-vl62k/?source=hptop
-283536778	20140122	USA	PHL	020	3.0	1	1	1	2.09163346613546	http://www.trust.org/item/20140122095401-vl62k/?source=hptop
-283536779	20140122	USA	PHL	020	3.0	2	1	2	2.09163346613546	http://www.trust.org/item/20140122095401-vl62k/?source=hptop
-283536780	20140122	USA	PHL	020	3.0	3	1	3	2.09163346613546	http://www.trust.org/item/20140122095401-vl62k/?source=hptop
-283536781	20140122	USA	PHL	020	3.0	1	1	1	2.09163346613546	http://www.trust.org/item/20140122095401-vl62k/?source=hptop
-283536791	20140122	USA	PRY	020	3.0	2	1	2	2.38095238095238	http://www.pacificnewscenter.com/index.php?option=com_content&view=article&id=41491:video-&catid=45:guam-news&Itemid=156
-283536792	20140122	USA	PRY	020	3.0	2	1	2	2.38095238095238	http://www.pacificnewscenter.com/index.php?option=com_content&view=article&id=41491:video-&catid=45:guam-news&Itemid=156
-283536844	20140122	USA	RUS	020	3.0	1	1	1	0.873362445414847	http://english.chosun.com/site/data/html_dir/2014/01/23/2014012300542.html
-283536845	20140122	USA	RUS	020	3.0	1	1	1	3.87931034482759	http://news.yahoo.com/snowden-bids-become-rector-glasgow-university-143431427.html
-283536846	20140122	USA	RUS	020	3.0	3	1	3	0.928792569659443	http://www.google.com/hostednews/afp/article/ALeqM5ib6akEej7cewaD0JQiqr_C47eVow?docId=c20a3595-5506-467d-829f-36032f36a4c5&hl=en
-283536847	20140122	USA	RUS	020	3.0	2	1	2	0.928792569659443	http://www.google.com/hostednews/afp/article/ALeqM5ib6akEej7cewaD0JQiqr_C47eVow?docId=c20a3595-5506-467d-829f-36032f36a4c5&hl=en
-283536848	20140122	USA	RUS	020	3.0	8	1	8	1.71232876712329	http://www.usatoday.com/story/news/world/2014/01/22/sochi-winter-olympics-gen-martin-dempsey-joint-chiefs-of-staff/4776629/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+UsatodaycomWorld-TopStories+%28USATODAY+-+World+Top+Stories%29
-283536849	20140122	USA	RUS	020	3.0	5	3	5	2.08838757724025	http://www.voanews.com/content/snowden-says-he-acted-alone-in-leaking-us-spy-documents/1835256.html
-283536850	20140122	USA	RUS	020	3.0	3	2	3	2.67003976497122	http://www.independent.co.uk/life-style/gadgets-and-tech/im-not-a-spy-snowden-dimisses-allegations-that-he-is-working-for-russia-as-absurd-9076765.html
-283536851	20140122	USA	RUS	020	3.0	6	1	6	2.46636771300448	http://www.bloomberg.com/news/2014-01-22/snowden-denies-working-as-foreign-spy-new-yorker-reports.html
-283536924	20140122	USA	RUS	020	3.0	2	1	2	2.06540447504303	http://www.independent.co.uk/life-style/gadgets-and-tech/im-not-a-spy-snowden-dimisses-allegations-that-he-is-working-for-russia-as-absurd-9076765.html
-283536933	20140122	USA	SAU	071	7.4	2	1	2	3.2258064516129	http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11190552
-283536955	20140122	USA	SYR	027	4.0	4	1	4	1.51515151515152	http://news.yahoo.com/kerry-says-assad-cannot-part-syrian-transition-urges-092211928.html
-283537016	20140122	USA	THA	020	3.0	2	1	2	2.88540807914262	http://www.forbes.com/sites/karstenstrauss/2014/01/22/hackers-and-governments-beware-online-anonymity-for-the-people/
-283537064	20140122	USA	USA	020	3.0	5	1	5	3.72836218375499	http://www.miamiherald.com/2014/01/23/3887390/report-calls-for-more-investment.html
-283537065	20140122	USA	USA	023	3.4	5	1	5	3.28358208955224	http://www.bizjournals.com/jacksonville/news/2014/01/21/another-lng-firm-makes-a-play-for.html
-283537074	20140122	USA	USA	022	3.2	1	1	1	0.423728813559322	http://www.10news.com/news/investigations/mexican-businessman-retired-san-diego-police-officer-accused-of-conspiracy-against-us
-283537075	20140122	USA	USA	022	3.2	1	1	1	0.423728813559322	http://www.10news.com/news/investigations/mexican-businessman-retired-san-diego-police-officer-accused-of-conspiracy-against-us
-283537103	20140122	USA	USA	020	3.0	2	1	2	2.25669957686883	http://billingsgazette.com/news/state-and-regional/montana/bohlinger-adams-speak-with-yellowstone-county-democrats/article_3a545fc2-658b-599a-8841-0c7080afda3f.html
-283537104	20140122	USA	USA	020	3.0	2	1	2	2.01511335012594	http://www.newsday.com/long-island/towns/north-hempstead-picks-new-town-board-member-1.6854194
-283537105	20140122	USA	USA	020	3.0	2	1	2	2.25669957686883	http://billingsgazette.com/news/state-and-regional/montana/bohlinger-adams-speak-with-yellowstone-county-democrats/article_3a545fc2-658b-599a-8841-0c7080afda3f.html
-283537118	20140122	USA	USA	071	7.4	14	6	14	2.15438197330354	http://www.chron.com/news/crime/article/Conman-turned-pastor-convicted-of-cheating-church-5166715.php
-283537119	20140122	USA	USA	071	7.4	2	1	2	1.2531328320802	http://weku.fm/post/beshears-budget-includes-harsh-cuts-free-funds-education
-283537137	20140122	USA	USA	020	3.0	8	2	8	0.357840324677854	http://in.reuters.com/article/2014/01/22/usa-weather-idINDEEA0L07O20140122?feedType=RSS&feedName=worldNews
-283537138	20140122	USA	USA	020	3.0	1	1	1	0.748502994011976	http://www.dailystar.com.lb/News/International/2014/Jan-22/244912-frigid-temperatures-to-persist-as-northeastern-us-digs-out-from-snow.ashx
-283537139	20140122	USA	USA	020	3.0	1	1	1	0.748502994011976	http://www.dailystar.com.lb/News/International/2014/Jan-22/244912-frigid-temperatures-to-persist-as-northeastern-us-digs-out-from-snow.ashx
-283537166	20140122	USA	USA	070	7.0	20	1	20	6.61157024793388	http://www.startribune.com/business/241434261.html
-283537167	20140122	USA	USA	071	7.4	2	1	2	3.27380952380952	http://www.miamiherald.com/2014/01/22/3885517/davidson-foundation-gives-435m.html
-283537168	20140122	USA	USA	071	7.4	4	1	4	2.26537216828479	http://www.chicagotribune.com/news/education/ct-chicago-physical-education-hires-met-20140120,0,6366143.story?track=rss
-283537195	20140122	USA	USA	020	3.0	14	1	14	2.25563909774436	http://www.usatoday.com/story/news/nation/2014/01/22/stateline-real-id/4772785/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+usatoday-NewsTopStories+%28USATODAY+-+News+Top+Stories%29
-283537219	20140122	USA	USA	020	3.0	6	1	6	0.75	http://www.foxnews.com/us/2014/01/22/grand-jury-declines-to-indict-nc-officer-in-shooting-unarmed-man/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29
-283537220	20140122	USA	USA	020	3.0	10	2	10	4.71243781094527	http://money.cnn.com/2014/01/22/news/economy/syder-detroit-state-bailout/index.html?section=money_topstories&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fmoney_topstories+%28Top+Stories%29
-283537221	20140122	USA	USA	020	3.0	1	1	1	2.87120590648072	http://www.forbes.com/sites/karstenstrauss/2014/01/22/online-anonymity-for-the-business-pro-and-the-rebel/
-283537222	20140122	USA	USA	020	3.0	23	3	23	2.61994389076293	http://www.upi.com/Top_News/US/2014/01/22/WH-Obamas-comments-on-marijuana-dont-signal-policy-shift/UPI-91981390429937/?spt=rln&or=1
-283537223	20140122	USA	USA	020	3.0	10	1	10	2.78787878787879	http://www.wisconsingazette.com/green-gaze/southern-section-of-controversial-keystone-xl-pipeline-opens.html
-283537224	20140122	USA	USA	020	3.0	33	4	33	2.42198300767557	http://siouxcityjournal.com/ap/national/canadian-company-starts-keystone-pipeline-in-texas/article_d1f44217-bb8c-52ff-8c91-c13f8202bf38.html
-283537225	20140122	USA	USA	020	3.0	4	1	4	1.24826629680999	http://www.dailymail.co.uk/news/article-2543705/Florida-politician-calls-execution-obama-facebook-accounts.html?ITO=1490&ns_campaign=1490
-283537226	20140122	USA	USA	020	3.0	35	6	35	2.22736216857628	http://www.foxnews.com/us/2014/01/22/transcanada-begins-keystone-pipeline-in-texas/
-283537227	20140122	USA	USA	020	3.0	4	1	4	3.59281437125748	http://www.forbes.com/sites/jacobsullum/2014/01/22/chris-christie-will-end-the-war-on-drugsjust-like-obama-did/
-283537228	20140122	USA	USA	020	3.0	6	1	6	2.4390243902439	http://www.upi.com/Top_News/US/2014/01/22/WH-Obamas-comments-on-marijuana-dont-signal-policy-shift/UPI-91981390429937/?spt=rln&or=1
-283537229	20140122	USA	USA	020	3.0	10	1	10	2.23463687150838	http://www.rigzone.com/news/oil_gas/a/131222/Canadian_Company_Starts_Keystone_Pipeline_In_Texas
-283537230	20140122	USA	USA	020	3.0	10	1	10	2.42424242424242	http://online.wsj.com/news/articles/SB10001424052702304632204579337290572249188?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702304632204579337290572249188.html
-283537231	20140122	USA	USA	020	3.0	52	11	52	2.26278676452629	http://www.azcentral.com/business/news/free/20140122oil-starts-flowing-through-keystone-pipeline-texas.html
-283537232	20140122	USA	USA	0253	-0.3	2	1	2	1.68067226890756	http://edition.cnn.com/2014/01/22/world/asia/china-activist-trial-media/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fedition_asia+%28RSS%3A+Asia%29
-283537233	20140122	USA	USA	0253	-0.3	2	1	2	1.68067226890756	http://edition.cnn.com/2014/01/22/world/asia/china-activist-trial-media/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fedition_asia+%28RSS%3A+Asia%29
-283537234	20140122	USA	USA	026	4.0	10	1	10	3.44827586206897	http://news.yahoo.com/6-3-million-eligible-medicaid-since-obamacare-launch-223349801--sector.html
-283537280	20140122	USA	USA	071	7.4	2	1	2	3.28542094455852	http://www.washingtonpost.com/local/virginia-politics/sympathy-for-robert-mcdonnell-not-showing-up-in-former-va-governors-defense-fund/2014/01/22/851649c2-8395-11e3-9dd4-e7278db80d86_story.html?wprss=rss_local
-283537281	20140122	USA	USA	071	7.4	6	3	6	2.79916447155149	http://www.solarfeeds.com/1-billion-new-york-solar-announced/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+solarfeed+%28Solar+Feeds%29
-283537282	20140122	USA	USA	075	7.0	4	1	4	2.45664739884393	http://www.politico.com/story/2014/01/immigration-white-house-2014-102451.html
-283537335	20140122	USA	USA	020	3.0	2	1	2	2.12765957446809	http://www.upi.com/Top_News/US/2014/01/22/Pentagon-US-should-have-10000-troops-in-Afghanistan-or-nothing/UPI-14711390425912/?spt=rln&or=2
-283537364	20140122	USA	USA	020	3.0	10	2	10	3.99292128203448	http://english.cntv.cn/20140122/103176.shtml
-283537365	20140122	USA	USA	020	3.0	1	1	1	2.03784570596798	http://www.reuters.com/article/2014/01/21/us-usa-security-russia-snowden-idUSBREA0K1RV20140121?feedType=RSS&feedName=wtMostRead
-283537366	20140122	USA	USA	020	3.0	8	1	8	2.61044176706827	http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11190843
-283537367	20140122	USA	USA	020	3.0	2	1	2	7.33590733590734	http://jurist.org/paperchase/2014/01/aclu-challenges-utahs-refusal-to-recognize-same-sex-marriages.php
-283537384	20140122	USA	USA	071	7.4	14	6	14	2.15438197330354	http://www.chron.com/news/crime/article/Conman-turned-pastor-convicted-of-cheating-church-5166715.php
-283537405	20140122	USA	USA	020	3.0	16	1	16	1.99081163859112	http://www.usatoday.com/story/news/nation/2014/01/21/ind-bill-would-allow-guns-in-cars-at-schools/4749137/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+usatoday-NewsTopStories+%28USATODAY+-+News+Top+Stories%29
-283537406	20140122	USA	USA	020	3.0	2	1	2	2.46636771300448	http://www.bloomberg.com/news/2014-01-22/snowden-denies-working-as-foreign-spy-new-yorker-reports.html
-283537412	20140122	USA	USA	071	7.4	3	1	3	2.91750503018109	http://www.miamiherald.com/2014/01/22/3886030/2016-campaign-checklist-omalley.html
-283537413	20140122	USA	USA	071	7.4	1	1	1	2.91750503018109	http://www.miamiherald.com/2014/01/22/3886030/2016-campaign-checklist-omalley.html
-283537414	20140122	USA	USA	071	7.4	1	1	1	2.91750503018109	http://www.miamiherald.com/2014/01/22/3886030/2016-campaign-checklist-omalley.html
-283537451	20140122	USA	USA	020	3.0	10	1	10	2.5089605734767	http://www.reuters.com/article/2014/01/22/us-usa-elections-obama-idUSBREA0L1KL20140122
-283537452	20140122	USA	USA	020	3.0	4	1	4	2.92942743009321	http://www.reuters.com/article/2014/01/22/us-usa-elections-obama-idUSBREA0L1KL20140122?feedType=RSS&feedName=politicsNews
-283537453	20140122	USA	USA	020	3.0	6	1	6	2.92942743009321	http://www.reuters.com/article/2014/01/22/us-usa-elections-obama-idUSBREA0L1KL20140122?feedType=RSS&feedName=politicsNews
-283537454	20140122	USA	USA	020	3.0	20	1	20	4.15094339622642	http://www.reuters.com/article/2014/01/22/us-autos-safety-idUSBREA0L1ZS20140122?feedType=RSS&feedName=domesticNews
-283537474	20140122	USA	USA	070	7.0	4	1	4	1.5625	http://usnews.nbcnews.com/_news/2014/01/22/22399753-supreme-court-denies-stay-of-execution-in-texas-for-mexican-national?lite
-283537475	20140122	USA	USA	070	7.0	2	1	2	1.61073825503356	http://www.washingtonpost.com/national/1-dead-in-purdue-shooting-student-in-custody/2014/01/21/3670c270-8304-11e3-a273-6ffd9cf9f4ba_story.html
-283537476	20140122	USA	USA	073	7.4	5	1	5	6.15384615384615	http://www.reuters.com/article/2014/01/22/usa-detroit-bankruptcy-governor-idUSL2N0KW0UA20140122
-283537502	20140122	USA	USA	020	3.0	24	1	24	0.227619434899813	http://in.reuters.com/article/2014/01/22/usa-weather-idINDEEA0L07O20140122?feedType=RSS&feedName=worldNews
-283537589	20140122	USA	USA	0214	3.4	1	1	1	2.62725779967159	http://www.bloomberg.com/news/2014-01-22/cftc-oversight-jpmorgan-tianhe-bonus-curbs-compliance.html
-283537590	20140122	USA	USA	0214	3.4	1	1	1	2.62725779967159	http://www.bloomberg.com/news/2014-01-22/cftc-oversight-jpmorgan-tianhe-bonus-curbs-compliance.html
-283537639	20140122	USA	USA	026	4.0	1	1	1	0.886524822695036	http://www.contracostatimes.com/news/ci_24971848/bart-police-shooting-still-unclear-whether-fellow-officer
-283537690	20140122	USA	USA	020	3.0	24	3	24	1.58619314396755	http://abcnews.go.com/Health/wireStory/states-weighing-labels-genetically-altered-food-21625264
-283537691	20140122	USA	USA	020	3.0	16	3	16	1.58619314396755	http://abcnews.go.com/Health/wireStory/states-weighing-labels-genetically-altered-food-21625264
-283537740	20140122	USA	ALB	020	3.0	1	1	1	4.58715596330275	http://www.menafn.com/1093758718/Pilgrimage-is-the-biggest-example-of-brotherhood
-283537771	20140122	USA	ESP	020	3.0	2	2	2	4.31399086448993	http://www.menafn.com/1093759061/Lost-work-of-playwright-Lope-de-Vega-found-in-Madrid
-283537772	20140122	USA	ESP	020	3.0	2	2	2	4.31399086448993	http://www.menafn.com/1093759061/Lost-work-of-playwright-Lope-de-Vega-found-in-Madrid
-283537773	20140122	USA	ESP	020	3.0	12	2	12	4.31399086448994	http://www.menafn.com/1093759061/Lost-work-of-playwright-Lope-de-Vega-found-in-Madrid
-283537808	20140122	USA	USA	070	7.0	4	1	4	4.46927374301676	http://detroit.cbslocal.com/2014/01/21/new-analysis-michigan-university-research-corridor-no-2-in-nation-in-innovation/
-283537809	20140122	USA	USA	073	7.4	8	1	8	1.10558353297805	http://politics.blog.ajc.com/2014/01/22/a-uga-professor-referees-the-fight-over-global-warming/
-283537821	20140122	USA	USA	073	7.4	8	1	8	1.10558353297805	http://politics.blog.ajc.com/2014/01/22/a-uga-professor-referees-the-fight-over-global-warming/
-283537826	20140122	USA	CHN	020	3.0	2	1	2	4.3956043956044	http://www.upi.com/News_Photos/Featured/2014/01/upi/6234712b25961f24cf87a035ce6b04a0/MGM-immortalized-with-a-paw-print-ceremony-in-Los-Angeles/?spt=hfp&or=2
-283537840	20140122	USA	USA	071	7.4	6	1	6	3.28542094455852	http://www.washingtonpost.com/local/virginia-politics/sympathy-for-robert-mcdonnell-not-showing-up-in-former-va-governors-defense-fund/2014/01/22/851649c2-8395-11e3-9dd4-e7278db80d86_story.html?wprss=rss_local
-283537999	20140122	USA	AFG	020	3.0	5	1	5	2.96912114014252	http://www.csmonitor.com/World/Security-Watch/2014/0122/Pentagon-plan-for-Afghanistan-More-than-Obama-wants-but-enough
-283538000	20140122	USA	AFG	020	3.0	2	1	2	1.25786163522013	http://thehill.com/blogs/defcon-hill/army/196071-pentagon-pitches-plan-to-obama-for-10000-troops-in-afghanistan
-283538007	20140122	USA	AFR	028	4.0	20	2	20	2.70806996207454	http://allafrica.com/stories/201401221258.html
-283538039	20140122	USA	CHE	020	3.0	4	1	4	3.62622036262204	http://www.usatoday.com/story/opinion/2014/01/21/syria-peace-talks-assad-us-obama-weapons-column/4720299/
-283538118	20140122	USA	EUR	020	3.0	2	1	2	2.99145299145299	http://abcnews.go.com/US/wireStory/today-history-21618294
-283538179	20140122	USA	ISR	020	3.0	8	1	8	3.8597444957869	http://www.counterpunch.org/2014/01/22/the-blind-alley-of-j-street-and-liberal-american-zionism/
-283538180	20140122	USA	ISR	020	3.0	2	1	2	3.8597444957869	http://www.counterpunch.org/2014/01/22/the-blind-alley-of-j-street-and-liberal-american-zionism/
-283538229	20140122	USA	LBN	020	3.0	2	1	2	2.4866785079929	http://www.reuters.com/article/2014/01/22/us-syria-crisis-idUSBREA0L0H820140122?feedType=RSS&feedName=wtMostRead
-283538230	20140122	USA	LBN	020	3.0	2	1	2	2.4866785079929	http://www.reuters.com/article/2014/01/22/us-syria-crisis-idUSBREA0L0H820140122?feedType=RSS&feedName=wtMostRead
-283538238	20140122	USA	LKA	020	3.0	10	1	10	7.92079207920792	Daily Mirror website, Colombo/BBC Monitoring/(c) BBC
-283538249	20140122	USA	MEX	020	3.0	8	1	8	2.55639097744361	http://www.dailymail.co.uk/news/article-2544158/Mexican-gunned-Houston-cop-WILL-executed-tonight-despite-minute-pleas-Mexico-government.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490
-283538250	20140122	USA	MEX	070	7.0	20	1	20	2	http://www.startribune.com/nation/241409751.html
-283538251	20140122	USA	MEX	070	7.0	10	1	10	2.10526315789474	http://www.startribune.com/politics/national/241409751.html
-283538268	20140122	USA	MUS	023	3.4	2	1	2	0	http://www.syracuse.com/news/index.ssf/2014/01/authorities_seeking_help_identifying_body_found_in_jefferson_county_river.html
-283538313	20140122	USA	RUS	075	7.0	2	2	2	1.98917610895832	http://www.iol.co.za/news/world/us-wants-snowden-dead-lawyer-1.1634907
-283538314	20140122	USA	RUS	075	7.0	31	3	31	1.98038372521832	http://in.reuters.com/article/2014/01/21/usa-security-russia-snowden-idINDEEA0K0IG20140121
-283538331	20140122	USA	RUS	075	7.0	6	1	6	3.58166189111748	http://www.bloomberg.com/news/2014-01-22/snowden-seeking-russian-protection-after-threats-lawyer.html
-283538335	20140122	USA	SYR	020	3.0	2	1	2	2.61865793780687	http://www.dailymail.co.uk/news/article-2543803/After-nearly-three-years-100-000-deaths-Syria-peace-conference-begins-Switzerland.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490
-283538336	20140122	USA	SYR	020	3.0	2	1	2	2.61865793780687	http://www.dailymail.co.uk/news/article-2543803/After-nearly-three-years-100-000-deaths-Syria-peace-conference-begins-Switzerland.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490
-283538377	20140122	USA	USA	020	3.0	1	1	1	2.30381569474442	http://www.irna.ir/en/News/81007085/Politic/Diplomat_affair_exposes_deep-rooted_Indo-US_tensions__Kranti_Kumara
-283538378	20140122	USA	USA	020	3.0	1	1	1	2.53164556962025	http://www.torontosun.com/2014/01/22/syria-foes-clash-over-assad-atrocities-at-first-meeting
-283538379	20140122	USA	USA	020	3.0	2	1	2	2.30381569474442	http://www.irna.ir/en/News/81007085/Politic/Diplomat_affair_exposes_deep-rooted_Indo-US_tensions__Kranti_Kumara
-283538380	20140122	USA	USA	020	3.0	5	1	5	2.30381569474442	http://www.irna.ir/en/News/81007085/Politic/Diplomat_affair_exposes_deep-rooted_Indo-US_tensions__Kranti_Kumara
-283538381	20140122	USA	USA	020	3.0	1	1	1	2.45901639344262	http://usnews.nbcnews.com/_news/2014/01/22/22399753-mexican-nationals-lawyers-want-texas-death-chamber-execution-halted?lite
-283538382	20140122	USA	USA	020	3.0	2	2	2	2.92578935757347	http://www.foxnews.com/us/2014/01/22/texas-temporarily-delays-execution-mexican-national-for-killing-cop/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29
-283538383	20140122	USA	USA	020	3.0	18	2	18	4.3714759535655	http://www.nbcnews.com/business/michigan-governor-proposes-detroit-aid-plan-2D11975171
-283538384	20140122	USA	USA	020	3.0	2	1	2	1.16618075801749	http://www.contracostatimes.com/news/ci_24970326/swift-response-brush-fire-off-highway-17-reflects
-283538385	20140122	USA	USA	020	3.0	1	1	1	2.35955056179775	http://www.miamiherald.com/2014/01/22/3885189/mexican-national-scheduled-to.html
-283538386	20140122	USA	USA	020	3.0	1	1	1	2.53164556962025	http://www.torontosun.com/2014/01/22/syria-foes-clash-over-assad-atrocities-at-first-meeting
-283538387	20140122	USA	USA	020	3.0	2	1	2	1.20481927710843	http://online.wsj.com/news/articles/SB10001424052702304632204579337010981161786?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702304632204579337010981161786.html
-283538388	20140122	USA	USA	020	3.0	2	1	2	2.98507462686567	http://www.jacksonfreepress.com/news/2014/jan/22/natural-gas-natural-choice/
-283538389	20140122	USA	USA	020	3.0	2	1	2	1.95488721804511	http://www.eenews.net/greenwire/stories/1059993287/feed
-283538390	20140122	USA	USA	020	3.0	3	2	3	3.12599457935248	http://www.foodandwaterwatch.org/pressreleases/californians-show-strong-opposition-to-fracking-at-todays-state-of-the-state-address/
-283538391	20140122	USA	USA	020	3.0	8	1	8	2.81707388757176	http://www.eenews.net/eenewspm/stories/1059993305/feed
-283538392	20140122	USA	USA	020	3.0	3	3	3	2.30892032040515	http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11190501
-283538393	20140122	USA	USA	020	3.0	4	1	4	0.75	http://www.foxnews.com/us/2014/01/22/grand-jury-declines-to-indict-nc-officer-in-shooting-unarmed-man/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29
-283538394	20140122	USA	USA	020	3.0	1	1	1	2.85261489698891	http://news.yahoo.com/court-appeals-least-temporarily-delay-execution-005354178.html
-283538395	20140122	USA	USA	020	3.0	42	13	42	2.14002196567062	http://www.cnn.com/2014/01/22/us/mexico-texas-tamayo-execution/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+Most+Recent%29
-283538456	20140122	USA	USA	070	7.0	5	1	5	4.46927374301676	http://detroit.cbslocal.com/2014/01/21/new-analysis-michigan-university-research-corridor-no-2-in-nation-in-innovation/
-283538457	20140122	USA	USA	071	7.4	5	1	5	3.87453874538745	http://www.insideindianabusiness.com/newsitem.asp?ID=63332
-283538458	20140122	USA	USA	071	7.4	5	1	5	3.87453874538745	http://www.insideindianabusiness.com/newsitem.asp?ID=63332
-283538459	20140122	USA	USA	071	7.4	4	1	4	3.27723649247121	http://www.miamiherald.com/2014/01/22/3886034/2016-campaign-checklist-rubio.html
-283538460	20140122	USA	USA	071	7.4	6	1	6	0.496688741721854	http://www.foxnews.com/politics/2014/01/22/ex-epa-official-told-lawmakers-project-to-modify-dna-capitalism/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fmost-popular+%28Internal+-+Most+Popular+Content%29
-283538461	20140122	USA	USA	075	7.0	2	1	2	3.58166189111748	http://www.bloomberg.com/news/2014-01-22/snowden-seeking-russian-protection-after-threats-lawyer.html
-283538462	20140122	USA	USA	075	7.0	3	1	3	2.03784570596798	http://www.reuters.com/article/2014/01/21/us-usa-security-russia-snowden-idUSBREA0K1RV20140121?feedType=RSS&feedName=wtMostRead
-283538463	20140122	USA	USA	075	7.0	2	1	2	3.58166189111748	http://www.bloomberg.com/news/2014-01-22/snowden-seeking-russian-protection-after-threats-lawyer.html
-283538518	20140122	USA	USA	020	3.0	30	1	30	2.54175744371823	http://edition.cnn.com/2014/01/22/world/europe/syria-geneva-talks/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fedition_europe+%28RSS%3A+Europe%29
-283538567	20140122	USA	SAS	070	7.0	10	1	10	2.95566502463054	http://reliefweb.int/report/bangladesh/humanitarian-assistance-review-south-asia-fiscal-year-fy-2004-2013
-283538573	20140122	USA	UZB	070	7.0	2	1	2	1.78571428571429	http://en.trend.az/regions/casia/uzbekistan/2232700.html
-283538574	20140122	USA	UZB	070	7.0	4	1	4	1.78571428571429	http://en.trend.az/regions/casia/uzbekistan/2232700.html
-283538575	20140122	USA	UZB	070	7.0	4	1	4	1.78571428571429	http://en.trend.az/regions/casia/uzbekistan/2232700.html
-283538587	20140122	USA	USA	020	3.0	2	1	2	4.04040404040404	http://www.biodieselmagazine.com/articles/9516/jobe-exposes-oil-subsidies-obama-retreat-at-natl-biodiesel-show
-283538588	20140122	USA	USA	020	3.0	2	1	2	4.04040404040404	http://www.biodieselmagazine.com/articles/9516/jobe-exposes-oil-subsidies-obama-retreat-at-natl-biodiesel-show
-283538592	20140122	USA	IRN	020	3.0	8	1	8	2.94117647058824	Voice of the Islamic Republic of Iran, Gorgan/BBC Monitoring/(c) BBC
-283538593	20140122	USA	IRN	020	3.0	2	1	2	2.94117647058824	Voice of the Islamic Republic of Iran, Gorgan/BBC Monitoring/(c) BBC
-283538621	20140122	USA	USA	020	3.0	4	1	4	3.85802469135802	http://www.washingtonpost.com/politics/bipartisan-election-commission-releases-list-of-suggested-fixes/2014/01/22/76902880-8374-11e3-bbe5-6a2a3141e3a9_story.html
-283538698	20140122	USA	USA	020	3.0	10	1	10	3.57142857142857	http://jurist.org/paperchase/2014/01/supreme-court-upholds-hawaii-redistricting-plan.php
-283538707	20140122	USA	USA	070	7.0	2	1	2	1.68855534709193	http://www.eenews.net/greenwire/stories/1059993276/feed
-283538769	20140122	USA	RUS	020	3.0	2	2	2	0.889169910490229	http://english.chosun.com/site/data/html_dir/2014/01/23/2014012300542.html
-283538770	20140122	USA	RUS	020	3.0	2	2	2	0.889169910490229	http://english.chosun.com/site/data/html_dir/2014/01/23/2014012300542.html
-283538779	20140122	USA	USA	020	3.0	2	1	2	2.46636771300448	http://www.bloomberg.com/news/2014-01-22/snowden-denies-working-as-foreign-spy-new-yorker-reports.html
-283538862	20140122	USA	BEL	070	7.0	1	1	1	1.62767039674466	http://www.dailyjournal.net/view/story/6f74710606814046b4f0038a847b95fd/Iran-Nuclear/
-283538863	20140122	USA	BEL	070	7.0	1	1	1	1.62767039674466	http://www.dailyjournal.net/view/story/6f74710606814046b4f0038a847b95fd/Iran-Nuclear/
-283538876	20140122	USA	CAN	020	3.0	2	1	2	2.98507462686567	http://uk.reuters.com/article/2014/01/22/rbcwealthmanagement-adviser-idUKL3N0KW50020140122
-283538877	20140122	USA	CAN	020	3.0	2	1	2	2.98507462686567	http://uk.reuters.com/article/2014/01/22/rbcwealthmanagement-adviser-idUKL3N0KW50020140122
-283538901	20140122	USA	DEU	070	7.0	18	9	18	2.10766657358315	http://www.miamiherald.com/2014/01/22/3885375/eu-ups-emission-limits-relaxes.html
-283538905	20140122	USA	EUR	025	-0.3	1	1	1	1.88205771643664	http://www.dw.de/ukraine-opposition-issues-ultimatum-to-president-yanukovych/a-17381919
-283538906	20140122	USA	EUR	025	-0.3	10	1	10	1.12201963534362	http://www.bdlive.co.za/world/europe/2014/01/22/russia-urges-eu-to-stay-out-of-ukraine-crisis
-283538907	20140122	USA	EUR	025	-0.3	4	1	4	1.88205771643664	http://www.dw.de/ukraine-opposition-issues-ultimatum-to-president-yanukovych/a-17381919
-283538913	20140122	USA	GBR	070	7.0	2	1	2	2.28571428571429	http://news.yahoo.com/chinese-activist-stays-mum-protest-trial-opens-crackdown-094333084.html
-283538914	20140122	USA	GBR	070	7.0	2	1	2	2.28571428571429	http://news.yahoo.com/chinese-activist-stays-mum-protest-trial-opens-crackdown-094333084.html
-283538927	20140122	USA	IRN	070	7.0	3	3	3	1.83317193527781	http://news.yahoo.com/correction-yemen-story-211616910.html
-283538928	20140122	USA	IRN	070	7.0	21	3	21	1.83317193527781	http://news.yahoo.com/correction-yemen-story-211616910.html
-283538934	20140122	USA	ITA	070	7.0	4	2	4	0.811362364635792	http://cnsnews.com/news/article/police-seize-rome-pizzerias-cafes-linked-mafia
-283538935	20140122	USA	ITA	070	7.0	4	2	4	0.811362364635792	http://cnsnews.com/news/article/police-seize-rome-pizzerias-cafes-linked-mafia
-283538942	20140122	USA	KEN	070	7.0	20	2	20	2.51536984384536	http://news.yahoo.com/kenyan-author-lashes-anti-gay-laws-39-m-171952170.html
-283538944	20140122	USA	LBN	070	7.0	8	1	8	2.56739409499358	http://cnsnews.com/news/article/violence-across-syria-peace-conference-begins
-283538955	20140122	USA	USA	020	3.0	2	1	2	2.36686390532544	http://in.reuters.com/article/2014/01/22/beirnewealth-advisers-idINL3N0KV4E020140122
-283538959	20140122	USA	PER	070	7.0	8	1	8	3.00546448087432	http://abcnews.go.com/International/wireStory/correa-loves-america-trust-govt-21627615
-283538975	20140122	USA	THA	070	7.0	4	2	4	1.3698661872637	http://abcnews.go.com/International/wireStory/thai-protesters-march-state-emergency-begins-21621926
-283538976	20140122	USA	THA	070	7.0	4	2	4	1.3698661872637	http://abcnews.go.com/International/wireStory/thai-protesters-march-state-emergency-begins-21621926
-283539001	20140122	USA	USA	070	7.0	2	1	2	1.15894039735099	http://www.seattlepi.com/news/crime/article/State-of-emergency-begins-in-Thailand-5161463.php
-283539002	20140122	USA	USA	070	7.0	1	1	1	4.50310559006211	http://news.yahoo.com/former-virginia-gov-bob-mcdonnell-wife-indicted-federal-035757876.html
-283539003	20140122	USA	USA	070	7.0	24	2	24	3.59945850325179	http://cnsnews.com/news/article/governor-backs-plan-give-bankrupt-detroit-350m
-283539004	20140122	USA	USA	070	7.0	2	1	2	0.886524822695036	http://www.contracostatimes.com/news/ci_24971848/bart-police-shooting-still-unclear-whether-fellow-officer
-283539005	20140122	USA	USA	070	7.0	2	1	2	1.2987012987013	http://www.miamiherald.com/2014/01/22/3885789/police-seize-rome-pizzerias-cafes.html
-283539006	20140122	USA	USA	070	7.0	2	1	2	1.6750418760469	http://www.philly.com/philly/news/nation_world/20140122_ap_a1d1bbf235fc4abca42d9a01282e78ca.html
-283539007	20140122	USA	USA	070	7.0	1	1	1	1.31406044678055	http://www.huffingtonpost.com/2014/01/22/purdue-shooting-motive_n_4643366.html
-283539008	20140122	USA	USA	070	7.0	2	1	2	1.31406044678055	http://www.huffingtonpost.com/2014/01/22/purdue-shooting-motive_n_4643366.html
-283539009	20140122	USA	USA	070	7.0	12	5	12	1.7882450339225	http://www.csmonitor.com/USA/Latest-News-Wires/2014/0122/Purdue-shooting-remains-a-mystery-video
-283539010	20140122	USA	USA	070	7.0	3	2	3	2.10860200967606	http://hosted.ap.org/dynamic/stories/M/ML_ISRAEL_US_AL_QAIDA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
-283539011	20140122	USA	USA	070	7.0	4	3	4	1.72357106954368	http://cnsnews.com/news/article/israel-says-it-foiled-al-qaida-plot-us-embassy
-283539012	20140122	USA	USA	070	7.0	1	1	1	0.806451612903226	http://news.yahoo.com/storm-buries-northeast-16-inches-snow-nj-055627711.html
-283539013	20140122	USA	USA	071	7.4	20	2	20	5.43478260869565	http://in.reuters.com/article/2014/01/22/usa-detroit-bankruptcy-governor-idINL2N0KW1PD20140122
-283539028	20140122	USA	USA	070	7.0	2	1	2	1.2987012987013	http://www.miamiherald.com/2014/01/22/3885789/police-seize-rome-pizzerias-cafes.html
-283539029	20140122	USA	USA	070	7.0	2	1	2	1.27167630057803	http://www.chron.com/news/medical/article/Obama-targets-college-sexual-assault-epidemic-5164718.php
-283539037	20140122	USA	GBR	073	7.4	6	1	6	2.5706940874036	http://www.reuters.com/article/2014/01/22/us-syria-crisis-britain-refugees-idUSBREA0L1K020140122
-283539038	20140122	USA	GBR	073	7.4	2	1	2	2.5706940874036	http://www.reuters.com/article/2014/01/22/us-syria-crisis-britain-refugees-idUSBREA0L1K020140122
-283539053	20140122	USA	RUS	020	3.0	6	1	6	3.7122969837587	http://www.thehindu.com/news/international/world/snowden-to-ask-for-russian-police-protection-after-us-threats/article5606082.ece
-283539054	20140122	USA	RUS	020	3.0	6	1	6	2.78688524590164	http://www.thehindu.com/news/international/snowden-to-ask-for-russian-police-protection-after-us-threats/article5606082.ece
-283539058	20140122	USA	USA	020	3.0	4	1	4	3.7375415282392	http://www.theguardian.com/technology/2014/jan/22/your-password-is-easy-to-crack
-283539069	20140122	USA	USA	020	3.0	6	1	6	1.24826629680999	http://www.dailymail.co.uk/news/article-2543705/Florida-politician-calls-execution-obama-facebook-accounts.html?ITO=1490&ns_campaign=1490
-283539106	20140122	VAT	ITA	020	3.0	20	2	20	1.49043260744587	http://news.yahoo.com/vatican-bank-asks-italy-normalize-relations-reforms-083905471--sector.html
-283539129	20140122	VAT	SYR	020	3.0	10	1	10	3.79746835443038	http://www.miamiherald.com/2014/01/22/3885353/pope-issues-peace-appeal-to-syria.html
-283539137	20140122	VAT	ITA	020	3.0	40	3	40	1.31836892953819	http://www.rte.ie/news/business/2014/0122/499402-vatican-bank/
-283539138	20140122	VAT	ITA	020	3.0	30	2	30	1.57660913827897	http://www.rte.ie/news/business/2014/0122/499402-vatican-bank/
-283539139	20140122	VAT	ITA	020	3.0	30	3	30	2.05001418251797	http://www.trust.org/item/20140122125232-zm0rk/
-283539168	20140122	VEN	MDV	070	7.0	10	1	10	0.719424460431655	http://phys.org/news/2014-01-guppy-layers-cells.html
-283539173	20140122	VEN	VEN	071	7.4	6	1	6	1.47876752330291	http://www.cnn.com/2014/01/21/us/iran-levinson-family-speaks/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_us+%28RSS%3A+U.S.%29
-283539178	20140122	VEN	VEN	071	7.4	6	1	6	1.47876752330291	http://www.cnn.com/2014/01/21/us/iran-levinson-family-speaks/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_us+%28RSS%3A+U.S.%29
-283539312	20140122	ZAF	AFR	020	3.0	4	1	4	3.37078651685393	http://www.iol.co.za/business/companies/impala-stops-night-shifts-1.1635377
-283539313	20140122	ZAF	AFR	0253	-0.3	6	3	6	2.02079894001148	http://news.yahoo.com/qaeda-demands-cash-kidnapped-south-african-193651878.html
-283539314	20140122	ZAF	AFR	0253	-0.3	6	3	6	2.02079894001148	http://news.yahoo.com/qaeda-demands-cash-kidnapped-south-african-193651878.html
-283539369	20140122	ZAF	ZAF	020	3.0	10	1	10	1.42857142857143	http://www.iol.co.za/news/south-africa/northern-cape/kimberley-residents-urged-to-save-water-1.1635353
-283539393	20140122	ZAF	ZAF	020	3.0	4	2	4	3.04126886356637	http://www.news24.com/SouthAfrica/News/Breytenbach-files-appeal-20140122
-283539401	20140122	ZWE	AFR	071	7.4	10	1	10	3.94736842105263	http://www.bdlive.co.za/africa/africanbusiness/2014/01/22/zimbabwe-to-invest-sovereign-fund-in-minerals
-283539615	20140123	SYR	CHE	020	3.0	2	1	2	5.12820512820513	http://reliefweb.int/report/syrian-arab-republic/top-humanitarian-leaders-pen-open-letter-geneva-ii-peace-talk
-283539616	20140123	SYR	CHE	020	3.0	6	1	6	5.12820512820513	http://reliefweb.int/report/syrian-arab-republic/top-humanitarian-leaders-pen-open-letter-geneva-ii-peace-talk
+http://www.theguardian.com/business/2014/jan/22/christies-record-breaking-year-auction
+http://www.theguardian.com/business/2014/jan/22/christies-record-breaking-year-auction
+http://www.theguardian.com/business/2014/jan/22/christies-record-breaking-year-auction
+http://www.theguardian.com/business/2014/jan/22/christies-record-breaking-year-auction
+http://www.theguardian.com/business/2014/jan/22/christies-record-breaking-year-auction
+http://uk.reuters.com/article/2014/01/22/uk-syria-crisis-britain-refugees-idUKBREA0L1JU20140122?feedType=RSS&feedName=topNews
+http://www.reuters.com/article/2014/01/22/us-syria-crisis-britain-refugees-idUSBREA0L1K020140122
+http://news.yahoo.com/britain-39-cameron-comes-under-pressure-syrian-refugees-164903055.html
+http://uk.reuters.com/article/2014/01/22/uk-syria-crisis-britain-refugees-idUKBREA0L1JU20140122?feedType=RSS&feedName=topNews
+http://news.yahoo.com/britain-39-cameron-comes-under-pressure-syrian-refugees-164903055.html
+http://timesofindia.indiatimes.com/world/us/Snowden-denies-he-got-help-from-Russia-in-leaking-US-secrets-Report/articleshow/29191871.cms
+http://worldnews.nbcnews.com/_news/2014/01/22/22392599-absurd-snowden-denies-getting-help-from-russia-on-leaks
+http://timesofindia.indiatimes.com/world/us/Snowden-denies-he-got-help-from-Russia-in-leaking-US-secrets-Report/articleshow/29191871.cms
+http://worldnews.nbcnews.com/_news/2014/01/22/22392599-absurd-snowden-denies-getting-help-from-russia-on-leaks
+http://www.chicagotribune.com/news/local/ct-cook-county-fundraising-met-0122-20140122,0,7606707.story?track=rss
+http://www.usatoday.com/story/news/politics/2014/01/22/de-blasio-cuomo-tax-the-rich/4724291/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+usatoday-NewsTopStories+%28USATODAY+-+News+Top+Stories%29
+http://www.miamiherald.com/2014/01/22/3886353/meryl-streep-set-to-speak-at-umass.html
+http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11190677
+http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11190677
+http://www.theglobeandmail.com/news/politics/draft-harper-serenades-netanyahu/article16444477/?cmpid=rss1
+http://www.npr.org/blogs/thetwo-way/2014/01/22/264877811/watch-canadian-pm-belts-out-hey-jude-during-visit-to-israel?ft=1&f=1001
+http://www.npr.org/blogs/thetwo-way/2014/01/22/264877811/watch-canadian-pm-belts-out-hey-jude-during-visit-to-israel?ft=1&f=1001
+http://www.npr.org/blogs/thetwo-way/2014/01/22/264877811/watch-canadian-pm-belts-out-hey-jude-during-visit-to-israel?ft=1&f=1001
+http://www.npr.org/blogs/thetwo-way/2014/01/22/264877811/watch-canadian-pm-belts-out-hey-jude-during-visit-to-israel?ft=1&f=1001
+http://www.npr.org/blogs/thetwo-way/2014/01/22/264877811/watch-canadian-pm-belts-out-hey-jude-during-visit-to-israel?ft=1&f=1001
+http://www.ctvnews.ca/politics/harper-serenades-israeli-leader-with-rousing-rendition-of-hey-jude-1.1650832
+http://www.menafn.com/1093758555/Passengers-Rescued-from-Ship-Trapped-in-Antarctic-Ice-Arrive-in-Australia
+http://www.prnewswire.com/news-releases/vtv-applauds-bi-partisan-congressional-support-for-new-school--campus-safety-initiatives-241537921.html
+http://www.khaama.com/afghan-police-rescue-all-63-abducted-de-miners-in-herat-2711
+http://www.khaama.com/afghan-police-rescue-all-63-abducted-de-miners-in-herat-2711
+http://www.chinapost.com.tw/taiwan/intl-community/2014/01/23/399048/Taiwan-Swaziland-parliamentary.htm
+http://www.chinapost.com.tw/taiwan/intl-community/2014/01/23/399048/Taiwan-Swaziland-parliamentary.htm
+http://www.futurity.org/decoded-dna-help-fight-parasitic-hookworms/
+http://www.futurity.org/decoded-dna-help-fight-parasitic-hookworms/
+http://www.futurity.org/decoded-dna-help-fight-parasitic-hookworms/
+http://reliefweb.int/report/angola/over-26000-angolans-return-home-until-end-2014
+http://news.am/eng/news/190371.html
+http://news.am/eng/news/190371.html
+http://www.cbsnews.com/news/passengers-from-icebound-antarctic-ship-reach-australia/
+http://news.yahoo.com/rescued-antarctic-passengers-arrive-australia-132554632.html
+http://www.telegram.com/article/20140122/NEWS/301229915/1052/RSS01
+http://www.telegram.com/article/20140122/NEWS/301229915/1052/RSS01
+http://www.cbsnews.com/news/passengers-from-icebound-antarctic-ship-reach-australia/
+http://www.telegram.com/article/20140122/NEWS/301229915/1052/RSS01
+http://news.yahoo.com/rescued-antarctic-passengers-arrive-australia-132554632.html
+http://www.angelnews.co.uk/article.jsf?articleId=15317
+http://www.aljazeera.com/news/americas/2014/01/australia-blasts-snowden-over-treachery-201412220248878896.html
+http://www.aljazeera.com/news/americas/2014/01/australia-blasts-snowden-over-treachery-201412220248878896.html
+http://www.aljazeera.com/news/americas/2014/01/australia-blasts-snowden-over-treachery-201412220248878896.html
+http://www.theguardian.com/world/2014/jan/22/australias-reputation-on-human-rights-damaged-by-asylum-policies-ngo-says
+http://www.theguardian.com/world/2014/jan/22/australias-reputation-on-human-rights-damaged-by-asylum-policies-ngo-says
+http://www.theguardian.com/world/2014/jan/22/independent-commission-future-internet-nsa-revelations-davos
+http://www.stangnet.com/2014/01/21/first-2015-ford-mustang-auctioned-huge-coin/
+http://www.dailystar.com.lb/Culture/Lifestyle/2014/Jan-23/244989-sans-gender-or-season-hourani-shows-unisex-couture.ashx
+http://www.dailystar.com.lb/Culture/Lifestyle/2014/Jan-23/244989-sans-gender-or-season-hourani-shows-unisex-couture.ashx
+http://www.theglobeandmail.com/news/toronto/rob-fords-personal-issues-a-distraction-for-toronto-wynne-warns/article16449256/?cmpid=rss1
+http://www.independent.co.uk/news/world/australasia/communication-breakdown-on-board-the-akademik-shokalskiy-blamed-for-the-ship-being-stranded-in-antarctic-ice-over-christmas-9078090.html
+http://www.smh.com.au/federal-politics/political-news/plan-to-curb-antarctic-expeditions-after-costly-rescue-of-trapped-ship-20140122-3191c.html
+http://www.smh.com.au/federal-politics/political-news/plan-to-curb-antarctic-expeditions-after-costly-rescue-of-trapped-ship-20140122-3191c.html
+Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
+Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
+Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
+http://www.channelnewsasia.com/news/business/international/china-to-fund-us-10b/964738.html
+http://www.smh.com.au/federal-politics/political-news/plan-to-curb-antarctic-expeditions-after-costly-rescue-of-trapped-ship-20140122-3191c.html
+http://www.smh.com.au/federal-politics/political-news/plan-to-curb-antarctic-expeditions-after-costly-rescue-of-trapped-ship-20140122-3191c.html
+http://www.bbc.co.uk/news/business-25838655
+http://www.bbc.co.uk/news/business-25838655
+http://www.bbc.co.uk/news/business-25838655
+Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
+Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
+Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
+http://pakobserver.net/detailnews.asp?id=231053
+Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
+Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
+Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
+http://www.b92.net//eng/news/business.php?yyyy=2014&mm=01&dd=22&nav_id=89081
+http://www.b92.net//eng/news/business.php?yyyy=2014&mm=01&dd=22&nav_id=89081
+http://news.nationalgeographic.com/news/energy/2014/01/140122-made-in-china-pollution-from-exports/
+http://www.chinapost.com.tw/international/americas/2014/01/23/399056/Chinese-sculpture.htm
+http://www.smh.com.au/federal-politics/political-news/plan-to-curb-antarctic-expeditions-after-costly-rescue-of-trapped-ship-20140122-3191c.html
+http://www.smh.com.au/federal-politics/political-news/plan-to-curb-antarctic-expeditions-after-costly-rescue-of-trapped-ship-20140122-3191c.html
+http://english.eluniversal.com/economia/140121/sale-of-venezuelan-oil-to-the-us-near-750000-bpd-in-2013
+http://english.eluniversal.com/economia/140121/sale-of-venezuelan-oil-to-the-us-near-750000-bpd-in-2013
+http://english.eluniversal.com/economia/140121/sale-of-venezuelan-oil-to-the-us-near-750000-bpd-in-2013
+http://english.eluniversal.com/economia/140121/sale-of-venezuelan-oil-to-the-us-near-750000-bpd-in-2013
+http://allafrica.com/stories/201401220319.html
+http://allafrica.com/stories/201401220319.html
+http://allafrica.com/stories/201401220319.html
+http://www.chinapost.com.tw/international/americas/2014/01/23/399056/Chinese-sculpture.htm
+http://www.google.com/hostednews/afp/article/ALeqM5hnxVwetgLusnt9hOBOO4xmm0nTig?docId=b4763dbc-a182-4a3a-9c00-9d0209bb98fc&hl=en
+http://www.google.com/hostednews/afp/article/ALeqM5hnxVwetgLusnt9hOBOO4xmm0nTig?docId=b4763dbc-a182-4a3a-9c00-9d0209bb98fc&hl=en
+http://www.google.com/hostednews/afp/article/ALeqM5hnxVwetgLusnt9hOBOO4xmm0nTig?docId=b4763dbc-a182-4a3a-9c00-9d0209bb98fc&hl=en
+http://www.google.com/hostednews/afp/article/ALeqM5hnxVwetgLusnt9hOBOO4xmm0nTig?docId=b4763dbc-a182-4a3a-9c00-9d0209bb98fc&hl=en
+http://www.google.com/hostednews/afp/article/ALeqM5hnxVwetgLusnt9hOBOO4xmm0nTig?docId=b4763dbc-a182-4a3a-9c00-9d0209bb98fc&hl=en
+http://www.dailystar.com.lb/Business/Middle-East/2014/Jan-23/244961-dubai-retailer-maf-to-invest-23b-in-egypt.ashx
+http://www.dailystar.com.lb/Business/Middle-East/2014/Jan-23/244961-dubai-retailer-maf-to-invest-23b-in-egypt.ashx
+http://www.dailystar.com.lb/Business/Middle-East/2014/Jan-23/244961-dubai-retailer-maf-to-invest-23b-in-egypt.ashx
+http://www.dailystar.com.lb/Business/Middle-East/2014/Jan-23/244961-dubai-retailer-maf-to-invest-23b-in-egypt.ashx
+Multiple Sources/BBC Monitoring/(c) BBC
+Multiple Sources/BBC Monitoring/(c) BBC
+Multiple Sources/BBC Monitoring/(c) BBC
+http://www.voanews.com/content/ethiopian-troops-join-au-force-in-somalia/1835401.html
+http://www.voanews.com/content/ethiopian-troops-join-au-force-in-somalia/1835401.html
+http://www.voanews.com/content/ethiopian-troops-join-au-force-in-somalia/1835401.html
+http://www.voanews.com/content/ethiopian-troops-join-au-force-in-somalia/1835401.html
+http://www.voanews.com/content/ethiopian-troops-join-au-force-in-somalia/1835401.html
+http://www.voanews.com/content/ethiopian-troops-join-au-force-in-somalia/1835401.html
+Multiple Sources/BBC Monitoring/(c) BBC
+Multiple Sources/BBC Monitoring/(c) BBC
+Multiple Sources/BBC Monitoring/(c) BBC
+http://halfhollowhills.patch.com/groups/around-town/p/95-inches-of-snow-measured-in-huntington-halfhollowhills?ncid=txtlnkusaolp00000593
+http://www.fijitimes.com/story.aspx?id=257803
+http://www.fijitimes.com/story.aspx?id=257803
+http://www.dw.de/germany-to-bolster-its-presence-in-africa/a-17380347
+http://www.dw.de/germany-to-bolster-its-presence-in-africa/a-17380347
+http://www.talktalk.co.uk/news/world/article/antarctic-passengers-on-dry-land/116824/
+http://www.telegram.com/article/20140122/NEWS/301229915/1052/RSS01
+http://www.telegram.com/article/20140122/NEWS/301229915/1052/RSS01
+http://www.telegram.com/article/20140122/NEWS/301229915/1052/RSS01
+http://news.yahoo.com/rescued-antarctic-passengers-arrive-australia-132554632.html
+http://www.bloomberg.com/news/2014-01-21/invasion-of-spanish-builders-angers-france-struggling-to-compete.html
+http://www.bloomberg.com/news/2014-01-21/invasion-of-spanish-builders-angers-france-struggling-to-compete.html
+http://www.express.co.uk/news/uk/455507/Fury-at-400-000-green-energy-handout-for-Malawi-as-Scots-OAPs-shiver
+http://www.express.co.uk/news/uk/455507/Fury-at-400-000-green-energy-handout-for-Malawi-as-Scots-OAPs-shiver
+http://www.express.co.uk/news/uk/455507/Fury-at-400-000-green-energy-handout-for-Malawi-as-Scots-OAPs-shiver
+http://www.express.co.uk/news/uk/455507/Fury-at-400-000-green-energy-handout-for-Malawi-as-Scots-OAPs-shiver
+http://www.scotsman.com/news/alyn-smith-uk-isolated-by-unpleasant-rhetoric-1-3279016
+http://www.newsday.com/hyundai-to-sponsor-tate-modern-exhibitions-1.6833331
+http://www.newsday.com/hyundai-to-sponsor-tate-modern-exhibitions-1.6833331
+http://timesofindia.indiatimes.com/india/Indira-Gandhi-asked-Thatcher-to-stop-helping-Lanka-militarily/articleshow/29210478.cms
+http://www.startribune.com/world/241545591.html
+http://www.startribune.com/world/241545591.html
+http://www.bbc.co.uk/democracylive/house-of-commons-25844954
+http://www.independent.co.uk/news/uk/politics/donald-macintyres-sketch-the-sword-prompts-an-unseemly-bout-of-consensus-9078469.html
+http://timesofindia.indiatimes.com/india/Indira-Gandhi-asked-Thatcher-to-stop-helping-Lanka-militarily/articleshow/29210478.cms
+http://timesofindia.indiatimes.com/india/Indira-Gandhi-asked-Thatcher-to-stop-helping-Lanka-militarily/articleshow/29210478.cms
+http://uk.reuters.com/article/2014/01/22/freeport-results-idUKL2N0KW0L020140122
+http://news.am/eng/news/190437.html
+http://www.globalsecurity.org/military/library/news/2014/01/mil-140121-nato01.htm
+http://www.newser.com/story/181127/how-climate-change-fueled-syrias-uprising.html
+http://www.newser.com/story/181127/how-climate-change-fueled-syrias-uprising.html
+http://www.breakingnews.ie/world/assad-future-clouds-syria-talks-620482.html
+http://www.breakingnews.ie/world/assad-future-clouds-syria-talks-620482.html
+http://www.chron.com/news/article/friedman-5164222.php
+http://www.chron.com/news/article/friedman-5164222.php
+http://www.cnn.com/2014/01/21/opinion/ghitis-syria-iran/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_latest+%28RSS%3A+Most+Recent%29
+http://www.cbsnews.com/news/first-day-of-syria-peace-talks-end-on-fragile-ground/
+http://www.contracostatimes.com/news/ci_24968699/syria-u-s-clash-sharply-at-peace-talks
+http://www.contracostatimes.com/news/ci_24968699/syria-u-s-clash-sharply-at-peace-talks
+http://www.trust.org/item/20140116173617-qfjbw/?source=hpblogs
+http://www.haaretz.com/news/diplomacy-defense/.premium-1.570047
+http://www.theglobeandmail.com/news/politics/in-tel-aviv-harper-offers-gloomy-view-of-syrias-war-and-egypts-democracy/article16460343/?cmpid=rss1
+http://www.theglobeandmail.com/news/politics/in-tel-aviv-harper-offers-gloomy-view-of-syrias-war-and-egypts-democracy/article16460343/?cmpid=rss1
+http://www.theglobeandmail.com/news/politics/in-tel-aviv-harper-offers-gloomy-view-of-syrias-war-and-egypts-democracy/article16460343/?cmpid=rss1
+http://www.thehindu.com/news/international/world/nuremberg-documents-on-display-in-berlin/article5606228.ece
+http://www.thehindu.com/news/international/world/nuremberg-documents-on-display-in-berlin/article5606228.ece
+http://www.foxnews.com/world/2014/01/22/israel-foils-al-qaeda-plot-on-us-embassy-internal-security-agency-says/
+http://uk.reuters.com/article/2014/01/22/uk-italy-privatisation-idUKBREA0L1DR20140122?feedType=RSS&feedName=businessNews
+http://www.cnn.com/2014/01/21/justice/maryland-exorcism-deaths/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_crime+%28RSS%3A+Crime%29
+Petra-JNA website, Amman/BBC Monitoring/(c) BBC
+Petra-JNA website, Amman/BBC Monitoring/(c) BBC
+http://www.nation.co.ke/news/Kenya-wont-send-troops-to-SOUTH-Sudan/-/1056/2156646/-/cpdkv4z/-/index.html
+http://www.capitalfm.co.ke/news/2014/01/kenya-wont-send-troops-to-south-sudan-amina/
+http://www.capitalfm.co.ke/news/2014/01/kenya-wont-send-troops-to-south-sudan-amina/
+http://www.newsday.com/hyundai-to-sponsor-tate-modern-exhibitions-1.6833331
+http://www.dailymail.co.uk/news/article-2544318/Revealed-The-43m-paid-elite-group-donors-access-Tories-including-David-Cameron.html?ITO=1490&ns_campaign=1490
+Libya Herald, Tripoli/BBC Monitoring/(c) BBC
+http://www.bloomberg.com/news/2014-01-22/libyan-investment-authority-sues-goldman-sachs-in-london-court.html
+http://www.voanews.com/content/texas-executes-mexican-national-despite-international-pressure/1835822.html
+http://www.voanews.com/content/texas-executes-mexican-national-despite-international-pressure/1835822.html
+http://www.washingtontimes.com/news/2014/jan/22/lobbyist-charged-in-san-diego-campaign-scandal/
+http://www.binarytribune.com/2014/01/22/google-acquires-second-wind-farm-in-sweden/
+http://www.gmanetwork.com/news/story/345049/news/nation/new-sulu-sultan-renews-call-on-aquino-to-help-reclaim-sabah
+http://www.bloomberg.com/news/2014-01-22/carlyle-group-said-to-raise-900-million-for-energy-fund.html
+http://globalvoicesonline.org/2014/01/22/rule-of-law-overturned-in-nauru/
+http://globalvoicesonline.org/2014/01/22/rule-of-law-overturned-in-nauru/
+http://globalvoicesonline.org/2014/01/22/rule-of-law-overturned-in-nauru/
+http://www.globalsecurity.org/military/library/news/2014/01/mil-140121-nato01.htm
+http://www.globalsecurity.org/military/library/news/2014/01/mil-140121-nato01.htm
+http://www.globalsecurity.org/military/library/news/2014/01/mil-140121-nato01.htm
+http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=11190489
+http://www.timescolonist.com/virgin-australia-posts-88-million-loss-blames-competition-restructuring-cost-and-carbon-tax-1.606522
+http://www.globalsecurity.org/military/library/news/2014/01/mil-140121-nato01.htm
+http://www.globalsecurity.org/military/library/news/2014/01/mil-140121-nato01.htm
+http://www.voanews.com/content/hk-woman-charged-in-indonesian-maid-beating/1835417.html
+http://www.voanews.com/content/hk-woman-charged-in-indonesian-maid-beating/1835417.html
+http://www.world-nuclear-news.org/EE-Greenhouse-gas-leads-new-European-targets-2201141.html
+http://www.ynetnews.com/articles/0,7340,L-4479989,00.html
+http://www.ynetnews.com/articles/0,7340,L-4479989,00.html
+http://www.reuters.com/article/2014/01/22/us-israel-palestinians-eu-idUSBREA0L1PT20140122?feedType=RSS&feedName=worldNews
+http://reliefweb.int/report/occupied-palestinian-territory/zakat-feeding-gazas-children
+http://edition.cnn.com/2014/01/22/world/meast/syria-torture-photos/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fedition_meast+%28RSS%3A+Middle+East%29
+http://edition.cnn.com/2014/01/22/world/meast/syria-torture-photos/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fedition_meast+%28RSS%3A+Middle+East%29
+http://edition.cnn.com/2014/01/22/world/meast/syria-torture-photos/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fedition_meast+%28RSS%3A+Middle+East%29
+Belapan news agency, Minsk/BBC Monitoring/(c) BBC
+Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
+Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
+Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
+Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
+Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
+Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
+http://www.bloomberg.com/news/2014-01-21/syria-peace-talks-starting-in-switzerland-as-world-powers-gather.html
+http://www.bloomberg.com/news/2014-01-21/syria-peace-talks-starting-in-switzerland-as-world-powers-gather.html
+Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
+Ministry of Foreign Affairs website, Moscow/BBC Monitoring/(c) BBC
+http://www.reuters.com/article/2014/01/22/russia-kamaz-idUSL2N0KW09D20140122?feedType=RSS&feedName=privateEquity
+http://www.themoscowtimes.com/business/article/chemezov-sees-russian-buyers-for-kamaz/493170.html
+http://www.themoscowtimes.com/business/article/chemezov-sees-russian-buyers-for-kamaz/493170.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:%20themoscowtimes/RUXi%20(The%20Moscow%20Times)
+http://www.themoscowtimes.com/business/article/chemezov-sees-russian-buyers-for-kamaz/493170.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:%20themoscowtimes/RUXi%20(The%20Moscow%20Times)
+http://www.washingtonpost.com/world/national-security/snowden-denies-receiving-assistance-from-russian-intelligence-with-nsa-leaks/2014/01/21/a85cca18-830a-11e3-9dd4-e7278db80d86_story.html?wprss=rss_national-security
+http://www.washingtonpost.com/world/national-security/snowden-denies-receiving-assistance-from-russian-intelligence-with-nsa-leaks/2014/01/21/a85cca18-830a-11e3-9dd4-e7278db80d86_story.html?wprss=rss_national-security
+http://www.washingtonpost.com/world/national-security/snowden-denies-receiving-assistance-from-russian-intelligence-with-nsa-leaks/2014/01/21/a85cca18-830a-11e3-9dd4-e7278db80d86_story.html?wprss=rss_national-security
+http://www.washingtonpost.com/world/national-security/snowden-denies-receiving-assistance-from-russian-intelligence-with-nsa-leaks/2014/01/21/a85cca18-830a-11e3-9dd4-e7278db80d86_story.html?wprss=rss_national-security
+http://www.bloomberg.com/news/2014-01-22/snowden-denies-working-as-foreign-spy-new-yorker-reports.html
+http://www.bloomberg.com/news/2014-01-22/snowden-denies-working-as-foreign-spy-new-yorker-reports.html
+http://www.rferl.org/content/snowden-says-acted-alone/25238109.html
+http://www.rferl.org/content/snowden-says-acted-alone/25238109.html
+http://www.bloomberg.com/news/2014-01-22/snowden-denies-working-as-foreign-spy-new-yorker-reports.html
+http://www.dw.de/no-peace-for-syria-in-switzerland/a-17378980
+http://www.reuters.com/article/2014/01/22/rohde-syria-idUSL2N0KW23S20140122
+http://www.reuters.com/article/2014/01/22/rohde-syria-idUSL2N0KW23S20140122
+http://www.chron.com/news/article/friedman-5164222.php
+http://www.chron.com/news/article/friedman-5164222.php
+http://www.reuters.com/article/2014/01/22/rohde-syria-idUSL2N0KW23S20140122
+http://www.reuters.com/article/2014/01/22/rohde-syria-idUSL2N0KW23S20140122
+http://reliefweb.int/report/sudan/european-commission-s-humanitarian-office-supports-fight-against-child-malnutrition
+http://www.upi.com/Top_News/World-News/2014/01/22/S-Sudan-lawmakers-say-more-than-2500-killed-in-Bor-fighting/UPI-84881390408101/?spt=rln&or=4
+http://www.upi.com/Top_News/World-News/2014/01/22/S-Sudan-lawmakers-say-more-than-2500-killed-in-Bor-fighting/UPI-84881390408101/?spt=rln&or=4
+http://www.thestar.com.my/News/World/2014/01/22/EU-poised-to-boost-Gambia-aid-despite-rights-violations/
+http://www.bbc.co.uk/news/world-africa-25849750
+http://www.bbc.co.uk/news/world-africa-25849750
+http://www.bbc.co.uk/news/world-africa-25849750
+http://www.bbc.co.uk/news/world-africa-25849750
+http://www.bbc.co.uk/news/world-africa-25849750
+http://www.bbc.co.uk/news/world-africa-25849750
+http://www.bbc.co.uk/news/world-africa-25849750
+http://www.bbc.co.uk/news/world-africa-25849750
+http://www.bbc.co.uk/news/world-africa-25849750
+http://www.bbc.co.uk/news/world-africa-25849750
+http://www.voanews.com/content/ethiopian-troops-join-au-force-in-somalia/1835401.html
+Radio Voice of Mudug, Gaalkacyo/BBC Monitoring/(c) BBC
+http://www.bbc.co.uk/news/world-africa-25849750
+http://www.bbc.co.uk/news/world-africa-25849750
+http://www.thelocal.se/20140122/jamie-oliver-to-open-stockholm-restaurant
+http://www.thelocal.se/20140122/dismemberment-killer-jailed-for-14-years
+http://news.yahoo.com/two-british-women-charged-syria-terrorism-offences-225118622.html
+http://www.theguardian.com/commentisfree/2014/jan/22/geneva-ii-syria-5-things
+http://www.reuters.com/article/2014/01/22/rohde-syria-idUSL2N0KW23S20140122
+http://www.theguardian.com/commentisfree/2014/jan/22/geneva-ii-syria-5-things
+http://www.reuters.com/article/2014/01/22/rohde-syria-idUSL2N0KW23S20140122
+http://www.reuters.com/article/2014/01/22/rohde-syria-idUSL2N0KW23S20140122
+http://www.jpost.com/Middle-East/Syrian-opposition-leader-Torture-photos-unprecedented-except-in-Nazi-camps-339003
+http://in.reuters.com/article/2014/01/22/syria-crisis-crimes-idINDEEA0L08T20140122
+http://www.marketwatch.com/story/thailand-declares-state-of-emergency-for-bangkok-2014-01-22
+http://in.reuters.com/article/2014/01/22/fitch-publishes-sme-development-bank-of-idINFit68564520140122
+http://www.news.az/articles/85895
+http://www.news.az/articles/85895
+http://www.news.az/articles/85895
+Anadolu (also known as Anatolia) news agency website, Ankara/BBC Monitoring/(c) BBC
+http://www.upi.com/Top_News/US/2014/01/22/Bipolar-man-who-was-tortured-in-Tanzania-granted-US-asylum/UPI-25051390407943/
+http://www.upi.com/Top_News/US/2014/01/22/Bipolar-man-who-was-tortured-in-Tanzania-granted-US-asylum/UPI-25051390407943/
+http://www.news24.com/Africa/News/East-Africa-approves-military-force-for-S-Sudan-20140122-3
+http://www.news24.com/Africa/News/East-Africa-approves-military-force-for-S-Sudan-20140122-3
+http://www.rferl.org/content/ukraine-euromaidan-first-victims-nihoyan-zhyzneuski/25239108.html
+http://www.rferl.org/content/ukraine-euromaidan-first-victims-nihoyan-zhyzneuski/25239108.html
+http://www.rferl.org/content/ukraine-euromaidan-first-victims-nihoyan-zhyzneuski/25239108.html
+http://www.cnn.com/2014/01/22/world/europe/ukraine-protests/
+http://www.news24.com/Africa/News/Obama-to-invite-47-leaders-to-US-Africa-summit-20140121
+http://in.reuters.com/article/2014/01/22/mideast-markets-wrap-idINL5N0KW2HA20140122
+http://in.reuters.com/article/2014/01/22/mideast-markets-wrap-idINL5N0KW2HA20140122
+http://www.angelnews.co.uk/article.jsf?articleId=15317
+http://www.google.com/hostednews/afp/article/ALeqM5hnxVwetgLusnt9hOBOO4xmm0nTig?docId=b4763dbc-a182-4a3a-9c00-9d0209bb98fc&hl=en
+http://www.google.com/hostednews/afp/article/ALeqM5hnxVwetgLusnt9hOBOO4xmm0nTig?docId=b4763dbc-a182-4a3a-9c00-9d0209bb98fc&hl=en
+http://finance.yahoo.com/news/chinese-internet-traffic-redirected-small-120049668.html
+http://finance.yahoo.com/news/chinese-internet-traffic-redirected-small-120049668.html
+http://www.inquisitr.com/1105379/china-air-pollution-linked-to-western-united-states-air-pollution-study-says/
+http://hosted.ap.org/dynamic/stories/U/US_MCCONNELL_CAMPAIGN_ADS?SITE=NVREN&SECTION=HOME&TEMPLATE=DEFAULT
+http://www.google.com/hostednews/afp/article/ALeqM5hnxVwetgLusnt9hOBOO4xmm0nTig?docId=b4763dbc-a182-4a3a-9c00-9d0209bb98fc&hl=en
+http://www.google.com/hostednews/afp/article/ALeqM5hnxVwetgLusnt9hOBOO4xmm0nTig?docId=b4763dbc-a182-4a3a-9c00-9d0209bb98fc&hl=en
+http://www.google.com/hostednews/afp/article/ALeqM5hnxVwetgLusnt9hOBOO4xmm0nTig?docId=b4763dbc-a182-4a3a-9c00-9d0209bb98fc&hl=en
+http://techcrunch.com/2014/01/22/tok-tok-tok/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29
+http://techcrunch.com/2014/01/22/tok-tok-tok/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29
+http://www.angelnews.co.uk/article.jsf?articleId=15317
+Renmin Ribao, Beijing/BBC Monitoring/(c) BBC
+Renmin Ribao, Beijing/BBC Monitoring/(c) BBC
+http://www.israelnationalnews.com/News/News.aspx/176605
+http://www.israelnationalnews.com/News/News.aspx/176615
+http://www.israelnationalnews.com/News/News.aspx/176605
+http://www.israelnationalnews.com/News/News.aspx/176605
+http://www.israelnationalnews.com/News/News.aspx/176615
+http://www.israelnationalnews.com/News/News.aspx/176615
+http://www.miamiherald.com/2014/01/21/3885038/feds-illegal-donations-fueled.html
+http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&objectid=11190552
+http://www.chron.com/news/crime/article/Conman-turned-pastor-convicted-of-cheating-church-5166715.php
+http://weku.fm/post/beshears-budget-includes-harsh-cuts-free-funds-education
+http://www.startribune.com/business/241434261.html
+http://www.miamiherald.com/2014/01/22/3885517/davidson-foundation-gives-435m.html
+http://www.chicagotribune.com/news/education/ct-chicago-physical-education-hires-met-20140120,0,6366143.story?track=rss
+http://www.washingtonpost.com/local/virginia-politics/sympathy-for-robert-mcdonnell-not-showing-up-in-former-va-governors-defense-fund/2014/01/22/851649c2-8395-11e3-9dd4-e7278db80d86_story.html?wprss=rss_local
+http://www.solarfeeds.com/1-billion-new-york-solar-announced/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+solarfeed+%28Solar+Feeds%29
+http://www.politico.com/story/2014/01/immigration-white-house-2014-102451.html
+http://www.chron.com/news/crime/article/Conman-turned-pastor-convicted-of-cheating-church-5166715.php
+http://www.miamiherald.com/2014/01/22/3886030/2016-campaign-checklist-omalley.html
+http://www.miamiherald.com/2014/01/22/3886030/2016-campaign-checklist-omalley.html
+http://www.miamiherald.com/2014/01/22/3886030/2016-campaign-checklist-omalley.html
+http://usnews.nbcnews.com/_news/2014/01/22/22399753-supreme-court-denies-stay-of-execution-in-texas-for-mexican-national?lite
+http://www.washingtonpost.com/national/1-dead-in-purdue-shooting-student-in-custody/2014/01/21/3670c270-8304-11e3-a273-6ffd9cf9f4ba_story.html
+http://www.reuters.com/article/2014/01/22/usa-detroit-bankruptcy-governor-idUSL2N0KW0UA20140122
+http://detroit.cbslocal.com/2014/01/21/new-analysis-michigan-university-research-corridor-no-2-in-nation-in-innovation/
+http://politics.blog.ajc.com/2014/01/22/a-uga-professor-referees-the-fight-over-global-warming/
+http://politics.blog.ajc.com/2014/01/22/a-uga-professor-referees-the-fight-over-global-warming/
+http://www.washingtonpost.com/local/virginia-politics/sympathy-for-robert-mcdonnell-not-showing-up-in-former-va-governors-defense-fund/2014/01/22/851649c2-8395-11e3-9dd4-e7278db80d86_story.html?wprss=rss_local
+http://www.startribune.com/nation/241409751.html
+http://www.startribune.com/politics/national/241409751.html
+http://www.iol.co.za/news/world/us-wants-snowden-dead-lawyer-1.1634907
+http://in.reuters.com/article/2014/01/21/usa-security-russia-snowden-idINDEEA0K0IG20140121
+http://www.bloomberg.com/news/2014-01-22/snowden-seeking-russian-protection-after-threats-lawyer.html
+http://detroit.cbslocal.com/2014/01/21/new-analysis-michigan-university-research-corridor-no-2-in-nation-in-innovation/
+http://www.insideindianabusiness.com/newsitem.asp?ID=63332
+http://www.insideindianabusiness.com/newsitem.asp?ID=63332
+http://www.miamiherald.com/2014/01/22/3886034/2016-campaign-checklist-rubio.html
+http://www.foxnews.com/politics/2014/01/22/ex-epa-official-told-lawmakers-project-to-modify-dna-capitalism/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fmost-popular+%28Internal+-+Most+Popular+Content%29
+http://www.bloomberg.com/news/2014-01-22/snowden-seeking-russian-protection-after-threats-lawyer.html
+http://www.reuters.com/article/2014/01/21/us-usa-security-russia-snowden-idUSBREA0K1RV20140121?feedType=RSS&feedName=wtMostRead
+http://www.bloomberg.com/news/2014-01-22/snowden-seeking-russian-protection-after-threats-lawyer.html
+http://reliefweb.int/report/bangladesh/humanitarian-assistance-review-south-asia-fiscal-year-fy-2004-2013
+http://en.trend.az/regions/casia/uzbekistan/2232700.html
+http://en.trend.az/regions/casia/uzbekistan/2232700.html
+http://en.trend.az/regions/casia/uzbekistan/2232700.html
+http://www.eenews.net/greenwire/stories/1059993276/feed
+http://www.dailyjournal.net/view/story/6f74710606814046b4f0038a847b95fd/Iran-Nuclear/
+http://www.dailyjournal.net/view/story/6f74710606814046b4f0038a847b95fd/Iran-Nuclear/
+http://www.miamiherald.com/2014/01/22/3885375/eu-ups-emission-limits-relaxes.html
+http://news.yahoo.com/chinese-activist-stays-mum-protest-trial-opens-crackdown-094333084.html
+http://news.yahoo.com/chinese-activist-stays-mum-protest-trial-opens-crackdown-094333084.html
+http://news.yahoo.com/correction-yemen-story-211616910.html
+http://news.yahoo.com/correction-yemen-story-211616910.html
+http://cnsnews.com/news/article/police-seize-rome-pizzerias-cafes-linked-mafia
+http://cnsnews.com/news/article/police-seize-rome-pizzerias-cafes-linked-mafia
+http://news.yahoo.com/kenyan-author-lashes-anti-gay-laws-39-m-171952170.html
+http://cnsnews.com/news/article/violence-across-syria-peace-conference-begins
+http://abcnews.go.com/International/wireStory/correa-loves-america-trust-govt-21627615
+http://abcnews.go.com/International/wireStory/thai-protesters-march-state-emergency-begins-21621926
+http://abcnews.go.com/International/wireStory/thai-protesters-march-state-emergency-begins-21621926
+http://www.seattlepi.com/news/crime/article/State-of-emergency-begins-in-Thailand-5161463.php
+http://news.yahoo.com/former-virginia-gov-bob-mcdonnell-wife-indicted-federal-035757876.html
+http://cnsnews.com/news/article/governor-backs-plan-give-bankrupt-detroit-350m
+http://www.contracostatimes.com/news/ci_24971848/bart-police-shooting-still-unclear-whether-fellow-officer
+http://www.miamiherald.com/2014/01/22/3885789/police-seize-rome-pizzerias-cafes.html
+http://www.philly.com/philly/news/nation_world/20140122_ap_a1d1bbf235fc4abca42d9a01282e78ca.html
+http://www.huffingtonpost.com/2014/01/22/purdue-shooting-motive_n_4643366.html
+http://www.huffingtonpost.com/2014/01/22/purdue-shooting-motive_n_4643366.html
+http://www.csmonitor.com/USA/Latest-News-Wires/2014/0122/Purdue-shooting-remains-a-mystery-video
+http://hosted.ap.org/dynamic/stories/M/ML_ISRAEL_US_AL_QAIDA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT
+http://cnsnews.com/news/article/israel-says-it-foiled-al-qaida-plot-us-embassy
+http://news.yahoo.com/storm-buries-northeast-16-inches-snow-nj-055627711.html
+http://in.reuters.com/article/2014/01/22/usa-detroit-bankruptcy-governor-idINL2N0KW1PD20140122
+http://www.miamiherald.com/2014/01/22/3885789/police-seize-rome-pizzerias-cafes.html
+http://www.chron.com/news/medical/article/Obama-targets-college-sexual-assault-epidemic-5164718.php
+http://www.reuters.com/article/2014/01/22/us-syria-crisis-britain-refugees-idUSBREA0L1K020140122
+http://www.reuters.com/article/2014/01/22/us-syria-crisis-britain-refugees-idUSBREA0L1K020140122
+http://phys.org/news/2014-01-guppy-layers-cells.html
+http://www.cnn.com/2014/01/21/us/iran-levinson-family-speaks/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_us+%28RSS%3A+U.S.%29
+http://www.cnn.com/2014/01/21/us/iran-levinson-family-speaks/index.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+rss%2Fcnn_us+%28RSS%3A+U.S.%29
+http://www.bdlive.co.za/africa/africanbusiness/2014/01/22/zimbabwe-to-invest-sovereign-fund-in-minerals

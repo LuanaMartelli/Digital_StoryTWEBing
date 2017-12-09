@@ -1,498 +1,142 @@
-255522762	20120601	CHE	IRQ	071	7.4	1	1	1	0.971922246220302	http://www.telegraph.co.uk/news/worldnews/europe/france/10093647/Alps-murders-prosecutors-reveal-fresh-details-of-inheritance-war.html
-255522763	20120601	CHE	IRQ	071	7.4	1	1	1	0.971922246220302	http://www.telegraph.co.uk/news/worldnews/europe/france/10093647/Alps-murders-prosecutors-reveal-fresh-details-of-inheritance-war.html
-255522764	20120601	CHE	IRQ	071	7.4	3	1	3	0.971922246220302	http://www.telegraph.co.uk/news/worldnews/europe/france/10093647/Alps-murders-prosecutors-reveal-fresh-details-of-inheritance-war.html
-255522765	20120601	CHE	IRQ	071	7.4	3	1	3	0.971922246220302	http://www.telegraph.co.uk/news/worldnews/europe/france/10093647/Alps-murders-prosecutors-reveal-fresh-details-of-inheritance-war.html
-255522791	20120601	EUR	AZE	071	7.4	10	1	10	2.00633579725449	http://www.telegraph.co.uk/news/politics/conservative/10093648/Patrick-Mercer-investigation-puts-parliamentary-groups-under-scrutiny.html
-255522847	20120601	SEA	USA	028	4.0	10	2	10	3.05603597371152	http://www.perthnow.com.au/news/breaking-news/us-invites-asean-defence-chiefs-to-hawaii/story-fnhrvfwz-1226655058464?from=public_rss
-255522864	20120601	JOR	JOR	071	7.4	2	1	2	2.00633579725449	http://www.telegraph.co.uk/news/politics/conservative/10093648/Patrick-Mercer-investigation-puts-parliamentary-groups-under-scrutiny.html
-255522865	20120601	JOR	JOR	071	7.4	2	1	2	2.00633579725449	http://www.telegraph.co.uk/news/politics/conservative/10093648/Patrick-Mercer-investigation-puts-parliamentary-groups-under-scrutiny.html
-255522866	20120601	JOR	JOR	071	7.4	6	1	6	2.00633579725449	http://www.telegraph.co.uk/news/politics/conservative/10093648/Patrick-Mercer-investigation-puts-parliamentary-groups-under-scrutiny.html
-255522927	20120601	SGP	SEA	028	4.0	10	2	10	3.05603597371152	http://www.perthnow.com.au/news/breaking-news/us-invites-asean-defence-chiefs-to-hawaii/story-fnhrvfwz-1226655058464?from=public_rss
-255522929	20120601	SGP	USA	026	4.0	8	1	8	3.84615384615385	http://www.channelnewsasia.com/news/asiapacific/us-defence-chief-proposes-us-asean-defen/694580.html
-255522934	20120601	TUR	CYP	071	7.4	1	1	1	2.00633579725449	http://www.telegraph.co.uk/news/politics/conservative/10093648/Patrick-Mercer-investigation-puts-parliamentary-groups-under-scrutiny.html
-255522935	20120601	TUR	CYP	071	7.4	4	1	4	2.00633579725449	http://www.telegraph.co.uk/news/politics/conservative/10093648/Patrick-Mercer-investigation-puts-parliamentary-groups-under-scrutiny.html
-255523032	20130502	IDN	IDN	020	3.0	2	1	2	4.04297100612221	http://www.globalsecurity.org/military/library/news/2013/06/mil-130601-dod01.htm
-255523092	20130502	USA	IDN	020	3.0	1	1	1	4.04297100612221	http://www.globalsecurity.org/military/library/news/2013/06/mil-130601-dod01.htm
-255523093	20130502	USA	IDN	020	3.0	1	1	1	4.04297100612221	http://www.globalsecurity.org/military/library/news/2013/06/mil-130601-dod01.htm
-255523094	20130502	USA	IDN	020	3.0	2	1	2	4.04297100612221	http://www.globalsecurity.org/military/library/news/2013/06/mil-130601-dod01.htm
-255523095	20130502	USA	IDN	020	3.0	1	1	1	4.04297100612221	http://www.globalsecurity.org/military/library/news/2013/06/mil-130601-dod01.htm
-255523104	20130502	USA	USA	071	7.4	3	1	3	3.45744680851064	http://www.bloomberg.com/news/2013-05-30/bullard-says-downturn-hardest-on-young-less-educated-families.html
-255523309	20130525	TCD	FRA	072	8.3	4	1	4	1.6	http://www.digitaljournal.com/article/351255
-255523310	20130525	TCD	FRA	072	8.3	1	1	1	1.6	http://www.digitaljournal.com/article/351255
-255523332	20130525	USA	USA	0234	3.4	4	1	4	2.68317853457172	http://www.mailtribune.com/apps/pbcs.dll/article?AID=/20130601/NEWS/306010302
-255523337	20130525	USA	USA	070	7.0	2	1	2	2.41379310344828	http://www.chron.com/news/houston-texas/houston/article/Neighborhood-lemonade-stand-pays-tribute-to-4568533.php
-255523350	20130525	USA	USA	020	3.0	4	1	4	2.02020202020202	http://www.washingtonpost.com/world/hagel-rebukes-china-for-cyber-espionage/2013/06/01/da9c1c6c-ca6f-11e2-9cd9-3b9a22a4000a_story.html?wprss=rss_asia-pacific
-255523397	20130525	USA	USA	070	7.0	6	1	6	3.38389731621937	http://www.latimes.com/news/politics/la-pn-romney-donors-2016-contenders-20130601,0,1706152.story
-255523459	20130531	CHN	TTO	070	7.0	4	1	4	5.62770562770563	http://www.newsday.co.tt/news/0,178571.html
-255523549	20130531	ISR	ISR	071	7.4	2	1	2	3.3500837520938	http://www.thetower.org/exclusive-israel-to-offer-sweeping-concessions-to-non-orthodox-worshipers-at-western-wall-2/
-255523550	20130531	ISR	ISR	071	7.4	2	1	2	3.3500837520938	http://www.thetower.org/exclusive-israel-to-offer-sweeping-concessions-to-non-orthodox-worshipers-at-western-wall-2/
-255523551	20130531	ISR	ISR	071	7.4	6	1	6	3.3500837520938	http://www.thetower.org/exclusive-israel-to-offer-sweeping-concessions-to-non-orthodox-worshipers-at-western-wall-2/
-255526125	20130601	AFG	JPN	071	7.4	10	1	10	0	BBC Monitoring
-255526157	20130601	AFG	USA	020	3.0	4	1	4	2.85714285714286	http://www.khaama.com/allen-suggest-u-s-bridging-force-in-afghanistan-beyond-2014-1523
-255526199	20130601	AFG	AFG	070	7.0	10	1	10	1.74672489082969	http://www.upi.com/Top_News/World-News/2013/06/01/Red-Cross-halts-work-in-Afghanistan-after-deadly-attack/UPI-48661370097890/
-255526328	20130601	AFR	UGA	070	7.0	1	1	1	7.72626931567329	http://www.japantimes.co.jp/news/2013/06/02/national/belgian-ugandan-win-noguchi-prize/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+japantimes+%28The+Japan+Times%3A+All+Stories%29
-255526331	20130601	AFR	USA	020	3.0	5	1	5	3.75816993464052	http://www.pe.com/local-news/riverside-county/riverside/riverside-headlines-index/20130601-jurupa-valley-african-american-cancer-conference-a-success.ece
-255526332	20130601	AFR	USA	026	4.0	5	1	5	3.75816993464052	http://www.pe.com/local-news/riverside-county/riverside/riverside-headlines-index/20130601-jurupa-valley-african-american-cancer-conference-a-success.ece
-255526381	20130601	ALB	ALB	071	7.4	2	1	2	0	http://www.albeu.com/shqiperi/gaqo-bushaka-nderohet-me-titullin-mirenjohja-e-tiranes/113136/
-255526419	20130601	ARE	SYR	020	3.0	3	1	3	1.62679425837321	http://www.ynetnews.com/articles/0,7340,L-4386850,00.html
-255526420	20130601	ARE	SYR	020	3.0	1	1	1	1.62679425837321	http://www.ynetnews.com/articles/0,7340,L-4386850,00.html
-255526422	20130601	ARE	USA	020	3.0	6	1	6	1.54185022026432	http://www.foxnews.com/us/2013/06/01/family-michigan-mother-killed-in-syria-left-relatives-in-dark-about-her-mideast/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29
-255526423	20130601	ARE	USA	020	3.0	2	1	2	1.67958656330749	http://www.japantimes.co.jp/news/2013/06/02/world/michigan-wiman-first-american-killed-in-syrian-war/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+japantimes+%28The+Japan+Times%3A+All+Stories%29
-255526424	20130601	ARE	USA	020	3.0	4	3	4	1.50731984465274	http://www.csmonitor.com/USA/Latest-News-Wires/2013/0601/Michigan-mother-led-secret-life-in-Syria-video
-255526425	20130601	ARE	USA	020	3.0	1	1	1	1.63934426229508	http://cnsnews.com/news/article/family-mother-killed-syria-kept-many-secrets
-255526426	20130601	ARE	USA	020	3.0	6	1	6	1.54185022026432	http://www.foxnews.com/us/2013/06/01/family-michigan-mother-killed-in-syria-left-relatives-in-dark-about-her-mideast/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29
-255526427	20130601	ARE	USA	020	3.0	1	1	1	1.63934426229508	http://cnsnews.com/news/article/family-mother-killed-syria-kept-many-secrets
-255526428	20130601	ARE	USA	020	3.0	4	2	4	1.62631013558633	http://www.japantimes.co.jp/news/2013/06/02/world/michigan-wiman-first-american-killed-in-syrian-war/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+japantimes+%28The+Japan+Times%3A+All+Stories%29
-255526429	20130601	ARE	USA	020	3.0	8	3	8	1.45788527443904	http://www.csmonitor.com/USA/Latest-News-Wires/2013/0601/Michigan-mother-led-secret-life-in-Syria-video
-255526444	20130601	ARG	ARG	070	7.0	2	1	2	1.19760479041916	http://www.buenosairesherald.com/article/132536/cabandi%E9-tells-macri-columbus-monument-belongs-to-all-argentineans
-255526802	20130601	AUS	USA	020	3.0	1	1	1	1.56555772994129	http://tv.msnbc.com/2013/06/01/bradley-manning-at-the-heart-of-obama-admins-war-on-leaks/
-255526803	20130601	AUS	USA	020	3.0	2	1	2	1.56555772994129	http://tv.msnbc.com/2013/06/01/bradley-manning-at-the-heart-of-obama-admins-war-on-leaks/
-255526832	20130601	AUS	AUS	020	3.0	40	4	40	3.87833889816361	http://www.brisbanetimes.com.au/opinion/political-news/the-loved-and-loathed-20130601-2niau.html
-255526923	20130601	AZE	TUR	026	4.0	10	1	10	1.36054421768707	http://en.trend.az/news/politics/2156843.html
-255526952	20130601	BEL	UGA	070	7.0	3	1	3	7.72626931567329	http://www.japantimes.co.jp/news/2013/06/02/national/belgian-ugandan-win-noguchi-prize/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+japantimes+%28The+Japan+Times%3A+All+Stories%29
-255526978	20130601	BGD	SGP	020	3.0	2	1	2	3.78787878787879	http://www.thefinancialexpress-bd.com/index.php?ref=MjBfMDZfMDJfMTNfMV8yXzE3MTQzNA%3D%3D&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+thefinancialexpress-bd%2FIouH+%28The+Financial+Express%29
-255526982	20130601	BGD	PHL	020	3.0	2	1	2	1.41129032258065	http://ph.news.yahoo.com/bangladesh-propagate-hybrid-rice-175112168.html
-255526983	20130601	BGD	PHL	020	3.0	1	1	1	1.41129032258065	http://ph.news.yahoo.com/bangladesh-propagate-hybrid-rice-175112168.html
-255527807	20130601	CAN	CAN	020	3.0	1	1	1	2.64385692068429	http://www.edmontonjournal.com/technology/Experts+urge+improved+environmental+protection/8465422/story.html
-255527808	20130601	CAN	CAN	020	3.0	2	1	2	2.23684210526316	http://www.thestarphoenix.com/news/rejects+pipeline+over+environmental+issues/8465070/story.html
-255527809	20130601	CAN	CAN	020	3.0	2	1	2	1.91277735271614	http://www.calgaryherald.com/news/alberta/Enbridge+Alberta+take+objections+stride/8466205/story.html
-255527810	20130601	CAN	CAN	020	3.0	9	1	9	2.64385692068429	http://www.edmontonjournal.com/technology/Experts+urge+improved+environmental+protection/8465422/story.html
-255527815	20130601	CAN	CAN	073	7.4	4	1	4	3.50877192982456	http://www.cbc.ca/news/canada/british-columbia/story/2013/06/01/bc-rcaf-cormorant-rescue-vancouver-island.html?cmp=rss
-255527884	20130601	CAN	USA	020	3.0	4	1	4	4.16666666666667	http://www.cbc.ca/news/canada/north/story/2013/05/31/ottawa-sunscreen-labelling-rules-outdated.html?cmp=rss
-255527885	20130601	CAN	USA	020	3.0	6	1	6	4.16666666666667	http://www.cbc.ca/news/canada/north/story/2013/05/31/ottawa-sunscreen-labelling-rules-outdated.html?cmp=rss
-255527903	20130601	CAN	CAN	073	7.4	2	2	2	2.3605415860735	http://science.nbcnews.com/_news/2013/06/01/18683876-why-sharks-generate-more-money-alive-than-dead?lite
-255527914	20130601	CAN	CAN	020	3.0	2	1	2	6.46766169154229	http://www.cbc.ca/news/canada/montreal/story/2013/06/01/montreal-harel-party-confidence.html?cmp=rss
-255527915	20130601	CAN	CAN	020	3.0	4	1	4	1.18343195266272	http://www.cbc.ca/day6/blog/2013/05/31/firing-mayors-voter-recalls-why-you-cant-oust-rob-ford/?cmp=rss
-255527916	20130601	CAN	CAN	0241	-0.3	4	1	4	2.72155517438536	http://www.cbc.ca/mt_ept/stories/2013/06/01/respectful-protest-calls-for-toronto-mayor-rob-ford-to-resign.html
-255527930	20130601	CAN	CAN	073	7.4	6	1	6	3.50877192982456	http://www.cbc.ca/news/canada/british-columbia/story/2013/06/01/bc-rcaf-cormorant-rescue-vancouver-island.html?cmp=rss
-255527959	20130601	CHE	IRQ	071	7.4	1	1	1	0.971922246220302	http://www.telegraph.co.uk/news/worldnews/europe/france/10093647/Alps-murders-prosecutors-reveal-fresh-details-of-inheritance-war.html
-255527960	20130601	CHE	IRQ	071	7.4	1	1	1	0.971922246220302	http://www.telegraph.co.uk/news/worldnews/europe/france/10093647/Alps-murders-prosecutors-reveal-fresh-details-of-inheritance-war.html
-255527971	20130601	CHE	SYR	020	3.0	8	1	8	1.02739726027397	http://www.globalsecurity.org/wmd/library/news/syria/2013/syria-130601-presstv01.htm
-255527972	20130601	CHE	SYR	020	3.0	2	1	2	1.02739726027397	http://www.globalsecurity.org/wmd/library/news/syria/2013/syria-130601-presstv01.htm
-255528077	20130601	CHN	ATG	020	3.0	7	1	7	3.35429769392034	http://news.xinhuanet.com/english/china/2013-06/02/c_132425277.htm
-255528078	20130601	CHN	ATG	020	3.0	2	1	2	3.35429769392034	http://news.xinhuanet.com/english/china/2013-06/02/c_132425277.htm
-255528084	20130601	CHN	BGR	020	3.0	8	1	8	1.16959064327485	http://www.novinite.com/view_news.php?id=150885
-255528094	20130601	CHN	CHN	020	3.0	2	2	2	3.36704153818248	http://www.adelaidenow.com.au/news/breaking-news/us-wants-hacker-attacks-resolved-amicably/story-e6frea7u-1226655047359?from=public_rss
-255528161	20130601	CHN	IRN	020	3.0	2	1	2	1.01351351351351	http://www.iranoilgas.com/news/details2/?type=news&p=current&newsID=11361&restrict=no
-255528162	20130601	CHN	IRN	020	3.0	4	1	4	1.01351351351351	http://www.iranoilgas.com/news/details2/?type=news&p=current&newsID=11361&restrict=no
-255528163	20130601	CHN	IRN	020	3.0	2	1	2	1.01351351351351	http://www.iranoilgas.com/news/details2/?type=news&p=current&newsID=11361&restrict=no
-255528164	20130601	CHN	IRN	020	3.0	4	1	4	1.01351351351351	http://www.iranoilgas.com/news/details2/?type=news&p=current&newsID=11361&restrict=no
-255528195	20130601	CHN	MMR	070	7.0	14	1	10	3.92857142857143	http://zeenews.india.com/news/world/china-donates-buddha-tooth-relic-stupa-replicas-to-myanmar_852222.html
-255528196	20130601	CHN	MMR	070	7.0	6	1	6	3.92857142857143	http://zeenews.india.com/news/world/china-donates-buddha-tooth-relic-stupa-replicas-to-myanmar_852222.html
-255528217	20130601	CHN	PAK	071	7.4	6	1	6	1.70068027210884	http://articles.economictimes.indiatimes.com/2013-05-29/news/39602072_1_neelum-jhelum-pok-power-development-authority
-255528222	20130601	CHN	PRK	026	4.0	12	2	12	2.72045454545455	http://www.theglobeandmail.com/news/world/us-china-to-team-up-on-issues-of-cybersecurity/article12301547/?cmpid=rss1
-255528223	20130601	CHN	PRK	026	4.0	6	2	6	2.68030303030303	http://www.theglobeandmail.com/news/world/us-china-to-team-up-on-issues-of-cybersecurity/article12301547/?cmpid=rss1
-255528224	20130601	CHN	PRK	026	4.0	2	1	2	2.84090909090909	http://www.chron.com/news/nation-world/article/U-S-and-China-will-hold-talks-on-hacking-4568994.php
-255528300	20130601	CHN	USA	020	3.0	12	1	12	0.87721954524636	http://www.dw.de/us-defense-chief-accuses-china-of-cyber-espionage/a-16852741?maca=en-rss-en-top-1022-rdf
-255528301	20130601	CHN	USA	020	3.0	8	1	8	0.87721954524636	http://www.dw.de/us-defense-chief-accuses-china-of-cyber-espionage/a-16852741?maca=en-rss-en-top-1022-rdf
-255528302	20130601	CHN	USA	020	3.0	10	1	10	0	BBC Monitoring
-255528331	20130601	CHN	USA	070	7.0	10	1	10	8.98876404494382	http://www.thejakartapost.com/news/2013/06/01/asian-countries-told-build-strategic-trust-regional-peace.html
-255529895	20130601	CYP	TUR	071	7.4	1	1	1	2.00633579725449	http://www.telegraph.co.uk/news/politics/conservative/10093648/Patrick-Mercer-investigation-puts-parliamentary-groups-under-scrutiny.html
-255529946	20130601	DEU	DEU	020	3.0	4	1	4	1.35685210312076	http://rt.com/news/protest-austerity-troika-frankfurt-042/
-255529996	20130601	DEU	RUS	020	3.0	4	2	4	2.99644496619396	http://www.indianexpress.com/news/john-kerry-slams-russia-for-supplying-arms-to-bashar-alassad-ruled-syria/1123674/
-255529997	20130601	DEU	RUS	020	3.0	2	1	2	3.23886639676113	http://timesofindia.indiatimes.com/world/us/US-slams-Russia-over-Syria-arms-deal/articleshow/20379413.cms
-255529998	20130601	DEU	RUS	020	3.0	6	3	6	3.07725210971635	http://timesofindia.indiatimes.com/world/us/US-slams-Russia-over-Syria-arms-deal/articleshow/20379413.cms
-255529999	20130601	DEU	RUS	020	3.0	1	1	1	2.72511848341232	http://thehimalayantimes.com/rssReference.php?headline=US%20slams%20Russia%20over%20Syria%20arms%20deal&NewsID=378479
-255530000	20130601	DEU	RUS	020	3.0	1	1	1	2.72511848341232	http://thehimalayantimes.com/rssReference.php?headline=US%20slams%20Russia%20over%20Syria%20arms%20deal&NewsID=378479
-255530001	20130601	DEU	RUS	025	-0.3	1	1	1	2.56410256410256	http://www.panarmenian.net/eng/news/160585/
-255530002	20130601	DEU	RUS	025	-0.3	4	1	4	2.56410256410256	http://www.panarmenian.net/eng/news/160585/
-255530003	20130601	DEU	RUS	025	-0.3	1	1	1	2.56410256410256	http://www.panarmenian.net/eng/news/160585/
-255530004	20130601	DEU	RUS	025	-0.3	8	1	8	0	BBC Monitoring
-255530005	20130601	DEU	RUS	025	-0.3	2	1	2	0	BBC Monitoring
-255530006	20130601	DEU	RUS	025	-0.3	1	1	1	2.56410256410256	http://www.panarmenian.net/eng/news/160585/
-255530014	20130601	DEU	RUS	072	8.3	1	1	1	2.49307479224377	http://gulfnews.com/news/world/usa/us-germany-to-russia-don-t-send-assad-missiles-1.1191195
-255530015	20130601	DEU	RUS	072	8.3	4	1	4	2.49307479224377	http://gulfnews.com/news/world/usa/us-germany-to-russia-don-t-send-assad-missiles-1.1191195
-255530058	20130601	DEU	RUS	020	3.0	3	1	3	3.23886639676113	http://timesofindia.indiatimes.com/world/us/US-slams-Russia-over-Syria-arms-deal/articleshow/20379413.cms
-255530059	20130601	DEU	RUS	020	3.0	1	1	1	2.72511848341232	http://thehimalayantimes.com/rssReference.php?headline=US%20slams%20Russia%20over%20Syria%20arms%20deal&NewsID=378479
-255530060	20130601	DEU	RUS	020	3.0	19	4	19	2.97760066938211	http://www.indianexpress.com/news/john-kerry-slams-russia-for-supplying-arms-to-bashar-alassad-ruled-syria/1123674/
-255530061	20130601	DEU	RUS	020	3.0	3	1	3	2.72511848341232	http://thehimalayantimes.com/rssReference.php?headline=US%20slams%20Russia%20over%20Syria%20arms%20deal&NewsID=378479
-255530062	20130601	DEU	RUS	025	-0.3	6	1	6	2.56410256410256	http://www.panarmenian.net/eng/news/160585/
-255530153	20130601	DZA	JPN	020	3.0	10	1	10	2.04081632653061	http://www.aps.dz/Senate-speaker-urges-Africa.html
-255530193	20130601	ECU	AUS	075	7.0	10	1	10	1.56555772994129	http://tv.msnbc.com/2013/06/01/bradley-manning-at-the-heart-of-obama-admins-war-on-leaks/
-255530203	20130601	ECU	ECU	073	7.4	4	1	4	2.88350634371396	http://consortiumnews.com/2013/06/01/a-new-front-in-war-on-wikileaks/
-255530246	20130601	ECU	GBR	075	7.0	2	1	2	1.63934426229508	http://www.pressdemocrat.com/article/20130531/WIRE/130539876
-255530247	20130601	ECU	GBR	075	7.0	2	1	2	1.60891089108911	http://www.abqjournal.com/main/2013/06/01/opinion/its-the-fourth-estate-not-for-the-state.html
-255530248	20130601	ECU	GBR	075	7.0	16	2	16	1.62412757669209	http://www.pressdemocrat.com/article/20130531/WIRE/130539876
-255530652	20130601	EGY	SAU	020	3.0	1	1	1	3.34967320261438	http://www.thisdaylive.com/articles/who-are-the-yoruba-people-ii-/149119/
-255530653	20130601	EGY	SAU	020	3.0	4	1	4	3.34967320261438	http://www.thisdaylive.com/articles/who-are-the-yoruba-people-ii-/149119/
-255530663	20130601	EGY	USA	020	3.0	4	1	4	0.714285714285714	http://abcnews.go.com/International/wireStory/egypt-blasts-us-warning-incidents-pyramids-19304842
-255530673	20130601	EGY	USA	020	3.0	16	1	16	0.714285714285714	http://abcnews.go.com/International/wireStory/egypt-blasts-us-warning-incidents-pyramids-19304842
-255530674	20130601	EGY	USA	020	3.0	40	4	40	1.05241905018901	http://www.news24.com/Africa/News/Egypt-blasts-US-warning-over-pyramids-20130601
-255530830	20130601	ETH	JPN	020	3.0	1	1	1	0	BBC Monitoring
-255530831	20130601	ETH	JPN	020	3.0	1	1	1	0	BBC Monitoring
-255530840	20130601	ETH	JPN	020	3.0	4	1	4	0	BBC Monitoring
-255530841	20130601	ETH	JPN	020	3.0	2	1	2	0	BBC Monitoring
-255530878	20130601	EUR	FRA	020	3.0	10	1	10	0.307692307692308	http://www.lefigaro.fr/flash-actu/2013/06/01/97001-20130601FILWWW00338-decision-le-11-juin-sur-la-levee-de-l-immunite-de-marine-le-pen.php
-255530880	20130601	EUR	GBR	020	3.0	5	1	5	0.72289156626506	http://www.dailymail.co.uk/sciencetech/article-2333907/QE2-asteroid-sails-just-3-6million-miles-past-Earth-TONIGHT--scientists-moon.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490
-255530893	20130601	EUR	TKM	020	3.0	2	1	2	2.58064516129032	http://en.trend.az/capital/energy/2156737.html
-255530894	20130601	EUR	TKM	020	3.0	6	1	6	2.58064516129032	http://en.trend.az/capital/energy/2156737.html
-255530895	20130601	EUR	USA	020	3.0	10	1	10	0.425531914893617	http://www.upi.com/Business_News/2013/06/01/Wheat-discovery-reignites-modified-foods-debate/UPI-39131370120222/
-255530994	20130601	FRA	AFR	020	3.0	4	1	4	0.874533582089552	http://togosite.com/?q=node/3643
-255530995	20130601	FRA	AUS	020	3.0	2	1	2	2.92479108635097	http://www.telegraph.co.uk/technology/facebook/10092760/Would-Byron-have-posted-photos-of-himself-getting-drunk-with-Shelley-on-Facebook.html
-255530996	20130601	FRA	AUS	020	3.0	2	1	2	2.92479108635097	http://www.telegraph.co.uk/technology/facebook/10092760/Would-Byron-have-posted-photos-of-himself-getting-drunk-with-Shelley-on-Facebook.html
-255531025	20130601	FRA	FRA	020	3.0	2	1	2	2.74914089347079	http://www.france24.com/en/20130531-french-health-minister-electronic-cigarette-ban-public-places
-255531064	20130601	FRA	MLI	072	8.3	2	1	2	1.76211453744493	http://www.news24.com/Africa/News/Hollande-No-French-military-action-in-Libya-20130531
-255531065	20130601	FRA	MLI	072	8.3	8	1	8	1.76211453744493	http://www.news24.com/Africa/News/Hollande-No-French-military-action-in-Libya-20130531
-255531078	20130601	FRA	SVK	020	3.0	4	1	4	3.78378378378378	http://www.sport24.co.za/Tennis/FrenchOpen/Ivanovic-backs-up-Nadal-20130601
-255531092	20130601	FRA	USA	020	3.0	4	1	4	1.57894736842105	http://in.reuters.com/article/2013/06/01/tennis-open-sharapova-idINDEE95005M20130601
-255531095	20130601	FRA	FRA	020	3.0	2	1	2	3.25670498084291	http://www.france24.com/en/20130531-france-sees-restrictions-e-cigarettes
-255531103	20130601	FRA	FRA	020	3.0	3	1	3	2.92479108635097	http://www.telegraph.co.uk/technology/facebook/10092760/Would-Byron-have-posted-photos-of-himself-getting-drunk-with-Shelley-on-Facebook.html
-255531332	20130601	GBR	AUS	020	3.0	1	1	1	1.83968462549277	http://www.belfasttelegraph.co.uk/news/local-national/uk/police-quiz-man-over-soldier-murder-29312946.html
-255531333	20130601	GBR	AUS	020	3.0	1	1	1	1.83968462549277	http://www.belfasttelegraph.co.uk/news/local-national/uk/police-quiz-man-over-soldier-murder-29312946.html
-255531358	20130601	GBR	CAN	020	3.0	2	1	2	2.17391304347826	http://www.upi.com/Top_News/World-News/2013/06/01/British-Columbia-rejects-oil-pipeline-proposal/UPI-96721370115470/
-255531361	20130601	GBR	CHN	020	3.0	1	1	1	3.47957639939486	http://www.telegraph.co.uk/news/worldnews/asia/china/10092754/If-Britain-wants-greater-prosperity-we-need-to-look-East-to-China.html
-255531362	20130601	GBR	CHN	020	3.0	6	1	6	3.47957639939486	http://www.telegraph.co.uk/news/worldnews/asia/china/10092754/If-Britain-wants-greater-prosperity-we-need-to-look-East-to-China.html
-255531433	20130601	GBR	EUR	020	3.0	2	1	2	3.00751879699248	http://www.express.co.uk/news/uk/404199/William-Hague-in-appeal-to-red-card-EU-laws
-255531434	20130601	GBR	EUR	020	3.0	2	1	2	3.00751879699248	http://www.express.co.uk/news/uk/404199/William-Hague-in-appeal-to-red-card-EU-laws
-255531439	20130601	GBR	FJI	020	3.0	8	1	8	2.40687758126044	http://www.independent.co.uk/news/uk/politics/tory-mp-patrick-mercer-quits-party-over-alleged-cashforquestions-fiji-lobbying-scandal-exposed-in-bbc-panorama-8639459.html
-255531459	20130601	GBR	GBR	020	3.0	4	1	4	3.55648535564854	http://www.guardian.co.uk/lifeandstyle/2013/jun/01/size-zero-campaigners-london-college-fashion
-255531461	20130601	GBR	GBR	020	3.0	12	3	12	1.79426351392005	http://www.news.com.au/breaking-news/world/queens-brian-may-leads-badger-protest/story-e6frfkui-1226655273297?from=public_rss
-255531462	20130601	GBR	GBR	0211	3.4	4	1	4	4.10094637223975	http://www.bbc.co.uk/news/uk-scotland-scotland-politics-22742468#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
-255531466	20130601	GBR	GBR	071	7.4	2	1	2	3.55648535564854	http://www.guardian.co.uk/lifeandstyle/2013/jun/01/size-zero-campaigners-london-college-fashion
-255531517	20130601	GBR	IDN	020	3.0	1	1	1	6.70391061452514	http://www.ddinews.gov.in/International/International+-+Other+Stories/poverty.htm
-255531518	20130601	GBR	IDN	020	3.0	6	1	6	6.70391061452514	http://www.ddinews.gov.in/International/International+-+Other+Stories/poverty.htm
-255531521	20130601	GBR	IRL	020	3.0	8	1	8	1.15606936416185	http://www.irishsun.com/index.php/sid/214912470/scat/b8de8e630faf3631
-255531545	20130601	GBR	KEN	020	3.0	2	1	2	2.30905861456483	http://www.nation.co.ke/oped/Opinion/Why-poaching-should-get-us-worried/-/440808/1869446/-/16ew3iz/-/index.html
-255531546	20130601	GBR	KEN	020	3.0	2	1	2	2.30905861456483	http://www.nation.co.ke/oped/Opinion/Why-poaching-should-get-us-worried/-/440808/1869446/-/16ew3iz/-/index.html
-255531558	20130601	GBR	LBN	071	7.4	10	1	10	0	http://sport.albeu.com/sport/jonny-evans-martohet-me-prezantuesen-e-mutv-foto-lajm/113164/
-255531559	20130601	GBR	LBR	020	3.0	1	1	1	6.70391061452514	http://www.ddinews.gov.in/International/International+-+Other+Stories/poverty.htm
-255531560	20130601	GBR	LBR	020	3.0	6	1	6	6.70391061452514	http://www.ddinews.gov.in/International/International+-+Other+Stories/poverty.htm
-255531591	20130601	GBR	USA	072	8.3	10	1	10	4.69135802469136	http://seekingalpha.com/article/1474561-5-natural-gas-transportation-stocks-for-2013-may-update?source=google_news
-255531626	20130601	GBR	PHL	020	3.0	8	1	8	1.16279069767442	http://www.philippinetimes.com/index.php/sid/214912470/scat/2411cd3571b4f088
-255531656	20130601	GBR	TUR	020	3.0	2	1	2	1.15606936416185	http://www.irishsun.com/index.php/sid/214912470/scat/b8de8e630faf3631
-255531657	20130601	GBR	TUR	020	3.0	14	2	14	1.15991012616903	http://www.irishsun.com/index.php/sid/214912470/scat/b8de8e630faf3631
-255531658	20130601	GBR	TUR	020	3.0	4	2	4	1.15943003091814	http://www.irishsun.com/index.php/sid/214912470/scat/b8de8e630faf3631
-255531659	20130601	GBR	TUR	025	-0.3	4	2	4	2.30484047471019	http://www.aljazeera.com/news/europe/2013/06/20136205646707974.html
-255531660	20130601	GBR	TUR	025	-0.3	6	1	6	1.28485454865678	http://www.dw.de/government-crackdown-on-turkey-protests-draws-condemnation/a-16853750?maca=en-rss-en-eu-2092-rdf
-255531661	20130601	GBR	TUR	025	-0.3	10	3	10	1.69284891907814	http://www.aljazeera.com/news/europe/2013/06/20136205646707974.html
-255531673	20130601	GBR	USA	072	8.3	1	1	1	4.20888542478566	http://www.independent.co.uk/news/uk/politics/boris-johnson-for-no-10-the-arguments-for-and-against-any-move-to-downing-street-8640811.html
-255531674	20130601	GBR	USA	072	8.3	1	1	1	4.20888542478566	http://www.independent.co.uk/news/uk/politics/boris-johnson-for-no-10-the-arguments-for-and-against-any-move-to-downing-street-8640811.html
-255531684	20130601	GBR	USA	020	3.0	2	1	2	3.55648535564854	http://www.guardian.co.uk/lifeandstyle/2013/jun/01/size-zero-campaigners-london-college-fashion
-255531716	20130601	GBR	GBR	020	3.0	2	1	2	2.99177262528048	http://www.telegraph.co.uk/technology/internet/10092758/Google-this-porn-is-bad-for-our-children.html
-255531723	20130601	GBR	CAN	073	7.4	4	2	4	2.3605415860735	http://science.nbcnews.com/_news/2013/06/01/18683876-why-sharks-generate-more-money-alive-than-dead?lite
-255531759	20130601	GBR	GBR	020	3.0	30	1	30	4.32330827067669	http://www.washingtonpost.com/politics/lessons-from-britain-for-the-gop/2013/06/01/9d97709a-ca3e-11e2-8da7-d274bc611a47_story.html?wprss=rss_politics
-255531760	20130601	GBR	GBR	025	-0.3	10	1	10	1.88383045525903	http://www.scotsman.com/news/uk/david-cameron-urged-to-act-over-lobbying-1-2952080
-255531763	20130601	GBR	GBR	020	3.0	9	3	9	1.79426351392005	http://www.news.com.au/breaking-news/world/queens-brian-may-leads-badger-protest/story-e6frfkui-1226655273297?from=public_rss
-255531770	20130601	GBR	KEN	020	3.0	3	1	3	2.30905861456483	http://www.nation.co.ke/oped/Opinion/Why-poaching-should-get-us-worried/-/440808/1869446/-/16ew3iz/-/index.html
-255531775	20130601	GBR	SYR	020	3.0	10	1	10	0	BBC Monitoring
-255531776	20130601	GBR	TUR	025	-0.3	18	1	18	1.28485454865678	http://www.dw.de/government-crackdown-on-turkey-protests-draws-condemnation/a-16853750?maca=en-rss-en-eu-2092-rdf
-255531777	20130601	GBR	TUR	025	-0.3	10	2	10	2.34262549697513	http://www.aljazeera.com/news/europe/2013/06/20136205646707974.html
-255531778	20130601	GBR	TUR	025	-0.3	2	1	2	2.11591536338546	http://www.aljazeera.com/news/europe/2013/06/20136205646707974.html
-255531782	20130601	GBR	GBR	020	3.0	2	1	2	1.01102941176471	http://www.dailymail.co.uk/news/article-2333962/Vince-Cable-leads-calls-Google-proactively-block-vile-child-porn.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490
-255531783	20130601	GBR	USA	020	3.0	8	1	8	1.01102941176471	http://www.dailymail.co.uk/news/article-2333962/Vince-Cable-leads-calls-Google-proactively-block-vile-child-porn.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490
-255531784	20130601	GBR	GBR	020	3.0	2	1	2	2.90771175726928	http://www.vancouversun.com/business/restates+opposition+Northern+Gateway+project/8466059/story.html
-255533769	20130601	HUN	HUN	0213	3.4	12	1	12	1.44443233688085	http://www.jpost.com/Breaking-News/Budapest-mayor-orders-rethink-of-anti-Semitic-street-name-315135
-255533816	20130601	IDN	GBR	020	3.0	1	1	1	6.70391061452514	http://www.ddinews.gov.in/International/International+-+Other+Stories/poverty.htm
-255533817	20130601	IDN	GBR	020	3.0	6	1	6	6.70391061452514	http://www.ddinews.gov.in/International/International+-+Other+Stories/poverty.htm
-255533828	20130601	IDN	IDN	020	3.0	18	2	18	4.28686192838502	http://in.reuters.com/article/2013/06/02/indonesia-widodo-idINDEE95100I20130602?feedType=RSS&feedName=worldNews
-255533829	20130601	IDN	IDN	020	3.0	10	1	10	4.37899500977899	http://thestar.com.my/news/story.asp?file=/2013/6/2/worldupdates/insight-presidency-beckons-for-jakartas-ragstoriches-governor&sec=Worldupdates
-255533830	20130601	IDN	IDN	020	3.0	2	1	2	4.37899500977899	http://thestar.com.my/news/story.asp?file=/2013/6/2/worldupdates/insight-presidency-beckons-for-jakartas-ragstoriches-governor&sec=Worldupdates
-255533834	20130601	IDN	LBR	020	3.0	1	1	1	6.70391061452514	http://www.ddinews.gov.in/International/International+-+Other+Stories/poverty.htm
-255533835	20130601	IDN	LBR	020	3.0	6	1	6	6.70391061452514	http://www.ddinews.gov.in/International/International+-+Other+Stories/poverty.htm
-255533927	20130601	EUR	ISR	027	4.0	10	1	10	1.32743362831858	http://www.philippinetimes.com/index.php/sid/214905834/scat/2411cd3571b4f088
-255533928	20130601	EUR	KOR	020	3.0	4	1	4	1.96540880503145	http://www.oregonlive.com/business/index.ssf/2013/06/genetically_modified_wheat_dis.html
-255533929	20130601	EUR	KOR	020	3.0	6	1	6	1.96540880503145	http://www.oregonlive.com/business/index.ssf/2013/06/genetically_modified_wheat_dis.html
-255533932	20130601	EUR	PRT	020	3.0	2	1	2	3.7037037037037	http://en.trend.az/regions/scaucasus/georgia/2156886.html
-255533941	20130601	EUR	USA	020	3.0	20	2	20	1.69123961693621	http://www.mailtribune.com/apps/pbcs.dll/article?AID=/20130601/NEWS/306010302
-255533942	20130601	EUR	USA	025	-0.3	2	1	2	2.13963963963964	http://thestar.com.my/news/story.asp?file=/2013/6/2/worldupdates/turkish-pm-erdogan-calls-for-end-to-protests-as-clashes-flare&sec=Worldupdates
-255533943	20130601	EUR	USA	025	-0.3	2	1	2	2.00845665961945	http://www.trust.org/item/20130601160301-je7lf/?source%20=%20hpbreaking
-255533944	20130601	EUR	USA	025	-0.3	2	1	2	2.00845665961945	http://www.trust.org/item/20130601160301-je7lf/?source%20=%20hpbreaking
-255533945	20130601	EUR	USA	025	-0.3	14	2	14	2.08341836248813	http://thestar.com.my/news/story.asp?file=/2013/6/2/worldupdates/turkish-pm-erdogan-calls-for-end-to-protests-as-clashes-flare&sec=Worldupdates
-255534121	20130601	WST	AFG	020	3.0	10	1	10	0	BBC Monitoring
-255534122	20130601	WST	USA	020	3.0	10	1	10	0	BBC Monitoring
-255534491	20130601	IRL	GBR	020	3.0	2	1	2	2.66666666666667	http://www.breakingnews.ie/sport/job-done-for-the-lions-in-hong-kong-596280.html
-255534507	20130601	IRL	IRL	020	3.0	2	1	2	1.94805194805195	http://www.bbc.co.uk/news/world-europe-22740073#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
-255534658	20130601	IRN	IRN	026	4.0	2	1	2	1.86170212765957	http://www.daijiworld.com/news/news_disp.asp?n_id=175409
-255534681	20130601	IRN	ISR	072	8.3	3	1	3	2.01405152224824	http://news.usni.org/2013/05/31/report-new-iranian-missiles-could-overwhelm-israeli-defenses
-255534726	20130601	IRN	RUS	020	3.0	2	1	2	3.09423347398031	http://timesofindia.indiatimes.com/world/middle-east/Balance-of-power-in-Syria-shifting-Assads-way/articleshow/20378034.cms
-255534727	20130601	IRN	RUS	020	3.0	4	1	4	3.09423347398031	http://timesofindia.indiatimes.com/world/middle-east/Balance-of-power-in-Syria-shifting-Assads-way/articleshow/20378034.cms
-255534782	20130601	IRN	IRN	020	3.0	4	1	2	2.32558139534884	http://www.ameinfo.com/iranian-banks-looking-expand-india-343891
-255534783	20130601	IRN	PGS	020	3.0	2	1	2	0.666666666666667	http://www.iranoilgas.com/news/details2/?type=news&p=current&newsID=11364&restrict=no
-255534920	20130601	IRQ	IRQ	025	-0.3	2	1	2	0.636942675159236	http://www.npr.org/blogs/thetwo-way/2013/06/01/187825084/un-iraq-records-1-045-deaths-in-may-highest-in-years?ft=1&f=1001
-255534921	20130601	IRQ	IRQ	0256	-0.3	2	1	2	0.636942675159236	http://www.npr.org/blogs/thetwo-way/2013/06/01/187825084/un-iraq-records-1-045-deaths-in-may-highest-in-years?ft=1&f=1001
-255534956	20130601	IRQ	USA	020	3.0	4	4	4	0.56914014666034	http://www.scotsman.com/news/international/iraq-violence-at-levels-last-seen-in-2006-1-2951954
-255534957	20130601	IRQ	USA	020	3.0	5	2	5	0.453092727758342	http://uk.reuters.com/article/2013/06/02/uk-iraq-violence-idUKBRE95004U20130602?feedType=RSS&feedName=topNews
-255535077	20130601	ISR	RUS	020	3.0	2	1	2	3.21346595256312	http://www.seattlepi.com/news/world/article/Syria-s-Assad-confident-in-victory-in-civil-war-4559804.php
-255535078	20130601	ISR	RUS	020	3.0	6	1	6	3.21346595256312	http://www.seattlepi.com/news/world/article/Syria-s-Assad-confident-in-victory-in-civil-war-4559804.php
-255535079	20130601	ISR	RUS	020	3.0	2	1	2	3.21346595256312	http://www.seattlepi.com/news/world/article/Syria-s-Assad-confident-in-victory-in-civil-war-4559804.php
-255535118	20130601	ISR	USA	025	-0.3	1	1	1	3.42298288508557	http://www.jpost.com/Opinion/Op-Ed-Contributors/Talking-Turkey-about-Obama-315116
-255535159	20130601	ITA	ITA	020	3.0	8	2	8	2.83288392398562	http://www.irishsun.com/index.php/sid/214913034/scat/2411cd3571b4f088
-255535212	20130601	ITA	ITA	020	3.0	6	2	6	2.83288392398562	http://www.irishsun.com/index.php/sid/214913034/scat/2411cd3571b4f088
-255535259	20130601	JAM	JAM	020	3.0	2	1	2	2.68292682926829	http://jamaica-star.com/thestar/20130601/news/news2.html
-255535267	20130601	JAM	TCD	020	3.0	5	1	5	2.69607843137255	http://jamaica-star.com/thestar/20130601/news/news1.html
-255535286	20130601	JAM	JAM	025	-0.3	10	1	10	2.46913580246914	http://jamaica-gleaner.com/gleaner/20130601/lead/lead47.html
-255535321	20130601	JOR	TUR	020	3.0	1	1	1	3.57815442561205	http://reliefweb.int/report/lebanon/pcpm-extends-rental-assistance-syrian-refugees-lebanon-until-december-2013
-255535322	20130601	JOR	TUR	020	3.0	1	1	1	3.57815442561205	http://reliefweb.int/report/lebanon/pcpm-extends-rental-assistance-syrian-refugees-lebanon-until-december-2013
-255535323	20130601	JOR	TUR	020	3.0	7	1	7	3.57815442561205	http://reliefweb.int/report/lebanon/pcpm-extends-rental-assistance-syrian-refugees-lebanon-until-december-2013
-255535324	20130601	JOR	TUR	020	3.0	1	1	1	3.57815442561205	http://reliefweb.int/report/lebanon/pcpm-extends-rental-assistance-syrian-refugees-lebanon-until-december-2013
-255535389	20130601	JPN	DZA	020	3.0	10	1	10	0	BBC Monitoring
-255535435	20130601	JPN	KEN	026	4.0	10	1	10	0	BBC Monitoring
-255535438	20130601	JPN	KEN	071	7.4	5	1	5	2.75590551181102	http://reliefweb.int/report/kenya/japan-funds-processing-centres-boosting-kenya%E2%80%99s-soybean-sector
-255535459	20130601	JPN	SOM	020	3.0	10	1	10	0	BBC Monitoring
-255535465	20130601	JPN	SOM	070	7.0	8	1	8	0	BBC Monitoring
-255535466	20130601	JPN	SOM	070	7.0	2	1	2	0	BBC Monitoring
-255535472	20130601	JPN	USA	020	3.0	1	1	1	1.96540880503145	http://www.oregonlive.com/business/index.ssf/2013/06/genetically_modified_wheat_dis.html
-255535473	20130601	JPN	USA	020	3.0	1	1	1	1.96540880503145	http://www.oregonlive.com/business/index.ssf/2013/06/genetically_modified_wheat_dis.html
-255535526	20130601	JPN	USA	020	3.0	3	1	3	1.96540880503145	http://www.oregonlive.com/business/index.ssf/2013/06/genetically_modified_wheat_dis.html
-255535907	20130601	KEN	GBR	020	3.0	2	1	2	2.36111111111111	http://www.seattlepi.com/news/crime/article/Man-accused-of-killing-UK-soldier-appears-in-court-4560442.php
-255535908	20130601	KEN	GBR	020	3.0	2	1	2	2.36111111111111	http://www.seattlepi.com/news/crime/article/Man-accused-of-killing-UK-soldier-appears-in-court-4560442.php
-255535944	20130601	KEN	GBR	020	3.0	6	1	6	2.36111111111111	http://www.seattlepi.com/news/crime/article/Man-accused-of-killing-UK-soldier-appears-in-court-4560442.php
-255536066	20130601	KHM	KHM	020	3.0	2	1	2	2.97029702970297	http://reliefweb.int/report/cambodia/%EF%BF%BCresponding-emergencies-southeast-asia-can-we-do-better-%EF%BF%BC
-255536105	20130601	KOR	EUR	020	3.0	4	1	4	1.96540880503145	http://www.oregonlive.com/business/index.ssf/2013/06/genetically_modified_wheat_dis.html
-255536106	20130601	KOR	EUR	020	3.0	6	1	6	1.96540880503145	http://www.oregonlive.com/business/index.ssf/2013/06/genetically_modified_wheat_dis.html
-255536332	20130601	LBN	RUS	072	8.3	2	1	2	1.46412884333821	http://en.trend.az/regions/met/arabicr/2156675.html
-255536333	20130601	LBN	RUS	072	8.3	8	1	8	1.46412884333821	http://en.trend.az/regions/met/arabicr/2156675.html
-255536337	20130601	LBN	SYR	020	3.0	8	1	8	0	BBC Monitoring
-255536352	20130601	LBN	SYR	072	8.3	2	1	2	3.09423347398031	http://timesofindia.indiatimes.com/world/middle-east/Balance-of-power-in-Syria-shifting-Assads-way/articleshow/20378034.cms
-255536353	20130601	LBN	SYR	072	8.3	2	1	2	3.09423347398031	http://timesofindia.indiatimes.com/world/middle-east/Balance-of-power-in-Syria-shifting-Assads-way/articleshow/20378034.cms
-255536411	20130601	LBN	SYR	020	3.0	8	1	8	0	BBC Monitoring
-255536415	20130601	LBR	GBR	020	3.0	1	1	1	6.70391061452514	http://www.ddinews.gov.in/International/International+-+Other+Stories/poverty.htm
-255536416	20130601	LBR	GBR	020	3.0	6	1	6	6.70391061452514	http://www.ddinews.gov.in/International/International+-+Other+Stories/poverty.htm
-255536417	20130601	LBR	IDN	020	3.0	1	1	1	6.70391061452514	http://www.ddinews.gov.in/International/International+-+Other+Stories/poverty.htm
-255536418	20130601	LBR	IDN	020	3.0	6	1	6	6.70391061452514	http://www.ddinews.gov.in/International/International+-+Other+Stories/poverty.htm
-255536465	20130601	LBY	LBY	0243	-0.3	10	1	10	2.83505154639175	http://jurist.org/paperchase/2013/06/icc-rules-libya-cannot-try-gaddafi-son.php
-255536862	20130601	LVA	NLD	020	3.0	2	1	2	2.55102040816327	http://www.telegraph.co.uk/comment/columnists/christopherbooker/10092748/Dutch-social-workers-catch-the-English-disease.html
-255537422	20130601	MEX	DEU	071	7.4	3	1	3	3.23450134770889	http://www.laht.com/article.asp?ArticleId=793727&CategoryId=14091
-255537452	20130601	MEX	USA	020	3.0	1	1	1	3.34448160535117	http://cnsnews.com/news/article/3-things-do-if-youre-arrested-mexico-0
-255537453	20130601	MEX	USA	020	3.0	1	1	1	3.34448160535117	http://cnsnews.com/news/article/3-things-do-if-youre-arrested-mexico-0
-255537505	20130601	MEX	USA	020	3.0	2	1	2	3.34448160535117	http://cnsnews.com/news/article/3-things-do-if-youre-arrested-mexico-0
-255537506	20130601	MEX	USA	020	3.0	4	1	4	3.34448160535117	http://cnsnews.com/news/article/3-things-do-if-youre-arrested-mexico-0
-255537846	20130601	MLI	NGA	073	7.4	2	1	2	0.78125	http://reliefweb.int/report/niger/unicef-niger-monthly-humanitarian-situation-report-27-may-2013
-255537847	20130601	MLI	NGA	073	7.4	8	1	8	0.78125	http://reliefweb.int/report/niger/unicef-niger-monthly-humanitarian-situation-report-27-may-2013
-255538020	20130601	USA	USA	020	3.0	10	1	10	5.13595166163142	http://www.bizjournals.com/charlotte/blog/power_city/2013/05/piedmont-natural-gas-proposes-93-nc.html
-255538021	20130601	USA	USA	020	3.0	2	1	2	1.53374233128834	http://www.bizjournals.com/albany/morning_call/2013/05/qa-with-corcoran.html
-255538036	20130601	USA	USA	020	3.0	2	1	2	0	http://money.msn.com/business-news/article.aspx?feed=OBR&date=20130530&id=16538417
-255538079	20130601	USA	GBR	020	3.0	10	1	10	1.6260162601626	http://www.scotsman.com/news/uk/call-for-google-to-do-more-over-online-porn-1-2950975
-255538365	20130601	MYS	MYS	020	3.0	2	1	2	1.21212121212121	http://thestar.com.my/news/story.asp?file=/2013/6/2/nation/13188641&sec=nation
-255538380	20130601	MYS	USA	020	3.0	20	1	20	3.66666666666667	http://uk.reuters.com/article/2013/06/01/uk-malaysia-politics-idUKBRE95005V20130601?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29
-255538393	20130601	MYS	MYS	020	3.0	2	1	2	2.52873563218391	http://thestar.com.my/news/story.asp?file=/2013/6/2/nation/13188591&sec=nation
-255538407	20130601	NER	LBY	020	3.0	2	1	2	2.04081632653061	http://www.iol.co.za/news/africa/libya-has-turned-into-a-threat-1.1525637
-255538408	20130601	NER	LBY	020	3.0	2	1	2	2.04081632653061	http://www.iol.co.za/news/africa/libya-has-turned-into-a-threat-1.1525637
-255538409	20130601	NER	LBY	020	3.0	6	1	6	2.04081632653061	http://www.iol.co.za/news/africa/libya-has-turned-into-a-threat-1.1525637
-255538479	20130601	NGA	EUR	020	3.0	8	1	8	3.26797385620915	http://www.newsday.com/news/world/nigeria-lawmakers-pass-anti-gay-marriage-bill-1.5368442
-255538480	20130601	NGA	EUR	020	3.0	2	1	2	3.26797385620915	http://www.newsday.com/news/world/nigeria-lawmakers-pass-anti-gay-marriage-bill-1.5368442
-255538533	20130601	NGA	NGA	020	3.0	6	1	6	2.26171243941842	http://www.thisdaylive.com/articles/2015-buhari-predicts-victory-for-apc/149144/
-255538680	20130601	NOR	GBR	074	8.5	6	1	6	4.31034482758621	http://www.scotsman.com/news/politics/top-stories/scottish-independence-military-force-cost-fears-1-2952082
-255538681	20130601	NOR	GBR	074	8.5	4	1	4	4.31034482758621	http://www.scotsman.com/news/politics/top-stories/scottish-independence-military-force-cost-fears-1-2952082
-255538759	20130601	NZL	NZL	020	3.0	1	1	1	6.51515151515152	http://www.nzherald.co.nz/opinion/news/article.cfm?c_id=466&objectid=10887849&ref=rss
-255538785	20130601	OMN	LBY	075	7.0	2	1	2	1.98237885462555	http://www.news.com.au/breaking-news/world/icc-says-libya-cant-try-gaddafi-son/story-e6frfkui-1226655011860
-255538786	20130601	OMN	LBY	075	7.0	2	1	2	1.98237885462555	http://www.news.com.au/breaking-news/world/icc-says-libya-cant-try-gaddafi-son/story-e6frfkui-1226655011860
-255539275	20130601	PAK	CAN	020	3.0	10	1	10	2.90697674418605	http://www.karachinews.net/index.php/sid/214909888/scat/8c3d7d78943a99c7
-255539347	20130601	PAK	JPN	071	7.4	8	1	8	1.36363636363636	http://www.japantimes.co.jp/news/2013/06/02/asia-pacific/pakistan-may-need-to-turn-to-imf-for-funds/
-255539348	20130601	PAK	JPN	071	7.4	2	1	2	1.36363636363636	http://www.japantimes.co.jp/news/2013/06/02/asia-pacific/pakistan-may-need-to-turn-to-imf-for-funds/
-255539399	20130601	PAK	PAK	020	3.0	2	1	2	3.87596899224806	http://www.karachinews.net/index.php/sid/214907582/scat/8c3d7d78943a99c7
-255539400	20130601	PAK	PAK	026	4.0	4	1	4	4.06732117812062	http://www.thenews.com.pk/Todays-News-13-23236-Govt-wont-indulge-in-corruption-nor-let-anyone-do-it-Nawaz
-255539439	20130601	PAK	USA	020	3.0	10	1	10	2.53807106598985	http://www.karachinews.net/index.php/sid/214908089/scat/8c3d7d78943a99c7
-255539452	20130601	PAK	USA	020	3.0	2	1	2	0	BBC Monitoring
-255539472	20130601	PAK	PAK	020	3.0	2	1	2	2.56410256410256	http://beta.dawn.com/news/1015382/182-organisations-endorse-nps-malik-baloch-for-cm-balochistan
-255539622	20130601	PHL	DEU	020	3.0	2	1	2	0.558659217877095	http://www.gmanetwork.com/news/story/311087/news/nation/vp-binay-off-to-germany-for-asia-pacific-weeks
-255539649	20130601	PHL	PHL	020	3.0	4	1	4	0.558659217877095	http://www.gmanetwork.com/news/story/311087/news/nation/vp-binay-off-to-germany-for-asia-pacific-weeks
-255539656	20130601	PHL	SAU	073	7.4	10	1	10	1.48423005565863	http://globalnation.inquirer.net/76219/doh-asked-to-educate-ofws-in-saudi-about-deadly-virus
-255539708	20130601	POL	LBN	071	7.4	8	1	8	3.57815442561205	http://reliefweb.int/report/lebanon/pcpm-extends-rental-assistance-syrian-refugees-lebanon-until-december-2013
-255539709	20130601	POL	LBN	071	7.4	2	1	2	3.57815442561205	http://reliefweb.int/report/lebanon/pcpm-extends-rental-assistance-syrian-refugees-lebanon-until-december-2013
-255539726	20130601	PRK	CHN	020	3.0	2	2	2	3.19550001236648	http://www.news.com.au/breaking-news/world/reforms-boost-n-korean-worker-incentives/story-e6frfkui-1226655030069?from=public_rss
-255539727	20130601	PRK	CHN	020	3.0	2	2	2	3.19550001236648	http://www.news.com.au/breaking-news/world/reforms-boost-n-korean-worker-incentives/story-e6frfkui-1226655030069?from=public_rss
-255539749	20130601	PRK	KOR	020	3.0	3	1	3	2.53623188405797	http://en.rian.ru/world/20130602/181465333/NKorea-Criticizes-Seouls-Call-for-Government-Level-Talks.html
-255539750	20130601	PRK	KOR	020	3.0	6	1	6	0	BBC Monitoring
-255539751	20130601	PRK	KOR	020	3.0	2	1	2	0	BBC Monitoring
-255539752	20130601	PRK	KOR	020	3.0	2	1	2	0	BBC Monitoring
-255539829	20130601	PSE	USA	025	-0.3	1	1	1	3.42298288508557	http://www.jpost.com/Opinion/Op-Ed-Contributors/Talking-Turkey-about-Obama-315116
-255539904	20130601	QAT	SYR	023	3.4	10	2	10	2.3216014728819	http://in.reuters.com/article/2013/06/02/syria-crisis-qaradawi-jihad-idINDEE95100320130602?feedType=RSS&feedName=worldNews
-255539905	20130601	QAT	SYR	023	3.4	15	2	15	2.3216014728819	http://in.reuters.com/article/2013/06/02/syria-crisis-qaradawi-jihad-idINDEE95100320130602?feedType=RSS&feedName=worldNews
-255540205	20130601	RUS	CHE	026	4.0	12	5	12	2.90785428579436	http://in.reuters.com/article/2013/06/02/syria-crisis-un-qusair-idINDEE95100B20130602?feedType=RSS&feedName=worldNews
-255540206	20130601	RUS	CHE	026	4.0	44	5	44	2.89908723491261	http://in.reuters.com/article/2013/06/02/syria-crisis-un-qusair-idINDEE95100B20130602?feedType=RSS&feedName=worldNews
-255540207	20130601	RUS	CHE	026	4.0	4	1	4	3.00429184549356	http://in.reuters.com/article/2013/06/02/syria-crisis-un-qusair-idINDEE95100B20130602?feedType=RSS&feedName=worldNews
-255540287	20130601	RUS	IRN	027	4.0	2	1	2	2.09059233449477	http://www.philippinetimes.com/index.php/sid/214907357/scat/2411cd3571b4f088
-255540288	20130601	RUS	IRN	027	4.0	6	1	6	2.09059233449477	http://www.philippinetimes.com/index.php/sid/214907357/scat/2411cd3571b4f088
-255540289	20130601	RUS	IRN	027	4.0	2	1	2	2.09059233449477	http://www.philippinetimes.com/index.php/sid/214907357/scat/2411cd3571b4f088
-255540355	20130601	RUS	RUS	072	8.3	3	1	3	2.20994475138122	http://www.irishsun.com/index.php/sid/214912526/scat/88176adfdf246af5
-255540367	20130601	RUS	SYR	020	3.0	3	1	3	1.46412884333821	http://en.trend.az/regions/met/arabicr/2156675.html
-255540387	20130601	RUS	SYR	072	8.3	6	1	6	1.3953488372093	http://hosted.ap.org/dynamic/stories/E/EU_RUSSIA_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2013-05-31-07-36-18
-255540388	20130601	RUS	SYR	072	8.3	2	1	2	1.3953488372093	http://hosted.ap.org/dynamic/stories/E/EU_RUSSIA_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2013-05-31-07-36-18
-255540389	20130601	RUS	SYR	072	8.3	2	1	2	1.3953488372093	http://hosted.ap.org/dynamic/stories/E/EU_RUSSIA_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2013-05-31-07-36-18
-255540416	20130601	RUS	USA	020	3.0	2	1	2	3.36967294350842	http://www.miamiherald.com/2013/06/01/3427970/convicted-club-operator-in-miami.html
-255540417	20130601	RUS	USA	020	3.0	6	1	6	3.36967294350842	http://www.miamiherald.com/2013/06/01/3427970/convicted-club-operator-in-miami.html
-255540418	20130601	RUS	USA	020	3.0	3	2	3	3.13620557345006	http://www.miamiherald.com/2013/06/01/3427970/convicted-club-operator-in-miami.html
-255540419	20130601	RUS	USA	020	3.0	1	1	1	2.66927083333333	http://www.guardian.co.uk/commentisfree/2013/jun/02/mps-wrapped-tentacles-lobbyists-rawnsley
-255540462	20130601	RUS	USA	020	3.0	6	1	6	2.66927083333333	http://www.guardian.co.uk/commentisfree/2013/jun/02/mps-wrapped-tentacles-lobbyists-rawnsley
-255540520	20130601	RUS	RUS	070	7.0	12	2	12	2.76906564903702	http://www.montrealgazette.com/business/Protesters+Kyrgyzstan+unblock+Canadian+gold+mine+unrest/8466155/story.html
-255540521	20130601	RUS	RUS	070	7.0	4	2	4	2.76906564903702	http://www.montrealgazette.com/business/Protesters+Kyrgyzstan+unblock+Canadian+gold+mine+unrest/8466155/story.html
-255540522	20130601	RUS	RUS	070	7.0	4	2	4	2.76906564903702	http://www.montrealgazette.com/business/Protesters+Kyrgyzstan+unblock+Canadian+gold+mine+unrest/8466155/story.html
-255540596	20130601	SAU	SAU	026	4.0	2	1	2	2.9535864978903	http://austriantribune.com/informationen/131765-opec-oil-exporters-agree-leave-output-policy
-255540611	20130601	SAU	SAU	020	3.0	2	1	2	1.59857904085258	http://www.asianews.it/news-en/Riyadh-expels-Nepalese-migrants-28082.html
-255540612	20130601	SAU	YEM	020	3.0	8	1	8	0	BBC Monitoring
-255540632	20130601	SDN	EGY	020	3.0	4	1	4	0	BBC Monitoring
-255540730	20130601	SGP	USA	026	4.0	2	1	2	3.84615384615385	http://www.channelnewsasia.com/news/asiapacific/us-defence-chief-proposes-us-asean-defen/694580.html
-255540764	20130601	SLE	SOM	072	8.3	2	1	2	0	BBC Monitoring
-255540765	20130601	SLE	SOM	072	8.3	6	1	6	0	BBC Monitoring
-255540766	20130601	SLE	SOM	072	8.3	2	1	2	0	BBC Monitoring
-255540767	20130601	SLE	SOM	072	8.3	10	1	10	0	BBC Monitoring
-255540768	20130601	SLE	SOM	074	8.5	6	1	6	0	BBC Monitoring
-255540769	20130601	SLE	SOM	074	8.5	4	1	4	0	BBC Monitoring
-255540770	20130601	SLE	SOM	074	8.5	10	1	10	0	BBC Monitoring
-255540821	20130601	SOM	SOM	020	3.0	8	1	8	1.3262599469496	http://allafrica.com/stories/201306010024.html
-255541028	20130601	SYR	CHE	020	3.0	4	1	4	2.31673171559478	http://uk.reuters.com/article/2013/06/01/uk-syria-crisis-idUKBRE94U14L20130601?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29
-255541029	20130601	SYR	CHE	020	3.0	12	1	12	2.31673171559478	http://uk.reuters.com/article/2013/06/01/uk-syria-crisis-idUKBRE94U14L20130601?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29
-255541030	20130601	SYR	CHE	020	3.0	4	1	4	2.31673171559478	http://uk.reuters.com/article/2013/06/01/uk-syria-crisis-idUKBRE94U14L20130601?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29
-255541104	20130601	SYR	IRN	020	3.0	2	1	2	3.09423347398031	http://timesofindia.indiatimes.com/world/middle-east/Balance-of-power-in-Syria-shifting-Assads-way/articleshow/20378034.cms
-255541105	20130601	SYR	IRN	020	3.0	2	1	2	3.09423347398031	http://timesofindia.indiatimes.com/world/middle-east/Balance-of-power-in-Syria-shifting-Assads-way/articleshow/20378034.cms
-255541213	20130601	SYR	PSE	020	3.0	5	1	5	0	BBC Monitoring
-255541237	20130601	SYR	RUS	020	3.0	2	1	2	3.09423347398031	http://timesofindia.indiatimes.com/world/middle-east/Balance-of-power-in-Syria-shifting-Assads-way/articleshow/20378034.cms
-255541238	20130601	SYR	RUS	020	3.0	2	1	2	3.09423347398031	http://timesofindia.indiatimes.com/world/middle-east/Balance-of-power-in-Syria-shifting-Assads-way/articleshow/20378034.cms
-255541286	20130601	SYR	SYR	020	3.0	2	1	2	1.36054421768707	http://www.upi.com/Top_News/US/2013/06/01/UN-frets-about-fighting-around-Syrian-city/UPI-19681370105953/
-255541407	20130601	SYR	SYR	072	8.3	10	1	10	2.47776365946633	http://www.islandpacket.com/2013/06/01/2525063/arab-drive-for-reform-seen-shifting.html
-255541417	20130601	SYR	SYR	020	3.0	4	1	4	2.34192037470726	http://in.reuters.com/article/2013/06/02/syria-crisis-qaradawi-jihad-idINDEE95100320130602?feedType=RSS&feedName=worldNews
-255541418	20130601	SYR	SYR	020	3.0	2	1	2	2.24032586558045	http://www.trust.org/item/20130601200154-sgo2c/?source%20=%20hpbreaking
-255541419	20130601	SYR	SYR	020	3.0	4	2	4	0.971239981140971	http://www.ynetnews.com/articles/0,7340,L-4386945,00.html
-255541453	20130601	THA	KHM	020	3.0	6	1	6	2.97029702970297	http://reliefweb.int/report/cambodia/%EF%BF%BCresponding-emergencies-southeast-asia-can-we-do-better-%EF%BF%BC
-255541454	20130601	THA	KHM	020	3.0	2	1	2	2.97029702970297	http://reliefweb.int/report/cambodia/%EF%BF%BCresponding-emergencies-southeast-asia-can-we-do-better-%EF%BF%BC
-255542041	20130601	TUR	TUR	020	3.0	2	1	2	1.41987829614604	http://www.ynetnews.com/articles/0,7340,L-4386871,00.html
-255542042	20130601	TUR	TUR	020	3.0	4	1	4	0.984009840098401	http://www.usatoday.com/story/news/world/2013/06/01/istanbul-turkey-protests/2379603/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+usatoday-NewsTopStories+%28News+-+Top+Stories%29
-255542043	20130601	TUR	TUR	020	3.0	3	1	3	3.57815442561205	http://reliefweb.int/report/lebanon/pcpm-extends-rental-assistance-syrian-refugees-lebanon-until-december-2013
-255542044	20130601	TUR	TUR	020	3.0	2	1	2	0	BBC Monitoring
-255542045	20130601	TUR	TUR	020	3.0	5	1	5	3.57815442561205	http://reliefweb.int/report/lebanon/pcpm-extends-rental-assistance-syrian-refugees-lebanon-until-december-2013
-255542046	20130601	TUR	TUR	0241	-0.3	4	2	4	1.76059234882764	http://www.chinapost.com.tw/international/europe/2013/06/01/380128/Turkish-police.htm
-255542047	20130601	TUR	TUR	0241	-0.3	16	2	16	1.84106944765101	http://www.miamiherald.com/2013/06/01/3428147/turkey-protests-over-plan-to-build.html
-255542153	20130601	TUR	TUR	020	3.0	12	1	12	0.984009840098401	http://www.usatoday.com/story/news/world/2013/06/01/istanbul-turkey-protests/2379603/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+usatoday-NewsTopStories+%28News+-+Top+Stories%29
-255542194	20130601	TUR	EUR	025	-0.3	10	1	10	0	BBC Monitoring
-255542221	20130601	TUR	TUR	020	3.0	10	1	10	2.72727272727273	http://www.novinite.com/view_news.php?id=150887
-255542222	20130601	TUR	TUR	020	3.0	3	1	3	1.68421052631579	http://www.israelnationalnews.com/News/News.aspx/168508
-255542223	20130601	TUR	TUR	020	3.0	8	1	8	0	BBC Monitoring
-255542247	20130601	TUR	TUR	020	3.0	9	2	9	1.50798903953596	http://www.israelnationalnews.com/News/News.aspx/168508
-255542248	20130601	TUR	TUR	020	3.0	4	1	4	1.68421052631579	http://www.israelnationalnews.com/News/News.aspx/168508
-255542249	20130601	TUR	TUR	020	3.0	6	1	6	0	BBC Monitoring
-255542282	20130601	TUR	TUR	0241	-0.3	2	1	2	1.34770889487871	http://www.globalsecurity.org/military/library/news/2013/06/mil-130601-presstv01.htm
-255542339	20130601	TZA	RWA	020	3.0	4	1	4	0	BBC Monitoring
-255542341	20130601	TZA	RWA	020	3.0	6	1	6	0	BBC Monitoring
-255543665	20130601	USA	CAN	020	3.0	2	1	2	3.57142857142857	http://www.miamiherald.com/2013/06/01/3427820/for-90th-birthday-pilot-plans.html
-255543666	20130601	USA	CAN	020	3.0	5	4	5	3.60270834314526	http://news.yahoo.com/90th-birthday-pilot-plans-90-passes-over-us-192755546.html
-255543667	20130601	USA	CAN	020	3.0	5	4	5	3.54586486209124	http://hosted.ap.org/dynamic/stories/U/US_90_BORDER_CROSSINGS?SITE=FLPLA&SECTION=HOME&TEMPLATE=DEFAULT
-255543668	20130601	USA	CAN	020	3.0	4	1	4	3.56612184249629	http://www.theglobeandmail.com/news/world/pilot-plans-90-passes-over-canada-us-border-for-90th-birthday/article12301626/?cmpid=rss1
-255543669	20130601	USA	CAN	020	3.0	6	5	6	3.55012548031413	http://news.yahoo.com/90th-birthday-pilot-plans-90-passes-over-us-192755546.html
-255543670	20130601	USA	CAN	020	3.0	1	1	1	3.64188163884674	http://abcnews.go.com/International/wireStory/90th-birthday-pilot-plans-90-border-crossings-19304533
-255543671	20130601	USA	CAN	020	3.0	7	5	7	3.52263101649449	http://news.yahoo.com/90th-birthday-pilot-plans-90-passes-over-us-192755546.html
-255543672	20130601	USA	CAN	020	3.0	1	1	1	3.64188163884674	http://abcnews.go.com/International/wireStory/90th-birthday-pilot-plans-90-border-crossings-19304533
-255543673	20130601	USA	CAN	020	3.0	1	1	1	3.64188163884674	http://abcnews.go.com/International/wireStory/90th-birthday-pilot-plans-90-border-crossings-19304533
-255543674	20130601	USA	CAN	020	3.0	3	1	3	3.05343511450382	http://www.thetelegraph.com/news/local/article_91580e80-ca47-11e2-adaf-001a4bcf6878.html
-255543675	20130601	USA	CAN	020	3.0	1	1	1	3.05343511450382	http://www.thetelegraph.com/news/local/article_91580e80-ca47-11e2-adaf-001a4bcf6878.html
-255543698	20130601	USA	CHE	026	4.0	20	5	20	2.88856677385452	http://www.theglobeandmail.com/news/world/russia-vetoes-security-council-draft-statement-of-alarm-over-siege-of-syrian-town/article12301571/?cmpid=rss1
-255543699	20130601	USA	CHE	026	4.0	4	1	4	3.00429184549356	http://in.reuters.com/article/2013/06/02/syria-crisis-un-qusair-idINDEE95100B20130602?feedType=RSS&feedName=worldNews
-255543700	20130601	USA	CHE	026	4.0	12	5	12	2.90785428579436	http://in.reuters.com/article/2013/06/02/syria-crisis-un-qusair-idINDEE95100B20130602?feedType=RSS&feedName=worldNews
-255543701	20130601	USA	CHE	026	4.0	24	5	24	2.90785428579436	http://in.reuters.com/article/2013/06/02/syria-crisis-un-qusair-idINDEE95100B20130602?feedType=RSS&feedName=worldNews
-255543725	20130601	USA	CHN	020	3.0	8	1	8	3.18331503841932	http://www.startribune.com/business/209786211.html
-255543726	20130601	USA	CHN	020	3.0	10	1	10	2.82885431400283	http://www.newsday.co.tt/news/0,178570.html
-255543768	20130601	USA	CHN	070	7.0	5	1	5	2.56880733944954	http://www.bloomberg.com/news/2013-06-01/hagel-blames-china-for-cyber-attacks-while-pushing-talks.html
-255543769	20130601	USA	CHN	070	7.0	16	2	16	1.64848989067097	http://www.globalsecurity.org/security/library/news/2013/06/sec-130601-voa01.htm
-255543770	20130601	USA	CHN	070	7.0	2	1	2	4.04297100612221	http://www.globalsecurity.org/military/library/news/2013/06/mil-130601-dod01.htm
-255543771	20130601	USA	CHN	070	7.0	8	1	8	4.04297100612221	http://www.globalsecurity.org/military/library/news/2013/06/mil-130601-dod01.htm
-255543772	20130601	USA	CHN	070	7.0	14	3	14	6.89154285800872	http://www.thejakartapost.com/news/2013/06/01/asian-countries-told-build-strategic-trust-regional-peace.html
-255543773	20130601	USA	CHN	071	7.4	5	1	5	0	BBC Monitoring
-255543796	20130601	USA	CHN	020	3.0	12	1	12	3.18331503841932	http://www.startribune.com/business/209786211.html
-255544072	20130601	USA	EUR	020	3.0	80	2	80	2.87446244561028	http://in.reuters.com/article/2013/06/01/us-usa-china-smithfield-idINBRE9500DL20130601
-255544073	20130601	USA	EUR	022	3.2	5	1	5	2.17391304347826	http://www.reuters.com/article/2013/05/31/us-usa-afghan-nato-idUSBRE94U0XS20130531
-255544076	20130601	USA	EUR	070	7.0	10	1	10	0.371747211895911	http://www.fxempire.com/uncategorized/nearby-crude-oil-monthly-technical-analysis-for-june-2013/
-255544273	20130601	USA	IRN	020	3.0	10	1	10	3.14769975786925	http://uk.reuters.com/article/2013/05/31/uk-usa-terrorism-iran-idUKBRE94U17B20130531?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FUKWorldNews+%28News+%2F+UK+%2F+World+News%29
-255544316	20130601	USA	JPN	020	3.0	4	1	4	3.74787052810903	http://www.contracostatimes.com/breaking-news/ci_23370621/dreamliner-finally-gets-off-ground-san-jose-after?source=rss
-255544438	20130601	USA	MDV	020	3.0	2	1	2	2.0979020979021	http://www.dailymail.co.uk/news/article-2334249/Letters-notes-illustrate-Al-Capones-descent-dementia-sale.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490
-255544439	20130601	USA	MDV	020	3.0	2	1	2	2.0979020979021	http://www.dailymail.co.uk/news/article-2334249/Letters-notes-illustrate-Al-Capones-descent-dementia-sale.html?ITO=1490&ns_mchannel=rss&ns_campaign=1490
-255544489	20130601	USA	MEX	020	3.0	1	1	1	3.26855123674912	http://news.yahoo.com/irs-aside-political-passions-summer-break-152229455.html
-255544490	20130601	USA	MEX	020	3.0	1	1	1	3.26855123674912	http://news.yahoo.com/irs-aside-political-passions-summer-break-152229455.html
-255544732	20130601	USA	PHL	071	7.4	3	1	3	0.847457627118644	http://www.philippinetimes.com/index.php/sid/214908886/scat/2411cd3571b4f088
-255544746	20130601	USA	RUS	020	3.0	6	1	6	3.21346595256312	http://www.seattlepi.com/news/world/article/Syria-s-Assad-confident-in-victory-in-civil-war-4559804.php
-255544747	20130601	USA	RUS	020	3.0	2	1	2	3.21346595256312	http://www.seattlepi.com/news/world/article/Syria-s-Assad-confident-in-victory-in-civil-war-4559804.php
-255544748	20130601	USA	RUS	020	3.0	2	1	2	3.21346595256312	http://www.seattlepi.com/news/world/article/Syria-s-Assad-confident-in-victory-in-civil-war-4559804.php
-255544749	20130601	USA	RUS	025	-0.3	2	1	2	0	BBC Monitoring
-255544750	20130601	USA	RUS	025	-0.3	6	1	6	0	BBC Monitoring
-255544751	20130601	USA	RUS	025	-0.3	2	1	2	0	BBC Monitoring
-255544752	20130601	USA	RUS	025	-0.3	5	1	5	2.56410256410256	http://www.panarmenian.net/eng/news/160585/
-255544800	20130601	USA	SYR	020	3.0	2	1	2	5.35714285714286	http://www.aps.dz/John-Kerry-calls-for-peaceful.html
-255544819	20130601	USA	SYR	020	3.0	6	1	6	5.35714285714286	http://www.aps.dz/John-Kerry-calls-for-peaceful.html
-255544825	20130601	USA	THA	020	3.0	6	1	6	4.04297100612221	http://www.globalsecurity.org/military/library/news/2013/06/mil-130601-dod01.htm
-255544826	20130601	USA	THA	020	3.0	2	1	2	4.04297100612221	http://www.globalsecurity.org/military/library/news/2013/06/mil-130601-dod01.htm
-255544827	20130601	USA	THA	020	3.0	2	1	2	4.04297100612221	http://www.globalsecurity.org/military/library/news/2013/06/mil-130601-dod01.htm
-255544863	20130601	USA	UKR	075	7.0	4	1	4	2.78706800445931	http://www.10tv.com/content/stories/apexchange/2013/06/01/national-news-at-a-glance.html
-255544864	20130601	USA	UKR	075	7.0	2	1	2	2.78706800445931	http://www.10tv.com/content/stories/apexchange/2013/06/01/national-news-at-a-glance.html
-255544865	20130601	USA	UKR	075	7.0	2	1	2	2.78706800445931	http://www.10tv.com/content/stories/apexchange/2013/06/01/national-news-at-a-glance.html
-255544866	20130601	USA	UKR	075	7.0	2	1	2	2.78706800445931	http://www.10tv.com/content/stories/apexchange/2013/06/01/national-news-at-a-glance.html
-255544870	20130601	USA	USA	020	3.0	14	1	14	3.55029585798817	http://www.usatoday.com/story/news/2013/06/01/in-search-of-that-rarest-of-things-high-yield-accounts/2373181/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+UsatodaycomMoney-TopStories+%28Money+-+Top+Stories%29
-255544887	20130601	USA	USA	020	3.0	6	1	6	3.55648535564854	http://www.guardian.co.uk/lifeandstyle/2013/jun/01/size-zero-campaigners-london-college-fashion
-255544888	20130601	USA	USA	020	3.0	2	1	2	3.55648535564854	http://www.guardian.co.uk/lifeandstyle/2013/jun/01/size-zero-campaigners-london-college-fashion
-255544895	20130601	USA	USA	020	3.0	4	1	4	3.74707259953162	http://www.latimes.com/news/local/la-me-adv-schools-standards-20130602,0,5572931.story?track=rss
-255544896	20130601	USA	USA	020	3.0	3	1	3	3.04955527318933	http://cnsnews.com/news/article/ny-cancer-society-says-sweet-smokes-aimed-kids
-255544900	20130601	USA	USA	020	3.0	1	1	1	1.00806451612903	http://thecaucus.blogs.nytimes.com/2013/06/01/sunday-breakfast-menu-june-2/?partner=rss&emc=rss
-255544901	20130601	USA	USA	020	3.0	1	1	1	1.00806451612903	http://thecaucus.blogs.nytimes.com/2013/06/01/sunday-breakfast-menu-june-2/?partner=rss&emc=rss
-255544917	20130601	USA	USA	020	3.0	1	1	1	1.00806451612903	http://thecaucus.blogs.nytimes.com/2013/06/01/sunday-breakfast-menu-june-2/?partner=rss&emc=rss
-255544918	20130601	USA	USA	020	3.0	1	1	1	1.00806451612903	http://thecaucus.blogs.nytimes.com/2013/06/01/sunday-breakfast-menu-june-2/?partner=rss&emc=rss
-255544919	20130601	USA	USA	020	3.0	7	1	7	3.86100386100386	http://www.nationaljournal.com/politics/middle-class-falls-wall-street-rises-and-washington-dithers-20130531
-255544920	20130601	USA	USA	020	3.0	2	1	2	3.06513409961686	http://www.nypost.com/p/news/local/teach_evals_final_47FEg2bvREesccnh1E5afP?utm_medium=rss&utm_content=Local
-255544921	20130601	USA	USA	020	3.0	20	2	20	1.05914802329145	http://www.chinapost.com.tw/international/americas/2013/06/02/380162/Canada-province.htm
-255544998	20130601	USA	USA	020	3.0	1	1	1	3.42679127725857	http://thesouthern.com/news/local/region-records-some-wins-in-springfield/article_006a0a7c-ca79-11e2-8d5e-001a4bcf887a.html
-255544999	20130601	USA	USA	020	3.0	1	1	1	3.42679127725857	http://thesouthern.com/news/local/region-records-some-wins-in-springfield/article_006a0a7c-ca79-11e2-8d5e-001a4bcf887a.html
-255545023	20130601	USA	USA	070	7.0	2	1	2	0.537634408602151	http://www.startribune.com/nation/209785991.html
-255545032	20130601	USA	USA	020	3.0	2	1	2	2.83687943262411	http://www.foxnews.com/politics/2013/06/01/friction-between-mccain-paul-underscores-divide-within-republican-party/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29
-255545033	20130601	USA	USA	020	3.0	2	1	2	2.83687943262411	http://www.foxnews.com/politics/2013/06/01/friction-between-mccain-paul-underscores-divide-within-republican-party/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fpolitics+%28Internal+-+Politics+-+Text%29
-255545053	20130601	USA	VNM	020	3.0	2	1	2	2.88350634371396	http://consortiumnews.com/2013/06/01/a-new-front-in-war-on-wikileaks/
-255545054	20130601	USA	VNM	020	3.0	2	1	2	2.88350634371396	http://consortiumnews.com/2013/06/01/a-new-front-in-war-on-wikileaks/
-255545132	20130601	USA	USA	070	7.0	4	1	4	3.11203319502075	http://www.sunherald.com/2013/06/01/4704543/south-mississippi-citizen-scientists.html
-255545297	20130601	USA	CUB	020	3.0	4	2	4	3.41636977830285	http://www.southernminn.com/ap/washington/article_b6aef411-f9e6-5822-9fce-51453c44234a.html
-255545298	20130601	USA	CUB	020	3.0	4	2	4	3.41636977830285	http://www.southernminn.com/ap/washington/article_b6aef411-f9e6-5822-9fce-51453c44234a.html
-255545299	20130601	USA	CUB	020	3.0	12	2	12	3.41636977830285	http://www.southernminn.com/ap/washington/article_b6aef411-f9e6-5822-9fce-51453c44234a.html
-255545366	20130601	USA	PHL	020	3.0	3	1	3	1.41129032258065	http://ph.news.yahoo.com/bangladesh-propagate-hybrid-rice-175112168.html
-255545367	20130601	USA	PHL	020	3.0	4	1	4	1.41129032258065	http://ph.news.yahoo.com/bangladesh-propagate-hybrid-rice-175112168.html
-255545387	20130601	USA	USA	020	3.0	2	1	2	3.8265306122449	http://www.guardian.co.uk/stage/2013/jun/02/chimerica-almeida-race-hampstead-review
-255545412	20130601	USA	USA	071	7.4	8	1	8	1.96078431372549	http://www.boston.com/politicalintelligence/2013/05/30/gomez-adviser-implores-gop-donors-get-behind-candidate/qD1dOMzAcT2X1ePyuwgxkN/story.html
-255545436	20130601	USA	USA	020	3.0	3	2	3	6.60148936469727	http://www.latimes.com/news/nationworld/nation/la-na-gay-marriage-20130601,0,1850052.story?track=rss
-255545437	20130601	USA	USA	020	3.0	2	1	2	6.48148148148148	http://www.latimes.com/news/nationworld/nation/la-na-gay-marriage-20130601,0,1850052.story?track=rss
-255545438	20130601	USA	USA	020	3.0	1	1	1	6.84150513112885	http://www.chicagotribune.com/news/local/ct-met-illinois-gay-marriage-0602-20130602,0,5636005.story
-255545439	20130601	USA	USA	071	7.4	3	2	3	6.60148936469727	http://www.latimes.com/news/nationworld/nation/la-na-gay-marriage-20130601,0,1850052.story?track=rss
-255545440	20130601	USA	USA	071	7.4	3	2	3	6.60148936469727	http://www.latimes.com/news/nationworld/nation/la-na-gay-marriage-20130601,0,1850052.story?track=rss
-255545449	20130601	USA	CHN	020	3.0	6	2	6	3.36704153818248	http://www.adelaidenow.com.au/news/breaking-news/us-wants-hacker-attacks-resolved-amicably/story-e6frea7u-1226655047359?from=public_rss
-255545452	20130601	USA	USA	020	3.0	10	1	10	3.03030303030303	http://www.lakewyliepilot.com/2013/05/29/1928139/oil-giant-total-to-pay-245-million.html
-255545519	20130601	USA	USA	071	7.4	2	1	2	6.01503759398496	http://www.prnewswire.com/news-releases/foresters-kaboom--volunteers-revitalize-charlotte-community-with-new-playground-209795261.html
-255545541	20130601	USA	EUR	020	3.0	20	2	20	2.87446244561029	http://in.reuters.com/article/2013/06/01/us-usa-china-smithfield-idINBRE9500DL20130601
-255545555	20130601	USA	USA	070	7.0	2	1	2	1.15774240231548	http://www.miamiherald.com/2013/06/01/3427878/congressman-joe-garcia-flawed.html
-255545556	20130601	USA	USA	071	7.4	3	1	3	2.03125	http://www.bloomberg.com/news/2013-06-01/illinois-lawmakers-fumble-pension-fix-as-cost-rises.html
-255545557	20130601	USA	USA	073	7.4	3	1	3	2.03125	http://www.bloomberg.com/news/2013-06-01/illinois-lawmakers-fumble-pension-fix-as-cost-rises.html
-255545604	20130601	USA	ESP	070	7.0	10	1	10	1.53846153846154	http://news.yahoo.com/brawl-over-spilled-punch-kindergarten-graduation-ceremony-cleveland-204247729.html
-255545605	20130601	USA	ESP	070	7.0	10	1	10	1.20689655172414	http://bigstory.ap.org/article/brawl-breaks-out-ohio-kindergarten-graduation
-255545609	20130601	USA	GBR	070	7.0	2	1	2	1.92837465564738	http://www.seattlepi.com/news/crime/article/UK-police-Man-charged-in-UK-soldier-s-murder-4556738.php
-255545612	20130601	USA	GBR	070	7.0	2	1	2	1.92837465564738	http://www.seattlepi.com/news/crime/article/UK-police-Man-charged-in-UK-soldier-s-murder-4556738.php
-255545623	20130601	USA	IRQ	020	3.0	91	12	91	0.335126059911687	http://www.huffingtonpost.com/2013/06/01/un-more-than-1000-iraqis-_n_3370928.html
-255545624	20130601	USA	IRQ	020	3.0	7	1	7	0.470588235294118	http://www.aljazeera.com/news/middleeast/2013/06/201361122336222727.html
-255545625	20130601	USA	IRQ	070	7.0	2	1	2	0.975177304964539	http://www.newsday.com/news/world/alarm-grows-as-iraqi-forces-fail-to-stem-violence-1.5366877
-255545633	20130601	USA	JOR	070	7.0	32	2	32	2.50775805548425	http://www.islandpacket.com/2013/06/01/2525063/arab-drive-for-reform-seen-shifting.html
-255545639	20130601	USA	KEN	070	7.0	7	1	7	2.36111111111111	http://www.seattlepi.com/news/crime/article/Man-accused-of-killing-UK-soldier-appears-in-court-4560442.php
-255545640	20130601	USA	MEX	070	7.0	8	3	8	1.36482971235144	http://cnsnews.com/news/article/ariz-mom-not-giving-mexico-despite-arrest
-255545644	20130601	USA	MMR	070	7.0	1	1	1	1.19465917076599	http://cnsnews.com/news/article/radical-monks-prejudice-fuel-myanmar-violence
-255545645	20130601	USA	MMR	070	7.0	7	1	7	1.19465917076599	http://cnsnews.com/news/article/radical-monks-prejudice-fuel-myanmar-violence
-255545652	20130601	USA	PAK	070	7.0	1	1	1	3.45679012345679	http://www.seattlepi.com/news/world/article/Pakistani-Taliban-withdraw-peace-talks-offer-4559716.php
-255545653	20130601	USA	PAK	070	7.0	1	1	1	3.45679012345679	http://www.seattlepi.com/news/world/article/Pakistani-Taliban-withdraw-peace-talks-offer-4559716.php
-255545654	20130601	USA	PHL	070	7.0	4	1	4	0.900900900900901	http://www.foxnews.com/world/2013/06/01/death-toll-in-apartment-explosion-in-upscale-manila-district-rises-to-6/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29
-255545658	20130601	USA	SEN	070	7.0	4	2	4	0.61305358497838	http://cnsnews.com/news/article/gunmen-attack-central-prison-nigers-capital
-255545659	20130601	USA	SEN	070	7.0	12	2	12	0.613053584978381	http://cnsnews.com/news/article/gunmen-attack-central-prison-nigers-capital
-255545660	20130601	USA	SEN	070	7.0	4	2	4	0.61305358497838	http://cnsnews.com/news/article/gunmen-attack-central-prison-nigers-capital
-255545661	20130601	USA	SYR	023	3.4	2	1	2	2.24032586558045	http://www.trust.org/item/20130601200154-sgo2c/?source%20=%20hpbreaking
-255545662	20130601	USA	SYR	023	3.4	3	1	3	2.24032586558045	http://www.trust.org/item/20130601200154-sgo2c/?source%20=%20hpbreaking
-255545668	20130601	USA	USA	020	3.0	10	1	10	1.93798449612403	http://www.freep.com/article/20130601/BUSINESS06/306010029/Roger-Penske-Detroit-Grand-Prix-track
-255545672	20130601	USA	USA	070	7.0	1	1	1	3.21346595256312	http://www.seattlepi.com/news/world/article/Syria-s-Assad-confident-in-victory-in-civil-war-4559804.php
-255545673	20130601	USA	USA	070	7.0	1	1	1	3.21346595256312	http://www.seattlepi.com/news/world/article/Syria-s-Assad-confident-in-victory-in-civil-war-4559804.php
-255545674	20130601	USA	USA	070	7.0	4	2	4	3.0951109025404	http://minnesota.publicradio.org/display/web/2013/06/01/politics/republican-versus-republican-in-covering-uninsured?refid=0&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MPR_NewsFeatures+%28News+%26+Features+from+Minnesota+Public+Radio%29
-255545675	20130601	USA	USA	070	7.0	4	2	4	0.534188034188034	http://www.contracostatimes.com/breaking-news/ci_23369880/frightened-okla-residents-opt-flee-tornadoes?source=rss
-255545676	20130601	USA	USA	070	7.0	6	1	6	1.54185022026432	http://www.foxnews.com/us/2013/06/01/family-michigan-mother-killed-in-syria-left-relatives-in-dark-about-her-mideast/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29
-255545677	20130601	USA	USA	070	7.0	4	2	4	0.341296928327645	http://news.yahoo.com/us-denies-mauritania-got-2-guantanamo-prisoners-161050486.html
-255545678	20130601	USA	USA	070	7.0	24	3	24	0.340143898164376	http://abcnews.go.com/International/wireStory/mauritania-receives-prisoners-guantanamo-19304431
-255545679	20130601	USA	USA	070	7.0	2	1	2	0.337837837837838	http://abcnews.go.com/International/wireStory/mauritania-receives-prisoners-guantanamo-19304431
-255545680	20130601	USA	USA	070	7.0	12	2	12	2.61794618904383	http://hosted.ap.org/dynamic/stories/U/US_THE_IRS?SITE=RIWOO&SECTION=HOME&TEMPLATE=DEFAULT
-255545681	20130601	USA	USA	070	7.0	14	4	14	2.83991185627465	http://cnsnews.com/news/article/family-mother-killed-syria-kept-many-secrets
-255545682	20130601	USA	USA	070	7.0	1	1	1	0.403225806451613	http://www.guardian.co.uk/world/feedarticle/10818442
-255545683	20130601	USA	USA	070	7.0	3	3	3	0.404590091844222	http://www.huffingtonpost.com/2013/06/01/hepatitis-a-outbreak_n_3373103.html
-255545684	20130601	USA	USA	070	7.0	20	10	20	3.45090454128425	http://thetandd.com/news/national/ill-passes-nation-s-toughest-fracking-regulations/article_848f514e-4b4b-5ea3-8bc6-57348ec40d5f.html
-255545685	20130601	USA	USA	070	7.0	2	1	2	0.715015321756895	http://cnsnews.com/news/article/frightened-okla-residents-opt-flee-tornadoes
-255545700	20130601	USA	USA	070	7.0	12	3	12	3.04000645527124	http://news.yahoo.com/pressing-needs-test-gops-smaller-government-stand-153003706.html
-255545701	20130601	USA	USA	070	7.0	10	10	10	3.45090454128425	http://thetandd.com/news/national/ill-passes-nation-s-toughest-fracking-regulations/article_848f514e-4b4b-5ea3-8bc6-57348ec40d5f.html
-255545702	20130601	USA	VEN	070	7.0	2	1	2	1.71990171990172	http://www.edmontonjournal.com/news/Brawl+breaks+Venezuela+national+assembly+over+disputed/8318678/story.html
-255545703	20130601	USA	VEN	070	7.0	2	1	2	1.71990171990172	http://www.edmontonjournal.com/news/Brawl+breaks+Venezuela+national+assembly+over+disputed/8318678/story.html
-255545843	20130601	VNM	USA	020	3.0	6	1	6	2.88350634371396	http://consortiumnews.com/2013/06/01/a-new-front-in-war-on-wikileaks/
-255545902	20130601	YEM	YEM	020	3.0	2	1	2	0	BBC Monitoring
-255545937	20130601	ZAF	USA	070	7.0	5	1	5	3.09065934065934	http://opinionator.blogs.nytimes.com/2013/05/31/organizing-black-soldiers/?partner=rss&emc=rss
-255545938	20130601	ZAF	USA	070	7.0	2	1	2	3.09065934065934	http://opinionator.blogs.nytimes.com/2013/05/31/organizing-black-soldiers/?partner=rss&emc=rss
+http://www.telegraph.co.uk/news/worldnews/europe/france/10093647/Alps-murders-prosecutors-reveal-fresh-details-of-inheritance-war.html
+http://www.telegraph.co.uk/news/worldnews/europe/france/10093647/Alps-murders-prosecutors-reveal-fresh-details-of-inheritance-war.html
+http://www.telegraph.co.uk/news/worldnews/europe/france/10093647/Alps-murders-prosecutors-reveal-fresh-details-of-inheritance-war.html
+http://www.telegraph.co.uk/news/worldnews/europe/france/10093647/Alps-murders-prosecutors-reveal-fresh-details-of-inheritance-war.html
+http://www.telegraph.co.uk/news/politics/conservative/10093648/Patrick-Mercer-investigation-puts-parliamentary-groups-under-scrutiny.html
+http://www.telegraph.co.uk/news/politics/conservative/10093648/Patrick-Mercer-investigation-puts-parliamentary-groups-under-scrutiny.html
+http://www.telegraph.co.uk/news/politics/conservative/10093648/Patrick-Mercer-investigation-puts-parliamentary-groups-under-scrutiny.html
+http://www.telegraph.co.uk/news/politics/conservative/10093648/Patrick-Mercer-investigation-puts-parliamentary-groups-under-scrutiny.html
+http://www.telegraph.co.uk/news/politics/conservative/10093648/Patrick-Mercer-investigation-puts-parliamentary-groups-under-scrutiny.html
+http://www.telegraph.co.uk/news/politics/conservative/10093648/Patrick-Mercer-investigation-puts-parliamentary-groups-under-scrutiny.html
+http://www.bloomberg.com/news/2013-05-30/bullard-says-downturn-hardest-on-young-less-educated-families.html
+http://www.digitaljournal.com/article/351255
+http://www.digitaljournal.com/article/351255
+http://www.chron.com/news/houston-texas/houston/article/Neighborhood-lemonade-stand-pays-tribute-to-4568533.php
+http://www.latimes.com/news/politics/la-pn-romney-donors-2016-contenders-20130601,0,1706152.story
+http://www.newsday.co.tt/news/0,178571.html
+http://www.thetower.org/exclusive-israel-to-offer-sweeping-concessions-to-non-orthodox-worshipers-at-western-wall-2/
+http://www.thetower.org/exclusive-israel-to-offer-sweeping-concessions-to-non-orthodox-worshipers-at-western-wall-2/
+http://www.thetower.org/exclusive-israel-to-offer-sweeping-concessions-to-non-orthodox-worshipers-at-western-wall-2/
+BBC Monitoring
+http://www.upi.com/Top_News/World-News/2013/06/01/Red-Cross-halts-work-in-Afghanistan-after-deadly-attack/UPI-48661370097890/
+http://www.japantimes.co.jp/news/2013/06/02/national/belgian-ugandan-win-noguchi-prize/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+japantimes+%28The+Japan+Times%3A+All+Stories%29
+http://www.albeu.com/shqiperi/gaqo-bushaka-nderohet-me-titullin-mirenjohja-e-tiranes/113136/
+http://www.buenosairesherald.com/article/132536/cabandi%E9-tells-macri-columbus-monument-belongs-to-all-argentineans
+http://www.japantimes.co.jp/news/2013/06/02/national/belgian-ugandan-win-noguchi-prize/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+japantimes+%28The+Japan+Times%3A+All+Stories%29
+http://www.cbc.ca/news/canada/british-columbia/story/2013/06/01/bc-rcaf-cormorant-rescue-vancouver-island.html?cmp=rss
+http://science.nbcnews.com/_news/2013/06/01/18683876-why-sharks-generate-more-money-alive-than-dead?lite
+http://www.cbc.ca/news/canada/british-columbia/story/2013/06/01/bc-rcaf-cormorant-rescue-vancouver-island.html?cmp=rss
+http://www.telegraph.co.uk/news/worldnews/europe/france/10093647/Alps-murders-prosecutors-reveal-fresh-details-of-inheritance-war.html
+http://www.telegraph.co.uk/news/worldnews/europe/france/10093647/Alps-murders-prosecutors-reveal-fresh-details-of-inheritance-war.html
+http://zeenews.india.com/news/world/china-donates-buddha-tooth-relic-stupa-replicas-to-myanmar_852222.html
+http://zeenews.india.com/news/world/china-donates-buddha-tooth-relic-stupa-replicas-to-myanmar_852222.html
+http://articles.economictimes.indiatimes.com/2013-05-29/news/39602072_1_neelum-jhelum-pok-power-development-authority
+http://www.thejakartapost.com/news/2013/06/01/asian-countries-told-build-strategic-trust-regional-peace.html
+http://www.telegraph.co.uk/news/politics/conservative/10093648/Patrick-Mercer-investigation-puts-parliamentary-groups-under-scrutiny.html
+http://gulfnews.com/news/world/usa/us-germany-to-russia-don-t-send-assad-missiles-1.1191195
+http://gulfnews.com/news/world/usa/us-germany-to-russia-don-t-send-assad-missiles-1.1191195
+http://tv.msnbc.com/2013/06/01/bradley-manning-at-the-heart-of-obama-admins-war-on-leaks/
+http://consortiumnews.com/2013/06/01/a-new-front-in-war-on-wikileaks/
+http://www.pressdemocrat.com/article/20130531/WIRE/130539876
+http://www.abqjournal.com/main/2013/06/01/opinion/its-the-fourth-estate-not-for-the-state.html
+http://www.pressdemocrat.com/article/20130531/WIRE/130539876
+http://www.news24.com/Africa/News/Hollande-No-French-military-action-in-Libya-20130531
+http://www.news24.com/Africa/News/Hollande-No-French-military-action-in-Libya-20130531
+http://www.guardian.co.uk/lifeandstyle/2013/jun/01/size-zero-campaigners-london-college-fashion
+http://sport.albeu.com/sport/jonny-evans-martohet-me-prezantuesen-e-mutv-foto-lajm/113164/
+http://seekingalpha.com/article/1474561-5-natural-gas-transportation-stocks-for-2013-may-update?source=google_news
+http://www.independent.co.uk/news/uk/politics/boris-johnson-for-no-10-the-arguments-for-and-against-any-move-to-downing-street-8640811.html
+http://www.independent.co.uk/news/uk/politics/boris-johnson-for-no-10-the-arguments-for-and-against-any-move-to-downing-street-8640811.html
+http://science.nbcnews.com/_news/2013/06/01/18683876-why-sharks-generate-more-money-alive-than-dead?lite
+http://news.usni.org/2013/05/31/report-new-iranian-missiles-could-overwhelm-israeli-defenses
+http://reliefweb.int/report/kenya/japan-funds-processing-centres-boosting-kenya%E2%80%99s-soybean-sector
+BBC Monitoring
+BBC Monitoring
+http://en.trend.az/regions/met/arabicr/2156675.html
+http://en.trend.az/regions/met/arabicr/2156675.html
+http://timesofindia.indiatimes.com/world/middle-east/Balance-of-power-in-Syria-shifting-Assads-way/articleshow/20378034.cms
+http://timesofindia.indiatimes.com/world/middle-east/Balance-of-power-in-Syria-shifting-Assads-way/articleshow/20378034.cms
+http://www.laht.com/article.asp?ArticleId=793727&CategoryId=14091
+http://reliefweb.int/report/niger/unicef-niger-monthly-humanitarian-situation-report-27-may-2013
+http://reliefweb.int/report/niger/unicef-niger-monthly-humanitarian-situation-report-27-may-2013
+http://www.scotsman.com/news/politics/top-stories/scottish-independence-military-force-cost-fears-1-2952082
+http://www.scotsman.com/news/politics/top-stories/scottish-independence-military-force-cost-fears-1-2952082
+http://www.news.com.au/breaking-news/world/icc-says-libya-cant-try-gaddafi-son/story-e6frfkui-1226655011860
+http://www.news.com.au/breaking-news/world/icc-says-libya-cant-try-gaddafi-son/story-e6frfkui-1226655011860
+http://www.japantimes.co.jp/news/2013/06/02/asia-pacific/pakistan-may-need-to-turn-to-imf-for-funds/
+http://www.japantimes.co.jp/news/2013/06/02/asia-pacific/pakistan-may-need-to-turn-to-imf-for-funds/
+http://globalnation.inquirer.net/76219/doh-asked-to-educate-ofws-in-saudi-about-deadly-virus
+http://reliefweb.int/report/lebanon/pcpm-extends-rental-assistance-syrian-refugees-lebanon-until-december-2013
+http://reliefweb.int/report/lebanon/pcpm-extends-rental-assistance-syrian-refugees-lebanon-until-december-2013
+http://www.irishsun.com/index.php/sid/214912526/scat/88176adfdf246af5
+http://hosted.ap.org/dynamic/stories/E/EU_RUSSIA_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2013-05-31-07-36-18
+http://hosted.ap.org/dynamic/stories/E/EU_RUSSIA_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2013-05-31-07-36-18
+http://hosted.ap.org/dynamic/stories/E/EU_RUSSIA_SYRIA?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT&CTIME=2013-05-31-07-36-18
+http://www.montrealgazette.com/business/Protesters+Kyrgyzstan+unblock+Canadian+gold+mine+unrest/8466155/story.html
+http://www.montrealgazette.com/business/Protesters+Kyrgyzstan+unblock+Canadian+gold+mine+unrest/8466155/story.html
+http://www.montrealgazette.com/business/Protesters+Kyrgyzstan+unblock+Canadian+gold+mine+unrest/8466155/story.html
+BBC Monitoring
+BBC Monitoring
+BBC Monitoring
+BBC Monitoring
+BBC Monitoring
+BBC Monitoring
+BBC Monitoring
+http://www.islandpacket.com/2013/06/01/2525063/arab-drive-for-reform-seen-shifting.html
+http://www.bloomberg.com/news/2013-06-01/hagel-blames-china-for-cyber-attacks-while-pushing-talks.html
+http://www.globalsecurity.org/security/library/news/2013/06/sec-130601-voa01.htm
+http://www.globalsecurity.org/military/library/news/2013/06/mil-130601-dod01.htm
+http://www.globalsecurity.org/military/library/news/2013/06/mil-130601-dod01.htm
+http://www.thejakartapost.com/news/2013/06/01/asian-countries-told-build-strategic-trust-regional-peace.html
+BBC Monitoring
+http://www.fxempire.com/uncategorized/nearby-crude-oil-monthly-technical-analysis-for-june-2013/
+http://www.philippinetimes.com/index.php/sid/214908886/scat/2411cd3571b4f088
+http://www.10tv.com/content/stories/apexchange/2013/06/01/national-news-at-a-glance.html
+http://www.10tv.com/content/stories/apexchange/2013/06/01/national-news-at-a-glance.html
+http://www.10tv.com/content/stories/apexchange/2013/06/01/national-news-at-a-glance.html
+http://www.10tv.com/content/stories/apexchange/2013/06/01/national-news-at-a-glance.html
+http://www.startribune.com/nation/209785991.html
+http://www.sunherald.com/2013/06/01/4704543/south-mississippi-citizen-scientists.html
+http://www.boston.com/politicalintelligence/2013/05/30/gomez-adviser-implores-gop-donors-get-behind-candidate/qD1dOMzAcT2X1ePyuwgxkN/story.html
+http://www.latimes.com/news/nationworld/nation/la-na-gay-marriage-20130601,0,1850052.story?track=rss
+http://www.latimes.com/news/nationworld/nation/la-na-gay-marriage-20130601,0,1850052.story?track=rss
+http://www.prnewswire.com/news-releases/foresters-kaboom--volunteers-revitalize-charlotte-community-with-new-playground-209795261.html
+http://www.miamiherald.com/2013/06/01/3427878/congressman-joe-garcia-flawed.html
+http://www.bloomberg.com/news/2013-06-01/illinois-lawmakers-fumble-pension-fix-as-cost-rises.html
+http://www.bloomberg.com/news/2013-06-01/illinois-lawmakers-fumble-pension-fix-as-cost-rises.html
+http://news.yahoo.com/brawl-over-spilled-punch-kindergarten-graduation-ceremony-cleveland-204247729.html
+http://bigstory.ap.org/article/brawl-breaks-out-ohio-kindergarten-graduation
+http://www.seattlepi.com/news/crime/article/UK-police-Man-charged-in-UK-soldier-s-murder-4556738.php
+http://www.seattlepi.com/news/crime/article/UK-police-Man-charged-in-UK-soldier-s-murder-4556738.php
+http://www.newsday.com/news/world/alarm-grows-as-iraqi-forces-fail-to-stem-violence-1.5366877
+http://www.islandpacket.com/2013/06/01/2525063/arab-drive-for-reform-seen-shifting.html
+http://www.seattlepi.com/news/crime/article/Man-accused-of-killing-UK-soldier-appears-in-court-4560442.php
+http://cnsnews.com/news/article/ariz-mom-not-giving-mexico-despite-arrest
+http://cnsnews.com/news/article/radical-monks-prejudice-fuel-myanmar-violence
+http://cnsnews.com/news/article/radical-monks-prejudice-fuel-myanmar-violence
+http://www.seattlepi.com/news/world/article/Pakistani-Taliban-withdraw-peace-talks-offer-4559716.php
+http://www.seattlepi.com/news/world/article/Pakistani-Taliban-withdraw-peace-talks-offer-4559716.php
+http://www.foxnews.com/world/2013/06/01/death-toll-in-apartment-explosion-in-upscale-manila-district-rises-to-6/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fworld+%28Internal+-+World+Latest+-+Text%29
+http://cnsnews.com/news/article/gunmen-attack-central-prison-nigers-capital
+http://cnsnews.com/news/article/gunmen-attack-central-prison-nigers-capital
+http://cnsnews.com/news/article/gunmen-attack-central-prison-nigers-capital
+http://www.seattlepi.com/news/world/article/Syria-s-Assad-confident-in-victory-in-civil-war-4559804.php
+http://www.seattlepi.com/news/world/article/Syria-s-Assad-confident-in-victory-in-civil-war-4559804.php
+http://minnesota.publicradio.org/display/web/2013/06/01/politics/republican-versus-republican-in-covering-uninsured?refid=0&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+MPR_NewsFeatures+%28News+%26+Features+from+Minnesota+Public+Radio%29
+http://www.contracostatimes.com/breaking-news/ci_23369880/frightened-okla-residents-opt-flee-tornadoes?source=rss
+http://www.foxnews.com/us/2013/06/01/family-michigan-mother-killed-in-syria-left-relatives-in-dark-about-her-mideast/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+foxnews%2Fnational+%28Internal+-+US+Latest+-+Text%29
+http://news.yahoo.com/us-denies-mauritania-got-2-guantanamo-prisoners-161050486.html
+http://abcnews.go.com/International/wireStory/mauritania-receives-prisoners-guantanamo-19304431
+http://abcnews.go.com/International/wireStory/mauritania-receives-prisoners-guantanamo-19304431
+http://hosted.ap.org/dynamic/stories/U/US_THE_IRS?SITE=RIWOO&SECTION=HOME&TEMPLATE=DEFAULT
+http://cnsnews.com/news/article/family-mother-killed-syria-kept-many-secrets
+http://www.guardian.co.uk/world/feedarticle/10818442
+http://www.huffingtonpost.com/2013/06/01/hepatitis-a-outbreak_n_3373103.html
+http://thetandd.com/news/national/ill-passes-nation-s-toughest-fracking-regulations/article_848f514e-4b4b-5ea3-8bc6-57348ec40d5f.html
+http://cnsnews.com/news/article/frightened-okla-residents-opt-flee-tornadoes
+http://news.yahoo.com/pressing-needs-test-gops-smaller-government-stand-153003706.html
+http://thetandd.com/news/national/ill-passes-nation-s-toughest-fracking-regulations/article_848f514e-4b4b-5ea3-8bc6-57348ec40d5f.html
+http://www.edmontonjournal.com/news/Brawl+breaks+Venezuela+national+assembly+over+disputed/8318678/story.html
+http://www.edmontonjournal.com/news/Brawl+breaks+Venezuela+national+assembly+over+disputed/8318678/story.html
+http://opinionator.blogs.nytimes.com/2013/05/31/organizing-black-soldiers/?partner=rss&emc=rss
+http://opinionator.blogs.nytimes.com/2013/05/31/organizing-black-soldiers/?partner=rss&emc=rss
