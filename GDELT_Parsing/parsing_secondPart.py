@@ -4,10 +4,10 @@ import os
 import urllib.request
 import shutil
 
-parsedDirectory = "workingDir"
+parsedDirectory = "../data/DB_2"
 linksFileName = "allzips_with_url.txt"
 fileLength = sum(1 for line in open(linksFileName))
-wantedColumns = [0,1,7,17,26,30,31,32,33,34, 57]
+wantedColumns = [57]
 
 print("Welcome to the ultimate GDELT file downloader !")
 print("This program will now make a new DB based on GDELT but only with events who's code start with 2 or 7")
@@ -29,7 +29,7 @@ def parseZipFolder(fileName) :
 
     print("Parsing csv file...")
 
-    newFile = open("./" + parsedDirectory +"/" + fileName + ".csv", "w", encoding="utf8")
+    newFile = open(parsedDirectory +"/" + fileName + ".csv", "w", encoding="utf8")
 
     #For each csv file that has been extracted from the zip :
     for filename in glob.glob(os.path.join(fileName, '*.csv')):
@@ -40,7 +40,7 @@ def parseZipFolder(fileName) :
                 actor1 = split[7]
                 actor2 = split[17]
                 url = split[57]
-                if code == "02" or code == "07":
+                if code == "07":
                 	if actor1 and actor2 and url:
 	                    #Filter the results to have only interesting columns
 	                    columnsTable = line.split('\t')
