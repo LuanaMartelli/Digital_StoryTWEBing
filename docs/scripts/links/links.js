@@ -1,6 +1,6 @@
 var svgLinks = d3
   .select('#svglinks')
-  .attr('viewBox', '0 0 1400 800')
+  .attr('viewBox', '0 0 1000 600')
   .attr('preserveAspectRatio', 'xMidYMid slice')
 var lwidth = +svgLinks.attr('width')
 var lheight = +svgLinks.attr('height')
