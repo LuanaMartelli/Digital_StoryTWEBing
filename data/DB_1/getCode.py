@@ -6,7 +6,7 @@ import shutil
 
   
 
-newFile = open("./newspapers.csv", "w", encoding="utf8")
+newFile = open("./codes.csv", "w", encoding="utf8")
 newFile.write("code\n")
 
 #For each csv file :
