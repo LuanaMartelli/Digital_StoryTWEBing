@@ -1,117 +1,67 @@
 let svgCouples = d3.select('#svgcouples')
-let margin2 = { top: 20, right: 20, bottom: 30, left: 100 }
+let margin2 = { top: 20, right: 90, bottom: 30, left: 90 }
 let width2 = +svgCouples.attr('width') - margin2.left - margin2.right
 let height2 = +svgCouples.attr('height') - margin2.top - margin2.bottom
 let g2 = svgCouples.append('g').attr('transform', 'translate(' + margin2.left + ',' + margin2.top + ')')
 
-let tooltip2 = d3
-  .select('body')
-  .append('div')
-  .attr('class', 'toolTip')
 
-let x2 = d3
-  .scaleBand()
-  .rangeRound([0, width2])
-  .paddingInner(0.1)
-  .align(0.1)
+let x01 = d3.scaleBand()
+    .rangeRound([0, width2])
+    .paddingInner(0.1);
 
-let y2 = d3
-  .scaleLinear()
-  .rangeRound([height2, 0])
+let x2 = d3.scaleBand()
+    .padding(0.05);
 
-let z2 = d3
-  .scaleOrdinal()
-  .range(['#4682b4', '#e58a34'])
+let y2 = d3.scaleLinear()
+    .rangeRound([height2, 0]);
 
-d3.csv('scripts/couples/couples.csv', function (d, i, columns) {
-  let t = 0
-  for (i = 1; i < columns.length; ++i) t += d[columns[i]] = +d[columns[i]]
-  d.total = t
-  return d
-}, function (error, data) {
-  if (error) throw error
+let z2 = d3.scaleOrdinal()
+    .range(["#ff8c00", "#ff8c00"]);
 
-  let keys = data.columns.slice(1)
+d3.csv("scripts/couples/couples.csv", function(d, i, columns) {
 
-  data.sort(function (a, b) { return b.total - a.total })
-  x2.domain(data.map(function (d) { return d.Countries }))
-  y2.domain([0, d3.max(data, function (d) { return d.total })]).nice()
-  z2.domain(keys)
+  columns.sort(function (a, b) { return a.value - b.value })
 
-  g2
-    .append('g')
-    .selectAll('g')
-    .data(d3.stack().keys(keys)(data))
-    .enter().append('g')
-    .attr('fill', function (d) { return z2(d.key) })
-    .selectAll('rect')
-    .data(function (d) { return d })
-    .enter().append('rect')
-    .attr('x', function (d) { return x2(d.data.Countries) })
-    .attr('y', function (d) { return y2(d[1]) })
-    .attr('height', function (d) { return y2(d[0]) - y2(d[1]) })
-    .attr('width', x2.bandwidth())
+  for (let i = 1, n = columns.length; i < n; ++i) d[columns[i]] = +d[columns[i]];
+  return d;
+}, function(error, data) {
+  if (error) throw error;
 
-  g2
-    .append('g')
-    .attr('class', 'axis')
-    .attr('transform', 'translate(0,' + height2 + ')')
-    .call(d3.axisBottom(x2))
+  let keys = data.columns.slice(1);
 
-  g2
-    .append('g')
-    .attr('class', 'axis')
-    .call(d3.axisLeft(y2).ticks(null, 's'))
-    .append('text')
-    .attr('x', 2)
-    .attr('y', y2(y2.ticks().pop()) + 0.5)
-    .attr('dy', '0.32em')
-    .attr('fill', '#000')
-    .attr('font-weight', 'bold')
-    .attr('text-anchor', 'start')
-    .text('Helps')
+  x01.domain(data.map(function(d) { return d.countries; }));
+  x2.domain(keys).rangeRound([0, x01.bandwidth()]);
+  y2.domain([0, d3.max(data, function(d) { return d3.max(keys, function(key) { return d[key]; }); })]).nice();
 
-  let legend = g2
-    .append('g')
-    .attr('font-family', 'sans-serif')
-    .attr('font-size', 10)
-    .attr('text-anchor', 'end')
-    .selectAll('g')
-    .data(keys.slice().reverse())
-    .enter().append('g')
-    .attr('transform', function (d, i) { return 'translate(0,' + i * 20 + ')' })
-
-  g2
-    .selectAll('.bar')
+  g2.append("g")
+    .selectAll("g")
     .data(data)
-    .enter().append('rect')
-    .attr('class', 'bar')
-    .attr('x', 0)
-    //.attr('height', y2.bandwidth())
-    .attr('y', function (d) { return y2(d.Countries) })
-    //.attr('width', function (d) { return x(d.Country1-Country2) })
-    .on('mousemove', function (d) {
-      tooltip2
-        .style('left', d3.event.pageX + 10 + 'px')
-        .style('top', d3.event.pageY + 10 + 'px')
-        .style('display', 'inline-block') 
-        .style('visibility', 'visible')
-        .html((d3.format(',')(d.Countries) + ' news'))
-    })
-    .on('mouseout', function (d) { tooltip2.style('visibility', 'hidden') })
+    .enter().append("g")
+      .attr("transform", function(d) { return "translate(" + x01(d.countries) + ",0)"; })
+    .selectAll("rect")
+    .data(function(d) { return keys.map(function(key) { return {key: key, value: d[key]}; }); })
+    .enter().append("rect")
+      .attr("x", function(d) { return x2(d.key); })
+      .attr("y", function(d) { return y2(d.value); })
+      .attr("width", x2.bandwidth())
+      .attr("height", function(d) { return height2 - y2(d.value); })
+      .attr("fill", function(d) { return z2(d.key); });
 
+  g2.append("g")
+      .attr("class", "axis")
+      .attr("transform", "translate(0," + height2 + ")")
+      .call(d3.axisBottom(x01));
 
-  legend
-    .append('rect')
-    .attr('x', width2 - 19)
-    .attr('width', 19)
-    .attr('height', 19)
-    .attr('fill', z2)
+  g2.append("g")
+      .attr("class", "axis")
+      .call(d3.axisLeft(y2).ticks(null, "s"))
+    .append("text")
+      .attr("x", 2)
+      .attr("y", y2(y2.ticks().pop()) + 0.5)
+      .attr("dy", "0.32em")
+      .attr("fill", "#000")
+      .attr("font-weight", "bold")
+      .attr("text-anchor", "start")
+      .text("Population");
 
-  legend
-    .append('text')
-    .attr('x', width2 - 24)
-    .attr('y', 9.5)
-    .attr('dy', '0.32em')
-    .text(function (d) { return d })
-})
+});

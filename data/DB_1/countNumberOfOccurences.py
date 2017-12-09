@@ -16,7 +16,7 @@ with open("links.csv", "r", encoding="utf8") as f:
         if (previousLine == line):
             count = count + 1 
         else:
-            newFile.write("," + str(count) + "\n" + line)
+            newFile.write(str(count) + "," + line + "\n")
             previousLine = line
             count = 1
 

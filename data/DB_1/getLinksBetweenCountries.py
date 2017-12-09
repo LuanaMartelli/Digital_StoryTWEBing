@@ -17,7 +17,7 @@ for filename in glob.glob(os.path.join(".", '*.csv')):
             split = line.split("\t")
             actor1 = split[1]
             actor2 = split[2]
-        	newFile.write(actor1 + "," + actor2 + "\n")
+            newFile.write(actor1 + "," + actor2 + "\n")
 
 print("New file successfully created !")
 newFile.close()
