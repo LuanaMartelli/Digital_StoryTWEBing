@@ -222,6 +222,9 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
   padding-bottom: 40px;
   color: #999;
+  line-height: 26px;
+  font-size: 12px;
+  font-family: 'Droid Sans', serif; 
 }
 
 /* Introduction Section
@@ -295,6 +298,9 @@ h1, h2, h3, h4, h5, h6 {
 
 #about .about-container p {
   line-height: 26px;
+  font-size: 18px;
+  font-family: 'Droid Sans', serif; 
+  color: black;
 }
 
 #about .about-container p:last-child {
@@ -338,25 +344,6 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
 }
 
-/* Facts Section
---------------------------------*/
-#facts {
-  background: #fff;
-  padding: 80px 0 60px 0;
-}
-
-#facts .counters span {
-  font-size: 48px;
-  display: block;
-  color: #2dc997;
-}
-
-#facts .counters p {
-  padding: 0;
-  margin: 0 0 20px 0;
-  font-family: "Poppins", sans-serif;
-  font-size: 14px;
-}
 
 /* Services Section
 --------------------------------*/
