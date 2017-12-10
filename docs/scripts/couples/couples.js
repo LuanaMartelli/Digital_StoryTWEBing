@@ -12,6 +12,11 @@ let g2 = svgCouples
   .append('g')
   .attr('transform', 'translate(' + margin2.left + ',' + margin2.top + ')')
 
+let tooltip2 = d3
+  .select('body')
+  .append('div')
+  .attr('class', 'toolTipCouple')
+
 let x01 = d3
   .scaleBand()
   .rangeRound([0, width2])
@@ -87,6 +92,17 @@ d3.csv(
       .attr('fill', function(d) {
         return z2(d.key)
       })
+
+      g2
+      .selectAll('rect')
+      .on('mousemove', function (d) {
+      tooltip2
+        .style('left', d3.event.pageX + 10 + 'px')
+        .style('top', d3.event.pageY + 10 + 'px')
+        .html((d3.format(',')(d.value) + ' links'))
+        .style('visibility', 'visible')
+    })
+    .on('mouseout', function (d) { tooltip2.style('visibility', 'hidden') })
 
     g2
       .append('g')
