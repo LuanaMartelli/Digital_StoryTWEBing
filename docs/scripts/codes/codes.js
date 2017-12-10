@@ -35,7 +35,7 @@ var pie = d3.pie()
 
 var tooltip3 = g3.selectAll('path')
   .append('div')
-  .attr('class', 'toolTip')
+  .attr('class', 'toolTipCode')
 
 tooltip3.append('div')
   .attr('class', 'label')
@@ -50,6 +50,9 @@ d3.csv('scripts/codes/codes.csv', function (error, dataset) {
   if (error) {
     console.log(error)
   }
+
+  dataset.sort(function (a, b) { return a.value - b.value })
+
   dataset.forEach(function (d) {
     d.value = +d.value
   })
