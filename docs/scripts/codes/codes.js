@@ -4,36 +4,36 @@
  * @author Mika Pagani
  */
 
-var svgCodes = d3.select('#svgcodes')
-var width3 = +svgCodes.attr('width')
-var height3 = +svgCodes.attr('height')
-var radius = Math.min(width3, height3) / 2
-var donutWidth = 75
-var legendRectSize = 18
-var legendSpacing = 4
-var g3 = svgCodes
+let svgCodes = d3.select('#svgcodes')
+let width3 = +svgCodes.attr('width')
+let height3 = +svgCodes.attr('height')
+let radius = Math.min(width3, height3) / 2
+let donutWidth = 75
+let legendRectSize = 18
+let legendSpacing = 4
+let g3 = svgCodes
   .append('g')
   .attr('transform', 'translate(' + width3 / 2 + ',' + height3 / 2 + ')')
 
-var color = d3.scaleOrdinal([
+let color = d3.scaleOrdinal([
   '#e58a34',
+  '#003399',
+  '#99CCCC',
+  '#CCCCCC',
+  '#e52939',
   '#4682b4',
-  '#e58a34',
-  '#4682b4',
-  '#e58a34',
-  '#4682b4',
-  '#e58a34'
+  '#FF9933'
 ])
 
-var arc = d3.arc()
+let arc = d3.arc()
   .innerRadius(radius - donutWidth)
   .outerRadius(radius)
 
-var pie = d3.pie()
+let pie = d3.pie()
   .value(function (d) { return d.value })
   .sort(null)
 
-var tooltip3 = g3.selectAll('path')
+let tooltip3 = d3.selectAll('body')
   .append('div')
   .attr('class', 'toolTipCode')
 
@@ -66,11 +66,11 @@ d3.csv('scripts/codes/codes.csv', function (error, dataset) {
       return color(d.data.code)
     })
     .on('mousemove', function (d) {
-      var total = d3.sum(dataset.map(function(d) {
+      let total = d3.sum(dataset.map(function(d) {
       return d.value;                          
     }))                                 
-    var percent = Math.round(1000 * d.data.value / total) / 10
-    tooltip3  .select('.label').html(d.data.code)
+    let percent = Math.round(1000 * d.data.value / total) / 10
+    tooltip3.select('.label').html(d.data.code)
     tooltip3.select('.count').html(d.data.value)
     tooltip3.select('.percent').html(percent + '%')
     tooltip3.style('display', 'block');
@@ -82,16 +82,16 @@ d3.csv('scripts/codes/codes.csv', function (error, dataset) {
     tooltip3.style('display', 'none')
   })
 
-  var legend3 = g3.selectAll('.legend')
+  let legend3 = g3.selectAll('.legend')
     .data(color.domain())
     .enter()
     .append('g')
     .attr('class', 'legend')
     .attr('transform', function (d, i) {
-      var h = legendRectSize + legendSpacing
-      var offset = h * color.domain().length / 2
-      var horz = -2 * legendRectSize
-      var vert = i * h - offset
+      let h = legendRectSize + legendSpacing
+      let offset = h * color.domain().length / 2
+      let horz = -2 * legendRectSize
+      let vert = i * h - offset
       return 'translate(' + horz + ',' + vert + ')'
     })
 
