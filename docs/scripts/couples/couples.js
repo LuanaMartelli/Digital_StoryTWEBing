@@ -28,34 +28,33 @@ let y2 = d3.scaleLinear().rangeRound([height2, 0])
 
 let z2 = d3.scaleOrdinal().range(['#ff8c00', '#ff8c00'])
 
-d3.csv(
-  'scripts/couples/couples.csv',
+d3.csv('scripts/couples/couples.csv',
   function (d, i, columns) {
     columns.sort(function (a, b) {
       return a.value - b.value
-    });
+    })
 
     for (let i = 1, n = columns.length; i < n; ++i) {
-        d[columns[i]] = +d[columns[i]]
+      d[columns[i]] = +d[columns[i]]
     }
     return d
   },
-  function(error, data) {
-    if (error) throw error;
+  function (error, data) {
+    if (error) throw error
 
     let keys = data.columns.slice(1)
 
     x01.domain(
-      data.map(function(d) {
+      data.map(function (d) {
         return d.countries
       })
-    );
+    )
     x2.domain(keys).rangeRound([0, x01.bandwidth()])
     y2
       .domain([
         0,
-        d3.max(data, function(d) {
-          return d3.max(keys, function(key) {
+        d3.max(data, function (d) {
+          return d3.max(keys, function (key) {
             return d[key]
           })
         })
@@ -68,41 +67,43 @@ d3.csv(
       .data(data)
       .enter()
       .append('g')
-      .attr('transform', function(d) {
+      .attr('transform', function (d) {
         return 'translate(' + x01(d.countries) + ',0)'
       })
       .selectAll('rect')
-      .data(function(d) {
-        return keys.map(function(key) {
+      .data(function (d) {
+        return keys.map(function (key) {
           return { key: key, value: d[key] }
         })
       })
       .enter()
       .append('rect')
-      .attr('x', function(d) {
+      .attr('x', function (d) {
         return x2(d.key)
       })
-      .attr('y', function(d) {
+      .attr('y', function (d) {
         return y2(d.value)
       })
       .attr('width', x2.bandwidth())
-      .attr('height', function(d) {
+      .attr('height', function (d) {
         return height2 - y2(d.value)
       })
-      .attr('fill', function(d) {
+      .attr('fill', function (d) {
         return z2(d.key)
       })
 
-      g2
+    g2
       .selectAll('rect')
       .on('mousemove', function (d) {
-      tooltip2
-        .style('left', d3.event.pageX + 10 + 'px')
-        .style('top', d3.event.pageY + 10 + 'px')
-        .html((d3.format(',')(d.value) + ' links'))
-        .style('visibility', 'visible')
-    })
-    .on('mouseout', function (d) { tooltip2.style('visibility', 'hidden') })
+        tooltip2
+          .style('left', d3.event.pageX + 10 + 'px')
+          .style('top', d3.event.pageY + 10 + 'px')
+          .html(d3.format(',')(d.value) + ' links')
+          .style('visibility', 'visible')
+      })
+      .on('mouseout', function (d) {
+        tooltip2.style('visibility', 'hidden')
+      })
 
     g2
       .append('g')

@@ -45,7 +45,7 @@ def download_db(destination, links, columns):
                         code = split[28]
                         if code == "07":
                             #Filter the results to have only interesting columns
-                            
+
                             columns_table = line.split('\t')
                             new_line_table = [0] * len(columns)
                             tmp = 0
@@ -60,7 +60,6 @@ def download_db(destination, links, columns):
                                 result = "\t".join(new_line_table)
                                 result = result.rstrip("\n")
                                 new_file.write(result+"\n")
-                            
 
             print("New file successfully created at "+ new_file.name)
             new_file.close()
@@ -97,11 +96,12 @@ if not os.path.exists(DB2_LOCATION):
     os.makedirs(DB2_LOCATION)
     download_db(DB2_LOCATION, DB2_LINKS, WANTED_COLUMNS_DB2)
 
-#parse the files to create links.csv
-LINKS_FILE = open("../docs/scripts/links/links.csv", "w", encoding="utf8")
-#LINKS_FILE = open("./links.csv", "w", encoding="utf8")
+#Here in one loop we create the data for links, couples and codes
+#LINKS_FILE = open("../docs/scripts/links/links.csv", "w", encoding="utf8")
+LINKS_FILE = open("./links.csv", "w", encoding="utf8")
 LINKS_FILE.write("actorA,actorB\n")
-links_list = []
+LINKS_LIST = []
+CODES_LIST = [0]*6
 #For each csv file :
 for filename in glob.glob(os.path.join(DB1_LOCATION, '*.csv')):
     with open(filename, "r", encoding="utf8") as f:
@@ -110,42 +110,92 @@ for filename in glob.glob(os.path.join(DB1_LOCATION, '*.csv')):
             split = line.split("\t")
             actor1 = split[1]
             actor2 = split[2]
+
+            #Those two lines are for the codes.csv
+            code = split[3]
+            CODES_LIST[int(code[2:])] += 1
+
             if actor1 == actor2:
                 continue
             result = actor1 + "," + actor2
             index = -1
-            for i in range (0,len(links_list)):
-                if links_list[i][0] == result:
+            for i in range(0, len(LINKS_LIST)-1):
+                if LINKS_LIST[i][0] == result:
                     index = i
                     break
-            
-            if index == -1:
-                links_list.append([result, 1])
-            else:
-                links_list[index][1] = links_list[index][1] + 1
 
+            if index == -1:
+                LINKS_LIST.append([result, 1])
+            else:
+                LINKS_LIST[index][1] += 1
+
+INDEXES_TO_DEL = []
+for i in range(0, len(LINKS_LIST)-1):
+    for j in range(i, len(LINKS_LIST)-1):
+        if LINKS_LIST[i][0] == LINKS_LIST[j][0]:
+            print(str(LINKS_LIST[i][1]) +" "+ str(LINKS_LIST[j][1]))
+            INDEXES_TO_DEL.append(j)
+
+#Delete all unwanted couples
+for i in range(len(INDEXES_TO_DEL)-1, 0):
+    del LINKS_LIST[INDEXES_TO_DEL[i]]
+
+#Create links.csv
 print("Writing links.csv...")
-links_list.sort(key=lambda x: x[0])
-for i in range(0, len(links_list)):
-    LINKS_FILE.write(links_list[i][0]+"\n")
+LINKS_LIST.sort(key=lambda x: x[0])
+for i in range(0, len(LINKS_LIST)-1):
+    LINKS_FILE.write(LINKS_LIST[i][0]+"\n")
 
 print("links.csv successfully created !")
 LINKS_FILE.close()
 
-#parse links.csv file to create couples.csv
-COUPLES_FILE = open("../docs/scripts/couples/couples.csv", "w", encoding="utf8")
-#COUPLES_FILE = open("./couples.csv", "w", encoding="utf8")
+#Create couples.csv
+#COUPLES_FILE = open("../docs/scripts/couples/couples.csv", "w", encoding="utf8")
+COUPLES_FILE = open("./couples.csv", "w", encoding="utf8")
 print("Writing couples.csv...")
-COUPLES_FILE.write("countries,value")
-links_list = sorted(links_list, key=lambda x: x[1], reverse=True)
-for i in range(0, len(30)): #Just take the top 30
-    array = links_list[i][0]
-    array = array.replace(",","-")
-    COUPLES_FILE.write(array+","+str(links_list[i][1])+"\n")
+COUPLES_FILE.write("countries,value\n")
+INDEXES_TO_DEL = []
+#Delete B-A if A-B exists
+for i in range(0, len(LINKS_LIST)-1):
+    newarray = LINKS_LIST[i][0][-3:] + "," + LINKS_LIST[i][0][:3] #Creation of opposite
+    for j in range(i, len(LINKS_LIST)-1): #Parse the file to find opposite
+        if LINKS_LIST[j][0] == newarray:
+            LINKS_LIST[i][1] += LINKS_LIST[j][1]
+            INDEXES_TO_DEL.append(j)
+
+#Delete all unwanted couples
+for i in range(len(INDEXES_TO_DEL)-1, 0):
+    del LINKS_LIST[INDEXES_TO_DEL[i]]
+
+LINKS_LIST = sorted(LINKS_LIST, key=lambda x: x[1], reverse=True)
+for i in range(0, 25): #Just take the top 25
+    array = LINKS_LIST[i][0]
+    array = array.replace(",", "-")
+    COUPLES_FILE.write(array+","+str(LINKS_LIST[i][1])+"\n")
+print("couples.csv successfully created !")
 COUPLES_FILE.close()
 
 
-#parse the files to create codes.csv
+#Create codes.csv
+#CODES_FILE = open("./docs/scripts/codes/codes.csv", "w", encoding="utf8")
+CODES_FILE = open("../codes.csv", "w", encoding="utf8")
+print("Writing codes.csv...")
+CODES_FILE.write("code,value\n")
+
+CODES_LIST[0] = ["Not Specified", CODES_LIST[0]]
+CODES_LIST[1] = ["Economic", CODES_LIST[1]]
+CODES_LIST[2] = ["Military", CODES_LIST[2]]
+CODES_LIST[3] = ["Humanitarian", CODES_LIST[3]]
+CODES_LIST[4] = ["Peacekeeping", CODES_LIST[4]]
+CODES_LIST[5] = ["Grant asylum", CODES_LIST[5]]
+
+CODES_LIST = sorted(CODES_LIST, key=lambda x: x[1], reverse=True)
+
+for i in range(0, len(CODES_LIST)-1):
+    CODES_FILE.write(CODES_LIST[i][0]+","+str(CODES_LIST[i][1])+"\n")
+
+print("codes.csv successfully created !")
+CODES_FILE.close()
 
 #parse the files to create newspapers.csv
 
