@@ -1,9 +1,16 @@
+/**
+ * @summary Génère la carte du monde avec les liens trouves dans links.
+ * @author Luana Martelli
+ * @author Mika Pagani
+ */
+
+/* Defini la taille du canvas */
 var svgLinks = d3
   .select('#svglinks')
 var lwidth = +svgLinks.attr('width')
 var lheight = +svgLinks.attr('height')
 
-// Creation of Button
+/* Création du bouton Toggle */
 d3
   .select('#links_chart')
   .append('input')
@@ -14,7 +21,7 @@ d3
   .attr('onclick', 'toggleView()')
   .attr('class', 'links-button-in')
 
-// Creation of Label for Button
+/* Création du label du bouton */
 d3
   .select('#links_chart')
   .append('label')
@@ -24,36 +31,45 @@ d3
   .style('font-family', 'verdana')
   .style('padding', '10px 24px')
 
+/* Variable définissant l'état du bouton */
 var isHelping = true
 
-var projection = d3
-  .geoNaturalEarth1() // Choisi le type de projection du globe
+/* Création de la projection du globe */
+const projection = d3
+  .geoNaturalEarth1()
   .scale(220)
-  .translate([lwidth / 2, lheight / 2]) // Centre l'image
+  .translate([lwidth / 2, lheight / 2])
 
-var path = d3
-  .geoPath() // Gestionnaire de points et d'arcs
-  .pointRadius(2) // La taille des points des chaque pays
+/* Création du gestionnaire de points et d'arcs
+Définition de la taille des points
+Attribution du type de projection utilisé
+*/
+const path = d3
+  .geoPath()
+  .pointRadius(2)
   .projection(projection)
 
-var voronoi = d3.voronoi().extent([[-1, -1], [lwidth + 1, lheight + 1]]) // Défini la zone ou sera généré la grille de voronoi
-// Ici elle est générée de façon à être 1 plus grand sur touts les côtés
+/* Création du diagramme de Voronoi */
+const voronoi = d3.voronoi().extent([[-1, -1], [lwidth + 1, lheight + 1]])
 
+/* Chargement et traitement des données */
 d3
   .queue()
-  .defer(d3.json, 'scripts/links/world.json') // Lire le fichier
-  .defer(d3.csv, 'scripts/links/countries.csv', typeAirport) // Lire le fichier et passer par fonction
-  .defer(d3.csv, 'scripts/links/links.csv', typeFlight)
+  .defer(d3.json, 'scripts/links/world.json')
+  .defer(d3.csv, 'scripts/links/countries.csv', typeCountry)
+  .defer(d3.csv, 'scripts/links/links.csv', typeLink)
   .await(ready)
 
-// La fonction ready est lancée quand les 3 defers sont prêts
+/* Fonction de création du graphe, est lancée lorsque les fichiers sont chargés */
 function ready (error, world, countries, links) {
   if (error) throw error
 
+  /* Création d'une liste ayant pour éléments les pays et comme clef leur code ISO */
   var countryByCode = d3.map(countries, function (d) {
     return d.country
   })
 
+  /* Pour chaque lien existant, extraire les acteurs et l'ajouter aux arcs entrants et sortants */
   links.forEach(function (link) {
     var source = countryByCode.get(link.actorA)
     var target = countryByCode.get(link.actorB)
@@ -63,14 +79,14 @@ function ready (error, world, countries, links) {
     }
   })
 
-  // Dessine la carte
+  /* Ajout de la carte du monde au svg */
   svgLinks
     .insert('path', '.graticule')
     .datum(topojson.feature(world, world.objects.land))
     .attr('class', 'land')
     .attr('d', path)
 
-  // Dessine les frontières
+  /* Ajout des frontières au svg */
   svgLinks
     .insert('path', '.graticule')
     .datum(
@@ -81,13 +97,13 @@ function ready (error, world, countries, links) {
     .attr('class', 'boundary')
     .attr('d', path)
 
-  // Dessine les points des pays
+  /* Ajout des points des pays au svg */
   svgLinks
     .append('path')
     .attr('class', 'country-dots')
     .attr('d', path({ type: 'MultiPoint', coordinates: countries }))
 
-  // Rerpésente le tout
+  /* Ajout des données des pays au svg */
   var country = svgLinks
     .selectAll('.country')
     .data(countries)
@@ -95,27 +111,28 @@ function ready (error, world, countries, links) {
     .append('g')
     .attr('class', 'country')
 
-  // Tooltip de chaque pays
+  /* Création des tooltips */
   country.append('title').attr('id', 'description').text(function (d) {
-    return d.country + '\n' + d.arcs_out.coordinates.length + ' links';
+    return d.country + '\n' + d.arcs_out.coordinates.length + ' links'
   })
 
+  /* Ajout des chemins sortants au svg */
   country
     .append('path')
     .attr('class', 'country-arc-out')
-    // Les lignes sont toujours là mais c'est le CSS qui gère si il les affiche ou pas grâce à 'hover'
     .attr('d', function (d) {
       return path(d.arcs_out)
     })
 
+  /* Ajout des chemins entrants au svg */
   country
     .append('path')
     .attr('class', 'country-arc-in')
-    // Les lignes sont toujours là mais c'est le CSS qui gère si il les affiche ou pas grâce à 'hover'
     .attr('d', function (d) {
       return path(d.arcs_in)
     })
 
+  /* Création du diagramme de Voronoi des pays sur la projection actuelle */
   country
     .append('path')
     .data(voronoi.polygons(countries.map(projection)))
@@ -125,7 +142,8 @@ function ready (error, world, countries, links) {
     })
 }
 
-function typeAirport (d) {
+/* Crée un pays ayant pour caractéristique sa position et sa ses liens entrants et sortants */
+function typeCountry (d) {
   d[0] = +d.longitude
   d[1] = +d.latitude
   d.arcs_in = { type: 'MultiLineString', coordinates: [] }
@@ -133,11 +151,12 @@ function typeAirport (d) {
   return d
 }
 
-function typeFlight (d) {
+function typeLink (d) {
   d.count = +d.count
   return d
 }
 
+/* Fonction qui permet de transitionner entre la vue des arcs entrants et sortants */
 function toggleView () {
   isHelping = !isHelping
   if (isHelping) {
@@ -145,12 +164,12 @@ function toggleView () {
     d3.selectAll('.country-arc-out').style('display', 'inline')
     d3.select('#links_lbl').text('Selected country helps ...')
     d3.select('#links_bttn').attr('class', 'links-button-in')
-    d3.selectAll('#description').text(function (d) {return d.country + '\n' +d.arcs_out.coordinates.length + ' links'})
+    d3.selectAll('#description').text(function (d) { return d.country + '\n' + d.arcs_out.coordinates.length + ' links' })
   } else {
     d3.selectAll('.country-arc-in').style('display', 'inline')
     d3.selectAll('.country-arc-out').style('display', 'none')
     d3.select('#links_lbl').text('Selected country is helped by ...')
     d3.select('#links_bttn').attr('class', 'links-button-out')
-    d3.selectAll('#description').text(function (d) {return d.country + '\n' +d.arcs_in.coordinates.length + ' links'})
+    d3.selectAll('#description').text(function (d) { return d.country + '\n' + d.arcs_in.coordinates.length + ' links' })
   }
 }
