@@ -1,7 +1,5 @@
 var svgLinks = d3
   .select('#svglinks')
-  .attr('viewBox', '0 0 1000 600')
-  .attr('preserveAspectRatio', 'xMidYMid slice')
 var lwidth = +svgLinks.attr('width')
 var lheight = +svgLinks.attr('height')
 
@@ -30,7 +28,7 @@ var isHelping = true
 
 var projection = d3
   .geoNaturalEarth1() // Choisi le type de projection du globe
-  .scale(250)
+  .scale(220)
   .translate([lwidth / 2, lheight / 2]) // Centre l'image
 
 var path = d3
