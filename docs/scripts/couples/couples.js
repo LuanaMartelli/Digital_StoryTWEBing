@@ -105,6 +105,6 @@ d3.csv(
       .attr('fill', '#000')
       .attr('font-weight', 'bold')
       .attr('text-anchor', 'start')
-      .text('Population')
+      .text('Aid')
   }
 )
