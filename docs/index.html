@@ -23,11 +23,14 @@
 
   <!-- Main Stylesheet File -->
   <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine:bold,bolditalic|Inconsolata:italic|Droid+Sans">
+  <link href="//cdnjs.cloudflare.com/ajax/libs/normalize/3.0.1/normalize.min.css" rel="stylesheet" data-semver="3.0.1" data-require="normalize@*" />
+  <script data-require="d3@*" data-semver="3.4.6" src="//cdnjs.cloudflare.com/ajax/libs/d3/3.4.6/d3.min.js"></script>
   <link href="css/style.css" rel="stylesheet">
   <link href="css/links.css" rel="stylesheet">
   <link href="css/newspapers.css" rel="stylesheet">
   <link href="css/couples.css" rel="stylesheet">
   <link href="css/codes.css" rel="stylesheet">
+
 
   <!-- D3 lib -->
   <script src="https://d3js.org/d3.v4.min.js"></script>
@@ -63,8 +66,14 @@
             <h1 class="title">What you will be told about...</h1>
             <p>
                 If you check today's news, you will probably see things like "Trump tweeted something stupid again" or "a war as been declared". Generally, there are not a lof of good news in the actuality. So we thought it'd be nice, for once, to talk, not about countires making war, but countries helping each other. Help is to be understand in a very large sense. It could be an economic help, it could be help during a war and so on... 
-                <br><br>
-                To make our work, we uses a database that count a lot of articles from 1979 to 2016. They talk about anything, bu we selected articles that talked about a country helping another one. We downloaded a part of this database (from 2 TB we ended up with 500MB). If you wish to fork/clone our repo, you can go <a href="https://www.github.com/LuanaMartelli/Digital_StoryTWEBing">here</a>. Have a coffee while downloading, it will take a while :)
+            </p>
+                <div style="display: flex; justify-content: center;">
+                  <img src="img/Help1.jpg" width="250" height="200"></a>
+                </div>
+                <br>
+            <p>
+                To make our work, we uses a database that count a lot of articles from 1979 to 2016. They talk about anything, but we selected articles that talked about a country helping another one. We downloaded a little part of this database (from 2 TB we ended up with 500 MB). We parsed the data we needed with scripts. They are all avaliable on our repository.
+                If you wish to fork/clone our repo, you can go <a href="https://www.github.com/LuanaMartelli/Digital_StoryTWEBing">here</a>. Have a coffee while downloading, it may take a while :)
                 <br><br>
                 Enjoy our story !   
             </p>
@@ -84,13 +93,11 @@
             <div class="content order-lg-1 order-2">
               <h2 class="title">Who talks the more about help ?</h2>
               <p>
-                Let's see first who's the more optimistic. Here are the 30 newspapers which have been the more cited. Most of them, as we can see, are english-speaking. 
-                - most of the top here is english-speaking 
-                - first one is a web provider -> internet is the king (USA)
-                - USA / UK / Africa
-                - probably, over representation of America, english-speaking news
+                Let's see first who's the more optimistic. There were thoudands and thousands of newspapers and websites downloaded. At first, we wanted to put them all but it made the site crash (obvisously). So we decided to get only the most represented. Here are the 30 newspapers which have been the more cited. Most of them, as we can see, are english-speaking. Most of them come from England or USA. It's also interesting to note that the first provider (and from far) is a website. A little surprise on this chart : the third newspaper is an African website. We were surprised. 
                 <br><br>
-                All these infos has been taken from January 2013 to December 2016. 
+                For the following chart and with what we see, we expect to see a lot of english-speaking countries heping the world.
+                <br><br>
+                All these infos have been taken from January 2013 to December 2016. Before that, the database did not write down the sources.
               </p>
               <meta charset="utf-8">
               <svg id="svgnewspapers" width="900" height="600"></svg>
@@ -109,9 +116,12 @@
         <div class="row about-container">
           <div class="wow fadeInUp"> 
             <div class="content order-lg-1 order-2">
-              <h2 class="title">Links</h2>
+              <h2 class="title">That's nice, but, concretely...</h2>
               <p>
-                You can change the graph if you plug the Toogle button. You will see which countries where helped by the country you selected, or which countries helped the country. 
+                Yeah, we are coming to the main point. In the chart below, you can select a country and see which other countries it helped or by which other countries it was helped. To perform this magic trick, you can simply press the Toogle button the chart.
+                Note that for some countries, it seems that they did not help anyone or did not get any help. That's not because they are selfish, but, as wee see previously, the data come generally from USA or England, so little countries could have been forgotten. Moreover, some countries were grouped as continent, so now they do not appear here.
+                <br><br>
+                But now you can have a global idea of how much love there is in this world. 
               </p>
               <meta charset="utf-8">
             <div id="links_chart">
@@ -132,10 +142,13 @@
         <div class="row about-container">
           <div class="wow fadeInUp"> 
             <div class="content order-lg-1 order-2">
-              <h2 class="title">Couples</h2>
+              <h2 class="title">Amazing ! Can we be more specified ? </h2>
               <p>
-                Blabla - TODO GRAPH FOM HTML TO JS Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                The relationship USA-UZB was initally coming first with 499261 links. But due to the size of the graph, we removed it. 
+                Of course we can ! 
+                <br><br>
+                Here, we have the the top 25 of aid between countries. Why only 25 ? Same reason as before, with more data, impossible to load the page. Anyway, that was expected : USA is a really helpfull country ! Sepcial mention to our country, which was really helped by Canada over the last years... 
+                <br><br>
+                Note that this chart is not exactly correct : we omitted the first couple, because it was over represented and it made our graph looks really bad. Can you guess which countries it is ? Of course, it's something like USA helps someone. Yes but who's that someone ? You give up ? With 499'261 articles, the winner is USA - Uzbekistan. You did not expect that, did you ? Well, us neither. But since the fall of the communism and until the middle of the 2000s, these two were having good relations.
               </p>
               <meta charset="utf-8">
             <div>
@@ -143,7 +156,6 @@
               <script src="scripts/couples/couples.js" type="text/javascript"></script>
             </div>
           </div>
-
       </div>
     </section><!-- #couples -->
 
@@ -156,19 +168,18 @@
         <div class="row about-container">
           <div class="wow fadeInUp"> 
             <div class="content order-lg-1 order-2">
-              <h2 class="title">Codes</h2>
+              <h2 class="title">You keep talking about aid, which is nice, but what kind of aid is it ? </h2>
               <p>
-                Blabla - TODO GRAPH FOM HTML TO JS Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                That's a good question. Since a lot of data did not have source, most of the aid provided is not specified. But here, you can see a little chart with what we could get. Basically, there are two big categories : economic and military. We were expecting that. To go further, it could be interesting to see, by country, what can of aid it provides and to whom. That will be for an other story. 
               </p>
               <meta charset="utf-8">
             <div>
-              <svg id="svgcodes" width="960" height="500"></svg>
+              <svg id="svgcodes" width="360" height="360"></svg>
               <script src="scripts/codes/codes.js" type="text/javascript"></script>
             </div>
           </div>
-
       </div>
-    </section><!-- #couples -->
+    </section><!-- #codes -->
 
 
 
@@ -180,9 +191,11 @@
         <div class="row about-container">
           <div class="wow fadeInUp"> 
             <div class="content order-lg-1 order-2">
-              <h2 class="title">To sum up...</h2>
+              <h2 class="title">Thanks, now I am more confident about the world. So if we sum up...</h2>
               <p>
-                So, what did we learn ? World isn't going that bad... or at least, there is still some hope. 
+                Well, yeah, let's sum up. What did we learn ? World isn't going that bad after all... or at least, there is still some hope. Also, now you know where Uzbekistan is and if you are tired of the newspapers you normally read, you can find others with different subjects. 
+                <br><br>
+                So this is the end of our story, continue scrolling for the credits. 
               </p>
           </div>
 
