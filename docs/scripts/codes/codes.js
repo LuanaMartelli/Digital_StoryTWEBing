@@ -16,12 +16,12 @@ let g3 = svgCodes
   .attr('transform', 'translate(' + width3 / 2 + ',' + height3 / 2 + ')')
 
 let color = d3.scaleOrdinal([
-  '#e58a34',
-  '#003399',
-  '#99CCCC',
-  '#CCCCCC',
-  '#e52939',
-  '#4682b4',
+  '#BB3962',
+  '#E83540',
+  '#EEBA46',
+  '#A1D254',
+  '#56AFCE',
+  '#825292',
   '#FF9933'
 ])
 
