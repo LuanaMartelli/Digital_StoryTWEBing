@@ -1,3 +1,6 @@
+"""
+This programm will download all data from GDELT, parse it and then delete the unecessary files
+"""
 import zipfile
 import glob
 import os
@@ -36,7 +39,7 @@ def download_db(destination, links, columns):
 
             #For each csv file that has been extracted from the zip :
             for filename in glob.glob(os.path.join(file_name, '*.csv')):
-                with open(filename, encoding="utf8") as write_file:
+                with open(filename, "r", encoding="utf8") as write_file:
                     for line in write_file:
                         split = line.split("\t")
                         code = split[28]
@@ -80,19 +83,75 @@ WANTED_COLUMNS_DB2 = [57]
 
 print("Welcome to the ultimate GDELT file downloader !")
 print("This program will now make a two new DB based on GDELT")
-print(
-    "The first one will be about all the links between the contries and their codes"
-)
+print("The first one will be about all the links between the contries and their codes")
 print("The second one will be about all the newspapers")
+print("When finished the DBs will be parsed and distributed in their needed places")
+print("And the two uneeded DB will be deleted")
 print("Let's get started !")
 
 #create Working Directory if doesn't exists
 if not os.path.exists(DB1_LOCATION):
     os.makedirs(DB1_LOCATION)
+    download_db(DB1_LOCATION, DB1_LINKS, WANTED_COLUMNS_DB1)
 if not os.path.exists(DB2_LOCATION):
     os.makedirs(DB2_LOCATION)
+    download_db(DB2_LOCATION, DB2_LINKS, WANTED_COLUMNS_DB2)
 
-download_db(DB1_LOCATION, DB1_LINKS, WANTED_COLUMNS_DB1)
-download_db(DB2_LOCATION, DB2_LINKS, WANTED_COLUMNS_DB2)
+#parse the files to create links.csv
+LINKS_FILE = open("../docs/scripts/links/links.csv", "w", encoding="utf8")
+#LINKS_FILE = open("./links.csv", "w", encoding="utf8")
+LINKS_FILE.write("actorA,actorB\n")
+links_list = []
+#For each csv file :
+for filename in glob.glob(os.path.join(DB1_LOCATION, '*.csv')):
+    with open(filename, "r", encoding="utf8") as f:
+        print(f.name)
+        for line in f:
+            split = line.split("\t")
+            actor1 = split[1]
+            actor2 = split[2]
+            if actor1 == actor2:
+                continue
+            result = actor1 + "," + actor2
+            index = -1
+            for i in range (0,len(links_list)):
+                if links_list[i][0] == result:
+                    index = i
+                    break
+            
+            if index == -1:
+                links_list.append([result, 1])
+            else:
+                links_list[index][1] = links_list[index][1] + 1
+
+print("Writing links.csv...")
+links_list.sort(key=lambda x: x[0])
+for i in range(0, len(links_list)):
+    LINKS_FILE.write(links_list[i][0]+"\n")
+
+print("links.csv successfully created !")
+LINKS_FILE.close()
+
+#parse links.csv file to create couples.csv
+COUPLES_FILE = open("../docs/scripts/couples/couples.csv", "w", encoding="utf8")
+#COUPLES_FILE = open("./couples.csv", "w", encoding="utf8")
+print("Writing couples.csv...")
+COUPLES_FILE.write("countries,value")
+links_list = sorted(links_list, key=lambda x: x[1], reverse=True)
+for i in range(0, len(30)): #Just take the top 30
+    array = links_list[i][0]
+    array = array.replace(",","-")
+    COUPLES_FILE.write(array+","+str(links_list[i][1])+"\n")
+COUPLES_FILE.close()
+
+
+#parse the files to create codes.csv
+
+#parse the files to create newspapers.csv
+
+#delete the now uneeded DB1 and DB2
+#shutil.rmtree(DB1_LOCATION)
+#shutil.rmtree(DB2_LOCATION)
+
 
 print("Program successfully terminated ! Congratulations !")
