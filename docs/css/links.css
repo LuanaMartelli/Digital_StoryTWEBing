@@ -26,8 +26,6 @@
 
 .country-cell {
   fill: none;
-  stroke: #000;
-  stroke-opacity: 0.1;
   pointer-events: all;
 }
 
